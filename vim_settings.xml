@@ -28,11 +28,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/peAndYields/peAndYields_provider.js" timestamp="1557390905946">
-        <mark key="[" line="8" column="13" />
-        <mark key="]" line="8" column="24" />
-        <mark key="." line="8" column="24" />
-        <mark key="^" line="8" column="24" />
+      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/peAndYields/peAndYields_provider.js" timestamp="1557392735350">
+        <mark key="[" line="33" column="98" />
+        <mark key="]" line="33" column="98" />
+        <mark key="." line="33" column="98" />
+        <mark key="^" line="31" column="30" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Treasury/content/etfLaggards.js" timestamp="1556852775578">
         <mark key="[" line="1" column="0" />
@@ -87,7 +87,7 @@
         <mark key="^" line="20" column="95" />
         <mark key="." line="20" column="95" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/PEYield/components/NotesAndBondsTableFull.js" timestamp="1557388751250">
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/PEYield/components/NotesAndBondsTableFull.js" timestamp="1557392616691">
         <mark key="]" line="38" column="55" />
         <mark key="^" line="38" column="55" />
         <mark key="." line="38" column="55" />
@@ -167,6 +167,12 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/peAndYields/test/peAndYields-test.js" timestamp="1557392819351">
+        <mark key="[" line="4" column="10" />
+        <mark key="]" line="4" column="11" />
+        <mark key="." line="4" column="11" />
+        <mark key="^" line="4" column="11" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/TreasuryInflationProtectedSecurities/components/TreasurySecuritiesTableFullMobile.js" timestamp="1557288391787">
         <mark key="[" line="1" column="60" />
@@ -342,10 +348,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>TreasuryNotesAndBonds</text>
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>TreasuryNotesAndBonds</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
@@ -354,57 +360,31 @@
         <text encoding="base64">IHsKICAgICJwYXRoIjogIi9tYXJrZXQtZGF0YS90cmVhc3VyeSIsCiAgICAidHlwZSI6ICJwYWdlX2RhdGEiLAogICAgInBhY2thZ2VOYW1lIjogIk1EQy93c2ovdHJlYXN1cnkiCiAgfQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAnRE9XJzogJ1RyZWFzdXJ5QmlsbHMnLAo=</text>
+        <text encoding="base64">ICAgICAgaW5kZXhUeXBlOiAnTk9URVNfQU5EX0JPTkRTJwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAnRE9XJzogJ1RyZWFzdXJ5QmlsbHMnLAo=</text>
+        <text encoding="base64">ICAgICAgaW5kZXhUeXBlOiAnTk9URVNfQU5EX0JPTkRTJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAnTk9URVNfQU5EX0JPTkRTJzogJ1RyZWFzdXJ5Tm90ZXNBbmRCb25kcycK</text>
+        <text encoding="base64">ICAgIGluc3RydW1lbnQubmFtZSA9IEZvcm1hdHRlci5mb3JtYXRUb01hbnRpc3NhKGluc3RydW1lbnQuYXNrLCAyKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAnQklMTFMnOiAnVHJlYXN1cnlCaWxscycsCg==</text>
+        <text encoding="base64">ICAnRE9XJzogJ1RyZWFzdXJ5QmlsbHMnLAo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CmZ1bmN0aW9uIGlzTmlsKHZhbHVlKSB7CiAgcmV0dXJuIHZhbHVlID09PSBudWxsIHx8IHZhbHVlID09PSB1bmRlZmluZWQ7Cn0=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAnRE9XJzogJ1RyZWFzdXJ5QmlsbHMnLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAnTk9URVNfQU5EX0JPTkRTJzogJ1RyZWFzdXJ5Tm90ZXNBbmRCb25kcycK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgTk9USElORyA9ICduLmEnOwo=</text>
+        <text encoding="base64">ICAnQklMTFMnOiAnVHJlYXN1cnlCaWxscycsCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICwK</text>
+      <register name="8" type="4">
+        <text encoding="base64">CmZ1bmN0aW9uIGlzTmlsKHZhbHVlKSB7CiAgcmV0dXJuIHZhbHVlID09PSBudWxsIHx8IHZhbHVlID09PSB1bmRlZmluZWQ7Cn0=</text>
       </register>
-      <register name="9" type="4">
-        <text>'displayFields': [
-      {
-        'value': 'formattedMaturityDate',
-        'label': 'Maturity'
-      },
-      {
-        'value': 'formattedCoupon',
-        'label': 'Coupon'
-      },
-      {
-        'value': 'formattedBid',
-        'label': 'Bid'
-      },
-      {
-        'value': 'formattedAsk',
-        'label': 'Asked'
-      },
-      {
-        'value': 'formattedChange',
-        'label': 'Chg',
-        'isDisplayedInColor': true
-      },
-      {
-        'value': 'formattedAskYld',
-        'label': 'Asked yield'
-      }
-    ]</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/&quot;/'/g</text>

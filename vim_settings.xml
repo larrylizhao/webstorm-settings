@@ -152,7 +152,7 @@
         <mark key="." line="30" column="0" />
         <mark key="^" line="28" column="52" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/PEYield/components/BillsTableFull.js" timestamp="1557458449448">
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/PEYield/components/BillsTableFull.js" timestamp="1557459283785">
         <mark key="[" line="8" column="6" />
         <mark key="]" line="8" column="5" />
         <mark key="^" line="8" column="5" />
@@ -169,12 +169,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/peAndYields/test/peAndYields-test.js" timestamp="1557458466124">
-        <mark key="'" line="163" column="251" />
-        <mark key="[" line="9" column="6" />
-        <mark key="]" line="110" column="79" />
-        <mark key="^" line="110" column="79" />
-        <mark key="." line="110" column="79" />
+      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/peAndYields/test/peAndYields-test.js" timestamp="1557459288018">
+        <mark key="'" line="112" column="80" />
+        <mark key="[" line="122" column="60" />
+        <mark key="]" line="122" column="64" />
+        <mark key="^" line="122" column="64" />
+        <mark key="." line="122" column="64" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/TreasuryInflationProtectedSecurities/components/TreasurySecuritiesTableFullMobile.js" timestamp="1557288391787">
         <mark key="[" line="1" column="60" />
@@ -339,19 +339,26 @@
       <jump line="25" column="135" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/TreasuryInflationProtectedSecurities/presentation/Index/16u.js" />
       <jump line="164" column="273" filename="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/peAndYields/test/peAndYields-test.js" />
       <jump line="165" column="251" filename="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/peAndYields/test/peAndYields-test.js" />
+      <jump line="145" column="173" filename="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/peAndYields/test/peAndYields-test.js" />
+      <jump line="129" column="150" filename="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/peAndYields/test/peAndYields-test.js" />
+      <jump line="122" column="64" filename="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/peAndYields/test/peAndYields-test.js" />
+      <jump line="126" column="0" filename="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/peAndYields/test/peAndYields-test.js" />
+      <jump line="128" column="173" filename="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/peAndYields/test/peAndYields-test.js" />
+      <jump line="111" column="153" filename="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/peAndYields/test/peAndYields-test.js" />
+      <jump line="112" column="80" filename="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/peAndYields/test/peAndYields-test.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>treasuryP</text>
+        <text>25.19</text>
       </register>
       <register name="-" type="4">
-        <text>treasuryP</text>
+        <text>25.19</text>
       </register>
       <register name="/" type="4">
-        <text>&quot;</text>
+        <text>priceEarningsRatio52WeekAgo</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">IHsKICAgICJwYXRoIjogIi9tYXJrZXQtZGF0YS90cmVhc3VyeSIsCiAgICAidHlwZSI6ICJwYWdlX2RhdGEiLAogICAgInBhY2thZ2VOYW1lIjogIk1EQy93c2ovdHJlYXN1cnkiCiAgfQ==</text>
+        <text>21.25</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">IG1hbnRpc3NhRm9ybWF0dGVyLndpdGhBcmdzKCdEb3cgSm9uZXMgSW5kdXN0cmlhbCBBdmVyYWdlJykucmV0dXJucygnRG93IEpvbmVzIEluZHVzdHJpYWwgQXZlcmFnZScpOwogICAgbWFudGlzc2FGb3JtYXR0ZXIud2l0aEFyZ3MoJ05BU0RBUSAxMDAgSW5kZXgnKS5yZXR1cm5zKCdOQVNEQVEgMTAwIEluZGV4Jyk7</text>
@@ -385,9 +392,9 @@
       </register>
     </registers>
     <search>
-      <last-search>&quot;</last-search>
+      <last-search>priceEarningsRatio52WeekAgo</last-search>
       <last-offset />
-      <last-pattern>&quot;</last-pattern>
+      <last-pattern>priceEarningsRatio52WeekAgo</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -395,7 +402,6 @@
     </search>
     <history>
       <history-search>
-        <entry>first</entry>
         <entry>head</entry>
         <entry>geturl</entry>
         <entry>talk</entry>
@@ -415,6 +421,7 @@
         <entry>ETF Movers</entry>
         <entry>table</entry>
         <entry>&quot;</entry>
+        <entry>priceEarningsRatio52WeekAgo</entry>
       </history-search>
       <history-cmd>
         <entry>%s/MutualFundsAndEtfs/Treasury/g</entry>

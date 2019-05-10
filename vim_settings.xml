@@ -37,6 +37,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/PEYields/components/PEYieldsBreadcrumbsMobile.js" timestamp="1557478472025">
+        <mark key="[" line="4" column="52" />
+        <mark key="]" line="4" column="52" />
+        <mark key="." line="4" column="52" />
+        <mark key="^" line="4" column="27" />
+      </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/TreasuryInflationProtectedSecurities/presentation/Index/blocks/index.js" timestamp="1557218089154">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -276,10 +282,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>NotesAndBondsTableFull</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>NotesAndBondsTableFull</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>priceEarningsRatio52WeekAgo</text>

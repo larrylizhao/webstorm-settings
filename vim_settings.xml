@@ -26,6 +26,12 @@
         <mark key="^" line="31" column="30" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/PEYields/components/index.js" timestamp="1557468953429" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/PEYields/components/OtherIndexesTableFullMobile.js" timestamp="1557470272803">
+        <mark key="[" line="1" column="57" />
+        <mark key="]" line="1" column="53" />
+        <mark key="^" line="1" column="53" />
+        <mark key="." line="1" column="53" />
+      </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Treasury/content/etfLaggards.js" timestamp="1556852775578">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -71,6 +77,12 @@
         <mark key="]" line="4" column="20" />
         <mark key="." line="4" column="20" />
         <mark key="^" line="6" column="27" />
+      </file>
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/PEYields/components/DowJonesTableFullMobile.js" timestamp="1557470249291">
+        <mark key="[" line="1" column="33" />
+        <mark key="]" line="1" column="51" />
+        <mark key="." line="1" column="51" />
+        <mark key="^" line="1" column="51" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/package.json" timestamp="1557365912535">
         <mark key="[" line="53" column="0" />
@@ -263,10 +275,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Treasury</text>
+        <text>NotesAndBondsTableFull</text>
       </register>
       <register name="-" type="4">
-        <text>Treasury</text>
+        <text>NotesAndBondsTableFull</text>
       </register>
       <register name="/" type="4">
         <text>priceEarningsRatio52WeekAgo</text>

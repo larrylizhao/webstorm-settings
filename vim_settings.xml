@@ -98,6 +98,12 @@
         <mark key="]" line="6" column="25" />
         <mark key="." line="6" column="25" />
       </file>
+      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/treasurySecuritiesProvider/treasury_securities_provider.js" timestamp="1557807194367">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="^" line="33" column="65" />
+        <mark key="." line="42" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/clientDataProvider/index.js" timestamp="1557804939805">
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
@@ -114,6 +120,12 @@
         <mark key="]" line="38" column="28" />
         <mark key="." line="38" column="28" />
         <mark key="^" line="38" column="28" />
+      </file>
+      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/treasury/treasury_provider.js" timestamp="1557807156097">
+        <mark key="[" line="33" column="33" />
+        <mark key="]" line="33" column="132" />
+        <mark key="^" line="33" column="132" />
+        <mark key="." line="33" column="132" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/PEYield/components/NotesAndBondsTableFull.js" timestamp="1557393785873">
         <mark key="[" line="18" column="34" />
@@ -149,6 +161,12 @@
         <mark key="." line="1" column="51" />
         <mark key="^" line="1" column="51" />
       </file>
+      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/treasury/test/treasury-test.js" timestamp="1557807119101">
+        <mark key="[" line="159" column="66" />
+        <mark key="]" line="159" column="66" />
+        <mark key="." line="159" column="66" />
+        <mark key="^" line="159" column="69" />
+      </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/package.json" timestamp="1557479649637">
         <mark key="[" line="52" column="0" />
         <mark key="]" line="52" column="0" />
@@ -170,17 +188,16 @@
         <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/dataTypes.js" timestamp="1557394806035">
-        <mark key="[" line="77" column="7" />
-        <mark key="]" line="77" column="17" />
-        <mark key="^" line="77" column="17" />
-        <mark key="." line="77" column="17" />
+        <mark key="[" line="78" column="7" />
+        <mark key="]" line="78" column="17" />
+        <mark key="^" line="78" column="17" />
+        <mark key="." line="78" column="17" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/TreasuryInflationProtectedSecurities/presentation/Index/8u.js" timestamp="1557281650809">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/PEYields/components/DowJonesTableFull.js" timestamp="1557805396145" />
       <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/peAndYields/test/treasury-test.js" timestamp="1557389009611">
         <mark key="[" line="20" column="40" />
         <mark key="]" line="20" column="59" />
@@ -300,11 +317,11 @@
       <jump line="112" column="80" filename="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/peAndYields/test/peAndYields-test.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICdsaW5rb3V0TW9kVGFnJzogewogICAgICAnY29tcG9uZW50JzogJ21vdmVyc19xdW90ZScKICAgIH0=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>{ 'text': 'Treasury bill bid and ask data are representative over-the-counter quotations as of 3pm Eastern time quoted as a discount to face value. Treasury bill yields are to maturity and based on the asked quote.' },</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>priceEarningsRatio52WeekAgo</text>
@@ -316,32 +333,32 @@
     &quot;packageName&quot;: &quot;MDC/wsj/treasurySecurities&quot;
   }</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgICdsaW5rb3V0TW9kVGFnJzogewogICAgICAnY29tcG9uZW50JzogJ21vdmVyc19xdW90ZScKICAgIH0=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICBjYXNlICdtZGNfdHJlYXN1cnlTZWN1cml0aWVzX2NsaWVudCc6Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICBjYXNlICdtZGNfdHJlYXN1cnlfY2xpZW50JzoK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
-      </register>
-      <register name="5" type="2">
+      <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">PT09PT09PQogICAgImRhdGEtcHJvdmlkZXIiOiAiMC40LjE4NCIsCj4+Pj4+Pj4gb3JpZ2luL21hc3Rlcg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgZXhwZWN0KG1vZGVsLmluc3RydW1lbnRzWzFdLmZvcm1hdHRlZE1hdHVyaXR5RGF0ZSkudG8uZXF1YWwoJ24uYScpOwo=</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgICdsaW5rb3V0TW9kVGFnJzogewogICAgICAnY29tcG9uZW50JzogJ21vdmVyc19xdW90ZScKICAgIH0=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBjYXNlICdtZGNfdHJlYXN1cnlTZWN1cml0aWVzX2NsaWVudCc6Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBjYXNlICdtZGNfdHJlYXN1cnlfY2xpZW50JzoK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAnVHJlYXN1cnknOiBjb3B5KHJlcXVpcmUoJy4uL1BFWWllbGRzL2NvbXBvbmVudHMnKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgY29udGVudCA9IHJlcXVpcmUoJy4uLy4uL2NvbnRlbnQnKTsK</text>
+      <register name="8" type="4">
+        <text encoding="base64">PT09PT09PQogICAgImRhdGEtcHJvdmlkZXIiOiAiMC40LjE4NCIsCj4+Pj4+Pj4gb3JpZ2luL21hc3Rlcg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICwK</text>
+        <text encoding="base64">ICAnVHJlYXN1cnknOiBjb3B5KHJlcXVpcmUoJy4uL1BFWWllbGRzL2NvbXBvbmVudHMnKSkK</text>
       </register>
       <register name=":" type="4">
         <text>%s/&quot;/'/g</text>

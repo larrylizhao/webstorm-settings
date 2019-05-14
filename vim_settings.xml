@@ -59,10 +59,21 @@
         <mark key="^" line="44" column="27" />
         <mark key="." line="44" column="27" />
       </file>
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/wsj/bond_benchmark/pageData.json" timestamp="1557819312745">
+        <mark key="[" line="6" column="12" />
+        <mark key="]" line="8" column="24" />
+        <mark key="." line="8" column="24" />
+        <mark key="^" line="8" column="24" />
+      </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/TreasuryInflationProtectedSecurities/presentation/Index/blocks/index.js" timestamp="1557218089154">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/wsj/bond_benchmark/index.js" timestamp="1557819316457">
+        <mark key="[" line="2" column="31" />
+        <mark key="]" line="2" column="31" />
+        <mark key="." line="2" column="31" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/wsj/PEYields/index.js" timestamp="1557460921326">
         <mark key="[" line="2" column="31" />
@@ -144,10 +155,10 @@
         <mark key="." line="4" column="20" />
         <mark key="^" line="6" column="27" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routes/routeConfig.json" timestamp="1557461666667">
-        <mark key="[" line="282" column="30" />
-        <mark key="]" line="282" column="31" />
-        <mark key="." line="282" column="31" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routes/routeConfig.json" timestamp="1557819130674">
+        <mark key="[" line="289" column="28" />
+        <mark key="]" line="289" column="28" />
+        <mark key="." line="289" column="28" />
         <mark key="^" line="282" column="31" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Treasury/content/treasuryBills.js" timestamp="1557804897837">
@@ -324,10 +335,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>l</text>
+        <text>PEYields</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>PEYields</text>
       </register>
       <register name="/" type="4">
         <text>priceEarningsRatio52WeekAgo</text>

@@ -170,7 +170,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/mdc/PresentationalComponents/Table/TableLinkOut/index.js" timestamp="1557907897509" />
+      <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/mdc/PresentationalComponents/Table/TableLinkOut/index.js" timestamp="1557908697117">
+        <mark key="[" line="24" column="43" />
+        <mark key="]" line="24" column="43" />
+        <mark key="." line="24" column="43" />
+      </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/BondBenchmark/content/bondBenchmark.js" timestamp="1557892470225">
         <mark key="[" line="6" column="17" />
         <mark key="]" line="6" column="17" />
@@ -278,10 +282,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>treasurySecurities</text>
+        <text>window</text>
       </register>
       <register name="-" type="4">
-        <text>treasurySecurities</text>
+        <text>window</text>
       </register>
       <register name="/" type="4">
         <text>diary</text>

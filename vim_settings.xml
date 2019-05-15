@@ -8,7 +8,7 @@
         <mark key="]" line="5" column="3" />
         <mark key="." line="5" column="3" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/marketsDiary/processDiaries.js" timestamp="1557893580633" />
+      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/marketsDiary/processDiaries.js" timestamp="1557903043503" />
       <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/bondBenchmark/bond_benchmark_provider.js" timestamp="1557893061732">
         <mark key="[" line="12" column="27" />
         <mark key="]" line="25" column="0" />
@@ -31,6 +31,11 @@
         <mark key="." line="4" column="52" />
         <mark key="^" line="4" column="27" />
       </file>
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/TreasuryInflationProtectedSecurities/components/TreasurySecuritiesTableFullMobile.js" timestamp="1557288391787">
+        <mark key="[" line="1" column="60" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/wsj/bond_benchmark/pageData.json" timestamp="1557819312745">
         <mark key="[" line="6" column="12" />
         <mark key="]" line="8" column="24" />
@@ -49,78 +54,11 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/marketsDiary/markets_diary_provider.js" timestamp="1557892935218" />
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Components/index.js" timestamp="1557825696019">
-        <mark key="[" line="107" column="36" />
-        <mark key="]" line="107" column="48" />
-        <mark key="." line="107" column="48" />
-        <mark key="^" line="107" column="48" />
-      </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/BondBenchmark/content/index.js" timestamp="1557825200037" />
-      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/mdcIndex.js" timestamp="1557892876483">
-        <mark key="'" line="14" column="89" />
-        <mark key="[" line="41" column="46" />
-        <mark key="]" line="42" column="31" />
-        <mark key="^" line="42" column="31" />
-        <mark key="." line="42" column="31" />
-      </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/PEYield/components/NotesAndBondsTableFull.js" timestamp="1557393785873">
-        <mark key="[" line="18" column="34" />
-        <mark key="]" line="18" column="34" />
-        <mark key="." line="18" column="34" />
-      </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Treasury/content/treasuryBills.js" timestamp="1557804897837">
-        <mark key="[" line="6" column="25" />
-        <mark key="]" line="6" column="25" />
-        <mark key="." line="6" column="25" />
-      </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/package.json" timestamp="1557890564978">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/PEYield/components/NotesAndBondsTableFullMobile.js" timestamp="1557388661534">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/PEYields/presentation/Index/4u.js" timestamp="1557469560526">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/TreasuryInflationProtectedSecurities/presentation/Index/8u.js" timestamp="1557281650809">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/mdc/PresentationalComponents/Table/TableNotes/spec.js" timestamp="1557884907951" />
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/components/MarketsDiaryOverview.js" timestamp="1557821271714" />
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/TreasuryInflationProtectedSecurities/presentation/Index/12u.js" timestamp="1557218374053">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/mdc/PresentationalComponents/Table/index.js" timestamp="1557884942755" />
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/PEYields/components/TreasuryBreadcrumbsMobile.js" timestamp="1557461808970">
-        <mark key="[" line="4" column="55" />
-        <mark key="]" line="4" column="55" />
-        <mark key="." line="4" column="55" />
-      </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/presentation/us/index/16u.js" timestamp="1557821234598" />
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/TreasuryInflationProtectedSecurities/components/TreasurySecuritiesTableFullMobile.js" timestamp="1557288391787">
-        <mark key="[" line="1" column="60" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/mdc/Table/index.js" timestamp="1557900582655" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/wsj/bond_benchmark/index.js" timestamp="1557819316457">
         <mark key="[" line="2" column="31" />
         <mark key="]" line="2" column="31" />
         <mark key="." line="2" column="31" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/BondBenchmark/presentation/Index/4u.js" timestamp="1557892434788" />
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/BondBenchmark/presentation/Index/16u.js" timestamp="1557825222763" />
       <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/bondBenchmark/test/bond_benchmark-test.js" timestamp="1557890833439">
         <mark key="[" line="20" column="45" />
         <mark key="]" line="21" column="32" />
@@ -131,6 +69,12 @@
         <mark key="[" line="4" column="53" />
         <mark key="]" line="4" column="53" />
         <mark key="." line="4" column="53" />
+      </file>
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Components/index.js" timestamp="1557825696019">
+        <mark key="[" line="107" column="36" />
+        <mark key="]" line="107" column="48" />
+        <mark key="." line="107" column="48" />
+        <mark key="^" line="107" column="48" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Treasury/components/NotesAndBondsTableFull.js" timestamp="1557805493349">
         <mark key="[" line="39" column="0" />
@@ -158,18 +102,34 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/mdc/PresentationalComponents/Table/TableNotes/index.js" timestamp="1557884886332" />
       <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/mdc/GlobalStyles/wsj/WSJTables.css" timestamp="1557885126916">
         <mark key="[" line="50" column="1" />
         <mark key="]" line="54" column="19" />
         <mark key="^" line="54" column="19" />
         <mark key="." line="54" column="19" />
       </file>
+      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/mdcIndex.js" timestamp="1557892876483">
+        <mark key="'" line="14" column="89" />
+        <mark key="[" line="41" column="46" />
+        <mark key="]" line="42" column="31" />
+        <mark key="^" line="42" column="31" />
+        <mark key="." line="42" column="31" />
+      </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/BondBenchmark/components/BondBenchmarkBreadcrumbs.js" timestamp="1557885900546">
         <mark key="[" line="5" column="17" />
         <mark key="]" line="5" column="69" />
         <mark key="." line="5" column="69" />
         <mark key="^" line="5" column="69" />
+      </file>
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/PEYield/components/NotesAndBondsTableFull.js" timestamp="1557393785873">
+        <mark key="[" line="18" column="34" />
+        <mark key="]" line="18" column="34" />
+        <mark key="." line="18" column="34" />
+      </file>
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Treasury/content/treasuryBills.js" timestamp="1557804897837">
+        <mark key="[" line="6" column="25" />
+        <mark key="]" line="6" column="25" />
+        <mark key="." line="6" column="25" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routes/routeConfig.json" timestamp="1557885836611">
         <mark key="[" line="289" column="28" />
@@ -182,10 +142,30 @@
         <mark key="]" line="4" column="54" />
         <mark key="." line="4" column="54" />
       </file>
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/package.json" timestamp="1557890564978">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/PEYield/components/NotesAndBondsTableFullMobile.js" timestamp="1557388661534">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Treasury/components/BillsTableFull.js" timestamp="1557805504429">
         <mark key="[" line="33" column="6" />
         <mark key="]" line="33" column="6" />
         <mark key="." line="33" column="6" />
+      </file>
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/PEYields/presentation/Index/4u.js" timestamp="1557469560526">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/TreasuryInflationProtectedSecurities/presentation/Index/8u.js" timestamp="1557281650809">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/BondBenchmark/content/bondBenchmark.js" timestamp="1557892470225">
         <mark key="[" line="6" column="17" />
@@ -196,6 +176,16 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/TreasuryInflationProtectedSecurities/presentation/Index/12u.js" timestamp="1557218374053">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/PEYields/components/TreasuryBreadcrumbsMobile.js" timestamp="1557461808970">
+        <mark key="[" line="4" column="55" />
+        <mark key="]" line="4" column="55" />
+        <mark key="." line="4" column="55" />
       </file>
     </filemarks>
     <jumps>

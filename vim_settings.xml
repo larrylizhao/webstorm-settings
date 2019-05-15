@@ -45,12 +45,12 @@
         <mark key="." line="8" column="24" />
         <mark key="^" line="8" column="24" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/BondBenchmark/components/BondBenchmarkTableFull.js" timestamp="1557826211301">
-        <mark key="'" line="44" column="20" />
-        <mark key="[" line="59" column="85" />
-        <mark key="]" line="59" column="85" />
-        <mark key="." line="59" column="85" />
-        <mark key="^" line="59" column="85" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/BondBenchmark/components/BondBenchmarkTableFull.js" timestamp="1557884981904">
+        <mark key="'" line="12" column="20" />
+        <mark key="[" line="59" column="45" />
+        <mark key="]" line="59" column="46" />
+        <mark key="." line="59" column="46" />
+        <mark key="^" line="59" column="54" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/wsj/PEYields/index.js" timestamp="1557460921326">
         <mark key="[" line="2" column="31" />
@@ -95,6 +95,7 @@
         <mark key="^" line="78" column="17" />
         <mark key="." line="78" column="17" />
       </file>
+      <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/mdc/PresentationalComponents/Table/TableNotes/spec.js" timestamp="1557884907951" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/components/MarketsDiaryOverview.js" timestamp="1557821271714" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/PEYield/components/BillsTableFull.js" timestamp="1557460697436">
         <mark key="[" line="8" column="6" />
@@ -108,10 +109,9 @@
         <mark key="." line="16" column="26" />
         <mark key="^" line="16" column="26" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Treasury/components/NotesAndBondsTableFullMobile.js" timestamp="1557805575190">
-        <mark key="[" line="2" column="14" />
-      </file>
+      <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/mdc/PresentationalComponents/Table/index.js" timestamp="1557884942755" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/presentation/us/index/16u.js" timestamp="1557821234598" />
+      <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/mdc/Table/index.js" timestamp="1557884739598" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/wsj/bond_benchmark/index.js" timestamp="1557819316457">
         <mark key="[" line="2" column="31" />
         <mark key="]" line="2" column="31" />
@@ -136,6 +136,13 @@
         <mark key="]" line="42" column="0" />
         <mark key="^" line="33" column="65" />
         <mark key="." line="42" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/mdc/PresentationalComponents/Table/TableNotes/index.js" timestamp="1557884886332" />
+      <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/mdc/GlobalStyles/wsj/WSJTables.css" timestamp="1557885126916">
+        <mark key="[" line="50" column="1" />
+        <mark key="]" line="54" column="19" />
+        <mark key="^" line="54" column="19" />
+        <mark key="." line="54" column="19" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/PEYields/components/BillsTableFull.js" timestamp="1557468570107">
         <mark key="[" line="39" column="39" />
@@ -260,16 +267,17 @@
       <jump line="111" column="153" filename="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/peAndYields/test/peAndYields-test.js" />
       <jump line="112" column="80" filename="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/peAndYields/test/peAndYields-test.js" />
       <jump line="44" column="20" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/BondBenchmark/components/BondBenchmarkTableFull.js" />
+      <jump line="12" column="20" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/BondBenchmark/components/BondBenchmarkTableFull.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text encoding="base64">dHJlYXN1cnkgaW5mbGF0aW9uLXByb3RlY3RlZCBzZWN1cml0aWVzIA==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">dHJlYXN1cnkgaW5mbGF0aW9uLXByb3RlY3RlZCBzZWN1cml0aWVzIA==</text>
       </register>
       <register name="/" type="4">
-        <text>priceEarningsRatio52WeekAgo</text>
+        <text>caption</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAnUEVZaWVsZHMnOiBjb3B5KHJlcXVpcmUoJy4uL1BFWWllbGRzL2NvbXBvbmVudHMnKSkK</text>
@@ -306,9 +314,9 @@
       </register>
     </registers>
     <search>
-      <last-search>priceEarningsRatio52WeekAgo</last-search>
+      <last-search>caption</last-search>
       <last-offset />
-      <last-pattern>priceEarningsRatio52WeekAgo</last-pattern>
+      <last-pattern>caption</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -316,7 +324,6 @@
     </search>
     <history>
       <history-search>
-        <entry>head</entry>
         <entry>geturl</entry>
         <entry>talk</entry>
         <entry>TALK</entry>
@@ -333,9 +340,10 @@
         <entry>EtfMoversBreadcrumbsMobile</entry>
         <entry>%s</entry>
         <entry>ETF Movers</entry>
-        <entry>table</entry>
         <entry>&quot;</entry>
         <entry>priceEarningsRatio52WeekAgo</entry>
+        <entry>table</entry>
+        <entry>caption</entry>
       </history-search>
       <history-cmd>
         <entry>%s/MutualFundsAndEtfs/Treasury/g</entry>

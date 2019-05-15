@@ -8,6 +8,13 @@
         <mark key="]" line="5" column="3" />
         <mark key="." line="5" column="3" />
       </file>
+      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/marketsDiary/processDiaries.js" timestamp="1557893580633" />
+      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/bondBenchmark/bond_benchmark_provider.js" timestamp="1557893061732">
+        <mark key="[" line="12" column="27" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="25" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/TreasuryInflationProtectedSecurities/content/index.js" timestamp="1557218069891">
         <mark key="[" line="1" column="59" />
         <mark key="]" line="2" column="0" />
@@ -42,6 +49,7 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/marketsDiary/markets_diary_provider.js" timestamp="1557892935218" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Components/index.js" timestamp="1557825696019">
         <mark key="[" line="107" column="36" />
         <mark key="]" line="107" column="48" />
@@ -49,6 +57,13 @@
         <mark key="^" line="107" column="48" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/BondBenchmark/content/index.js" timestamp="1557825200037" />
+      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/mdcIndex.js" timestamp="1557892876483">
+        <mark key="'" line="14" column="89" />
+        <mark key="[" line="41" column="46" />
+        <mark key="]" line="42" column="31" />
+        <mark key="^" line="42" column="31" />
+        <mark key="." line="42" column="31" />
+      </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/PEYield/components/NotesAndBondsTableFull.js" timestamp="1557393785873">
         <mark key="[" line="18" column="34" />
         <mark key="]" line="18" column="34" />
@@ -98,13 +113,13 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/mdc/Table/index.js" timestamp="1557884739598" />
+      <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/mdc/Table/index.js" timestamp="1557893590747" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/wsj/bond_benchmark/index.js" timestamp="1557819316457">
         <mark key="[" line="2" column="31" />
         <mark key="]" line="2" column="31" />
         <mark key="." line="2" column="31" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/BondBenchmark/presentation/Index/4u.js" timestamp="1557825192865" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/BondBenchmark/presentation/Index/4u.js" timestamp="1557892434788" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/BondBenchmark/presentation/Index/16u.js" timestamp="1557825222763" />
       <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/bondBenchmark/test/bond_benchmark-test.js" timestamp="1557890833439">
         <mark key="[" line="20" column="45" />
@@ -172,7 +187,7 @@
         <mark key="]" line="33" column="6" />
         <mark key="." line="33" column="6" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/BondBenchmark/content/bondBenchmark.js" timestamp="1557825147134">
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/BondBenchmark/content/bondBenchmark.js" timestamp="1557892470225">
         <mark key="[" line="6" column="17" />
         <mark key="]" line="6" column="17" />
         <mark key="." line="6" column="17" />
@@ -265,16 +280,17 @@
       <jump line="112" column="80" filename="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/peAndYields/test/peAndYields-test.js" />
       <jump line="44" column="20" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/BondBenchmark/components/BondBenchmarkTableFull.js" />
       <jump line="12" column="20" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/BondBenchmark/components/BondBenchmarkTableFull.js" />
+      <jump line="14" column="89" filename="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/mdcIndex.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>treasurySecuritiesProvider</text>
+        <text>treasurySecurities</text>
       </register>
       <register name="-" type="4">
-        <text>treasurySecuritiesProvider</text>
+        <text>treasurySecurities</text>
       </register>
       <register name="/" type="4">
-        <text>caption</text>
+        <text>diary</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAnUEVZaWVsZHMnOiBjb3B5KHJlcXVpcmUoJy4uL1BFWWllbGRzL2NvbXBvbmVudHMnKSkK</text>
@@ -311,9 +327,9 @@
       </register>
     </registers>
     <search>
-      <last-search>caption</last-search>
+      <last-search>diary</last-search>
       <last-offset />
-      <last-pattern>caption</last-pattern>
+      <last-pattern>diary</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -321,9 +337,6 @@
     </search>
     <history>
       <history-search>
-        <entry>geturl</entry>
-        <entry>talk</entry>
-        <entry>TALK</entry>
         <entry>videocenter</entry>
         <entry>\cvideocenter</entry>
         <entry>COLLECTION_BY_EDITION</entry>
@@ -341,6 +354,9 @@
         <entry>priceEarningsRatio52WeekAgo</entry>
         <entry>table</entry>
         <entry>caption</entry>
+        <entry>markets_dairy</entry>
+        <entry>dairy</entry>
+        <entry>diary</entry>
       </history-search>
       <history-cmd>
         <entry>%s/MutualFundsAndEtfs/Treasury/g</entry>

@@ -17,6 +17,7 @@
       <file name="/fragment.js" timestamp="1557982333313">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Currencies/components/ExchangeRatesTable.js" timestamp="1557995545804" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/TreasuryInflationProtectedSecurities/content/index.js" timestamp="1557218069891">
         <mark key="[" line="1" column="59" />
         <mark key="]" line="2" column="0" />
@@ -44,13 +45,6 @@
         <mark key="." line="8" column="24" />
         <mark key="^" line="8" column="24" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/BondBenchmark/components/BondBenchmarkTableFull.js" timestamp="1557885808722">
-        <mark key="'" line="12" column="20" />
-        <mark key="[" line="59" column="45" />
-        <mark key="]" line="59" column="46" />
-        <mark key="." line="59" column="46" />
-        <mark key="^" line="59" column="54" />
-      </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/TreasuryInflationProtectedSecurities/presentation/Index/blocks/index.js" timestamp="1557218089154">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -67,6 +61,7 @@
         <mark key="." line="21" column="32" />
         <mark key="^" line="21" column="32" />
       </file>
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/wsj/currencies_exchangerates/index.js" timestamp="1557995510856" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/TreasuryInflationProtectedSecurities/components/TreasuryBreadcrumbsMobile.js" timestamp="1557886024150">
         <mark key="[" line="4" column="53" />
         <mark key="]" line="4" column="53" />
@@ -90,7 +85,7 @@
         <mark key="." line="188" column="70" />
         <mark key="^" line="188" column="70" />
       </file>
-      <file name="/JavaScript Console" timestamp="1557983930769">
+      <file name="/JavaScript Console" timestamp="1557996635727">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Treasury/content/treasuryNotesAndBonds.js" timestamp="1557804904374">
@@ -114,7 +109,7 @@
         <mark key="^" line="54" column="19" />
         <mark key="." line="54" column="19" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/mdcIndex.js" timestamp="1557892876483">
+      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/mdcIndex.js" timestamp="1557996106576">
         <mark key="'" line="14" column="89" />
         <mark key="[" line="41" column="46" />
         <mark key="]" line="42" column="31" />
@@ -138,7 +133,8 @@
         <mark key="]" line="6" column="25" />
         <mark key="." line="6" column="25" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routes/routeConfig.json" timestamp="1557885836611">
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routes/routeConfig.json" timestamp="1557995505419">
+        <mark key="'" line="289" column="37" />
         <mark key="[" line="289" column="28" />
         <mark key="]" line="289" column="28" />
         <mark key="." line="289" column="28" />
@@ -178,6 +174,7 @@
         <mark key="]" line="24" column="43" />
         <mark key="." line="24" column="43" />
       </file>
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Currencies/content/exchangeRates.js" timestamp="1557995516245" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/BondBenchmark/content/bondBenchmark.js" timestamp="1557892470225">
         <mark key="[" line="6" column="17" />
         <mark key="]" line="6" column="17" />
@@ -286,6 +283,7 @@
       <jump line="44" column="20" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/BondBenchmark/components/BondBenchmarkTableFull.js" />
       <jump line="12" column="20" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/BondBenchmark/components/BondBenchmarkTableFull.js" />
       <jump line="14" column="89" filename="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/mdcIndex.js" />
+      <jump line="289" column="37" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routes/routeConfig.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -295,7 +293,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>diary</text>
+        <text>currenc</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAnUEVZaWVsZHMnOiBjb3B5KHJlcXVpcmUoJy4uL1BFWWllbGRzL2NvbXBvbmVudHMnKSkK</text>
@@ -332,9 +330,9 @@
       </register>
     </registers>
     <search>
-      <last-search>diary</last-search>
+      <last-search>currenc</last-search>
       <last-offset />
-      <last-pattern>diary</last-pattern>
+      <last-pattern>currenc</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -342,7 +340,6 @@
     </search>
     <history>
       <history-search>
-        <entry>videocenter</entry>
         <entry>\cvideocenter</entry>
         <entry>COLLECTION_BY_EDITION</entry>
         <entry>\ccoming</entry>
@@ -362,6 +359,7 @@
         <entry>markets_dairy</entry>
         <entry>dairy</entry>
         <entry>diary</entry>
+        <entry>currenc</entry>
       </history-search>
       <history-cmd>
         <entry>%s/MutualFundsAndEtfs/Treasury/g</entry>

@@ -45,11 +45,11 @@
         <mark key="]" line="24" column="43" />
         <mark key="." line="24" column="43" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/marketsDiary/processOverview.js" timestamp="1558000054486">
-        <mark key="[" line="11" column="38" />
-        <mark key="]" line="31" column="0" />
-        <mark key="^" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/marketsDiary/processOverview.js" timestamp="1558066341111">
+        <mark key="[" line="25" column="42" />
+        <mark key="]" line="25" column="42" />
+        <mark key="^" line="25" column="42" />
+        <mark key="." line="25" column="42" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/node_modules/data-provider/lib/mdc/marketsDiary/processOverview.js" timestamp="1557984026768" />
       <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/mdc/PresentationalComponents/Table/TableHead/index.js" timestamp="1557998503084" />
@@ -147,10 +147,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>index</text>
+        <text>log</text>
       </register>
       <register name="-" type="4">
-        <text>index</text>
+        <text>log</text>
       </register>
       <register name="/" type="4">
         <text>currenc</text>

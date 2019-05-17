@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/mdc/Table/dataStory.js" timestamp="1558070252373" />
       <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/mdcIndex.js" timestamp="1557996106576">
         <mark key="'" line="14" column="89" />
         <mark key="[" line="41" column="46" />
@@ -30,11 +31,11 @@
       <file name="/JavaScript Console" timestamp="1558067977919">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/marketsDiary/processOverview.js" timestamp="1558068380815">
-        <mark key="[" line="25" column="32" />
-        <mark key="]" line="25" column="55" />
-        <mark key="^" line="25" column="55" />
-        <mark key="." line="25" column="55" />
+      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/marketsDiary/processOverview.js" timestamp="1558069480609">
+        <mark key="[" line="14" column="38" />
+        <mark key="]" line="14" column="71" />
+        <mark key="^" line="14" column="71" />
+        <mark key="." line="14" column="71" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/bondBenchmark/processBondBenchmark.js" timestamp="1557999374965">
         <mark key="[" line="37" column="14" />

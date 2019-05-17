@@ -3,21 +3,26 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/mdc/Table/dataStory.js" timestamp="1558070252373" />
+      <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/mdc/Table/dataStory.js" timestamp="1558070446529">
+        <mark key="[" line="87" column="7" />
+        <mark key="]" line="87" column="7" />
+        <mark key="^" line="2" column="30" />
+        <mark key="." line="87" column="7" />
+      </file>
+      <file name="/fragment.js" timestamp="1558068103923">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/marketsDiary/markets_diary_provider.js" timestamp="1558068305783" />
+      <file name="/JavaScript Console" timestamp="1558067977919">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/wsj/SlimlineHeader/dataStory.js" timestamp="1558070354892" />
       <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/mdcIndex.js" timestamp="1557996106576">
         <mark key="'" line="14" column="89" />
         <mark key="[" line="41" column="46" />
         <mark key="]" line="42" column="31" />
         <mark key="^" line="42" column="31" />
         <mark key="." line="42" column="31" />
-      </file>
-      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/bondBenchmark/bond_benchmark_provider.js" timestamp="1557913552135">
-        <mark key="]" line="2" column="62" />
-        <mark key="." line="2" column="62" />
-        <mark key="^" line="2" column="62" />
-      </file>
-      <file name="/fragment.js" timestamp="1558068103923">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/treasury/treasury_provider.js" timestamp="1558068363435" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routes/routeConfig.json" timestamp="1557995505419">
@@ -27,10 +32,7 @@
         <mark key="." line="289" column="28" />
         <mark key="^" line="282" column="31" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/marketsDiary/markets_diary_provider.js" timestamp="1558068305783" />
-      <file name="/JavaScript Console" timestamp="1558067977919">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/components/MarketsDiaryOverview.js" timestamp="1558071024642" />
       <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/marketsDiary/processOverview.js" timestamp="1558069480609">
         <mark key="[" line="14" column="38" />
         <mark key="]" line="14" column="71" />
@@ -131,10 +133,13 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>log</text>
+        <text>,
+      context: {
+        showShareTools: true,
+      }</text>
       </register>
       <register name="-" type="4">
-        <text>log</text>
+        <text>Slimline Article Tools</text>
       </register>
       <register name="/" type="4">
         <text>currenc</text>
@@ -143,31 +148,34 @@
         <text encoding="base64">ICAnUEVZaWVsZHMnOiBjb3B5KHJlcXVpcmUoJy4uL1BFWWllbGRzL2NvbXBvbmVudHMnKSkK</text>
       </register>
       <register name="1" type="4">
+        <text>,
+      context: {
+        showShareTools: true,
+      }</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">IGhhc1NoYXJlVG9vbHM6IHRydWUsCiAgICAgICAgbWFzdGhlYWRPbmx5OiBmYWxzZSwKICAgICAgICBhdXRob3I6ICdNZW5kZWwgS29uaWtvdicsCiAgICAgICAgZGVzY3JpcHRpb246ICdUaGlzIGlzIGFuIGF3ZXNvbWUgc3RvcnkgYWJvdXQgbWUnLAogICAgICAgIGhlYWRsaW5lOiAnVGhpcyBpcyBhbiBhd2Vzb21lIHN0b3J5JywKICAgICAgICBpbWFnZTogJ2h0dHBzOi8vaW1hZ2VzLndzai5uZXQvaW0tNDQ0NTI/d2lkdGg9MTEwJmhlaWdodD03MycsCiAgICAgICAgdXNlckVtYWlsOiAnbUBkai5jb20n</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">CmZ1bmN0aW9uIHByb2Nlc3NCb25kQmVuY2htYXJrKG1vZGVsKSB7CiAgbW9kZWwudGltZXN0YW1wID0gRm9ybWF0dGVyLmZvcm1hdFRpbWVzdGFtcFRvV2Vla1VTRWFzdChtb2RlbC50aW1lc3RhbXApOwoKICBtb2RlbC5pbnN0cnVtZW50cy5mb3JFYWNoKGluc3RydW1lbnQgPT4gewogICAgaW5zdHJ1bWVudC5mb3JtYXR0ZWRBc2sgPSBGb3JtYXR0ZXIuZm9ybWF0VG9NYW50aXNzYShpbnN0cnVtZW50LmFzaywgMik7CiAgICBpbnN0cnVtZW50LmZvcm1hdHRlZFlsZCA9IEZvcm1hdHRlci5mb3JtYXRUb01hbnRpc3NhKGluc3RydW1lbnQueWllbGQsIDIpOwogICAgaW5zdHJ1bWVudC5mb3JtYXR0ZWRCaWQgPSBGb3JtYXR0ZXIuZm9ybWF0VG9NYW50aXNzYShpbnN0cnVtZW50LmJpZCwgMik7CiAgICBpbnN0cnVtZW50LmZvcm1hdHRlZENoYW5nZSA9IGlzTmlsKGluc3RydW1lbnQuY2hhbmdlKSA/IG51bGwgOiBGb3JtYXR0ZXIuZm9ybWF0VG9NYW50aXNzYShpbnN0cnVtZW50LmNoYW5nZS5yZXBsYWNlKCcrJywgJycpLCAyKTsKICAgIGluc3RydW1lbnQuZm9ybWF0dGVkTWF0dXJpdHlEYXRlID0gaW5zdHJ1bWVudC5tYXR1cml0eURhdGU7CiAgICBpbnN0cnVtZW50LmZvcm1hdHRlZENvdXBvbiA9IEZvcm1hdHRlci5mb3JtYXRUb01hbnRpc3NhKGluc3RydW1lbnQuY291cG9uLCAyKTsKICAgIGluc3RydW1lbnQuZm9ybWF0dGVkQWNjcnVlZFByaW5jaXBhbCA9IEZvcm1hdHRlci5mb3JtYXRUb01hbnRpc3NhKGluc3RydW1lbnQuYWNjcnVlZFByaW5jaXBhbCwgMik7CiAgfSk7CgogIHJldHVybiBtb2RlbDsKfQoKZnVuY3Rpb24gaXNOaWwodmFsdWUpIHsKICByZXR1cm4gdmFsdWUgPT09IG51bGwgfHwgdmFsdWUgPT09IHVuZGVmaW5lZDsKfQo=</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vbWFzdGVyCg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAiZGF0YS1wcm92aWRlciI6ICIwLjQuMTg5IiwKPT09PT09PQ==</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICdkCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZXhwZWN0KG1vZGVsLmluc3RydW1lbnRzWzFdLmZvcm1hdHRlZE1hdHVyaXR5RGF0ZSkudG8uZXF1YWwoJ24uYScpOwo=</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICdsaW5rb3V0TW9kVGFnJzogewogICAgICAnY29tcG9uZW50JzogJ21vdmVyc19xdW90ZScKICAgIH0=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjYXNlICdtZGNfdHJlYXN1cnlTZWN1cml0aWVzX2NsaWVudCc6Cg==</text>
+        <text encoding="base64">ICAgICAgZXhwZWN0KG1vZGVsLmluc3RydW1lbnRzWzFdLmZvcm1hdHRlZE1hdHVyaXR5RGF0ZSkudG8uZXF1YWwoJ24uYScpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/&quot;/'/g</text>

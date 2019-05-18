@@ -39,10 +39,30 @@
       <file name="/Dummy.txt" timestamp="1558082659321">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/mdcIndex.js" timestamp="1558087565289">
+        <mark key="'" line="33" column="17" />
+        <mark key="[" line="44" column="32" />
+        <mark key="]" line="45" column="35" />
+        <mark key="^" line="45" column="35" />
+        <mark key="." line="45" column="35" />
+      </file>
       <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/treasury/treasury_provider.js" timestamp="1558068363435" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routes/routeConfig.json" timestamp="1558087487954">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="287" column="26" />
+        <mark key="]" line="287" column="38" />
+        <mark key="." line="287" column="38" />
+        <mark key="^" line="287" column="38" />
+      </file>
       <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/exchangeRates/exchange_rates_provider.js" timestamp="1558083276521">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="50" />
+      </file>
+      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/dataTypes.js" timestamp="1558087541842">
+        <mark key="[" line="79" column="3" />
+        <mark key="]" line="79" column="19" />
+        <mark key="." line="79" column="19" />
+        <mark key="^" line="79" column="19" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/PEYields/components/DowJonesTableFull.js" timestamp="1558086428511" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/components/MarketsDiaryOverview.js" timestamp="1558085474312" />
@@ -52,7 +72,7 @@
         <mark key="^" line="14" column="71" />
         <mark key="." line="14" column="71" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/BondBenchmark/content/bondBenchmark.js" timestamp="1558085802731" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/BondBenchmark/content/bondBenchmark.js" timestamp="1558087497576" />
       <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/bondBenchmark/processBondBenchmark.js" timestamp="1558086612577">
         <mark key="[" line="36" column="6" />
         <mark key="]" line="1" column="1" />
@@ -144,19 +164,23 @@
       <jump line="12" column="20" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/BondBenchmark/components/BondBenchmarkTableFull.js" />
       <jump line="14" column="89" filename="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/mdcIndex.js" />
       <jump line="289" column="37" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routes/routeConfig.json" />
+      <jump line="186" column="31" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routes/routeConfig.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routes/routeConfig.json" />
+      <jump line="21" column="13" filename="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/mdcIndex.js" />
+      <jump line="31" column="17" filename="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/mdcIndex.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2cobW9kZWwpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>mdc_peAndYields</text>
       </register>
       <register name="-" type="4">
-        <text>D</text>
+        <text>mdc_peAndYields</text>
       </register>
       <register name="/" type="4">
-        <text>currenc</text>
+        <text>bond</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY2hhbmdlUGVyY2VudE9uZURheTogZm9ybWF0VG9NYW50aXNzYShpbnN0cnVtZW50LCAyKSwK</text>
+        <text encoding="base64">ICAnbWRjX3BlQW5kWWllbGRzJzogJy4vbWRjL21kY0luZGV4JywK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2cobW9kZWwpOwo=</text>
@@ -194,9 +218,9 @@
       </register>
     </registers>
     <search>
-      <last-search>currenc</last-search>
+      <last-search>bond</last-search>
       <last-offset />
-      <last-pattern>currenc</last-pattern>
+      <last-pattern>bond</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -204,7 +228,6 @@
     </search>
     <history>
       <history-search>
-        <entry>\cvideocenter</entry>
         <entry>COLLECTION_BY_EDITION</entry>
         <entry>\ccoming</entry>
         <entry>Coming</entry>
@@ -224,6 +247,7 @@
         <entry>dairy</entry>
         <entry>diary</entry>
         <entry>currenc</entry>
+        <entry>bond</entry>
       </history-search>
       <history-cmd>
         <entry>%s/MutualFundsAndEtfs/Treasury/g</entry>

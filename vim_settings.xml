@@ -9,31 +9,26 @@
         <mark key="^" line="2" column="30" />
         <mark key="." line="87" column="7" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/bondBenchmark/bond_benchmark_provider.js" timestamp="1558085785739">
+      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/bondBenchmark/bond_benchmark_provider.js" timestamp="1558318605322">
         <mark key="]" line="2" column="62" />
         <mark key="." line="2" column="62" />
         <mark key="^" line="2" column="62" />
       </file>
-      <file name="/fragment.js" timestamp="1558068103923">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Currencies/components/ExchangeRatesTable.js" timestamp="1558086560003" />
-      <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/mdc/Table/index.js" timestamp="1558317272280" />
-      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/bondBenchmark/test/bond_benchmark-test.js" timestamp="1558086633811">
+      <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/mdc/PresentationalComponents/Table/TableContent/index.js" timestamp="1558317901470" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/BondBenchmark/components/BondBenchmarkTableFull.js" timestamp="1558317891647" />
+      <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/mdc/Table/index.js" timestamp="1558317832884" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/BondBenchmark/presentation/Index/16u.js" timestamp="1558319363985" />
+      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/bondBenchmark/test/bond_benchmark-test.js" timestamp="1558319622057">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/marketsDiary/markets_diary_provider.js" timestamp="1558068305783" />
-      <file name="/JavaScript Console" timestamp="1558067977919">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/BondBenchmark/content/index.js" timestamp="1558318781592" />
       <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/wsj/SlimlineHeader/dataStory.js" timestamp="1558070354892" />
       <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/utils/formatters/index.js" timestamp="1558084529477" />
-      <file name="/Dummy.txt" timestamp="1558082659321">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/mdcIndex.js" timestamp="1558315188208">
+      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/mdcIndex.js" timestamp="1558318723169">
         <mark key="'" line="33" column="17" />
         <mark key="[" line="44" column="32" />
         <mark key="]" line="45" column="35" />
@@ -43,15 +38,12 @@
       <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/treasury/treasury_provider.js" timestamp="1558068363435" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routes/routeConfig.json" timestamp="1558087487954">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="287" column="26" />
-        <mark key="]" line="287" column="38" />
-        <mark key="." line="287" column="38" />
-        <mark key="^" line="287" column="38" />
+        <mark key="[" line="292" column="26" />
+        <mark key="]" line="292" column="38" />
+        <mark key="." line="292" column="38" />
+        <mark key="^" line="292" column="38" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/exchangeRates/exchange_rates_provider.js" timestamp="1558083276521">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="50" />
-      </file>
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/PEYields/content/dowjones.js" timestamp="1558318758278" />
       <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/dataTypes.js" timestamp="1558087541842">
         <mark key="[" line="79" column="3" />
         <mark key="]" line="79" column="19" />
@@ -66,13 +58,20 @@
         <mark key="^" line="14" column="71" />
         <mark key="." line="14" column="71" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/BondBenchmark/content/bondBenchmark.js" timestamp="1558087497576" />
-      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/bondBenchmark/processBondBenchmark.js" timestamp="1558086612577">
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/BondBenchmark/content/bondBenchmark.js" timestamp="1558318619285">
+        <mark key="[" line="4" column="7" />
+        <mark key="]" line="4" column="8" />
+        <mark key="." line="4" column="8" />
+        <mark key="^" line="4" column="8" />
+      </file>
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/PEYields/content/otherIndexes.js" timestamp="1558318631338" />
+      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/bondBenchmark/processBondBenchmark.js" timestamp="1558317844533">
         <mark key="[" line="36" column="6" />
         <mark key="]" line="1" column="1" />
         <mark key="^" line="1" column="1" />
         <mark key="." line="1" column="1" />
       </file>
+      <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/mdc/PresentationalComponents/Table/index.js" timestamp="1558318482156" />
     </filemarks>
     <jumps>
       <jump line="3" column="13" filename="$USER_HOME$/Desktop/wsj/modules/dj.svc.nav/lib/footer_config/COLUMN_LINKS.json" />
@@ -165,10 +164,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>mdc_peAndYields</text>
+        <text>bondBenchmark</text>
       </register>
       <register name="-" type="4">
-        <text>mdc_peAndYields</text>
+        <text>bondBenchmark</text>
       </register>
       <register name="/" type="4">
         <text>bond</text>

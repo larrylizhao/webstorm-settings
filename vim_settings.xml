@@ -19,12 +19,23 @@
       <file name="$USER_HOME$/Desktop/tablesets.json" timestamp="1558409805689" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/BondBenchmark/content/index.js" timestamp="1558318781592" />
       <file name="$USER_HOME$/Desktop/wsj/modules/cwsjconverter/lib/reformatter.js" timestamp="1558342026319" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/wsj/stocks_us_index/pageData.json" timestamp="1558423905374">
+        <mark key="[" line="5" column="17" />
+        <mark key="]" line="9" column="33" />
+        <mark key="." line="9" column="33" />
+        <mark key="^" line="9" column="33" />
+      </file>
       <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/mdcIndex.js" timestamp="1558322598888">
         <mark key="'" line="33" column="17" />
         <mark key="[" line="44" column="32" />
         <mark key="]" line="45" column="35" />
         <mark key="^" line="45" column="35" />
         <mark key="." line="45" column="35" />
+      </file>
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/wsj/stocks_us_index/index.js" timestamp="1558423855660">
+        <mark key="[" line="2" column="51" />
+        <mark key="]" line="2" column="51" />
+        <mark key="." line="2" column="51" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/dataTypes.js" timestamp="1558087541842">
         <mark key="[" line="79" column="3" />
@@ -72,12 +83,11 @@
       </file>
       <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/wsj-podcasts/AudioPlayerList/decorators/WSJTheme.css" timestamp="1558336665906" />
       <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/treasury/treasury_provider.js" timestamp="1558068363435" />
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routes/routeConfig.json" timestamp="1558087487954">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="292" column="26" />
-        <mark key="]" line="292" column="38" />
-        <mark key="." line="292" column="38" />
-        <mark key="^" line="292" column="38" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routes/routeConfig.json" timestamp="1558423841005">
+        <mark key="[" line="281" column="36" />
+        <mark key="]" line="281" column="34" />
+        <mark key="." line="281" column="34" />
+        <mark key="^" line="281" column="34" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/PEYields/content/dowjones.js" timestamp="1558318758278" />
       <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/treasury/test/treasury-test.js" timestamp="1558404146224" />
@@ -112,7 +122,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="13" filename="$USER_HOME$/Desktop/wsj/modules/dj.svc.nav/lib/footer_config/COLUMN_LINKS.json" />
       <jump line="170" column="3" filename="$USER_HOME$/Desktop/wsj/modules/dj.svc.nav/lib/footer_config/COLUMN_LINKS.json" />
       <jump line="20" column="6" filename="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/mg/ShareTools/index.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/resp.svc.article/lib/template_config.js" />
@@ -210,16 +219,19 @@
       <jump line="113" column="6" filename="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/bondBenchmark/test/processBondBenchmark-test.js" />
       <jump line="112" column="0" filename="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/bondBenchmark/test/processBondBenchmark-test.js" />
       <jump line="140" column="28" filename="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/bondBenchmark/test/processBondBenchmark-test.js" />
+      <jump line="287" column="33" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routes/routeConfig.json" />
+      <jump line="282" column="26" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routes/routeConfig.json" />
+      <jump line="284" column="28" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routes/routeConfig.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>PEYields</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vbWFzdGVy</text>
+        <text>PEYields</text>
       </register>
       <register name="/" type="4">
-        <text>&quot;</text>
+        <text>treasury</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIG1hbnRpc3NhRm9ybWF0dGVyLndpdGhBcmdzKG51bGwsIDIpLnJldHVybnMobnVsbCk7Cg==</text>
@@ -256,9 +268,9 @@
       </register>
     </registers>
     <search>
-      <last-search>&quot;</last-search>
+      <last-search>treasury</last-search>
       <last-offset />
-      <last-pattern>&quot;</last-pattern>
+      <last-pattern>treasury</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -266,7 +278,6 @@
     </search>
     <history>
       <history-search>
-        <entry>inset</entry>
         <entry>sectionnav</entry>
         <entry>SectionsNav</entry>
         <entry>NavOverlay</entry>
@@ -286,6 +297,7 @@
         <entry>timestamp</entry>
         <entry>isscroll</entry>
         <entry>&quot;</entry>
+        <entry>treasury</entry>
       </history-search>
       <history-cmd>
         <entry>%s/MutualFundsAndEtfs/Treasury/g</entry>

@@ -9,7 +9,7 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="2" column="62" />
       </file>
-      <file name="/fragment.js" timestamp="1558342745193">
+      <file name="/fragment.js" timestamp="1558420354352">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Currencies/components/ExchangeRatesTable.js" timestamp="1558086560003" />
@@ -44,13 +44,12 @@
       <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/mdc/PresentationalComponents/Table/TableContent/index.js" timestamp="1558335693177" />
       <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/mdc/Table/index.js" timestamp="1558335610693" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/BondBenchmark/presentation/Index/16u.js" timestamp="1558319363985" />
-      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/bondBenchmark/test/bond_benchmark-test.js" timestamp="1558402861900">
-        <mark key="[" line="79" column="43" />
-        <mark key="]" line="79" column="43" />
-        <mark key="^" line="79" column="44" />
-        <mark key="." line="79" column="43" />
+      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/bondBenchmark/test/bond_benchmark-test.js" timestamp="1558421691724">
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="81" column="0" />
+        <mark key="." line="81" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1558412004092">
+      <file name="/JavaScript Console" timestamp="1558420317254">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/wsj/SlimlineHeader/dataStory.js" timestamp="1558070354892" />
@@ -60,12 +59,12 @@
         <mark key="." line="9" column="27" />
         <mark key="^" line="9" column="27" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/bondBenchmark/test/processBondBenchmark-test.js" timestamp="1558412033592">
-        <mark key="'" line="90" column="4" />
-        <mark key="[" line="103" column="40" />
-        <mark key="]" line="103" column="40" />
-        <mark key="." line="103" column="40" />
-        <mark key="^" line="103" column="40" />
+      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/bondBenchmark/test/processBondBenchmark-test.js" timestamp="1558421253496">
+        <mark key="'" line="141" column="28" />
+        <mark key="[" line="114" column="33" />
+        <mark key="]" line="114" column="34" />
+        <mark key="." line="114" column="34" />
+        <mark key="^" line="148" column="29" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/utils/formatters/index.js" timestamp="1558402825006" />
       <file name="/Dummy.txt" timestamp="1558082659321">
@@ -83,6 +82,11 @@
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/PEYields/content/dowjones.js" timestamp="1558318758278" />
       <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/treasury/test/treasury-test.js" timestamp="1558404146224" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/PEYields/components/DowJonesTableFull.js" timestamp="1558086428511" />
+      <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/mdc/PresentationalComponents/Table/TableLinkOut/index.js" timestamp="1557910562108">
+        <mark key="[" line="24" column="43" />
+        <mark key="]" line="24" column="43" />
+        <mark key="." line="24" column="43" />
+      </file>
       <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/mdc/PresentationalComponents/Table/TableRow/index.js" timestamp="1558335744401" />
       <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/marketsDiary/processOverview.js" timestamp="1558322911591">
         <mark key="'" line="13" column="0" />
@@ -202,46 +206,50 @@
       <jump line="59" column="8" filename="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/bondBenchmark/test/bond_benchmark-test.js" />
       <jump line="70" column="14" filename="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/bondBenchmark/test/bond_benchmark-test.js" />
       <jump line="88" column="4" filename="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/bondBenchmark/test/processBondBenchmark-test.js" />
+      <jump line="103" column="85" filename="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/bondBenchmark/test/processBondBenchmark-test.js" />
+      <jump line="113" column="6" filename="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/bondBenchmark/test/processBondBenchmark-test.js" />
+      <jump line="112" column="0" filename="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/bondBenchmark/test/processBondBenchmark-test.js" />
+      <jump line="140" column="28" filename="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/bondBenchmark/test/processBondBenchmark-test.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>equal</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>equal</text>
+        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vbWFzdGVy</text>
       </register>
       <register name="/" type="4">
         <text>&quot;</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAnbWRjX3BlQW5kWWllbGRzJzogJy4vbWRjL21kY0luZGV4JywK</text>
+        <text encoding="base64">ICAgIG1hbnRpc3NhRm9ybWF0dGVyLndpdGhBcmdzKG51bGwsIDIpLnJldHVybnMobnVsbCk7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">Zm9lID4gLnBsYXllciB7CiAgICBtYXJnaW4tdG9wOiAwOwogICAgcGFkZGluZy1ib3R0b206IDcwcHg7CiAgfQoKICAuZm9lID4gLnBsYXllcjpub3QoOmxhc3QtY2hpbGQpIHsKICAgIGJvcmRlcjogbm9uZTsKICB9CgogIC5mb2UgLnN1YnNjcmliZS1jb250YWluZXIgewogICAgbWFyZ2luOiAwOwogICAgcG9zaXRpb246IGFic29sdXRlOwogICAgdG9wOiAwOwogICAgcmlnaHQ6IDA7CiAgICB3aWR0aDogMTUwcHg7CiAgfQ==</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBsZXQgcmVxdWVzdCA9IG51bGw7Cg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBsZXQgaWQgPSBudWxsOwo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmluZm8oaW5zdHJ1bWVudFNldHMpOwo=</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmluZm8oJ21hcmtldHNEaWFyeURhdGEgaXMnLCBKU09OLnN0cmluZ2lmeShtYXJrZXRzRGlhcnlEYXRhKSk7Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmluZm8oJ2luZGV4IGlzJywgaW5kZXgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgRm9ybWF0dGVyID0gcmVxdWlyZSgnLi4vdXRpbHMvZm9ybWF0dGVycycpOwo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">PT09PT09PQogIH0pOwoKICBpdCgnc2hvdWxkIHJldHVybiByZXNwb25zZSBtb2RlbCcsICgpID0+IHsKICAgIGNvbnN0IHJlc3BvbnNlID0gewogICAgICBiZW5jaG1hcmtzOiBbCiAgICAgICAgewogICAgICAgICAgaW5zdHJ1bWVudHM6IFsKICAgICAgICAgICAgeyd0aWNrZXInOiAndGVzdDEnfSwKICAgICAgICAgICAgeyd0aWNrZXInOiAndGVzdDInfQo+Pj4+Pj4+IG9yaWdpbi9tYXN0ZXI=</text>
       </register>
       <register name=":" type="4">
         <text>%s/&quot;/'/g</text>

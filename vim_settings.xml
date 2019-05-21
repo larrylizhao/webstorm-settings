@@ -59,11 +59,11 @@
         <mark key="." line="9" column="27" />
         <mark key="^" line="9" column="27" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/bondBenchmark/test/processBondBenchmark-test.js" timestamp="1558404279981">
-        <mark key="[" line="68" column="57" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="9" column="10" />
+      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/bondBenchmark/test/processBondBenchmark-test.js" timestamp="1558408399571">
+        <mark key="[" line="78" column="4" />
+        <mark key="]" line="78" column="4" />
+        <mark key="." line="78" column="4" />
+        <mark key="^" line="67" column="3" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/utils/formatters/index.js" timestamp="1558402825006" />
       <file name="/Dummy.txt" timestamp="1558082659321">
@@ -202,10 +202,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Zm9lID4gLnBsYXllciB7CiAgICBtYXJnaW4tdG9wOiAwOwogICAgcGFkZGluZy1ib3R0b206IDcwcHg7CiAgfQoKICAuZm9lID4gLnBsYXllcjpub3QoOmxhc3QtY2hpbGQpIHsKICAgIGJvcmRlcjogbm9uZTsKICB9CgogIC5mb2UgLnN1YnNjcmliZS1jb250YWluZXIgewogICAgbWFyZ2luOiAwOwogICAgcG9zaXRpb246IGFic29sdXRlOwogICAgdG9wOiAwOwogICAgcmlnaHQ6IDA7CiAgICB3aWR0aDogMTUwcHg7CiAgfQ==</text>
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>response</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>isscroll</text>

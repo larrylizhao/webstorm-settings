@@ -9,14 +9,23 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="2" column="62" />
       </file>
-      <file name="/fragment.js" timestamp="1558420354352">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Currencies/components/ExchangeRatesTable.js" timestamp="1558086560003" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/BondBenchmark/components/BondBenchmarkTableFull.js" timestamp="1558317891647" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/TreasuryInflationProtectedSecurities/components/TreasurySecuritiesTableFull.js" timestamp="1558428214306" />
       <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/mdc/PresentationalComponents/Table/TableCell/index.js" timestamp="1558336402464" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/components/USStockIndexTableFull.js" timestamp="1558428349784">
+        <mark key="[" line="69" column="5" />
+        <mark key="]" line="69" column="5" />
+        <mark key="." line="69" column="5" />
+      </file>
       <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/marketsDiary/markets_diary_provider.js" timestamp="1558068305783" />
       <file name="$USER_HOME$/Desktop/tablesets.json" timestamp="1558409805689" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/components/OtherAmericasIndexTableFull.js" timestamp="1558428363040">
+        <mark key="[" line="66" column="30" />
+        <mark key="]" line="66" column="28" />
+        <mark key="." line="66" column="28" />
+        <mark key="^" line="66" column="28" />
+      </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/BondBenchmark/content/index.js" timestamp="1558318781592" />
       <file name="$USER_HOME$/Desktop/wsj/modules/cwsjconverter/lib/reformatter.js" timestamp="1558342026319" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/wsj/stocks_us_index/pageData.json" timestamp="1558423905374">
@@ -37,6 +46,12 @@
         <mark key="]" line="2" column="51" />
         <mark key="." line="2" column="51" />
       </file>
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/presentation/PEYields/blocks/index.js" timestamp="1558428424953">
+        <mark key="[" line="29" column="25" />
+        <mark key="]" line="29" column="36" />
+        <mark key="." line="29" column="36" />
+        <mark key="^" line="29" column="36" />
+      </file>
       <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/dataTypes.js" timestamp="1558087541842">
         <mark key="[" line="79" column="3" />
         <mark key="]" line="79" column="19" />
@@ -49,7 +64,7 @@
         <mark key="." line="4" column="3" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/components/MarketsDiaryOverview.js" timestamp="1558085474312" />
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/presentation/USIndex/blocks/index.js" timestamp="1558426177465">
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/presentation/USIndex/blocks/index.js" timestamp="1558428518953">
         <mark key="[" line="26" column="8" />
         <mark key="]" line="14" column="14" />
         <mark key="." line="14" column="14" />
@@ -80,9 +95,6 @@
         <mark key="]" line="81" column="0" />
         <mark key="." line="81" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1558420317254">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/wsj/SlimlineHeader/dataStory.js" timestamp="1558070354892" />
       <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/mdc/GlobalStyles/wsj/WSJTables.css" timestamp="1558336893041">
         <mark key="[" line="146" column="3" />
@@ -98,10 +110,7 @@
         <mark key="^" line="148" column="29" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/utils/formatters/index.js" timestamp="1558402825006" />
-      <file name="/Dummy.txt" timestamp="1558082659321">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/components/index.js" timestamp="1558426844607">
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/components/index.js" timestamp="1558428513529">
         <mark key="[" line="26" column="84" />
         <mark key="]" line="30" column="47" />
         <mark key="." line="30" column="47" />
@@ -109,7 +118,7 @@
       </file>
       <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/wsj-podcasts/AudioPlayerList/decorators/WSJTheme.css" timestamp="1558336665906" />
       <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/treasury/treasury_provider.js" timestamp="1558068363435" />
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/content/index.js" timestamp="1558425343464">
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/content/index.js" timestamp="1558428456268">
         <mark key="[" line="7" column="35" />
         <mark key="]" line="7" column="35" />
         <mark key="." line="7" column="35" />
@@ -259,10 +268,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>peAndYields</text>
+        <text>peYieldsDowJones</text>
       </register>
       <register name="-" type="4">
-        <text>peAndYields</text>
+        <text>peYieldsDowJones</text>
       </register>
       <register name="/" type="4">
         <text>treasury</text>
@@ -270,17 +279,17 @@
       <register name="0" type="4">
         <text>otherAmericasIndex</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAnZXJyb3JNZXNzYWdlJzogJ1VuYWJsZSB0byBkaXNwbGF5IE90aGVyIGluZGV4ZXNcJyBQRXMgYW5kIFlpZWxkcyc=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgICdlcnJvck1lc3NhZ2UnOiAnVW5hYmxlIHRvIGRpc3BsYXkgVVMnLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgICdyZXNvbHZlRGlzcGxheUZpZWxkTGFiZWxQYXRoc0Zyb21EYXRhJzogdHJ1ZSwK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -292,10 +301,10 @@
         <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">PT09PT09PQogIH0pOwoKICBpdCgnc2hvdWxkIHJldHVybiByZXNwb25zZSBtb2RlbCcsICgpID0+IHsKICAgIGNvbnN0IHJlc3BvbnNlID0gewogICAgICBiZW5jaG1hcmtzOiBbCiAgICAgICAgewogICAgICAgICAgaW5zdHJ1bWVudHM6IFsKICAgICAgICAgICAgeyd0aWNrZXInOiAndGVzdDEnfSwKICAgICAgICAgICAgeyd0aWNrZXInOiAndGVzdDInfQo+Pj4+Pj4+IG9yaWdpbi9tYXN0ZXI=</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/&quot;/'/g</text>

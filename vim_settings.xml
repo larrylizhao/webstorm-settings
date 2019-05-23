@@ -16,6 +16,7 @@
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Currencies/components/ExchangeRatesTable.js" timestamp="1558086560003" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/BondBenchmark/components/BondBenchmarkTableFull.js" timestamp="1558317891647" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/TreasuryInflationProtectedSecurities/components/TreasurySecuritiesTableFull.js" timestamp="1558428214306" />
+      <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/mg/InThisAreaMap/metadata.json" timestamp="1558592052543" />
       <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/mdc/PresentationalComponents/Table/TableCell/index.js" timestamp="1558336402464" />
       <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/marketsDiary/markets_diary_provider.js" timestamp="1558068305783" />
       <file name="$USER_HOME$/Desktop/tablesets.json" timestamp="1558409805689" />
@@ -33,6 +34,7 @@
         <mark key="." line="9" column="33" />
         <mark key="^" line="9" column="33" />
       </file>
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MG/listings/components/index.js" timestamp="1558592004475" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/presentation/PEYields/blocks/index.js" timestamp="1558430997645">
         <mark key="[" line="29" column="25" />
         <mark key="]" line="29" column="36" />
@@ -82,6 +84,7 @@
       </file>
       <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/mdc/Table/index.js" timestamp="1558335610693" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/BondBenchmark/presentation/Index/16u.js" timestamp="1558319363985" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/mg/routes.js" timestamp="1558592050548" />
       <file name="/JavaScript Console" timestamp="1558420317254">
         <mark key="[" line="0" column="0" />
       </file>

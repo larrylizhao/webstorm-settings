@@ -32,13 +32,6 @@
         <mark key="^" line="9" column="33" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MG/listings/components/index.js" timestamp="1558592004475" />
-      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/mdcIndex.js" timestamp="1558322598888">
-        <mark key="'" line="33" column="17" />
-        <mark key="[" line="44" column="32" />
-        <mark key="]" line="45" column="35" />
-        <mark key="^" line="45" column="35" />
-        <mark key="." line="45" column="35" />
-      </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/presentation/PEYields/blocks/index.js" timestamp="1558430997645">
         <mark key="[" line="29" column="25" />
         <mark key="]" line="29" column="36" />
@@ -46,11 +39,12 @@
         <mark key="^" line="29" column="36" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/util/translations/translator.js" timestamp="1558582120019" />
-      <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/wsj/SlimlineHeader/i18n.json" timestamp="1558599449289">
-        <mark key="[" line="10" column="5" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-        <mark key="^" line="17" column="0" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Home/components/index.js" timestamp="1558603375501" />
+      <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/wsj/SlimlineHeader/i18n.json" timestamp="1558603078060">
+        <mark key="[" line="16" column="25" />
+        <mark key="]" line="17" column="17" />
+        <mark key="." line="17" column="17" />
+        <mark key="^" line="17" column="17" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/dataTypes.js" timestamp="1558087541842">
         <mark key="[" line="79" column="3" />
@@ -85,11 +79,11 @@
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/presentation/PEYields/8u.js" timestamp="1558424998941" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Content/Quotes.js" timestamp="1558490485287" />
-      <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/wsj/SlimlineHeader/SectionsNav.js" timestamp="1558601427941">
-        <mark key="[" line="26" column="45" />
-        <mark key="]" line="26" column="45" />
-        <mark key="^" line="26" column="45" />
-        <mark key="." line="26" column="45" />
+      <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/wsj/SlimlineHeader/SectionsNav.js" timestamp="1558603485911">
+        <mark key="[" line="134" column="22" />
+        <mark key="]" line="134" column="23" />
+        <mark key="^" line="134" column="23" />
+        <mark key="." line="134" column="23" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/components/USIndexTypeSelector.js" timestamp="1558431287934">
         <mark key="[" line="7" column="20" />
@@ -101,12 +95,11 @@
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MG/listings/presentation/InThisAreaMap_4-8u.js" timestamp="1558597108424" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/BondBenchmark/presentation/Index/16u.js" timestamp="1558319363985" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/mg/routes.js" timestamp="1558592050548" />
-      <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/wsj/SlimlineHeader/index.js" timestamp="1558599576825">
-        <mark key="'" line="384" column="6" />
-        <mark key="[" line="117" column="0" />
-        <mark key="]" line="117" column="12" />
-        <mark key="." line="117" column="12" />
-        <mark key="^" line="117" column="12" />
+      <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/wsj/SlimlineHeader/index.js" timestamp="1558602623409">
+        <mark key="[" line="370" column="16" />
+        <mark key="]" line="370" column="25" />
+        <mark key="." line="370" column="25" />
+        <mark key="^" line="370" column="25" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/content/quotes.js" timestamp="1558510626127" />
       <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/quotes/quotes_provider.js" timestamp="1558490518560" />
@@ -117,13 +110,6 @@
         <mark key="]" line="9" column="27" />
         <mark key="." line="9" column="27" />
         <mark key="^" line="9" column="27" />
-      </file>
-      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/bondBenchmark/test/processBondBenchmark-test.js" timestamp="1558421253496">
-        <mark key="'" line="141" column="28" />
-        <mark key="[" line="114" column="33" />
-        <mark key="]" line="114" column="34" />
-        <mark key="." line="114" column="34" />
-        <mark key="^" line="148" column="29" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/utils/formatters/index.js" timestamp="1558402825006" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/components/index.js" timestamp="1558431389137">
@@ -141,11 +127,11 @@
         <mark key="^" line="281" column="34" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/PEYields/content/dowjones.js" timestamp="1558318758278" />
-      <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/wsj/SlimlineHeader/NavOverlay.js" timestamp="1558601316763">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="^" line="9" column="81" />
-        <mark key="." line="35" column="0" />
+      <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/wsj/SlimlineHeader/NavOverlay.js" timestamp="1558602900827">
+        <mark key="[" line="28" column="27" />
+        <mark key="]" line="29" column="36" />
+        <mark key="^" line="29" column="36" />
+        <mark key="." line="29" column="36" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/treasury/test/treasury-test.js" timestamp="1558404146224" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/content/otherAmericasIndex.js" timestamp="1558425270599" />
@@ -154,13 +140,6 @@
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/presentation/USIndex/16u.js" timestamp="1558431368492" />
       <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/mdc/PresentationalComponents/Table/TableRow/index.js" timestamp="1558335744401" />
       <file name="$USER_HOME$/Desktop/wsj/modules/cwsjconverter/lib/utils.js" timestamp="1558504957361" />
-      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/marketsDiary/processOverview.js" timestamp="1558322911591">
-        <mark key="'" line="13" column="0" />
-        <mark key="[" line="22" column="77" />
-        <mark key="]" line="23" column="1" />
-        <mark key="." line="23" column="1" />
-        <mark key="^" line="23" column="1" />
-      </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/BondBenchmark/content/bondBenchmark.js" timestamp="1558318619285">
         <mark key="[" line="4" column="7" />
         <mark key="]" line="4" column="8" />
@@ -282,10 +261,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUuaW5mbygndGhpcyBwcm9wcyBpcycsIEpTT04uc3RyaW5naWZ5KHRoaXMucHJvcHMpKTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUuaW5mbygnbmF2aWdhdGlvbiBpcycsIG5hdmlnYXRpb24pOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>Component</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>i18n</text>
@@ -294,54 +273,31 @@
         <text encoding="base64">ICAgIGNvbnNvbGUuaW5mbygncHJvcHMgYXJlJywgSlNPTi5zdHJpbmdpZnkocHJvcHMuY29udGV4dCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUuaW5mbygndGhpcyBwcm9wcyBpcycsIEpTT04uc3RyaW5naWZ5KHRoaXMucHJvcHMpKTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUuaW5mbygnbmF2aWdhdGlvbiBpcycsIG5hdmlnYXRpb24pOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUuaW5mbygncHJvcHMgYXJlJywgSlNPTi5zdHJpbmdpZnkocHJvcHMpKTsK</text>
+        <text encoding="base64">ICAgICJWaWRlbyI6ICJWaWRlbyIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUuaW5mbygnbmF2IG92ZXJsYXkgcHJvcHMgYXJlJywgcHJvcHMpOwo=</text>
+        <text encoding="base64">ICAgICIiCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUuaW5mbygncHJvcHMgYXJlJywgSlNPTi5zdHJpbmdpZnkodGhpcy5wcm9wcykpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUuaW5mbygndGhpcyBwcm9wcyBpcycsIEpTT04uc3RyaW5naWZ5KHRoaXMucHJvcHMpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUuaW5mbygndGhpcyBwcm9wcyBpcycsIHRoaXMucHJvcHMpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUuaW5mbygncHJvcHMgYXJlJywgSlNPTi5zdHJpbmdpZnkocHJvcHMpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUuaW5mbygncHJvcHMgYXJlJywgSlNPTi5zdHJpbmdpZnkocHJvcHMuY29udGV4dCkpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUuaW5mbygnbmF2IG92ZXJsYXkgcHJvcHMgYXJlJywgcHJvcHMpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICIK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUuaW5mbygncHJvcHMgYXJlJywgSlNPTi5zdHJpbmdpZnkodGhpcy5wcm9wcykpOwo=</text>
       </register>
-      <register name="8" type="4">
-        <text>&quot;Bedrooms&quot;: &quot;卧室&quot;,
-    &quot;Living area&quot;: &quot;客厅&quot;,
-    &quot;Lot size&quot;: &quot;土地面积&quot;,
-    &quot;250+ SQFT&quot;: &quot;250+ 平方英尺&quot;,
-    &quot;500+ SQFT&quot;: &quot;500+ 平方英尺&quot;,
-    &quot;750+ SQFT&quot;: &quot;750+ 平方英尺&quot;,
-    &quot;1000+ SQFT&quot;: &quot;1000+ 平方英尺&quot;,
-    &quot;1,250+ SQFT&quot;: &quot;1250+ 平方英尺&quot;,
-    &quot;1,500+ SQFT&quot;: &quot;1500+ 平方英尺&quot;,
-    &quot;1,750+ SQFT&quot;: &quot;1750+ 平方英尺&quot;,
-    &quot;2,000+ SQFT&quot;: &quot;2000+ 平方英尺&quot;,
-    &quot;2,250+ SQFT&quot;: &quot;2250+ 平方英尺&quot;,
-    &quot;2,500+ SQFT&quot;: &quot;2500+ 平方英尺&quot;,
-    &quot;2,750+ SQFT&quot;: &quot;2750+ 平方英尺&quot;,
-    &quot;3,000+ SQFT&quot;: &quot;3000+ 平方英尺&quot;,
-    &quot;4,000+ SQFT&quot;: &quot;4000+ 平方英尺&quot;,
-    &quot;5,000+ SQFT&quot;: &quot;5000+ 平方英尺&quot;,
-    &quot;7,500+ SQFT&quot;: &quot;7500+ 平方英尺&quot;,
-    &quot;10,000+ SQFT&quot;: &quot;10000+ 平方英尺&quot;,
-    &quot;1/4+ ACRE&quot;: &quot;1/4+ 英亩&quot;,
-    &quot;1+ ACRE&quot;: &quot;1+ 英亩&quot;,
-    &quot;2+ ACRE&quot;: &quot;2+ 英亩&quot;,
-    &quot;5+ ACRE&quot;: &quot;5+ 英亩&quot;,
-    &quot;10+ ACRE&quot;: &quot;10+ 英亩</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUuaW5mbygndGhpcyBwcm9wcyBpcycsIHRoaXMucHJvcHMpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAsCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUuaW5mbygncHJvcHMgYXJlJywgSlNPTi5zdHJpbmdpZnkocHJvcHMuY29udGV4dCkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/&quot;/'/g</text>

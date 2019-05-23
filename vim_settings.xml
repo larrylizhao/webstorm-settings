@@ -82,11 +82,11 @@
       <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/mdc/Table/index.js" timestamp="1558335610693" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/BondBenchmark/presentation/Index/16u.js" timestamp="1558319363985" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/mg/routes.js" timestamp="1558592050548" />
-      <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/wsj/SlimlineHeader/index.js" timestamp="1558593964259">
-        <mark key="[" line="386" column="0" />
-        <mark key="]" line="386" column="45" />
-        <mark key="^" line="386" column="45" />
-        <mark key="." line="386" column="45" />
+      <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/wsj/SlimlineHeader/index.js" timestamp="1558594948091">
+        <mark key="[" line="387" column="0" />
+        <mark key="]" line="387" column="0" />
+        <mark key="^" line="156" column="61" />
+        <mark key="." line="387" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/content/quotes.js" timestamp="1558510626127" />
       <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/quotes/quotes_provider.js" timestamp="1558490518560" />
@@ -248,7 +248,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUuaW5mbygncHJvcHMgYXJlJywgSlNPTi5zdHJpbmdpZnkocHJvcHMuY29udGV4dCkpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUuaW5mbygndGhpcyBwcm9wcyBpcycsIHRoaXMucHJvcHMpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -260,12 +260,15 @@
         <text encoding="base64">ICAgIGNvbnNvbGUuaW5mbygncHJvcHMgYXJlJywgSlNPTi5zdHJpbmdpZnkocHJvcHMuY29udGV4dCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUuaW5mbygncHJvcHMgYXJlJywgSlNPTi5zdHJpbmdpZnkocHJvcHMuY29udGV4dCkpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUuaW5mbygndGhpcyBwcm9wcyBpcycsIHRoaXMucHJvcHMpOwo=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUuaW5mbygncHJvcHMgYXJlJywgSlNPTi5zdHJpbmdpZnkocHJvcHMuY29udGV4dCkpOwo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICIK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>&quot;Bedrooms&quot;: &quot;卧室&quot;,
     &quot;Living area&quot;: &quot;客厅&quot;,
     &quot;Lot size&quot;: &quot;土地面积&quot;,
@@ -291,10 +294,10 @@
     &quot;5+ ACRE&quot;: &quot;5+ 英亩&quot;,
     &quot;10+ ACRE&quot;: &quot;10+ 英亩</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAsCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>&quot;es_ES&quot;: {
     &quot;Bedrooms&quot;: &quot;Dormitorios&quot;,
     &quot;Bathrooms&quot;: &quot;Los baños&quot;,
@@ -323,17 +326,14 @@
     &quot;10+ ACRE&quot;: &quot;10+ Hectáreas&quot;
   }</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CiAgICAnZXJyb3JNZXNzYWdlJzogJ1VuYWJsZSB0byBkaXNwbGF5IE90aGVyIGluZGV4ZXNcJyBQRXMgYW5kIFlpZWxkcyc=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICdlcnJvck1lc3NhZ2UnOiAnVW5hYmxlIHRvIGRpc3BsYXkgVVMnLAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICdyZXNvbHZlRGlzcGxheUZpZWxkTGFiZWxQYXRoc0Zyb21EYXRhJzogdHJ1ZSwK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>%s/&quot;/'/g</text>

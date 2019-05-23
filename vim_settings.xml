@@ -49,7 +49,7 @@
         <mark key="^" line="29" column="36" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/util/translations/translator.js" timestamp="1558582120019" />
-      <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/wsj/SlimlineHeader/i18n.json" timestamp="1558518446533">
+      <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/wsj/SlimlineHeader/i18n.json" timestamp="1558597803463">
         <mark key="[" line="10" column="5" />
         <mark key="]" line="6" column="18" />
         <mark key="." line="6" column="18" />
@@ -95,10 +95,11 @@
         <mark key="^" line="7" column="26" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/mdc/Table/index.js" timestamp="1558335610693" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MG/listings/presentation/InThisAreaMap_4-8u.js" timestamp="1558597108424" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/BondBenchmark/presentation/Index/16u.js" timestamp="1558319363985" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/mg/routes.js" timestamp="1558592050548" />
-      <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/wsj/SlimlineHeader/index.js" timestamp="1558596121645">
-        <mark key="[" line="143" column="45" />
+      <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/wsj/SlimlineHeader/index.js" timestamp="1558597350882">
+        <mark key="[" line="385" column="21" />
         <mark key="]" line="143" column="45" />
         <mark key="." line="143" column="45" />
       </file>

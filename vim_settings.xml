@@ -69,6 +69,7 @@
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/presentation/USIndex/12u.js" timestamp="1558431373792" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/presentation/PEYields/8u.js" timestamp="1558424998941" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Content/Quotes.js" timestamp="1558490485287" />
+      <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/wsj/SlimlineHeader/SectionsNav.js" timestamp="1558578227220" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/components/USIndexTypeSelector.js" timestamp="1558431287934">
         <mark key="[" line="7" column="20" />
         <mark key="]" line="7" column="26" />
@@ -96,12 +97,6 @@
       </file>
       <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/wsj-podcasts/AudioPlayerList/decorators/WSJTheme.css" timestamp="1558336665906" />
       <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/treasury/treasury_provider.js" timestamp="1558490545366" />
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/content/index.js" timestamp="1558430940717">
-        <mark key="[" line="7" column="35" />
-        <mark key="]" line="7" column="35" />
-        <mark key="." line="7" column="35" />
-        <mark key="^" line="7" column="20" />
-      </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routes/routeConfig.json" timestamp="1558423841005">
         <mark key="[" line="281" column="36" />
         <mark key="]" line="281" column="34" />
@@ -109,11 +104,11 @@
         <mark key="^" line="281" column="34" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/PEYields/content/dowjones.js" timestamp="1558318758278" />
-      <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/wsj/SlimlineHeader/NavOverlay.js" timestamp="1558518493319">
-        <mark key="[" line="4" column="40" />
-        <mark key="]" line="36" column="30" />
-        <mark key="^" line="36" column="30" />
-        <mark key="." line="36" column="30" />
+      <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/wsj/SlimlineHeader/NavOverlay.js" timestamp="1558577958248">
+        <mark key="[" line="33" column="52" />
+        <mark key="]" line="33" column="52" />
+        <mark key="^" line="33" column="52" />
+        <mark key="." line="33" column="52" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/treasury/test/treasury-test.js" timestamp="1558404146224" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/content/otherAmericasIndex.js" timestamp="1558425270599" />

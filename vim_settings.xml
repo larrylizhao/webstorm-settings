@@ -92,11 +92,11 @@
         <mark key="." line="9" column="27" />
         <mark key="^" line="9" column="27" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/components/index.js" timestamp="1558431389137">
-        <mark key="[" line="26" column="84" />
-        <mark key="]" line="30" column="47" />
-        <mark key="." line="30" column="47" />
-        <mark key="^" line="30" column="47" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/components/index.js" timestamp="1558684514024">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="29" column="47" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routes/routeConfig.json" timestamp="1558681334027">
         <mark key="[" line="281" column="36" />
@@ -230,8 +230,8 @@
       <jump line="76" column="2" filename="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/wsj/SlimlineHeader/SectionsNav.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>otherIndexTablesFull</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBQRVlpZWxkc1R5cGVTZWxlY3RvcjogY29weShyZXF1aXJlKCcuL1BFWWllbGRzVHlwZVNlbGVjdG9yJykpLAo=</text>
       </register>
       <register name="-" type="4">
         <text>otherIndexTablesFull</text>
@@ -243,31 +243,31 @@
         <text encoding="base64">ICAgIGNvbnNvbGUuaW5mbygncHJvcHMgYXJlJywgSlNPTi5zdHJpbmdpZnkocHJvcHMuY29udGV4dCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5hbWU6ICdwZVlpZWxkc1RhYnNldCcsCg==</text>
+        <text encoding="base64">ICBQRVlpZWxkc1R5cGVTZWxlY3RvcjogY29weShyZXF1aXJlKCcuL1BFWWllbGRzVHlwZVNlbGVjdG9yJykpLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5hbWU6ICdwZVlpZWxkc1RhYnNldCcsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBjb21wb25lbnQ6IGNvbXBvbmVudHMuU3RvY2tzLlBFWWllbGRzVHlwZVNlbGVjdG9yX3RhYnMsCiAgICAgICAgICAgICAgfSwK</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICBQRVlpZWxkc1R5cGVTZWxlY3Rvcl90YWJzOiB7CiAgICAkcmVmOiAnIy9jb21wb25lbnRzL1N0b2Nrcy9QRVlpZWxkc1R5cGVTZWxlY3RvcicsCiAgICBvcHRpb25zOiB7CiAgICAgIHR5cGU6ICd0YWJzJwogICAgfQogIH0sCiAgUEVZaWVsZHNUeXBlU2VsZWN0b3Jfc2VsZWN0OiB7CiAgICAkcmVmOiAnIy9jb21wb25lbnRzL1N0b2Nrcy9QRVlpZWxkc1R5cGVTZWxlY3RvcicsCiAgICBvcHRpb25zOiB7CiAgICAgIHR5cGU6ICdzZWxlY3QnCiAgICB9CiAgfSw=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICB7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5hbWU6ICdwZVlpZWxkc1RhYnNldCcK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIG5hbWU6ICdwZVlpZWxkc1RhYnNldCcsCg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5hbWU6ICdwZVlpZWxkc1RhYnNldCcsCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBjb21wb25lbnQ6IGNvbXBvbmVudHMuU3RvY2tzLlBFWWllbGRzVHlwZVNlbGVjdG9yX3RhYnMsCiAgICAgICAgICAgICAgfSwK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG5hbWU6ICdvdGhlckluZGV4ZXNUYWInCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIG5hbWU6ICdkb3dqb25lc1RhYicK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5hbWU6ICdwZVlpZWxkc1RhYnNldCcK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5hbWU6ICdwZVlpZWxkc1RhYnNldCcsCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/&quot;/'/g</text>

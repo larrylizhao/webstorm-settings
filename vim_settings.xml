@@ -39,7 +39,7 @@
         <mark key="^" line="29" column="36" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/util/translations/translator.js" timestamp="1558582120019" />
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Home/components/index.js" timestamp="1558603375501" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Home/components/index.js" timestamp="1558666736742" />
       <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/wsj/SlimlineHeader/i18n.json" timestamp="1558603078060">
         <mark key="[" line="16" column="25" />
         <mark key="]" line="17" column="17" />
@@ -58,6 +58,12 @@
         <mark key="]" line="35" column="35" />
         <mark key="." line="35" column="35" />
         <mark key="^" line="35" column="35" />
+      </file>
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/WSJJapan/components.js" timestamp="1558666796811">
+        <mark key="[" line="14" column="16" />
+        <mark key="]" line="12" column="23" />
+        <mark key="^" line="12" column="23" />
+        <mark key="." line="12" column="23" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/presentation/USIndex/4u.js" timestamp="1558431431097" />
       <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/mdc/PresentationalComponents/Table/index.js" timestamp="1558336442864" />
@@ -156,6 +162,9 @@
         <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/presentation/USIndex/8u.js" timestamp="1558431378020" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJJapan/RSSFeed/components/index.js" timestamp="1558666746145">
+        <mark key="[" line="54" column="16" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/resp.svc.article/lib/template_config.js" />

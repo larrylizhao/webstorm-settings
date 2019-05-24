@@ -85,11 +85,11 @@
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/presentation/PEYields/8u.js" timestamp="1558424998941" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Content/Quotes.js" timestamp="1558490485287" />
-      <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/wsj/SlimlineHeader/SectionsNav.js" timestamp="1558666193460">
-        <mark key="[" line="73" column="5" />
-        <mark key="]" line="73" column="24" />
-        <mark key="^" line="73" column="24" />
-        <mark key="." line="73" column="24" />
+      <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/wsj/SlimlineHeader/SectionsNav.js" timestamp="1558668704516">
+        <mark key="[" line="162" column="79" />
+        <mark key="]" line="162" column="79" />
+        <mark key="^" line="162" column="79" />
+        <mark key="." line="162" column="79" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/components/USIndexTypeSelector.js" timestamp="1558431287934">
         <mark key="[" line="7" column="20" />
@@ -269,11 +269,11 @@
       <jump line="384" column="6" filename="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/wsj/SlimlineHeader/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUuaW5mbygnbmF2aWdhdGlvbiBpcycsIG5hdmlnYXRpb24pOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>i18n</text>

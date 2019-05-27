@@ -260,7 +260,7 @@
         <text>o</text>
       </register>
       <register name="/" type="4">
-        <text>i18n</text>
+        <text>DJT</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUuaW5mbygncHJvcHMgYXJlJywgSlNPTi5zdHJpbmdpZnkocHJvcHMuY29udGV4dCkpOwo=</text>
@@ -297,9 +297,9 @@
       </register>
     </registers>
     <search>
-      <last-search>i18n</last-search>
-      <last-offset>TODO</last-offset>
-      <last-pattern>i18n</last-pattern>
+      <last-search>DJT</last-search>
+      <last-offset />
+      <last-pattern>DJT</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -307,8 +307,6 @@
     </search>
     <history>
       <history-search>
-        <entry>MutualFundsAndEtfs</entry>
-        <entry>EtfMoversBreadcrumbsMobile</entry>
         <entry>%s</entry>
         <entry>ETF Movers</entry>
         <entry>priceEarningsRatio52WeekAgo</entry>
@@ -327,6 +325,8 @@
         <entry>console</entry>
         <entry>i18nlocale</entry>
         <entry>i18n</entry>
+        <entry>djt</entry>
+        <entry>DJT</entry>
       </history-search>
       <history-cmd>
         <entry>%s/MutualFundsAndEtfs/Treasury/g</entry>

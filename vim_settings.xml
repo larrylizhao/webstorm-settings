@@ -80,9 +80,9 @@
         <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routes/routeConfig.json" timestamp="1558686701177">
-        <mark key="[" line="297" column="0" />
-        <mark key="]" line="297" column="0" />
-        <mark key="." line="297" column="0" />
+        <mark key="[" line="301" column="0" />
+        <mark key="]" line="301" column="0" />
+        <mark key="." line="301" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/BondBenchmark/content/bondBenchmark.js" timestamp="1558318619285">
         <mark key="[" line="4" column="7" />
@@ -107,9 +107,7 @@
         <mark key="]" line="12" column="1" />
         <mark key="." line="12" column="1" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/content/quotes.js" timestamp="1558967053653">
-        <mark key="[" line="120" column="3" />
-      </file>
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/content/quotes.js" timestamp="1559051002567" />
       <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/wsj/SlimlineHeader/i18n.json" timestamp="1558603078060">
         <mark key="[" line="16" column="25" />
         <mark key="]" line="17" column="17" />

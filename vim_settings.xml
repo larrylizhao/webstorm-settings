@@ -73,7 +73,7 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="62" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/bondBenchmark/processBondBenchmark.js" timestamp="1558411804163">
+      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/bondBenchmark/processBondBenchmark.js" timestamp="1559053789253">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="^" line="1" column="1" />
@@ -102,12 +102,18 @@
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJJapan/RSSFeed/components/index.js" timestamp="1558666746145">
         <mark key="[" line="54" column="16" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/quotes/debug.js" timestamp="1558967704861">
-        <mark key="[" line="12" column="1" />
-        <mark key="]" line="12" column="1" />
-        <mark key="." line="12" column="1" />
+      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/quotes/debug.js" timestamp="1559055822769">
+        <mark key="[" line="84" column="4" />
+        <mark key="]" line="84" column="8" />
+        <mark key="." line="84" column="8" />
+        <mark key="^" line="84" column="8" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/content/quotes.js" timestamp="1559051002567" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/content/quotes.js" timestamp="1559054347483">
+        <mark key="[" line="165" column="22" />
+        <mark key="]" line="83" column="1" />
+        <mark key="^" line="83" column="1" />
+        <mark key="." line="83" column="1" />
+      </file>
       <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/wsj/SlimlineHeader/i18n.json" timestamp="1558603078060">
         <mark key="[" line="16" column="25" />
         <mark key="]" line="17" column="17" />
@@ -126,11 +132,12 @@
         <mark key="^" line="25" column="17" />
         <mark key="." line="25" column="17" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/quotes/Quotes.js" timestamp="1558967123868">
+      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/quotes/Quotes.js" timestamp="1559054316749">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Content/Quotes.js" timestamp="1559054545704" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/presentation/PEYields/16u.js" timestamp="1558685399956">
         <mark key="[" line="41" column="44" />
         <mark key="]" line="44" column="13" />
@@ -148,11 +155,10 @@
         <mark key="." line="9" column="27" />
         <mark key="^" line="9" column="27" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/quotes/quotes_provider.js" timestamp="1558971736777">
-        <mark key="[" line="89" column="15" />
-        <mark key="]" line="89" column="72" />
-        <mark key="^" line="89" column="72" />
-        <mark key="." line="89" column="72" />
+      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/quotes/quotes_provider.js" timestamp="1559056241687">
+        <mark key="[" line="35" column="45" />
+        <mark key="]" line="35" column="45" />
+        <mark key="." line="35" column="45" />
       </file>
     </filemarks>
     <jumps>
@@ -259,10 +265,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>weekAgoChange</text>
+        <text>count</text>
       </register>
       <register name="-" type="4">
-        <text>weekAgoChange</text>
+        <text>count</text>
       </register>
       <register name="/" type="4">
         <text>i18n</text>
@@ -270,32 +276,34 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUuaW5mbygncHJvcHMgYXJlJywgSlNPTi5zdHJpbmdpZnkocHJvcHMuY29udGV4dCkpOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CgogIGNvbnN0IGZvcm1hdHRlciA9IGlkLmV4cGFuZGVkID8gZm9ybWF0RXhwYW5kZWRJbnN0cnVtZW50UHJpY2VzIDogZm9ybWF0SW5zdHJ1bWVudFByaWNlczs=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBsZXQgY291bnQgPSAwOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBRdW90ZXMuSW5kZXguVVNfQ0JPRV9WT0xBVElMSVRZLAogIFF1b3Rlcy5GdXR1cmVzLlVTX0RKSUEsCiAgUXVvdGVzLkZ1dHVyZXMuVVNfU1RBTkRBUkRfUE9PUlNfNTAwCg==</text>
+        <text encoding="base64">ICAgICAgICBjb3VudCA9IGNvdW50ICsgaGVhZGVyLmxlbmd0aDsK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>function processModel(model) {
+  
+}</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">KG1vZGVsKSA9PiB7CiAgfQ==</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">ICBRdW90ZXMuSW5kZXguVVNfUlVTU0VMTF8yMDAwLAogIFF1b3Rlcy5JbmRleC5VU19OWVNFX0NPTVBPU0lURSw=</text>
+        <text encoding="base64">CiAgICA=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICBRdW90ZXMuSW5kZXguVVNfREpJQSwKICBRdW90ZXMuSW5kZXguVVNfTkFTREFRX0NPTVBPU0lURSwKICBRdW90ZXMuSW5kZXguVVNfU1RBTkRBUkRfUE9PUlNfNTAwLA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICB7IGhlYWRlcjogLCBsZW5ndGg6IH0sCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICB7IGhlYWRlcjogJycsIGxlbmd0aDogfSwK</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">Qm9uZHM6IHsKICAgIFVTXzMwX1lFQVI6IHsgc3ltYm9sOiAnQk9ORC9CWC8vVE1VQk1VU0QzMFknLCBuYW1lOiAnMzAtWWVhciBCb25kJyB9LAogICAgVVNfMTBfWUVBUjogeyBzeW1ib2w6ICdCT05EL0JYLy9UTVVCTVVTRDEwWScsIG5hbWU6ICcxMC1ZZWFyIE5vdGUnIH0sCiAgICBVU183X1lFQVI6IHsgc3ltYm9sOiAnQk9ORC9CWC8vVE1VQk1VU0QwN1knLCBuYW1lOiAnNy1ZZWFyIE5vdGUnIH0sCiAgICBVU181X1lFQVI6IHsgc3ltYm9sOiAnQk9ORC9CWC8vVE1VQk1VU0QwNVknLCBuYW1lOiAnNS1ZZWFyIE5vdGUnIH0sCiAgICBVU18zX1lFQVI6IHsgc3ltYm9sOiAnQk9ORC9CWC8vVE1VQk1VU0QwM1knLCBuYW1lOiAnMy1ZZWFyIE5vdGUnIH0sCiAgICBVU18yX1lFQVI6IHsgc3ltYm9sOiAnQk9ORC9CWC8vVE1VQk1VU0QwMlknLCBuYW1lOiAnMi1ZZWFyIE5vdGUnIH0sCiAgICBVU18xX1lFQVI6IHsgc3ltYm9sOiAnQk9ORC9CWC8vVE1VQk1VU0QwMVknLCBuYW1lOiAnMS1ZZWFyIEJpbGwnIH0sCiAgICBVU182X01PTlRIOiB7IHN5bWJvbDogJ0JPTkQvQlgvL1RNVUJNVVNEMDZNJywgbmFtZTogJzYtTW9udGggQmlsbCcgfSwKICAgIFVTXzNfTU9OVEg6IHsgc3ltYm9sOiAnQk9ORC9CWC8vVE1VQk1VU0QwM00nLCBuYW1lOiAnMy1Nb250aCBCaWxsJyB9LAogICAgVVNfMV9NT05USDogeyBzeW1ib2w6ICdCT05EL0JYLy9UTVVCTVVTRDAxTScsIG5hbWU6ICcxLU1vbnRoIEJpbGwnIH0KICB9LAogIEZ1dHVyZXM6IHsKICAgIFVLX0JSRU5UX0NSVURFOiB7IHN5bWJvbDogJ0ZVVFVSRS9VSy8vQlJFTlQgQ1JVREUnLCBuYW1lOiAnQnJlbnQgQ3J1ZGUgRnV0dXJlcycgfSwKICAgIFVTX0NPQ09BOiB7IHN5bWJvbDogJ0ZVVFVSRS9VUy8vQ09DT0EnLCBuYW1lOiAnQ29jb2EgRnV0dXJlcycgfSwKICAgIFVTX0NPRkZFRTogeyBzeW1ib2w6ICdGVVRVUkUvVVMvL0NPRkZFRScsIG5hbWU6ICdDb2ZmZWUgRnV0dXJlcycgfSwKICAgIFVTX0NPUFBFUjogeyBzeW1ib2w6ICdGVVRVUkUvVVMvL0NPUFBFUicsIG5hbWU6ICdDb3BwZXIgRnV0dXJlcycgfSwKICAgIFVTX0NPVFRPTjogeyBzeW1ib2w6ICdGVVRVUkUvVVMvL0NPVFRPTicsIG5hbWU6ICdDb3R0b24gRnV0dXJlcycgfSwKICAgIFVTX0NPUk46IHsgc3ltYm9sOiAnRlVUVVJFL1VTLy9DT1JOJywgbmFtZTogJ0Nvcm4gRnV0dXJlcycgfSwKICAgIFVTX0NSVURFX09JTF9FTEVDVFJPTklDOiB7IHN5bWJvbDogJ0ZVVFVSRS9VUy8vQ1JVREUgT0lMIC0gRUxFQ1RST05JQycsIG5hbWU6ICdDcnVkZSBPaWwgRnV0dXJlcycgfSwKICAgIFVTX0RKSUE6IHsgc3ltYm9sOiAnRlVUVVJFL1VTLy9ESklBIEZVVFVSRVMnLCBuYW1lOiAnREpJQSBGdXR1cmVzJyB9LAogICAgVVNfRVRIQU5PTDogeyBzeW1ib2w6ICdGVVRVUkUvVVMvL0VUSEFOT0wnLCBuYW1lOiAnRXRoYW5vbCBGdXR1cmVzJyB9LAogICAgVVNfR09MRDogeyBzeW1ib2w6ICdGVVRVUkUvVVMvL0dPTEQnLCBuYW1lOiAnR29sZCBGdXR1cmVzJyB9LAogICAgVVNfSEVBVElOR19PSUw6IHsgc3ltYm9sOiAnRlVUVVJFL1VTLy9IRUFUSU5HIE9JTCcsIG5hbWU6ICdIZWF0aW5nIE9pbCBGdXR1cmVzJyB9LAogICAgVVNfTEVBTl9IT0dTOiB7IHN5bWJvbDogJ0ZVVFVSRS9VUy8vTEVBTiBIT0dTJywgbmFtZTogJ0xlYW4gSG9ncyBGdXR1cmVzJyB9LAogICAgVVNfTElWRV9DQVRUTEU6IHsgc3ltYm9sOiAnRlVUVVJFL1VTLy9MSVZFIENBVFRMRScsIG5hbWU6ICdMaXZlIENhdHRsZSBGdXR1cmVzJyB9LAogICAgVVNfTFVNQkVSOiB7IHN5bWJvbDogJ0ZVVFVSRS9VUy8vTFVNQkVSJywgbmFtZTogJ0x1bWJlciBGdXR1cmVzJyB9LAogICAgVVNfUEFMTEFESVVNOiB7IHN5bWJvbDogJ0ZVVFVSRS9VUy8vUEFMTEFESVVNJywgbmFtZTogJ1BhbGxhZGl1bSBGdXR1cmVzJyB9LAogICAgVVNfUExBVElOVU06IHsgc3ltYm9sOiAnRlVUVVJFL1VTLy9QTEFUSU5VTScsIG5hbWU6ICdQbGF0aW51bSBGdXR1cmVzJyB9LAogICAgVVNfTkFUVVJBTF9HQVM6IHsgc3ltYm9sOiAnRlVUVVJFL1VTLy9OQVRVUkFMIEdBUycsIG5hbWU6ICdOYXR1cmFsIEdhcyBGdXR1cmVzJyB9LAogICAgVVNfU0lMVkVSOiB7IHN5bWJvbDogJ0ZVVFVSRS9VUy8vU0lMVkVSJywgbmFtZTogJ1NpbHZlciBGdXR1cmVzJyB9LAogICAgVVNfU09ZQkVBTlM6IHsgc3ltYm9sOiAnRlVUVVJFL1VTLy9TT1lCRUFOUycsIG5hbWU6ICdTb3liZWFuIEZ1dHVyZXMnIH0sCiAgICBVU19TT1lCRUFOX09JTDogeyBzeW1ib2w6ICdGVVRVUkUvVVMvL1NPWUJFQU4gT0lMJywgbmFtZTogJ1NveWJlYW4gT2lsIEZ1dHVyZXMnIH0sCiAgICBVU19TVEFOREFSRF9QT09SU181MDA6IHsgc3ltYm9sOiAnRlVUVVJFL1VTLy9TJlAgNTAwIEZVVFVSRVMnLCBuYW1lOiAnUyZQIDUwMCBGdXR1cmVzJyB9LAogICAgVVNfU1VHQVI6IHsgc3ltYm9sOiAnRlVUVVJFL1VTLy9TVUdBUicsIG5hbWU6ICdTdWdhciBGdXR1cmVzJyB9LAogICAgVVNfVU5MRUFERURfR0FTT0xJTkU6IHsgc3ltYm9sOiAnRlVUVVJFL1VTLy9VTkxFQURFRCBHQVNPTElORScsIG5hbWU6ICdVbmxlYWRlZCBHYXNvbGluZSBGdXR1cmVzJyB9LAogICAgVVNfV0hFQVQ6IHsgc3ltYm9sOiAnRlVUVVJFL1VTLy9XSEVBVCcsIG5hbWU6ICdXaGVhdCBGdXR1cmVzJyB9CiAgfSw=</text>
+        <text encoding="base64">CgogIGNvbnN0IGZvcm1hdHRlciA9IGlkLmV4cGFuZGVkID8gZm9ybWF0RXhwYW5kZWRJbnN0cnVtZW50UHJpY2VzIDogZm9ybWF0SW5zdHJ1bWVudFByaWNlczs=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vbWFzdGVyCg==</text>
+        <text encoding="base64">ICBRdW90ZXMuSW5kZXguVVNfQ0JPRV9WT0xBVElMSVRZLAogIFF1b3Rlcy5GdXR1cmVzLlVTX0RKSUEsCiAgUXVvdGVzLkZ1dHVyZXMuVVNfU1RBTkRBUkRfUE9PUlNfNTAwCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/&quot;/'/g</text>

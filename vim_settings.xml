@@ -18,6 +18,7 @@
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/presentation/us/index/4u.js" timestamp="1559012390974" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Home/presentation/videocenter/12u.js" timestamp="1559022604962" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hant/Home/presentation/videocenter/16u.js" timestamp="1559022641063" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/components/USStockIndexTableFull.js" timestamp="1559030356820" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/wsj/stocks_us_index/pageData.json" timestamp="1558423905374">
         <mark key="[" line="5" column="17" />
         <mark key="]" line="9" column="33" />
@@ -62,7 +63,7 @@
         <mark key="." line="11" column="21" />
         <mark key="^" line="11" column="21" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/presentation/USIndex/4u.js" timestamp="1559012402909">
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/presentation/USIndex/4u.js" timestamp="1559030044827">
         <mark key="[" line="9" column="5" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/mdc/Table/dataStory.js" timestamp="1558070446529">
@@ -104,6 +105,7 @@
         <mark key="^" line="54" column="21" />
         <mark key="." line="54" column="21" />
       </file>
+      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/quotes/quotes_provider.js" timestamp="1559030348023" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hant/Home/presentation/videocenter/12u.js" timestamp="1559022654936" />
       <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/mdc/GlobalStyles/wsj/WSJTables.css" timestamp="1558336893041">
         <mark key="[" line="146" column="3" />

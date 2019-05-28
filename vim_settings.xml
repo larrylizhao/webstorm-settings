@@ -16,6 +16,8 @@
         <mark key="." line="17" column="14" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/presentation/us/index/4u.js" timestamp="1559012390974" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Home/presentation/videocenter/12u.js" timestamp="1559022604962" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hant/Home/presentation/videocenter/16u.js" timestamp="1559022641063" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/components/OtherAmericasIndexTableFull.js" timestamp="1558428363040">
         <mark key="[" line="66" column="30" />
         <mark key="]" line="66" column="28" />
@@ -38,6 +40,9 @@
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Home/components/index.js" timestamp="1559022195595">
+        <mark key="'" line="24" column="16" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/wsj/SlimlineHeader/i18n.json" timestamp="1558603078060">
         <mark key="[" line="16" column="25" />
@@ -72,6 +77,7 @@
         <mark key="^" line="2" column="30" />
         <mark key="." line="87" column="7" />
       </file>
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Home/presentation/videocenter/16u.js" timestamp="1559022575682" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/presentation/PEYields/16u.js" timestamp="1558685399956">
         <mark key="[" line="41" column="44" />
         <mark key="]" line="44" column="13" />
@@ -92,12 +98,6 @@
         <mark key="^" line="74" column="82" />
         <mark key="." line="74" column="82" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/wsj/SlimlineHeader/SectionsNav.js" timestamp="1558671513996">
-        <mark key="'" line="75" column="2" />
-        <mark key="[" line="73" column="39" />
-        <mark key="]" line="73" column="39" />
-        <mark key="." line="73" column="39" />
-      </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/components/USIndexTypeSelector.js" timestamp="1558431287934">
         <mark key="[" line="7" column="20" />
         <mark key="]" line="7" column="26" />
@@ -116,6 +116,7 @@
         <mark key="^" line="54" column="21" />
         <mark key="." line="54" column="21" />
       </file>
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hant/Home/presentation/videocenter/12u.js" timestamp="1559022654936" />
       <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/mdc/GlobalStyles/wsj/WSJTables.css" timestamp="1558336893041">
         <mark key="[" line="146" column="3" />
         <mark key="]" line="9" column="27" />
@@ -164,12 +165,8 @@
         <mark key="^" line="1" column="1" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJJapan/RSSFeed/components/index.js" timestamp="1558666746145">
-        <mark key="[" line="54" column="16" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="0" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Overview/components/OverviewSectionTableBonds.js" />
       <jump line="15" column="24" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/WSJJapan/overview/components/OverviewSectionTableBonds.js" />
       <jump line="17" column="15" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/WSJJapan/overview/components/OverviewSectionTableBonds.js" />
       <jump line="41" column="0" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/WSJJapan/overview/components/OverviewSectionTableBonds.js" />
@@ -269,6 +266,7 @@
       <jump line="68" column="4" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Content/Quotes.js" />
       <jump line="11" column="57" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/presentation/USIndex/blocks/index.js" />
       <jump line="44" column="0" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/presentation/USIndex/blocks/index.js" />
+      <jump line="24" column="16" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Home/components/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -278,7 +276,7 @@
         <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>DJT</text>
+        <text>VideoCenter</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUuaW5mbygncHJvcHMgYXJlJywgSlNPTi5zdHJpbmdpZnkocHJvcHMuY29udGV4dCkpOwo=</text>
@@ -315,9 +313,9 @@
       </register>
     </registers>
     <search>
-      <last-search>DJT</last-search>
+      <last-search>VideoCenter</last-search>
       <last-offset />
-      <last-pattern>DJT</last-pattern>
+      <last-pattern>VideoCenter</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -325,7 +323,6 @@
     </search>
     <history>
       <history-search>
-        <entry>%s</entry>
         <entry>ETF Movers</entry>
         <entry>priceEarningsRatio52WeekAgo</entry>
         <entry>table</entry>
@@ -345,6 +342,7 @@
         <entry>i18n</entry>
         <entry>djt</entry>
         <entry>DJT</entry>
+        <entry>VideoCenter</entry>
       </history-search>
       <history-cmd>
         <entry>%s/MutualFundsAndEtfs/Treasury/g</entry>

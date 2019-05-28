@@ -39,7 +39,7 @@
         <mark key="." line="11" column="21" />
         <mark key="^" line="11" column="21" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/presentation/USIndex/4u.js" timestamp="1559034011142">
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/presentation/USIndex/4u.js" timestamp="1559035870566">
         <mark key="[" line="32" column="45" />
         <mark key="]" line="32" column="45" />
         <mark key="." line="32" column="45" />
@@ -75,12 +75,12 @@
         <mark key="." line="11" column="40" />
         <mark key="^" line="31" column="9" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routes/routeConfig.json" timestamp="1559034781196">
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routes/routeConfig.json" timestamp="1559035821101">
         <mark key="'" line="27" column="2" />
         <mark key="[" line="290" column="33" />
-        <mark key="]" line="290" column="33" />
-        <mark key="^" line="281" column="34" />
-        <mark key="." line="290" column="33" />
+        <mark key="]" line="290" column="41" />
+        <mark key="^" line="290" column="41" />
+        <mark key="." line="290" column="41" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/components/StockIndexesTypeSelector.js" timestamp="1559031063281">
         <mark key="[" line="40" column="12" />
@@ -96,7 +96,7 @@
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/presentation/USIndex/16u.js" timestamp="1559034109019" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/presentation/PEYields/12u.js" timestamp="1558685406732" />
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/presentation/USIndex/8u.js" timestamp="1559034100192">
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/presentation/USIndex/8u.js" timestamp="1559035876547">
         <mark key="[" line="18" column="45" />
         <mark key="]" line="18" column="49" />
         <mark key="." line="18" column="49" />
@@ -207,10 +207,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>T</text>
+        <text>usStockIndex</text>
       </register>
       <register name="-" type="4">
-        <text>T</text>
+        <text>usStockIndex</text>
       </register>
       <register name="/" type="4">
         <text>VideoCenter</text>

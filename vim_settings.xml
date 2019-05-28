@@ -26,14 +26,20 @@
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Home/components/index.js" timestamp="1559022195595">
         <mark key="'" line="24" column="16" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/presentation/USIndex/blocks/index.js" timestamp="1559013942218">
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/components/Breadcrumbs.js" timestamp="1559034082123">
+        <mark key="[" line="4" column="60" />
+        <mark key="]" line="4" column="60" />
+        <mark key="." line="4" column="60" />
+        <mark key="^" line="4" column="59" />
+      </file>
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/presentation/USIndex/blocks/index.js" timestamp="1559034172474">
         <mark key="'" line="44" column="0" />
         <mark key="[" line="11" column="21" />
         <mark key="]" line="11" column="21" />
         <mark key="." line="11" column="21" />
         <mark key="^" line="11" column="21" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/presentation/USIndex/4u.js" timestamp="1559031430422">
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/presentation/USIndex/4u.js" timestamp="1559034011142">
         <mark key="[" line="32" column="45" />
         <mark key="]" line="32" column="45" />
         <mark key="." line="32" column="45" />
@@ -45,7 +51,7 @@
         <mark key="." line="44" column="13" />
         <mark key="^" line="44" column="13" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/presentation/USIndex/12u.js" timestamp="1559031460759" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/presentation/USIndex/12u.js" timestamp="1559034104580" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/presentation/PEYields/8u.js" timestamp="1558685415227" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Content/Quotes.js" timestamp="1559013662310">
         <mark key="'" line="66" column="4" />
@@ -55,26 +61,26 @@
         <mark key="." line="74" column="82" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/components/USIndexTypeSelector.js" timestamp="1559030809361" />
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/content/quotes.js" timestamp="1559013828411">
-        <mark key="[" line="54" column="21" />
-        <mark key="]" line="54" column="21" />
-        <mark key="^" line="54" column="21" />
-        <mark key="." line="54" column="21" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/content/quotes.js" timestamp="1559034858190">
+        <mark key="[" line="99" column="50" />
+        <mark key="]" line="100" column="20" />
+        <mark key="^" line="100" column="20" />
+        <mark key="." line="100" column="20" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/quotes/quotes_provider.js" timestamp="1559031613417" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hant/Home/presentation/videocenter/12u.js" timestamp="1559022654936" />
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/components/index.js" timestamp="1559031346809">
-        <mark key="[" line="28" column="2" />
-        <mark key="]" line="30" column="9" />
-        <mark key="." line="30" column="9" />
-        <mark key="^" line="30" column="9" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/components/index.js" timestamp="1559034317158">
+        <mark key="[" line="11" column="40" />
+        <mark key="]" line="11" column="40" />
+        <mark key="." line="11" column="40" />
+        <mark key="^" line="31" column="9" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routes/routeConfig.json" timestamp="1558690577253">
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routes/routeConfig.json" timestamp="1559034781196">
         <mark key="'" line="27" column="2" />
-        <mark key="[" line="292" column="0" />
-        <mark key="]" line="292" column="0" />
+        <mark key="[" line="290" column="33" />
+        <mark key="]" line="290" column="33" />
         <mark key="^" line="281" column="34" />
-        <mark key="." line="292" column="0" />
+        <mark key="." line="290" column="33" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/components/StockIndexesTypeSelector.js" timestamp="1559031063281">
         <mark key="[" line="40" column="12" />
@@ -88,12 +94,13 @@
         <mark key="." line="6" column="29" />
         <mark key="^" line="6" column="29" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/presentation/USIndex/16u.js" timestamp="1559031466303" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/presentation/USIndex/16u.js" timestamp="1559034109019" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/presentation/PEYields/12u.js" timestamp="1558685406732" />
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/presentation/USIndex/8u.js" timestamp="1559031457288">
-        <mark key="[" line="27" column="45" />
-        <mark key="]" line="27" column="45" />
-        <mark key="." line="27" column="45" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/presentation/USIndex/8u.js" timestamp="1559034100192">
+        <mark key="[" line="18" column="45" />
+        <mark key="]" line="18" column="49" />
+        <mark key="." line="18" column="49" />
+        <mark key="^" line="18" column="49" />
       </file>
     </filemarks>
     <jumps>
@@ -200,10 +207,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>USIndexTypeSelector_tabs</text>
+        <text>T</text>
       </register>
       <register name="-" type="4">
-        <text>USIndexTypeSelector_tabs</text>
+        <text>T</text>
       </register>
       <register name="/" type="4">
         <text>VideoCenter</text>

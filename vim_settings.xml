@@ -32,7 +32,7 @@
         <mark key="]" line="65" column="5" />
         <mark key="." line="65" column="5" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/quotes/test/quotes_provider-test.js" timestamp="1559096223014" />
+      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/quotes/test/quotes_provider-test.js" timestamp="1559111888726" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/wsj/stocks_us_index/pageData.json" timestamp="1558423905374">
         <mark key="[" line="5" column="17" />
         <mark key="]" line="9" column="33" />
@@ -108,7 +108,7 @@
         <mark key="." line="25" column="17" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/presentation/PEYields/8u.js" timestamp="1558685415227" />
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Content/Quotes.js" timestamp="1559110571342">
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Content/Quotes.js" timestamp="1559111115998">
         <mark key="'" line="66" column="4" />
         <mark key="[" line="74" column="0" />
         <mark key="]" line="74" column="82" />
@@ -122,11 +122,11 @@
         <mark key="." line="97" column="3" />
         <mark key="^" line="97" column="3" />
       </file>
-      <file name="/JavaScript Console" timestamp="1559110232391">
+      <file name="/JavaScript Console" timestamp="1559111609193">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/content/quotes.js" timestamp="1559034858190" />
-      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/quotes/quotes_provider.js" timestamp="1559110520790">
+      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/quotes/quotes_provider.js" timestamp="1559111795287">
         <mark key="[" line="26" column="19" />
         <mark key="]" line="26" column="21" />
         <mark key="." line="26" column="21" />

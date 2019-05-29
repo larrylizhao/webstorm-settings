@@ -18,19 +18,25 @@
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/presentation/us/index/4u.js" timestamp="1559012390974" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Home/presentation/videocenter/12u.js" timestamp="1559022604962" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hant/Home/presentation/videocenter/16u.js" timestamp="1559022641063" />
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/components/USStockIndexTableFull.js" timestamp="1559030621546" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/components/USStockIndexTableFull.js" timestamp="1559096146545">
+        <mark key="[" line="9" column="6" />
+        <mark key="]" line="10" column="22" />
+        <mark key="^" line="10" column="22" />
+        <mark key="." line="10" column="22" />
+      </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/components/OtherAmericasIndexTableFull.js" timestamp="1559030634232">
         <mark key="[" line="65" column="5" />
         <mark key="]" line="65" column="5" />
         <mark key="." line="65" column="5" />
       </file>
+      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/quotes/test/quotes_provider-test.js" timestamp="1559096223014" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/wsj/stocks_us_index/pageData.json" timestamp="1558423905374">
         <mark key="[" line="5" column="17" />
         <mark key="]" line="9" column="33" />
         <mark key="." line="9" column="33" />
         <mark key="^" line="9" column="33" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Bonds/components/BondBenchmarkTableFull.js" timestamp="1559095062740" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Bonds/components/BondBenchmarkTableFull.js" timestamp="1559096121274" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/content/usStockIndex.js" timestamp="1559012309414">
         <mark key="[" line="6" column="13" />
         <mark key="]" line="6" column="29" />

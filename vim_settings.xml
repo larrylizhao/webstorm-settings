@@ -126,11 +126,11 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/content/quotes.js" timestamp="1559034858190" />
-      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/quotes/quotes_provider.js" timestamp="1559111795287">
-        <mark key="[" line="26" column="19" />
-        <mark key="]" line="26" column="21" />
-        <mark key="." line="26" column="21" />
-        <mark key="^" line="26" column="21" />
+      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/quotes/quotes_provider.js" timestamp="1559113473455">
+        <mark key="[" line="22" column="48" />
+        <mark key="]" line="23" column="33" />
+        <mark key="." line="23" column="33" />
+        <mark key="^" line="23" column="33" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/resp.svc.article/lib/articles_dao_service.js" timestamp="1559103537618" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hant/Home/presentation/videocenter/12u.js" timestamp="1559022654936" />
@@ -159,6 +159,7 @@
         <mark key="^" line="29" column="36" />
         <mark key="." line="29" column="36" />
       </file>
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/clientDataProvider/MDC/quotes/index.js" timestamp="1559113389357" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/components/StockIndexesTypeSelector.js" timestamp="1559031063281">
         <mark key="[" line="40" column="12" />
         <mark key="]" line="40" column="15" />

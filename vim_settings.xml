@@ -58,6 +58,7 @@
         <mark key="." line="17" column="17" />
         <mark key="^" line="17" column="17" />
       </file>
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/webpack.config.js" timestamp="1559118587988" />
       <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/dataTypes.js" timestamp="1558087541842">
         <mark key="[" line="79" column="3" />
         <mark key="]" line="79" column="19" />
@@ -82,6 +83,7 @@
         <mark key="]" line="32" column="45" />
         <mark key="." line="32" column="45" />
       </file>
+      <file name="$USER_HOME$/Desktop/wsj/web-ui-2/es5/components/mdc/PresentationalComponents/Table/TableContent/index.js" timestamp="1559118069880" />
       <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/mdc/Table/dataStory.js" timestamp="1558070446529">
         <mark key="[" line="87" column="7" />
         <mark key="]" line="87" column="7" />
@@ -160,7 +162,7 @@
         <mark key="^" line="29" column="36" />
         <mark key="." line="29" column="36" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/clientDataProvider/MDC/quotes/index.js" timestamp="1559113389357" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/clientDataProvider/MDC/quotes/index.js" timestamp="1559118175771" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/components/StockIndexesTypeSelector.js" timestamp="1559031063281">
         <mark key="[" line="40" column="12" />
         <mark key="]" line="40" column="15" />

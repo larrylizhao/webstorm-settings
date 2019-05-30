@@ -50,10 +50,10 @@
         <mark key="^" line="296" column="41" />
         <mark key="." line="296" column="41" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/modules/dj.svc.nav/lib/footer_config/COLUMN_LINKS.json" timestamp="1559205105182">
-        <mark key="[" line="265" column="16" />
-        <mark key="]" line="265" column="23" />
-        <mark key="." line="265" column="23" />
+      <file name="$USER_HOME$/Desktop/wsj/modules/dj.svc.nav/lib/footer_config/COLUMN_LINKS.json" timestamp="1559206675440">
+        <mark key="[" line="179" column="146" />
+        <mark key="]" line="179" column="146" />
+        <mark key="." line="179" column="146" />
         <mark key="^" line="265" column="23" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/modules/personalization-app/lib/personalization.svc.page/layout/saved-content.mu" timestamp="1559197904489" />
@@ -240,10 +240,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>resp.module.nav</text>

@@ -4,6 +4,12 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Desktop/wsj/modules/personalization-app/lib/personalization.svc.page/page/saved-content.json" timestamp="1559197943781" />
+      <file name="$USER_HOME$/Desktop/wsj/modules/resp.module.nav/view/footer/_middlelinks_footer_jp.mu" timestamp="1559209462894">
+        <mark key="[" line="2" column="55" />
+        <mark key="]" line="2" column="55" />
+        <mark key="^" line="27" column="73" />
+        <mark key="." line="2" column="55" />
+      </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/presentation/us/index/4u.js" timestamp="1559012390974" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Home/presentation/videocenter/12u.js" timestamp="1559022604962" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hant/Home/presentation/videocenter/16u.js" timestamp="1559022641063" />
@@ -241,10 +247,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>resp.module.nav</text>

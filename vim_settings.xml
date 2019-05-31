@@ -105,11 +105,11 @@
         <mark key="." line="173" column="45" />
         <mark key="^" line="173" column="45" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/quotes/quotes_provider.js" timestamp="1559113473455">
-        <mark key="[" line="22" column="48" />
-        <mark key="]" line="23" column="33" />
-        <mark key="." line="23" column="33" />
-        <mark key="^" line="23" column="33" />
+      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/quotes/quotes_provider.js" timestamp="1559291306751">
+        <mark key="[" line="101" column="44" />
+        <mark key="]" line="101" column="41" />
+        <mark key="." line="101" column="41" />
+        <mark key="^" line="101" column="41" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/treasurySecuritiesProvider/treasury_securities_provider.js" timestamp="1559289073851">
         <mark key="[" line="28" column="0" />
@@ -128,7 +128,7 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routes/routeConfig.json" timestamp="1559287183375">
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routes/routeConfig.json" timestamp="1559291129206">
         <mark key="'" line="27" column="2" />
         <mark key="[" line="296" column="33" />
         <mark key="]" line="296" column="41" />
@@ -282,10 +282,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>formattedMaturityDate</text>
+        <text>expanded</text>
       </register>
       <register name="-" type="4">
-        <text>formattedMaturityDate</text>
+        <text>expanded</text>
       </register>
       <register name="/" type="4">
         <text>resp.module.nav</text>
@@ -293,32 +293,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUuaW5mbygncHJvcHMgYXJlJywgSlNPTi5zdHJpbmdpZnkocHJvcHMuY29udGV4dCkpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICBsZXQgID0gbnVsbDsK</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgaWYoZXhwYW5kZWQpIHsKICAgIGluc3RydW1lbnQuZGFpbHlIaWdoID0gZm9ybWF0dGVycy5mb3JtYXRUb01hbnRpc3NhKGluc3RydW1lbnQuZGFpbHlIaWdoLCBtYW50aXNzYSk7CiAgICBpbnN0cnVtZW50LmRhaWx5TG93ID0gZm9ybWF0dGVycy5mb3JtYXRUb01hbnRpc3NhKGluc3RydW1lbnQuZGFpbHlMb3csIG1hbnRpc3NhKTsKICAgIGluc3RydW1lbnQud2Vla0Fnb0NoYW5nZSA9IGZvcm1hdHRlcnMuZm9ybWF0VG9NYW50aXNzYShpbnN0cnVtZW50LndlZWtBZ29DaGFuZ2UsIG1hbnRpc3NhKTsKICAgIGluc3RydW1lbnQud2Vla0Fnb1BlcmNlbnRDaGFuZ2UgPSBmb3JtYXR0ZXJzLmZvcm1hdFRvTWFudGlzc2EoaW5zdHJ1bWVudC53ZWVrQWdvUGVyY2VudENoYW5nZSwgbWFudGlzc2EpOwogICAgaW5zdHJ1bWVudC5vbmVZZWFySGlnaCA9IGZvcm1hdHRlcnMuZm9ybWF0VG9NYW50aXNzYShpbnN0cnVtZW50Lm9uZVllYXJIaWdoLCBtYW50aXNzYSk7CiAgICBpbnN0cnVtZW50Lm9uZVllYXJMb3cgPSBmb3JtYXR0ZXJzLmZvcm1hdFRvTWFudGlzc2EoaW5zdHJ1bWVudC5vbmVZZWFyTG93LCBtYW50aXNzYSk7CiAgICBpbnN0cnVtZW50LnllYXJBZ29QZXJjZW50Q2hhbmdlID0gZm9ybWF0dGVycy5mb3JtYXRUb01hbnRpc3NhKGluc3RydW1lbnQueWVhckFnb1BlcmNlbnRDaGFuZ2UsIG1hbnRpc3NhKTsKICAgIGluc3RydW1lbnQueWVhclRvRGF0ZVBlcmNlbnRDaGFuZ2UgPSBmb3JtYXR0ZXJzLmZvcm1hdFRvTWFudGlzc2EoaW5zdHJ1bWVudC55ZWFyVG9EYXRlUGVyY2VudENoYW5nZSwgbWFudGlzc2EpOwogIH0=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICA9IHNpbm9uLnN0dWIoKTsK</text>
+        <text encoding="base64">ICBsZXQgID0gbnVsbDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAnZm9ybWF0VG9NYW50aXNzYSc6ICwK</text>
+        <text encoding="base64">ICAgICA9IHNpbm9uLnN0dWIoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC53aXRoQXJncygnOTguMDYnKS5yZXR1cm5zKCc5OC4wNicpOwo=</text>
+        <text encoding="base64">ICAgICAgICAnZm9ybWF0VG9NYW50aXNzYSc6ICwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC53aXRoQXJncygnOTcuMTUnKS5yZXR1cm5zKCc5Ny4xNScpOwo=</text>
+        <text encoding="base64">ICAgIC53aXRoQXJncygnOTguMDYnKS5yZXR1cm5zKCc5OC4wNicpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC53aXRoQXJncygnMC41NTYnKS5yZXR1cm5zKCcwLjU2Jyk7Cg==</text>
+        <text encoding="base64">ICAgIC53aXRoQXJncygnOTcuMTUnKS5yZXR1cm5zKCc5Ny4xNScpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC53aXRoQXJncygnMC42NjknKS5yZXR1cm5zKCcwLjY3Jyk7Cg==</text>
+        <text encoding="base64">ICAgIC53aXRoQXJncygnMC41NTYnKS5yZXR1cm5zKCcwLjU2Jyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC53aXRoQXJncygnOTguMDQnKS5yZXR1cm5zKCc5OC4wNCcpOwo=</text>
+        <text encoding="base64">ICAgIC53aXRoQXJncygnMC42NjknKS5yZXR1cm5zKCcwLjY3Jyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC53aXRoQXJncygnLi4uJykucmV0dXJucygnLi4uJyk7Cg==</text>
+        <text encoding="base64">ICAgIC53aXRoQXJncygnOTguMDQnKS5yZXR1cm5zKCc5OC4wNCcpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>%s/&quot;/'/g</text>

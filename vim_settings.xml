@@ -93,12 +93,6 @@
       <file name="/JavaScript Console" timestamp="1559057060660">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/wsj/SlimlineHeader/SectionsNav.js" timestamp="1558671513996">
-        <mark key="'" line="75" column="2" />
-        <mark key="[" line="73" column="39" />
-        <mark key="]" line="73" column="39" />
-        <mark key="." line="73" column="39" />
-      </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJJapan/RSSFeed/components/index.js" timestamp="1558666746145">
         <mark key="[" line="54" column="16" />
       </file>
@@ -154,6 +148,11 @@
         <mark key="]" line="9" column="27" />
         <mark key="." line="9" column="27" />
         <mark key="^" line="9" column="27" />
+      </file>
+      <file name="$USER_HOME$/Desktop/wsj/modules/resp.module.nav/view/footer/_middlelinks_footer_jp.mu" timestamp="1559229303096">
+        <mark key="[" line="38" column="60" />
+        <mark key="]" line="38" column="60" />
+        <mark key="." line="38" column="60" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/quotes/quotes_provider.js" timestamp="1559056988172">
         <mark key="[" line="35" column="45" />
@@ -265,10 +264,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>count</text>
+        <text>target=&quot;_blank&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>count</text>
+        <text>target=&quot;_blank&quot;</text>
       </register>
       <register name="/" type="4">
         <text>i18n</text>
@@ -276,34 +275,34 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUuaW5mbygncHJvcHMgYXJlJywgSlNPTi5zdHJpbmdpZnkocHJvcHMuY29udGV4dCkpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgY291bnQgPSAwOwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">PGxpPjxhIGhyZWY9Imh0dHBzOi8vanAud3NqLmNvbS9zcC9tb2JpbGUvaW5kZXgyLmh0bWw/bW9kPVdTSl9KUEZvb3RlciI+aVBhZHt7I2kxOG59fSBBcHB7ey9pMThufX08L2E+PC9saT4KICAgIDxsaT48YSBocmVmPSJodHRwczovL2pwLndzai5jb20vc3AvbW9iaWxlL2luZGV4My5odG1sP21vZD1XU0pfSlBGb290ZXIiPkFuZHJvaWR7eyNpMThufX0gQXBwe3svaTE4bn19PC9hPjwvbGk+CiAgICA8bGk+PGEgaHJlZj0iaHR0cHM6Ly9qcC53c2ouY29tL25ld3NsZXR0ZXJzP21vZD1XU0pfSlBGb290ZXIiPjwvYT48L2xpPg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBsZXQgY291bnQgPSAwOwo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBjb3VudCA9IGNvdW50ICsgaGVhZGVyLmxlbmd0aDsK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>function processModel(model) {
   
 }</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">KG1vZGVsKSA9PiB7CiAgfQ==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">CiAgICA=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICB7IGhlYWRlcjogLCBsZW5ndGg6IH0sCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICB7IGhlYWRlcjogJycsIGxlbmd0aDogfSwK</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">CgogIGNvbnN0IGZvcm1hdHRlciA9IGlkLmV4cGFuZGVkID8gZm9ybWF0RXhwYW5kZWRJbnN0cnVtZW50UHJpY2VzIDogZm9ybWF0SW5zdHJ1bWVudFByaWNlczs=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICBRdW90ZXMuSW5kZXguVVNfQ0JPRV9WT0xBVElMSVRZLAogIFF1b3Rlcy5GdXR1cmVzLlVTX0RKSUEsCiAgUXVvdGVzLkZ1dHVyZXMuVVNfU1RBTkRBUkRfUE9PUlNfNTAwCg==</text>
       </register>
       <register name=":" type="4">
         <text>%s/&quot;/'/g</text>

@@ -7,12 +7,16 @@
       <file name="$USER_HOME$/Desktop/wsj/modules/resp.module.nav/view/footer/_middlelinks_footer_jp.mu" timestamp="1559209462894">
         <mark key="[" line="2" column="55" />
         <mark key="]" line="2" column="55" />
-        <mark key="^" line="27" column="73" />
         <mark key="." line="2" column="55" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/presentation/us/index/4u.js" timestamp="1559012390974" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Home/presentation/videocenter/12u.js" timestamp="1559022604962" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hant/Home/presentation/videocenter/16u.js" timestamp="1559022641063" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/components/OtherAmericasIndexTableFull.js" timestamp="1559030634232">
+        <mark key="[" line="65" column="5" />
+        <mark key="]" line="65" column="5" />
+        <mark key="." line="65" column="5" />
+      </file>
       <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/quotes/test/quotes_provider-test.js" timestamp="1559111888726" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Bonds/components/BondBenchmarkTableFull.js" timestamp="1559096121274" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/content/usStockIndex.js" timestamp="1559012309414">
@@ -21,6 +25,11 @@
         <mark key="." line="6" column="29" />
         <mark key="^" line="6" column="29" />
       </file>
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/presentation/PEYields/blocks/index.js" timestamp="1558683573331">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/webpack.config.js" timestamp="1559118587988" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/WSJJapan/components.js" timestamp="1559180756357">
         <mark key="[" line="12" column="0" />
@@ -28,6 +37,11 @@
         <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/modules/personalization-app/configuration/routes.json" timestamp="1559196000101" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/presentation/USIndex/4u.js" timestamp="1559035870566">
+        <mark key="[" line="32" column="45" />
+        <mark key="]" line="32" column="45" />
+        <mark key="." line="32" column="45" />
+      </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/presentation/PEYields/16u.js" timestamp="1558685399956">
         <mark key="[" line="41" column="44" />
         <mark key="]" line="44" column="13" />

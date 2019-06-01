@@ -154,11 +154,7 @@
         <mark key="]" line="38" column="60" />
         <mark key="." line="38" column="60" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/quotes/quotes_provider.js" timestamp="1559056988172">
-        <mark key="[" line="35" column="45" />
-        <mark key="]" line="35" column="45" />
-        <mark key="." line="35" column="45" />
-      </file>
+      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/quotes/quotes_provider.js" timestamp="1559056988172" />
     </filemarks>
     <jumps>
       <jump line="78" column="16" filename="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/resp.svc.article/lib/template_config.js" />

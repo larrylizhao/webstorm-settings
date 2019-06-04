@@ -98,13 +98,13 @@
         <mark key="^" line="125" column="7" />
         <mark key="." line="125" column="7" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/mdc/MarketDataLegalTextFlyout/index.js" timestamp="1559619838640" />
+      <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/mdc/MarketDataLegalTextFlyout/index.js" timestamp="1559634743468" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/content/peYieldsDowJones.js" timestamp="1559287431338" />
-      <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/mdc/MarketDataLegalTextFlyout/data/contents.js" timestamp="1559620422646">
-        <mark key="[" line="3" column="409" />
-        <mark key="]" line="15" column="10" />
-        <mark key="^" line="15" column="10" />
-        <mark key="." line="15" column="10" />
+      <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/mdc/MarketDataLegalTextFlyout/data/contents.js" timestamp="1559634753995">
+        <mark key="[" line="3" column="287" />
+        <mark key="]" line="3" column="416" />
+        <mark key="^" line="3" column="416" />
+        <mark key="." line="3" column="416" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/layout/japan_wsj_resp_article_16u_snippet.mu" timestamp="1559630803246" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/page/japan_wsj_resp_article_16u.json" timestamp="1559630916406">
@@ -250,11 +250,11 @@
       <jump line="11" column="34" filename="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/layout/japan_wsj_resp_article_16u.mu" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>cn</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text>share</text>

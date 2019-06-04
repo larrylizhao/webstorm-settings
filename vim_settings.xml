@@ -7,18 +7,21 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Business/components/index.js" timestamp="1559541553245" />
-      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/peAndYields/peAndYields_provider.js" timestamp="1559287560801">
-        <mark key="[" line="29" column="15" />
-        <mark key="]" line="30" column="1" />
-        <mark key="." line="30" column="1" />
-        <mark key="^" line="30" column="1" />
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/page/japan_wsj_resp_article_16u_snippet.json" timestamp="1559630889369">
+        <mark key="[" line="23" column="29" />
+        <mark key="]" line="24" column="47" />
+        <mark key="^" line="24" column="47" />
+        <mark key="." line="24" column="47" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/getMDCLayout.js" timestamp="1559541662278" />
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/layout/japan_wsj_resp_article_16u.mu" timestamp="1559614927611">
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/layout/japan_wsj_resp_article_16u.mu" timestamp="1559630782399">
         <mark key="'" line="11" column="34" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/webui/modules/wsj/articleTools/translations.json" timestamp="1559615377563">
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/webui/modules/wsj/articleTools/translations.json" timestamp="1559630446087">
         <mark key="[" line="15" column="3" />
+        <mark key="]" line="16" column="13" />
+        <mark key="^" line="16" column="13" />
+        <mark key="." line="16" column="13" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/components/USStockIndexTableFull.js" timestamp="1559533253585">
         <mark key="[" line="9" column="6" />
@@ -40,18 +43,7 @@
         <mark key="." line="20" column="24" />
         <mark key="^" line="20" column="24" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/content/usStockIndex.js" timestamp="1559012309414">
-        <mark key="[" line="6" column="13" />
-        <mark key="]" line="6" column="29" />
-        <mark key="." line="6" column="29" />
-        <mark key="^" line="6" column="29" />
-      </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/components/Breadcrumbs.js" timestamp="1559034082123">
-        <mark key="[" line="4" column="60" />
-        <mark key="]" line="4" column="60" />
-        <mark key="." line="4" column="60" />
-        <mark key="^" line="4" column="59" />
-      </file>
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/page/china_wsj_resp_article_16u.json" timestamp="1559630699584" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/WSJJapan/components.js" timestamp="1559541761229">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -72,12 +64,6 @@
       <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/quotes/debug.js" timestamp="1559528925404">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/presentation/PEYields/16u.js" timestamp="1558685399956">
-        <mark key="[" line="41" column="44" />
-        <mark key="]" line="44" column="13" />
-        <mark key="." line="44" column="13" />
-        <mark key="^" line="44" column="13" />
-      </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Content/Quotes.js" timestamp="1559294653374">
         <mark key="'" line="66" column="4" />
         <mark key="[" line="74" column="0" />
@@ -85,7 +71,7 @@
         <mark key="^" line="74" column="82" />
         <mark key="." line="74" column="82" />
       </file>
-      <file name="/JavaScript Console" timestamp="1559614738149">
+      <file name="/JavaScript Console" timestamp="1559631497563">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/treasurySecuritiesProvider/test/treasury_securities-test.js" timestamp="1559289211769">
@@ -120,30 +106,19 @@
         <mark key="^" line="15" column="10" />
         <mark key="." line="15" column="10" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/page/japan_wsj_resp_article_16u.json" timestamp="1559615315924">
-        <mark key="[" line="230" column="28" />
-        <mark key="]" line="233" column="5" />
-        <mark key="." line="233" column="5" />
-        <mark key="^" line="233" column="5" />
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/layout/japan_wsj_resp_article_16u_snippet.mu" timestamp="1559630803246" />
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/page/japan_wsj_resp_article_16u.json" timestamp="1559630916406">
+        <mark key="[" line="218" column="0" />
+        <mark key="]" line="218" column="0" />
+        <mark key="^" line="224" column="6" />
+        <mark key="." line="218" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routes/routeConfig.json" timestamp="1559295252248">
         <mark key="'" line="27" column="2" />
-        <mark key="[" line="296" column="33" />
-        <mark key="]" line="296" column="41" />
-        <mark key="^" line="296" column="41" />
-        <mark key="." line="296" column="41" />
-      </file>
-      <file name="$USER_HOME$/Desktop/wsj/modules/dj.svc.nav/lib/footer_config/COLUMN_LINKS.json" timestamp="1559206675440">
-        <mark key="[" line="179" column="146" />
-        <mark key="]" line="179" column="146" />
-        <mark key="." line="179" column="146" />
-        <mark key="^" line="265" column="23" />
-      </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/components/StockIndexesTypeSelector.js" timestamp="1559031063281">
-        <mark key="[" line="40" column="12" />
-        <mark key="]" line="40" column="15" />
-        <mark key="." line="40" column="15" />
-        <mark key="^" line="40" column="15" />
+        <mark key="[" line="301" column="33" />
+        <mark key="]" line="301" column="41" />
+        <mark key="^" line="301" column="41" />
+        <mark key="." line="301" column="41" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/treasury/test/treasury-test.js" timestamp="1559288971271">
         <mark key="[" line="70" column="52" />
@@ -151,14 +126,15 @@
         <mark key="." line="131" column="56" />
         <mark key="^" line="131" column="56" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/content/otherAmericasIndex.js" timestamp="1559012337871">
-        <mark key="[" line="6" column="13" />
-        <mark key="]" line="6" column="29" />
-        <mark key="." line="6" column="29" />
-        <mark key="^" line="6" column="29" />
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/layout/japan_wsj_resp_article_16u_slideshow.mu" timestamp="1559630819572" />
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/page/japan_wsj_resp_article_16u_slideshow.json" timestamp="1559631477273">
+        <mark key="[" line="10" column="44" />
+        <mark key="]" line="146" column="5" />
+        <mark key="^" line="146" column="5" />
+        <mark key="." line="146" column="5" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/components/PEYieldsTable.js" timestamp="1559288240314" />
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/webui/modules/wsj/articleTools/index.js" timestamp="1559615359619">
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/webui/modules/wsj/articleTools/index.js" timestamp="1559630546336">
         <mark key="[" line="5" column="62" />
         <mark key="]" line="5" column="70" />
         <mark key="^" line="5" column="70" />
@@ -169,12 +145,6 @@
         <mark key="]" line="15" column="27" />
         <mark key="." line="15" column="27" />
         <mark key="^" line="24" column="6" />
-      </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/presentation/USIndex/8u.js" timestamp="1559035876547">
-        <mark key="[" line="18" column="45" />
-        <mark key="]" line="18" column="49" />
-        <mark key="." line="18" column="49" />
-        <mark key="^" line="18" column="49" />
       </file>
     </filemarks>
     <jumps>
@@ -280,11 +250,11 @@
       <jump line="11" column="34" filename="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/layout/japan_wsj_resp_article_16u.mu" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>comingup</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>comingup</text>
+        <text>cn</text>
       </register>
       <register name="/" type="4">
         <text>share</text>
@@ -295,36 +265,33 @@
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgICJhcnRpY2xlX3Rvb2xzIiA6IFsKICAgICAgewogICAgICAgICJuYW1lIiA6ICJhcnRpY2xlLmFwcC9saWIvbW9kdWxlL3NoYXJlVG9vbHMiLAogICAgICAgICJwYXJhbXMiIDogewogICAgICAgICAgIkFMVF9WSUVXX05BTUUiIDogIjE2dV9hcnRpY2xlX3Rvb2xzIiwKICAgICAgICAgICJoYXNFdmVybm90ZSI6IGZhbHNlCiAgICAgICAgfQogICAgICB9CiAgICBdLA==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGV4cGVjdChtb2RlbC5pbnN0cnVtZW50U2V0c1sxXS5oZWFkZXJGaWVsZHNbMF0ubGFiZWwpLnRvLmVxdWFsKCdTJlAnKTsK</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text>bluegrassChannel: {
             channel: '/zigman2/quotes/210598065/realtime',
             type: 'DelayedChannel'
           },</text>
       </register>
-      <register name="7" type="4">
-        <text>bluegrassChannel: {
-            channel: '/zigman2/quotes/210598063/realtime',
-            type: 'DelayedChannel'
-          },</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgYmx1ZWdyYXNzQ2hhbm5lbDogewogICAgICAgICAgICBjaGFubmVsOiAnL3ppZ21hbjIvcXVvdGVzLzIxMDYwMDE1OS9kZWxheWVkJywKICAgICAgICAgICAgdHlwZTogJ0RlbGF5ZWRDaGFubmVsJwogICAgICAgICAgfSw=</text>
-      </register>
       <register name="9" type="4">
         <text>bluegrassChannel: {
-            channel: '/zigman2/quotes/210599714/realtime',
+            channel: '/zigman2/quotes/210598063/realtime',
             type: 'DelayedChannel'
           },</text>
       </register>

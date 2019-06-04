@@ -14,12 +14,12 @@
         <mark key="." line="24" column="47" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/getMDCLayout.js" timestamp="1559541662278" />
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/layout/japan_wsj_resp_article_16u.mu" timestamp="1559637613123">
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/layout/japan_wsj_resp_article_16u.mu" timestamp="1559639273251">
         <mark key="'" line="11" column="34" />
-        <mark key="[" line="122" column="0" />
-        <mark key="]" line="126" column="95" />
-        <mark key="." line="126" column="95" />
-        <mark key="^" line="126" column="95" />
+        <mark key="[" line="108" column="9" />
+        <mark key="]" line="109" column="7" />
+        <mark key="^" line="109" column="7" />
+        <mark key="." line="109" column="7" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/webui/modules/wsj/articleTools/translations.json" timestamp="1559630446087">
         <mark key="[" line="15" column="3" />
@@ -55,7 +55,7 @@
         <mark key="^" line="45" column="16" />
         <mark key="." line="45" column="16" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/page/china_wsj_resp_article_16u.json" timestamp="1559630699584" />
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/page/china_wsj_resp_article_16u.json" timestamp="1559639503038" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Bonds/components/index.js" timestamp="1559287250807" />
       <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/shared-react-components/ArticleTools/stylingUtils.js" timestamp="1559636916859" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Bonds/components/TreasuryNotesAndBondsTableFull.js" timestamp="1559288697213">
@@ -76,7 +76,7 @@
       </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/webui/packages/wsj/articleTools/index.js" timestamp="1559635815306" />
       <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/shared-react-components/ArticleTools/index.js" timestamp="1559637101897" />
-      <file name="/JavaScript Console" timestamp="1559637837070">
+      <file name="/JavaScript Console" timestamp="1559639964581">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/treasurySecuritiesProvider/test/treasury_securities-test.js" timestamp="1559289211769">
@@ -107,8 +107,13 @@
         <mark key="^" line="3" column="416" />
         <mark key="." line="3" column="416" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/layout/japan_wsj_resp_article_16u_snippet.mu" timestamp="1559637558474" />
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/page/japan_wsj_resp_article_16u.json" timestamp="1559630916406">
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/layout/japan_wsj_resp_article_16u_snippet.mu" timestamp="1559639357520">
+        <mark key="[" line="99" column="15" />
+        <mark key="]" line="86" column="121" />
+        <mark key="^" line="86" column="121" />
+        <mark key="." line="86" column="121" />
+      </file>
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/page/japan_wsj_resp_article_16u.json" timestamp="1559639845489">
         <mark key="[" line="218" column="0" />
         <mark key="]" line="218" column="0" />
         <mark key="^" line="224" column="6" />
@@ -136,7 +141,7 @@
         <mark key="." line="146" column="5" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/components/PEYieldsTable.js" timestamp="1559288240314" />
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/webui/modules/wsj/articleTools/index.js" timestamp="1559632983871">
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/webui/modules/wsj/articleTools/index.js" timestamp="1559639903603">
         <mark key="[" line="5" column="62" />
         <mark key="]" line="5" column="70" />
         <mark key="^" line="5" column="70" />
@@ -252,8 +257,8 @@
       <jump line="11" column="34" filename="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/layout/japan_wsj_resp_article_16u.mu" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Ij4KICAgICAgICAg</text>
       </register>
       <register name="-" type="4">
         <text>n</text>
@@ -264,32 +269,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUuaW5mbygncHJvcHMgYXJlJywgSlNPTi5zdHJpbmdpZnkocHJvcHMuY29udGV4dCkpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">Ij4KICAgICAgICAg</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJtb2R1bGUgaGlkZTEyIGhpZGUxNiBzaGFyZV90b29scyI+CiAgICAgICAgICAgICAgICB7ez5hcnRpY2xlVG9vbHN9fQogICAgICAgICAgICAgIDwvZGl2Pg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgICJhcnRpY2xlX3Rvb2xzIiA6IFsKICAgICAgewogICAgICAgICJuYW1lIiA6ICJhcnRpY2xlLmFwcC9saWIvbW9kdWxlL3NoYXJlVG9vbHMiLAogICAgICAgICJwYXJhbXMiIDogewogICAgICAgICAgIkFMVF9WSUVXX05BTUUiIDogIjE2dV9hcnRpY2xlX3Rvb2xzIiwKICAgICAgICAgICJoYXNFdmVybm90ZSI6IGZhbHNlCiAgICAgICAgfQogICAgICB9CiAgICBdLA==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgID4K</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">PGRpdgogICAgICAgICAgICBpZD0iYXJ0aWNsZV90b29scyIKICAgICAgICAgICAgZGF0YS10cmFjaz0iYXJ0aWNsZV9zZWN0b3IiCiAgICAgICAgICAgIGNsYXNzPSJzdGlja3lfaXRlbSBjb2x1bW4gY29sMSBzaGFyZV90b29scyBhdDgtY29sOCBhdDQtY29sNCIKICAgICAgICAgICAgaW50ZW50CiAgICAgICAgICAgIGluLWF0NHVuaXRzLWNsYXNzPSJjb2w0IGRpc2FibGVTY3JvbGwiCiAgICAgICAgICAgIGluLWF0OHVuaXRzLWNsYXNzPSJjb2w4IGRpc2FibGVTY3JvbGwiCiAgICAgICAgICAgIGluLWJhc2UtY2xhc3M9IiI+CiAgICAgICAgICAgIDxkaXYgY2xhc3M9Im1vZHVsZSBzdGlja3lfdGFyZ2V0IHRvZ2dsZS1wYXJlbnQiPgogICAgICAgICAgICAgIHt7PmFydGljbGVUb29sc319CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPC9kaXY=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJtb2R1bGUgaGlkZTEyIGhpZGUxNiBzaGFyZV90b29scyI+CiAgICAgICAgICAgICAgICB7ez5hcnRpY2xlVG9vbHN9fQogICAgICAgICAgICAgIDwvZGl2Pg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIGV4cGVjdChtb2RlbC5pbnN0cnVtZW50U2V0c1sxXS5oZWFkZXJGaWVsZHNbMF0ubGFiZWwpLnRvLmVxdWFsKCdTJlAnKTsK</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgICJhcnRpY2xlX3Rvb2xzIiA6IFsKICAgICAgewogICAgICAgICJuYW1lIiA6ICJhcnRpY2xlLmFwcC9saWIvbW9kdWxlL3NoYXJlVG9vbHMiLAogICAgICAgICJwYXJhbXMiIDogewogICAgICAgICAgIkFMVF9WSUVXX05BTUUiIDogIjE2dV9hcnRpY2xlX3Rvb2xzIiwKICAgICAgICAgICJoYXNFdmVybm90ZSI6IGZhbHNlCiAgICAgICAgfQogICAgICB9CiAgICBdLA==</text>
       </register>
       <register name=":" type="4">
         <text>%s/&quot;/'/g</text>

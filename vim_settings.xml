@@ -47,15 +47,16 @@
         <mark key="." line="20" column="24" />
         <mark key="^" line="20" column="24" />
       </file>
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/webui/packages/wsj/china_slimHeader/index.js" timestamp="1559703722197" />
       <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/shared-react-components/ArticleTools/spec.js" timestamp="1559636840593" />
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/layout/china_wsj_resp_article_16u.mu" timestamp="1559637401753" />
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/layout/china_wsj_resp_article_16u.mu" timestamp="1559703612152" />
       <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/shared-react-components/ArticleTools/translations.json" timestamp="1559636460540">
         <mark key="[" line="44" column="15" />
         <mark key="]" line="45" column="16" />
         <mark key="^" line="45" column="16" />
         <mark key="." line="45" column="16" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/page/china_wsj_resp_article_16u.json" timestamp="1559639503038" />
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/page/china_wsj_resp_article_16u.json" timestamp="1559703584481" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Bonds/components/index.js" timestamp="1559287250807" />
       <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/shared-react-components/ArticleTools/stylingUtils.js" timestamp="1559636916859" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Bonds/components/TreasuryNotesAndBondsTableFull.js" timestamp="1559288697213">
@@ -76,7 +77,7 @@
       </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/webui/packages/wsj/articleTools/index.js" timestamp="1559635815306" />
       <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/shared-react-components/ArticleTools/index.js" timestamp="1559637101897" />
-      <file name="/JavaScript Console" timestamp="1559639964581">
+      <file name="/JavaScript Console" timestamp="1559703771309">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/treasurySecuritiesProvider/test/treasury_securities-test.js" timestamp="1559289211769">
@@ -140,11 +141,11 @@
         <mark key="^" line="146" column="5" />
         <mark key="." line="146" column="5" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/webui/modules/wsj/articleTools/generateOptions.js" timestamp="1559642136958">
-        <mark key="[" line="139" column="8" />
-        <mark key="]" line="151" column="44" />
-        <mark key="^" line="151" column="44" />
-        <mark key="." line="151" column="44" />
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/webui/modules/wsj/articleTools/generateOptions.js" timestamp="1559703052824">
+        <mark key="[" line="139" column="76" />
+        <mark key="]" line="139" column="90" />
+        <mark key="^" line="139" column="90" />
+        <mark key="." line="139" column="90" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/components/PEYieldsTable.js" timestamp="1559288240314" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/webui/modules/wsj/articleTools/index.js" timestamp="1559640916533">

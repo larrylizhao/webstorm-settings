@@ -2,6 +2,9 @@
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="meta back_slash" second-keystroke="meta w" />
   </action>
+  <action id="CompareTwoFiles">
+    <keyboard-shortcut first-keystroke="meta back_slash" second-keystroke="meta d" />
+  </action>
   <action id="OpenFile">
     <keyboard-shortcut first-keystroke="meta i" />
   </action>

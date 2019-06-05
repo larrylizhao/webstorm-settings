@@ -50,7 +50,7 @@
       <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/quotes/debug.js" timestamp="1559528925404">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/shared-react-components/ArticleTools/index.js" timestamp="1559637101897" />
+      <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/shared-react-components/ArticleTools/index.js" timestamp="1559722304580" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/layout/china_wsj_resp_article_16u_snippet.mu" timestamp="1559637531088" />
       <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/quotes/quotes_provider.js" timestamp="1559530764498">
         <mark key="[" line="101" column="44" />
@@ -141,6 +141,7 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/wsj/ArticleTools/index.js" timestamp="1559722511672" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Content/Quotes.js" timestamp="1559294653374">
         <mark key="'" line="66" column="4" />
         <mark key="[" line="74" column="0" />

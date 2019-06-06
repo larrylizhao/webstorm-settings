@@ -192,6 +192,7 @@
         <mark key="." line="125" column="7" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/mdc/MarketDataLegalTextFlyout/index.js" timestamp="1559634743468" />
+      <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/mdc/PresentationalComponents/Table/TableNotes/index.js" timestamp="1559803439349" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/module/articleSlideshow.js" timestamp="1559720162351" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/module/articleBody.js" timestamp="1559717273978" />
       <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/shared-react-components/ShareMenu/index.js" timestamp="1559727456168" />
@@ -226,8 +227,8 @@
         <mark key="." line="66" column="40" />
         <mark key="^" line="66" column="40" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/components/PEYieldsTable.js" timestamp="1559791478672">
-        <mark key="[" line="0" column="35" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/components/PEYieldsTable.js" timestamp="1559803008250">
+        <mark key="[" line="1" column="83" />
         <mark key="]" line="2" column="0" />
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />

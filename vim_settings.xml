@@ -168,11 +168,11 @@
       </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/module/articleSlideshow.js" timestamp="1559720162351" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/module/articleBody.js" timestamp="1559717273978" />
-      <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/shared-react-components/ShareMenu/index.js" timestamp="1560136745956">
-        <mark key="[" line="150" column="10" />
-        <mark key="]" line="150" column="14" />
+      <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/shared-react-components/ShareMenu/index.js" timestamp="1560136919458">
+        <mark key="[" line="153" column="52" />
+        <mark key="]" line="153" column="52" />
         <mark key="^" line="150" column="14" />
-        <mark key="." line="150" column="14" />
+        <mark key="." line="153" column="52" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/page/japan_wsj_resp_article_16u_slideshow.json" timestamp="1559720156919">
         <mark key="[" line="15" column="6" />
@@ -304,10 +304,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>line</text>
+        <text>URLEncodedPermalink</text>
       </register>
       <register name="-" type="4">
-        <text>line</text>
+        <text>URLEncodedPermalink</text>
       </register>
       <register name="/" type="4">
         <text>share</text>

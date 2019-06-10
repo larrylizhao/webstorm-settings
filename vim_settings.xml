@@ -120,8 +120,10 @@
       <file name="$USER_HOME$/Desktop/wsj/modules/cwsjconverter/lib/rssparser.js" timestamp="1560156784885">
         <mark key="[" line="197" column="62" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/modules/cwsjconverter/lib/reformatter.js" timestamp="1560154753501">
-        <mark key="[" line="404" column="9" />
+      <file name="$USER_HOME$/Desktop/wsj/modules/cwsjconverter/lib/reformatter.js" timestamp="1560159947674">
+        <mark key="[" line="405" column="26" />
+        <mark key="]" line="405" column="26" />
+        <mark key="." line="405" column="26" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/Author/presentation/index.js" timestamp="1559541881916" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/layout/wsj_resp_article_16u_slideshow.mu" timestamp="1559720030321" />
@@ -312,11 +314,11 @@
       <jump line="11" column="34" filename="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/layout/japan_wsj_resp_article_16u.mu" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc29sZS5pbmZvKCdzaGFyZUl0ZW1zIGFyZScsIHNoYXJlSXRlbXMpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>linkEN</text>
       </register>
       <register name="-" type="4">
-        <text>URLEncodedPermalink</text>
+        <text>linkEN</text>
       </register>
       <register name="/" type="4">
         <text>share</text>

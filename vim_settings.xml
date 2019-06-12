@@ -38,6 +38,7 @@
       <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/quotes/debug.js" timestamp="1559528925404">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/i18n/jp_JP.json" timestamp="1560306202620" />
       <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/wsj/ArticleTools/dataStory.js" timestamp="1559725429301">
         <mark key="[" line="155" column="33" />
         <mark key="]" line="155" column="34" />
@@ -84,9 +85,6 @@
         <mark key="." line="131" column="56" />
         <mark key="^" line="131" column="56" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/layout/japan_wsj_resp_article_16u_slideshow.mu" timestamp="1559720116474">
-        <mark key="[" line="100" column="36" />
-      </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/webui/modules/wsj/articleTools/index.js" timestamp="1559715712214">
         <mark key="[" line="5" column="62" />
         <mark key="]" line="5" column="70" />
@@ -123,7 +121,7 @@
         <mark key="^" line="102" column="34" />
         <mark key="." line="102" column="34" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/modules/cwsjconverter/lib/reformatter.js" timestamp="1560221763642">
+      <file name="$USER_HOME$/Desktop/wsj/modules/cwsjconverter/lib/reformatter.js" timestamp="1560306092415">
         <mark key="[" line="357" column="35" />
         <mark key="]" line="358" column="70" />
         <mark key="." line="358" column="70" />

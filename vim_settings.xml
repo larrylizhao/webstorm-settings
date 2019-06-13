@@ -70,11 +70,11 @@
         <mark key="^" line="101" column="41" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/content/peYieldsDowJones.js" timestamp="1559287431338" />
-      <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/mdc/MarketDataLegalTextFlyout/data/contents.js" timestamp="1560412177363">
-        <mark key="[" line="36" column="194" />
-        <mark key="]" line="50" column="24" />
+      <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/mdc/MarketDataLegalTextFlyout/data/contents.js" timestamp="1560414133128">
+        <mark key="[" line="36" column="178" />
+        <mark key="]" line="36" column="178" />
         <mark key="^" line="50" column="24" />
-        <mark key="." line="50" column="24" />
+        <mark key="." line="36" column="178" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/layout/japan_wsj_resp_article_16u_snippet.mu" timestamp="1559720091263">
         <mark key="[" line="101" column="15" />
@@ -367,11 +367,11 @@
       <jump line="11" column="34" filename="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/layout/japan_wsj_resp_article_16u.mu" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">44CA</text>
       </register>
       <register name="-" type="4">
-        <text>origin</text>
+        <text encoding="base64">44CA</text>
       </register>
       <register name="/" type="4">
         <text>share</text>

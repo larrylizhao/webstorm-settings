@@ -90,10 +90,10 @@
       <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/shared-react-components/ShareMenu/translations.json" timestamp="1559727948017">
         <mark key="[" line="9" column="3" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/modules/dj.svc.nav/lib/footer_config/COLUMN_LINKS.json" timestamp="1559206675440">
-        <mark key="[" line="179" column="146" />
-        <mark key="]" line="179" column="146" />
-        <mark key="." line="179" column="146" />
+      <file name="$USER_HOME$/Desktop/wsj/modules/dj.svc.nav/lib/footer_config/COLUMN_LINKS.json" timestamp="1560740854221">
+        <mark key="[" line="174" column="42" />
+        <mark key="]" line="174" column="42" />
+        <mark key="." line="174" column="42" />
         <mark key="^" line="265" column="23" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/layout/china_wsj_resp_article_16u_slideshow.mu" timestamp="1559637578822" />
@@ -368,10 +368,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">44CA</text>
+        <text>て</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">44CA</text>
+        <text>て</text>
       </register>
       <register name="/" type="4">
         <text>share</text>

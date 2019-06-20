@@ -3,263 +3,31 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/treasury/treasury_provider.js" timestamp="1558966091259" />
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/webui/modules/wsj/articleTools/generateOptions.js" timestamp="1559662214547" />
-      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/bondBenchmark/processBondBenchmark.js" timestamp="1559053789253">
-        <mark key="^" line="1" column="1" />
-      </file>
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/util/imageHelper.js" timestamp="1559661345290" />
-      <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/wsj/ArticleTools/index.js" timestamp="1559659800235" />
-      <file name="/JavaScript Console" timestamp="1559057060660">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJJapan/RSSFeed/components/index.js" timestamp="1558666746145">
-        <mark key="[" line="54" column="16" />
-      </file>
-      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/quotes/debug.js" timestamp="1559057273642">
-        <mark key="[" line="49" column="1" />
-        <mark key="]" line="49" column="1" />
-        <mark key="." line="49" column="1" />
-        <mark key="^" line="49" column="1" />
-      </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/content/quotes.js" timestamp="1559054347483">
-        <mark key="[" line="165" column="22" />
-        <mark key="]" line="83" column="1" />
-        <mark key="^" line="83" column="1" />
-        <mark key="." line="83" column="1" />
-      </file>
-      <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/shared-react-components/ArticleTools/index.js" timestamp="1559826463409" />
-      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/quotes/Quotes.js" timestamp="1559054316749">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Content/Quotes.js" timestamp="1559054545704" />
-      <file name="$USER_HOME$/Desktop/wsj/modules/resp.module.nav/view/footer/_middlelinks_footer_jp.mu" timestamp="1559229303096">
-        <mark key="[" line="38" column="60" />
-        <mark key="]" line="38" column="60" />
-        <mark key="." line="38" column="60" />
-      </file>
-      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/quotes/quotes_provider.js" timestamp="1559056988172" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routesInternational/routeConfig.json" timestamp="1561012016419" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/package.json" timestamp="1561011629731" />
     </filemarks>
-    <jumps>
-      <jump line="78" column="16" filename="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/resp.svc.article/lib/template_config.js" />
-      <jump line="79" column="18" filename="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/resp.svc.article/lib/template_config.js" />
-      <jump line="80" column="15" filename="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/resp.svc.article/lib/template_config.js" />
-      <jump line="85" column="13" filename="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/resp.svc.article/lib/template_config.js" />
-      <jump line="86" column="16" filename="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/resp.svc.article/lib/template_config.js" />
-      <jump line="87" column="18" filename="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/resp.svc.article/lib/template_config.js" />
-      <jump line="88" column="15" filename="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/resp.svc.article/lib/template_config.js" />
-      <jump line="77" column="13" filename="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/resp.svc.article/lib/template_config.js" />
-      <jump line="21" column="0" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Overview/components/OverviewSectionTableBonds.js" />
-      <jump line="15" column="24" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/WSJJapan/overview/components/OverviewSectionTableBonds.js" />
-      <jump line="17" column="15" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/WSJJapan/overview/components/OverviewSectionTableBonds.js" />
-      <jump line="41" column="0" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/WSJJapan/overview/components/OverviewSectionTableBonds.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/WSJJapan/overview/presentation/Index/4u.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Components/index.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Home/content/index.js" />
-      <jump line="10" column="3" filename="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/dnsaSearch/queries/index.js" />
-      <jump line="1270" column="326" filename="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/dnsaSearch/queries/index.js" />
-      <jump line="1124" column="3" filename="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/dnsaSearch/queries/index.js" />
-      <jump line="17" column="49" filename="$USER_HOME$/Desktop/wsj/modules/dj.svc.nav/lib/footer_config/COLUMN_LINKS.json" />
-      <jump line="58" column="36" filename="$USER_HOME$/Desktop/wsj/modules/dj.svc.nav/lib/footer_config/COLUMN_LINKS.json" />
-      <jump line="71" column="41" filename="$USER_HOME$/Desktop/wsj/modules/dj.svc.nav/lib/footer_config/COLUMN_LINKS.json" />
-      <jump line="241" column="6" filename="$USER_HOME$/Desktop/wsj/modules/dj.svc.nav/lib/footer_config/COLUMN_LINKS.json" />
-      <jump line="243" column="36" filename="$USER_HOME$/Desktop/wsj/modules/dj.svc.nav/lib/footer_config/COLUMN_LINKS.json" />
-      <jump line="2" column="0" filename="$USER_HOME$/Desktop/wsj/frontpage/api/config.json" />
-      <jump line="27" column="3" filename="$USER_HOME$/Desktop/wsj/frontpage/api/config.json" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/wsj/frontpage/api/package.json" />
-      <jump line="80" column="31" filename="$USER_HOME$/Desktop/wsj/frontpage/api/lib/services/lists/comment_count.js" />
-      <jump line="11" column="8" filename="$USER_HOME$/Desktop/wsj/frontpage/api/lib/services/lists/comment_count.js" />
-      <jump line="83" column="14" filename="$USER_HOME$/Desktop/wsj/frontpage/api/lib/services/lists/comment_count.js" />
-      <jump line="53" column="0" filename="$USER_HOME$/Desktop/wsj/frontpage/api/lib/services/external/coral_talk.js" />
-      <jump line="54" column="0" filename="$USER_HOME$/Desktop/wsj/frontpage/api/lib/services/external/coral_talk.js" />
-      <jump line="1" column="0" filename="$USER_HOME$/Desktop/wsj/frontpage/api/lib/services/external/coral_talk.js" />
-      <jump line="28" column="55" filename="$USER_HOME$/Desktop/wsj/frontpage/api/config.json" />
-      <jump line="14" column="14" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Home/content/index.js" />
-      <jump line="78" column="20" filename="$USER_HOME$/Desktop/wsj/frontpage/api/lib/services/lists/comment_count.js" />
-      <jump line="97" column="2" filename="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/webui/modules/wsj/comingup.js" />
-      <jump line="7" column="6" filename="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/webui/modules/wsj/comingup.js" />
-      <jump line="11" column="9" filename="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/module/articleBody.js" />
-      <jump line="138" column="8" filename="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/module/articleBody.js" />
-      <jump line="139" column="39" filename="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/module/articleBody.js" />
-      <jump line="67" column="29" filename="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/module/articleBody.js" />
-      <jump line="76" column="13" filename="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/module/articleBody.js" />
-      <jump line="77" column="11" filename="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/module/articleBody.js" />
-      <jump line="78" column="11" filename="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/module/articleBody.js" />
-      <jump line="79" column="11" filename="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/module/articleBody.js" />
-      <jump line="80" column="11" filename="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/module/articleBody.js" />
-      <jump line="81" column="11" filename="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/module/articleBody.js" />
-      <jump line="135" column="23" filename="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/module/articleBody.js" />
-      <jump line="137" column="10" filename="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/module/articleBody.js" />
-      <jump line="313" column="0" filename="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/resp.svc.article/lib/articles_resource.js" />
-      <jump line="311" column="78" filename="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/resp.svc.article/lib/articles_resource.js" />
-      <jump line="314" column="15" filename="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/resp.svc.article/lib/articles_resource.js" />
-      <jump line="94" column="28" filename="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/wsj/SlimlineHeader/index.js" />
-      <jump line="28" column="47" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Treasury/presentation/Index/blocks/index.js" />
-      <jump line="33" column="16" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Treasury/presentation/Index/4u.js" />
-      <jump line="34" column="32" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Treasury/presentation/Index/4u.js" />
-      <jump line="25" column="37" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Treasury/presentation/Index/8u.js" />
-      <jump line="27" column="14" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Treasury/presentation/Index/12u.js" />
-      <jump line="29" column="15" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Treasury/presentation/Index/16u.js" />
-      <jump line="4" column="29" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Treasury/components/index.js" />
-      <jump line="6" column="62" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Treasury/presentation/Index/blocks/index.js" />
-      <jump line="34" column="0" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Treasury/content/treasuryBills.js" />
-      <jump line="0" column="6" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Treasury/content/treasuryNotesAndBonds.js" />
-      <jump line="57" column="168" filename="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/treasurySecuritiesProvider/test/treasury_securities-test.js" />
-      <jump line="45" column="47" filename="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/treasurySecuritiesProvider/test/treasury_securities-test.js" />
-      <jump line="25" column="135" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/TreasuryInflationProtectedSecurities/presentation/Index/16u.js" />
-      <jump line="164" column="273" filename="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/peAndYields/test/peAndYields-test.js" />
-      <jump line="165" column="251" filename="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/peAndYields/test/peAndYields-test.js" />
-      <jump line="145" column="173" filename="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/peAndYields/test/peAndYields-test.js" />
-      <jump line="129" column="150" filename="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/peAndYields/test/peAndYields-test.js" />
-      <jump line="122" column="64" filename="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/peAndYields/test/peAndYields-test.js" />
-      <jump line="126" column="0" filename="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/peAndYields/test/peAndYields-test.js" />
-      <jump line="128" column="173" filename="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/peAndYields/test/peAndYields-test.js" />
-      <jump line="111" column="153" filename="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/peAndYields/test/peAndYields-test.js" />
-      <jump line="112" column="80" filename="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/peAndYields/test/peAndYields-test.js" />
-      <jump line="44" column="20" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/BondBenchmark/components/BondBenchmarkTableFull.js" />
-      <jump line="12" column="20" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/BondBenchmark/components/BondBenchmarkTableFull.js" />
-      <jump line="14" column="89" filename="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/mdcIndex.js" />
-      <jump line="289" column="37" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routes/routeConfig.json" />
-      <jump line="186" column="31" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routes/routeConfig.json" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routes/routeConfig.json" />
-      <jump line="21" column="13" filename="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/mdcIndex.js" />
-      <jump line="31" column="17" filename="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/mdcIndex.js" />
-      <jump line="6" column="32" filename="$USER_HOME$/Desktop/wsj/modules/data-provider/es5/mdc/marketsDiary/processOverview.js" />
-      <jump line="24" column="0" filename="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/marketsDiary/processOverview.js" />
-      <jump line="32" column="0" filename="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/marketsDiary/processOverview.js" />
-      <jump line="13" column="0" filename="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/marketsDiary/processOverview.js" />
-      <jump line="59" column="8" filename="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/bondBenchmark/test/bond_benchmark-test.js" />
-      <jump line="70" column="14" filename="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/bondBenchmark/test/bond_benchmark-test.js" />
-      <jump line="88" column="4" filename="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/bondBenchmark/test/processBondBenchmark-test.js" />
-      <jump line="103" column="85" filename="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/bondBenchmark/test/processBondBenchmark-test.js" />
-      <jump line="113" column="6" filename="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/bondBenchmark/test/processBondBenchmark-test.js" />
-      <jump line="112" column="0" filename="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/bondBenchmark/test/processBondBenchmark-test.js" />
-      <jump line="140" column="28" filename="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/bondBenchmark/test/processBondBenchmark-test.js" />
-      <jump line="287" column="33" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routes/routeConfig.json" />
-      <jump line="282" column="26" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routes/routeConfig.json" />
-      <jump line="284" column="28" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routes/routeConfig.json" />
-      <jump line="155" column="0" filename="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/wsj/SlimlineHeader/index.js" />
-      <jump line="384" column="6" filename="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/wsj/SlimlineHeader/index.js" />
-      <jump line="76" column="2" filename="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/wsj/SlimlineHeader/SectionsNav.js" />
-    </jumps>
+    <jumps />
     <registers>
-      <register name="&quot;" type="4">
-        <text>target=&quot;_blank&quot;</text>
-      </register>
-      <register name="-" type="4">
-        <text>target=&quot;_blank&quot;</text>
-      </register>
       <register name="/" type="4">
-        <text>i18n</text>
-      </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUuaW5mbygncHJvcHMgYXJlJywgSlNPTi5zdHJpbmdpZnkocHJvcHMuY29udGV4dCkpOwo=</text>
-      </register>
-      <register name="1" type="4">
-        <text encoding="base64">PGxpPjxhIGhyZWY9Imh0dHBzOi8vanAud3NqLmNvbS9zcC9tb2JpbGUvaW5kZXgyLmh0bWw/bW9kPVdTSl9KUEZvb3RlciI+aVBhZHt7I2kxOG59fSBBcHB7ey9pMThufX08L2E+PC9saT4KICAgIDxsaT48YSBocmVmPSJodHRwczovL2pwLndzai5jb20vc3AvbW9iaWxlL2luZGV4My5odG1sP21vZD1XU0pfSlBGb290ZXIiPkFuZHJvaWR7eyNpMThufX0gQXBwe3svaTE4bn19PC9hPjwvbGk+CiAgICA8bGk+PGEgaHJlZj0iaHR0cHM6Ly9qcC53c2ouY29tL25ld3NsZXR0ZXJzP21vZD1XU0pfSlBGb290ZXIiPjwvYT48L2xpPg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgY291bnQgPSAwOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb3VudCA9IGNvdW50ICsgaGVhZGVyLmxlbmd0aDsK</text>
-      </register>
-      <register name="4" type="4">
-        <text>function processModel(model) {
-  
-}</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">KG1vZGVsKSA9PiB7CiAgfQ==</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICA=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICB7IGhlYWRlcjogLCBsZW5ndGg6IH0sCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICB7IGhlYWRlcjogJycsIGxlbmd0aDogfSwK</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">CgogIGNvbnN0IGZvcm1hdHRlciA9IGlkLmV4cGFuZGVkID8gZm9ybWF0RXhwYW5kZWRJbnN0cnVtZW50UHJpY2VzIDogZm9ybWF0SW5zdHJ1bWVudFByaWNlczs=</text>
-      </register>
-      <register name=":" type="4">
-        <text>%s/&quot;/'/g</text>
+        <text>wsj-nav</text>
       </register>
     </registers>
     <search>
-      <last-search>i18n</last-search>
-      <last-offset>TODO</last-offset>
-      <last-pattern>i18n</last-pattern>
-      <last-replace>'</last-replace>
-      <last-substitute>&quot;</last-substitute>
+      <last-search>wsj-nav</last-search>
+      <last-offset />
+      <last-pattern>wsj-nav</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>MutualFundsAndEtfs</entry>
-        <entry>EtfMoversBreadcrumbsMobile</entry>
-        <entry>%s</entry>
-        <entry>ETF Movers</entry>
-        <entry>priceEarningsRatio52WeekAgo</entry>
-        <entry>table</entry>
-        <entry>caption</entry>
-        <entry>markets_dairy</entry>
-        <entry>dairy</entry>
-        <entry>diary</entry>
-        <entry>currenc</entry>
-        <entry>bond</entry>
-        <entry>info</entry>
-        <entry>timestamp</entry>
-        <entry>isscroll</entry>
-        <entry>&quot;</entry>
-        <entry>treasury</entry>
-        <entry>console</entry>
-        <entry>i18nlocale</entry>
-        <entry>i18n</entry>
+        <entry>dj.svc.nav</entry>
+        <entry>wsj-nav</entry>
       </history-search>
-      <history-cmd>
-        <entry>%s/MutualFundsAndEtfs/Treasury/g</entry>
-        <entry encoding="base64">JzwsJz4lcy9NdXR1YWxGdW5kc0FuZEV0ZnMvVHJlYXN1cnkvZ2k=</entry>
-        <entry encoding="base64">JzwsJz4lcy9NdXR1YWxGdW5kc0FuZEV0ZnMvVHJlYXN1cnkvZ2M=</entry>
-        <entry encoding="base64">JzwsJz4lcy9NdXR1YWxGdW5kc0FuZEV0ZnMvVHJlYXN1cnkvZw==</entry>
-        <entry encoding="base64">JzwsJz4lcy9FdGZNb3ZlcnNCcmVhZGNydW1ic01vYmlsZS9NdXR1YWxGdW5kc0FuZEVURnNCcmVhZGNydW1ic01vYmlsZS9n</entry>
-        <entry>/%s/MutualFundsAndETFsBreadcrumbsMobile/TreasuryBreadcrumbsMobile/g</entry>
-        <entry encoding="base64">JzwsJz4lcy9FVEYgTW92ZXJzL1RyZWFzdXJ5L2c=</entry>
-        <entry>%s/&quot;/'/g</entry>
-      </history-cmd>
+      <history-cmd />
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed Q</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed B</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed D</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed F</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed M</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed G</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed R</text>
-      </shortcut-conflict>
-    </shortcut-conflicts>
-    <editor>
-      <key-repeat enabled="true" />
-    </editor>
+    <shortcut-conflicts />
   </component>
 </application>

@@ -3,15 +3,32 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/WSJJapan/components.js" timestamp="1561013106908" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routesInternational/routeConfig.json" timestamp="1561012144059" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/package.json" timestamp="1561011629731" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/components/Breadcrumbs.js" timestamp="1561019753793">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/WSJJapan/components.js" timestamp="1561013106908" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/WSJJapan/footers.js" timestamp="1561013424339" />
       <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/wsj_nav/nav.js" timestamp="1561013170257" />
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/package.json" timestamp="1561011629731" />
       <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/wsj/WSJFooter/index.js" timestamp="1561013088537" />
     </filemarks>
     <jumps />
     <registers>
+      <register name="1" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">PT09PT09PQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vbWFzdGVyCg==</text>
+      </register>
       <register name="/" type="4">
         <text>wsj-nav</text>
       </register>

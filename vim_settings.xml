@@ -3,36 +3,47 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/presentation/emea/stockIndexes/4u.js" timestamp="1561085386579" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/_shared/Blocks/index.js" timestamp="1561100398760">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Business/components/index.js" timestamp="1561085218735">
-        <mark key="'" line="13" column="2" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="12" column="0" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Home/presentation/Header_8u.js" timestamp="1561103376040" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routesInternational/routeConfig.json" timestamp="1561081983110">
+        <mark key="[" line="78" column="4" />
+        <mark key="]" line="78" column="3" />
+        <mark key="^" line="78" column="3" />
+        <mark key="." line="78" column="3" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/_shared/Blocks/headers.js" timestamp="1561100942968">
-        <mark key="[" line="88" column="3" />
-        <mark key="]" line="43" column="3" />
-        <mark key="." line="43" column="3" />
-        <mark key="^" line="43" column="3" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Home/presentation/Header_4u.js" timestamp="1561103418724" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Home/presentation/Footer_8u.js" timestamp="1561103509449" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Home/presentation/Footer_4u.js" timestamp="1561103540375" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Components/index.js" timestamp="1561100443358" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Home/presentation/Footer_12u.js" timestamp="1561103485835" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Home/presentation/index.js" timestamp="1561100770588">
+        <mark key="[" line="27" column="43" />
+        <mark key="]" line="28" column="27" />
+        <mark key="^" line="28" column="27" />
+        <mark key="." line="28" column="27" />
+      </file>
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Home/presentation/Footer_16u.js" timestamp="1561103459725" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/_shared/Blocks/footers.js" timestamp="1561103551126">
+        <mark key="[" line="31" column="6" />
+        <mark key="]" line="31" column="6" />
+        <mark key="." line="31" column="6" />
+      </file>
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/presentation/emea/stockIndexes/4u.js" timestamp="1561085386579" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/_shared/Blocks/headers.js" timestamp="1561103435865">
+        <mark key="[" line="120" column="3" />
+        <mark key="]" line="155" column="0" />
+        <mark key="." line="155" column="0" />
+        <mark key="^" line="155" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Home/components/index.js" timestamp="1561099224042">
         <mark key="[" line="15" column="2" />
         <mark key="]" line="15" column="3" />
         <mark key="." line="15" column="3" />
         <mark key="^" line="15" column="3" />
-      </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routesInternational/routeConfig.json" timestamp="1561081983110">
-        <mark key="[" line="78" column="4" />
-        <mark key="]" line="78" column="3" />
-        <mark key="^" line="78" column="3" />
-        <mark key="." line="78" column="3" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/modules/dj.svc.nav/lib/footer_config/COLUMN_LINKS.json" timestamp="1561089824743" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Home/presentation/Header_16u.js" timestamp="1561100821845" />
@@ -49,13 +60,6 @@
         <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Home/presentation/Contents_16u.js" timestamp="1561087700147" />
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Components/index.js" timestamp="1561100443358" />
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Home/presentation/index.js" timestamp="1561100770588">
-        <mark key="[" line="27" column="43" />
-        <mark key="]" line="28" column="27" />
-        <mark key="^" line="28" column="27" />
-        <mark key="." line="28" column="27" />
-      </file>
       <file name="/Clipboard.txt" timestamp="1561097795052">
         <mark key="[" line="0" column="0" />
       </file>
@@ -73,7 +77,7 @@
         <text encoding="base64">ICAgICAgICAgICAgY29weShyZXF1aXJlKCcuL0Zvb3Rlcl80dScpKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Y29uc3QgaGVhZGVyID0gCg==</text>
@@ -144,7 +148,7 @@
         <text>set incsearch</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>header</text>

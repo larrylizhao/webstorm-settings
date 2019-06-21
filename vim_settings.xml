@@ -4,6 +4,11 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/presentation/emea/stockIndexes/4u.js" timestamp="1561085386579" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/_shared/Blocks/index.js" timestamp="1561100398760">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Business/components/index.js" timestamp="1561085218735">
         <mark key="'" line="13" column="2" />
         <mark key="[" line="12" column="0" />
@@ -36,6 +41,13 @@
         <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Home/presentation/Contents_16u.js" timestamp="1561087700147" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Components/index.js" timestamp="1561100443358" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Home/presentation/index.js" timestamp="1561100770588">
+        <mark key="[" line="27" column="43" />
+        <mark key="]" line="28" column="27" />
+        <mark key="^" line="28" column="27" />
+        <mark key="." line="28" column="27" />
+      </file>
       <file name="/Clipboard.txt" timestamp="1561097795052">
         <mark key="[" line="0" column="0" />
       </file>
@@ -49,123 +61,82 @@
       <jump line="13" column="2" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Business/components/index.js" />
     </jumps>
     <registers>
-      <register name="1" type="4">
-        <text>Header: {
-    id: '03c85c64-f03f-4789-9e88-00158f0ea41e',
-    options: {
-      region: { $context: '#/region' },
-      section: { $context: '#/section' },
-      isLoggedIn: { $context: '#/isLoggedIn' },
-      hideSearch: true,
-      user: { $context: '#/user'},
-    }
-  },
-  MobileHeader: {
-    id: 'c66926ad-7297-41f4-83fd-e37f455ae2f2',
-    options: {
-      region: { $context: '#/region' },
-      isLoggedIn: { $context: '#/isLoggedIn' },
-      showTodaysPaper: false,
-      sectionsNavStraps: {
-        hideAll: '隐藏全部',
-        showAll: '显示全部'
-      },
-      hideSearch: true
-    }
-  },
-  Footer: {
-    id: '9b6fea7a-ca2a-4ec2-982f-ea3079678342',
-    options: {
-      region: { $context: '#/region' },
-      wsjUrl: { $context: '#/domain' },
-      isLoggedIn: { $context: '#/isLoggedIn' },
-      localizeTextContent: '本网站文字内容归道琼斯公司所有，任何单位及个人未经许可，不得擅自转载使用'
-    }
-  },
-  MobileFooter: {
-    id: 'd8e5710a-6f01-49ac-bc2b-1165135afa15',
-    options: {
-      isLoggedIn: { $context: '#/isLoggedIn' },
-      region: { $context: '#/region' },
-      wsjUrl: { $context: '#/domain' },
-      localizeTextContent: '本网站文字内容归道琼斯公司所有，任何单位及个人未经许可，不得擅自转载使用'
-    }
-  },
-
-  MarketData: {
-    id: '17f32040-0bfd-4790-bb36-732d32093176'
-  },
-  Hat: {
-    id: 'c13492a5-d9db-47c3-a804-80f45f96c081'
-  },</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29weShyZXF1aXJlKCcuL0Zvb3Rlcl80dScpKQo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>Header: {
-    id: '03c85c64-f03f-4789-9e88-00158f0ea41e',
-    options: {
-      region: { $context: '#/region' },
-      section: { $context: '#/section' },
-      isLoggedIn: { $context: '#/isLoggedIn' },
-      hideSearch: true,
-      user: { $context: '#/user'},
-    }
-  },
-  MobileHeader: {
-    id: 'c66926ad-7297-41f4-83fd-e37f455ae2f2',
-    options: {
-      region: { $context: '#/region' },
-      isLoggedIn: { $context: '#/isLoggedIn' },
-      showTodaysPaper: false,
-      sectionsNavStraps: {
-        hideAll: '隐藏全部',
-        showAll: '显示全部'
-      },
-      hideSearch: true
-    }
-  },
-  Footer: {
-    id: '9b6fea7a-ca2a-4ec2-982f-ea3079678342',
-    options: {
-      region: { $context: '#/region' },
-      wsjUrl: { $context: '#/domain' },
-      isLoggedIn: { $context: '#/isLoggedIn' },
-      localizeTextContent: '本网站文字内容归道琼斯公司所有，任何单位及个人未经许可，不得擅自转载使用'
-    }
-  },
-  MobileFooter: {
-    id: 'd8e5710a-6f01-49ac-bc2b-1165135afa15',
-    options: {
-      isLoggedIn: { $context: '#/isLoggedIn' },
-      region: { $context: '#/region' },
-      wsjUrl: { $context: '#/domain' },
-      localizeTextContent: '本网站文字内容归道琼斯公司所有，任何单位及个人未经许可，不得擅自转载使用'
-    }
-  },
-
-  MarketData: {
-    id: '17f32040-0bfd-4790-bb36-732d32093176'
-  },
-  Hat: {
-    id: 'c13492a5-d9db-47c3-a804-80f45f96c081'
-  },</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29weShyZXF1aXJlKCcuL0Zvb3Rlcl80dScpKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB9LAogIEhlYWRlcjogewo=</text>
+        <text encoding="base64">Y29uc3QgaGVhZGVyID0gCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+      <register name="3" type="4">
+        <text>Header: {
+    id: '03c85c64-f03f-4789-9e88-00158f0ea41e',
+    options: {
+      region: { $context: '#/region' },
+      section: { $context: '#/section' },
+      isLoggedIn: { $context: '#/isLoggedIn' },
+      hideSearch: true,
+      user: { $context: '#/user'},
+    }
+  },
+  MobileHeader: {
+    id: 'c66926ad-7297-41f4-83fd-e37f455ae2f2',
+    options: {
+      region: { $context: '#/region' },
+      isLoggedIn: { $context: '#/isLoggedIn' },
+      showTodaysPaper: false,
+      sectionsNavStraps: {
+        hideAll: '隐藏全部',
+        showAll: '显示全部'
+      },
+      hideSearch: true
+    }
+  },
+  Footer: {
+    id: '9b6fea7a-ca2a-4ec2-982f-ea3079678342',
+    options: {
+      region: { $context: '#/region' },
+      wsjUrl: { $context: '#/domain' },
+      isLoggedIn: { $context: '#/isLoggedIn' },
+      localizeTextContent: '本网站文字内容归道琼斯公司所有，任何单位及个人未经许可，不得擅自转载使用'
+    }
+  },
+  MobileFooter: {
+    id: 'd8e5710a-6f01-49ac-bc2b-1165135afa15',
+    options: {
+      isLoggedIn: { $context: '#/isLoggedIn' },
+      region: { $context: '#/region' },
+      wsjUrl: { $context: '#/domain' },
+      localizeTextContent: '本网站文字内容归道琼斯公司所有，任何单位及个人未经许可，不得擅自转载使用'
+    }
+  },
+
+  MarketData: {
+    id: '17f32040-0bfd-4790-bb36-732d32093176'
+  },
+  Hat: {
+    id: 'c13492a5-d9db-47c3-a804-80f45f96c081'
+  },</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICB9LAogIEhlYWRlcjogewo=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">PT09PT09PQo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vbWFzdGVyCg==</text>
       </register>
       <register name=":" type="4">
         <text>set incsearch</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>copy(require('./Header_4u')),</text>
       </register>
       <register name="/" type="4">
         <text>header</text>
@@ -197,6 +168,16 @@
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>

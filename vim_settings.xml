@@ -16,6 +16,12 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/_shared/Blocks/headers.js" timestamp="1561100942968">
+        <mark key="[" line="88" column="3" />
+        <mark key="]" line="43" column="3" />
+        <mark key="." line="43" column="3" />
+        <mark key="^" line="43" column="3" />
+      </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Home/components/index.js" timestamp="1561099224042">
         <mark key="[" line="15" column="2" />
         <mark key="]" line="15" column="3" />
@@ -29,12 +35,14 @@
         <mark key="." line="78" column="3" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/modules/dj.svc.nav/lib/footer_config/COLUMN_LINKS.json" timestamp="1561089824743" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Home/presentation/Header_16u.js" timestamp="1561100821845" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/China/components/index.js" timestamp="1561085783890" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/_shared/Components/components.js" timestamp="1561098114297">
         <mark key="[" line="48" column="3" />
         <mark key="]" line="48" column="3" />
         <mark key="." line="48" column="3" />
       </file>
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Home/presentation/Header_12u.js" timestamp="1561100919283" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/components/Breadcrumbs.js" timestamp="1561019753793">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -64,8 +72,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29weShyZXF1aXJlKCcuL0Zvb3Rlcl80dScpKQo=</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29weShyZXF1aXJlKCcuL0Zvb3Rlcl80dScpKQo=</text>
+      <register name="&quot;" type="4">
+        <text>;</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Y29uc3QgaGVhZGVyID0gCg==</text>
@@ -136,7 +144,7 @@
         <text>set incsearch</text>
       </register>
       <register name="-" type="4">
-        <text>copy(require('./Header_4u')),</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>header</text>

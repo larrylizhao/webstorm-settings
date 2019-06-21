@@ -3,8 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Business/components/index.js" timestamp="1561084915053">
-        <mark key="'" line="26" column="8" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/components/Breadcrumbs.js" timestamp="1561019753793">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/presentation/emea/stockIndexes/4u.js" timestamp="1561085386579" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Business/components/index.js" timestamp="1561085218735">
+        <mark key="'" line="13" column="2" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routesInternational/routeConfig.json" timestamp="1561081983110">
         <mark key="[" line="78" column="4" />
@@ -12,45 +22,43 @@
         <mark key="^" line="78" column="3" />
         <mark key="." line="78" column="3" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/package.json" timestamp="1561011629731" />
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/components/Breadcrumbs.js" timestamp="1561019753793">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/WSJJapan/components.js" timestamp="1561013106908" />
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/WSJJapan/footers.js" timestamp="1561013424339" />
-      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/wsj_nav/nav.js" timestamp="1561013170257" />
-      <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/wsj/WSJFooter/index.js" timestamp="1561013088537" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/China/components/index.js" timestamp="1561085783890" />
     </filemarks>
     <jumps>
       <jump line="62" column="0" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Business/components/index.js" />
       <jump line="41" column="10" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Business/components/index.js" />
       <jump line="107" column="8" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Business/components/index.js" />
-      <jump line="13" column="2" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Business/components/index.js" />
+      <jump line="16" column="6" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Business/components/index.js" />
       <jump line="26" column="8" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Business/components/index.js" />
+      <jump line="13" column="2" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Business/components/index.js" />
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICB9LAogIEhlYWRlcjogewo=</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICB9LAogIEhlYWRlcjogewo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">PT09PT09PQo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vbWFzdGVyCg==</text>
       </register>
+      <register name=":" type="4">
+        <text>set incsearch</text>
+      </register>
       <register name="/" type="4">
-        <text>Header</text>
+        <text>header</text>
       </register>
     </registers>
     <search>
-      <last-search>Header</last-search>
+      <last-search>header</last-search>
       <last-offset />
-      <last-pattern>Header</last-pattern>
+      <last-pattern>header</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -62,10 +70,14 @@
         <entry>Footer</entry>
         <entry encoding="base64">XDxhYnNvbHV0ZVw+</entry>
         <entry encoding="base64">XDxwb3NpdGlvblw+</entry>
-        <entry>header</entry>
         <entry>Header</entry>
+        <entry>header</entry>
       </history-search>
-      <history-cmd />
+      <history-cmd>
+        <entry>set ignorecase</entry>
+        <entry>set smartcase</entry>
+        <entry>set incsearch</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>

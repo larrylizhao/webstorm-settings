@@ -89,7 +89,14 @@
         <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Home/presentation/Contents_16u.js" timestamp="1561087700147" />
-      <file name="/Clipboard.txt" timestamp="1561097795052">
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/China/presentation/index.js" timestamp="1561109233432">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="61" column="12" />
+        <mark key="]" line="61" column="28" />
+        <mark key="^" line="61" column="28" />
+        <mark key="." line="61" column="28" />
+      </file>
+      <file name="/Clipboard.txt" timestamp="1561109801836">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -111,43 +118,44 @@
       <jump line="191" column="17" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routesInternational/index.js" />
       <jump line="196" column="4" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routesInternational/index.js" />
       <jump line="198" column="96" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routesInternational/index.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/China/presentation/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>8</text>
+        <text>copy(require('./Footer_16u'))</text>
       </register>
       <register name="-" type="4">
-        <text>8</text>
+        <text>copy(require('./Footer_16u'))</text>
       </register>
       <register name="/" type="4">
         <text>context</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29weShyZXF1aXJlKCcuL0Zvb3Rlcl80dScpKQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29weShyZXF1aXJlKCcuL0hlYWRlcl84dScpKSwK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29weShyZXF1aXJlKCcuL0Zvb3Rlcl84dScpKQo=</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29weShyZXF1aXJlKCcuL0Zvb3Rlcl80dScpKQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29weShyZXF1aXJlKCcuL0Zvb3Rlcl80dScpKQo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29weShyZXF1aXJlKCcuL0hlYWRlcl8xMnUnKSksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29weShyZXF1aXJlKCcuL0hlYWRlcl84dScpKSwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29weShyZXF1aXJlKCcuL0Zvb3Rlcl8xMnUnKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29weShyZXF1aXJlKCcuL0Zvb3Rlcl84dScpKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29weShyZXF1aXJlKCcuL0hlYWRlcl8xNnUnKSksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29weShyZXF1aXJlKCcuL0hlYWRlcl8xMnUnKSksCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29weShyZXF1aXJlKCcuL0Zvb3Rlcl8xNnUnKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29weShyZXF1aXJlKCcuL0Zvb3Rlcl8xMnUnKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29tcG9uZW50cy5Gb290ZXIub3B0aW9ucy5sb2NhbGl6ZVRleHRDb250ZW50ID0gY29tcG9uZW50cy5Nb2JpbGVGb290ZXIub3B0aW9ucy5sb2NhbGl6ZVRleHRDb250ZW50ID0gJ+acrOe2suermeaWh+Wtl+WFp+WuueatuOmBk+eTiuaWr+WFrOWPuOaJgOacie+8jOS7u+S9leWWruS9jeWPiuWAi+S6uuacque2k+ioseWPr++8jOS4jeW+l+aTheiHqui9iei8ieS9v+eUqCc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29weShyZXF1aXJlKCcuL0hlYWRlcl8xNnUnKSksCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGxvY2FsaXplVGV4dENvbnRlbnQ6IHBhZ2VEYXRhLmxvY2FsaXplVGV4dENvbnRlbnQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29weShyZXF1aXJlKCcuL0Zvb3Rlcl8xNnUnKSkK</text>
       </register>
       <register name=":" type="4">
         <text>set incsearch</text>

@@ -3,18 +3,30 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Business/components/index.js" timestamp="1561085218735">
-        <mark key="'" line="13" column="2" />
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="12" column="0" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Business/components/index.js" timestamp="1561356494425">
+        <mark key="'" line="15" column="2" />
+        <mark key="[" line="15" column="2" />
+        <mark key="]" line="15" column="3" />
+        <mark key="." line="15" column="3" />
+        <mark key="^" line="15" column="3" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routesInternational/routeConfig.json" timestamp="1561081983110">
         <mark key="[" line="78" column="4" />
         <mark key="]" line="78" column="3" />
         <mark key="^" line="78" column="3" />
         <mark key="." line="78" column="3" />
+      </file>
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Business/pageData.json" timestamp="1561356459520">
+        <mark key="[" line="14" column="18" />
+        <mark key="]" line="16" column="24" />
+        <mark key="^" line="16" column="24" />
+        <mark key="." line="16" column="24" />
+      </file>
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Economy/components/index.js" timestamp="1561356925225">
+        <mark key="[" line="15" column="1" />
+        <mark key="]" line="15" column="2" />
+        <mark key="^" line="3" column="21" />
+        <mark key="." line="15" column="2" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/_shared/Components/index.js" timestamp="1561349499364">
         <mark key="[" line="7" column="0" />
@@ -28,7 +40,19 @@
         <mark key="." line="187" column="0" />
         <mark key="^" line="187" column="28" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Home/presentation/index.js" timestamp="1561348058523">
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Economy/pageData.json" timestamp="1561356901929">
+        <mark key="[" line="14" column="18" />
+        <mark key="]" line="16" column="23" />
+        <mark key="^" line="16" column="23" />
+        <mark key="." line="16" column="23" />
+      </file>
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/LifeArts/components/index.js" timestamp="1561356853491">
+        <mark key="[" line="15" column="2" />
+        <mark key="]" line="15" column="3" />
+        <mark key="." line="15" column="3" />
+        <mark key="^" line="15" column="3" />
+      </file>
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Home/presentation/index.js" timestamp="1561356141178">
         <mark key="[" line="27" column="43" />
         <mark key="]" line="28" column="27" />
         <mark key="^" line="28" column="27" />
@@ -40,7 +64,7 @@
         <mark key="^" line="42" column="63" />
         <mark key="." line="58" column="1" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/China/pageData.json" timestamp="1561349554389">
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/China/pageData.json" timestamp="1561356795511">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
@@ -56,16 +80,22 @@
         <mark key="." line="155" column="0" />
         <mark key="^" line="155" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Home/components/index.js" timestamp="1561342750785">
-        <mark key="[" line="15" column="2" />
-        <mark key="]" line="15" column="3" />
-        <mark key="." line="15" column="3" />
-        <mark key="^" line="15" column="3" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Home/components/index.js" timestamp="1561356342875">
+        <mark key="[" line="1" column="61" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hant/_shared/_pageData_base.json" timestamp="1561108181589">
         <mark key="[" line="41" column="36" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/China/components/index.js" timestamp="1561342775646">
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/LifeArts/pageData.json" timestamp="1561356978536">
+        <mark key="[" line="14" column="18" />
+        <mark key="]" line="16" column="25" />
+        <mark key="^" line="16" column="25" />
+        <mark key="." line="16" column="25" />
+      </file>
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/China/components/index.js" timestamp="1561356829781">
         <mark key="[" line="16" column="1" />
         <mark key="]" line="15" column="3" />
         <mark key="." line="15" column="3" />
@@ -82,10 +112,19 @@
         <mark key="." line="58" column="28" />
         <mark key="^" line="58" column="28" />
       </file>
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Markets/pageData.json" timestamp="1561356982439">
+        <mark key="[" line="14" column="18" />
+      </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hant/Home/components/index.js" timestamp="1561108260093">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Markets/components/index.js" timestamp="1561356948621">
+        <mark key="[" line="15" column="2" />
+        <mark key="]" line="15" column="3" />
+        <mark key="." line="15" column="3" />
+        <mark key="^" line="15" column="3" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/wsj/WSJHeader/index.js" timestamp="1561349490320" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/China/presentation/index.js" timestamp="1561348137229">
@@ -95,7 +134,7 @@
         <mark key="^" line="59" column="29" />
         <mark key="." line="48" column="26" />
       </file>
-      <file name="/Clipboard.txt" timestamp="1561342538264">
+      <file name="/Clipboard.txt" timestamp="1561356398818">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -120,8 +159,61 @@
       <jump line="2" column="0" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/China/presentation/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Header: {
+    id: '03c85c64-f03f-4789-9e88-00158f0ea41e',
+    options: {
+      region: { $context: '#/region' },
+      section: 'Markets',
+      showSectionLogo: true,
+      showMastheadStrap: true,
+      isLoggedIn: { $context: '#/isLoggedIn' },
+      path: '/news/markets',
+      hideSearch: true,
+      user: { $context: '#/user'},
+    }
+  },
+  MobileHeader: {
+    id: 'c66926ad-7297-41f4-83fd-e37f455ae2f2',
+    options: {
+      region: { $context: '#/region' },
+      isLoggedIn: { $context: '#/isLoggedIn' },
+      showTodaysPaper: false,
+      sectionsNavStraps: {
+        hideAll: '隐藏全部',
+        showAll: '显示全部'
+      },
+      hideSearch: true,
+      section: 'Markets',
+      showSectionLogo: true
+    }
+  },
+
+  Footer: {
+    id: '9b6fea7a-ca2a-4ec2-982f-ea3079678342',
+    options: {
+      region: { $context: '#/region' },
+      wsjUrl: { $context: '#/domain' },
+      isLoggedIn: { $context: '#/isLoggedIn' },
+      localizeTextContent: '本网站文字内容归道琼斯公司所有，任何单位及个人未经许可，不得擅自转载使用'
+    }
+  },
+  MobileFooter: {
+    id: 'd8e5710a-6f01-49ac-bc2b-1165135afa15',
+    options: {
+      isLoggedIn: { $context: '#/isLoggedIn' },
+      region: { $context: '#/region' },
+      wsjUrl: { $context: '#/domain' },
+      localizeTextContent: '本网站文字内容归道琼斯公司所有，任何单位及个人未经许可，不得擅自转载使用'
+    }
+  },
+
+  MarketData: {
+    id: '17f32040-0bfd-4790-bb36-732d32093176'
+  },
+  Hat: {
+    id: 'c13492a5-d9db-47c3-a804-80f45f96c081'
+  },</text>
       </register>
       <register name="-" type="4">
         <text>{ $context: '#/showMastheadStrap' }</text>
@@ -129,32 +221,187 @@
       <register name="/" type="4">
         <text>context</text>
       </register>
-      <register name="1" type="2">
+      <register name="1" type="4">
+        <text>Header: {
+    id: '03c85c64-f03f-4789-9e88-00158f0ea41e',
+    options: {
+      region: { $context: '#/region' },
+      section: 'Markets',
+      showSectionLogo: true,
+      showMastheadStrap: true,
+      isLoggedIn: { $context: '#/isLoggedIn' },
+      path: '/news/markets',
+      hideSearch: true,
+      user: { $context: '#/user'},
+    }
+  },
+  MobileHeader: {
+    id: 'c66926ad-7297-41f4-83fd-e37f455ae2f2',
+    options: {
+      region: { $context: '#/region' },
+      isLoggedIn: { $context: '#/isLoggedIn' },
+      showTodaysPaper: false,
+      sectionsNavStraps: {
+        hideAll: '隐藏全部',
+        showAll: '显示全部'
+      },
+      hideSearch: true,
+      section: 'Markets',
+      showSectionLogo: true
+    }
+  },
+
+  Footer: {
+    id: '9b6fea7a-ca2a-4ec2-982f-ea3079678342',
+    options: {
+      region: { $context: '#/region' },
+      wsjUrl: { $context: '#/domain' },
+      isLoggedIn: { $context: '#/isLoggedIn' },
+      localizeTextContent: '本网站文字内容归道琼斯公司所有，任何单位及个人未经许可，不得擅自转载使用'
+    }
+  },
+  MobileFooter: {
+    id: 'd8e5710a-6f01-49ac-bc2b-1165135afa15',
+    options: {
+      isLoggedIn: { $context: '#/isLoggedIn' },
+      region: { $context: '#/region' },
+      wsjUrl: { $context: '#/domain' },
+      localizeTextContent: '本网站文字内容归道琼斯公司所有，任何单位及个人未经许可，不得擅自转载使用'
+    }
+  },
+
+  MarketData: {
+    id: '17f32040-0bfd-4790-bb36-732d32093176'
+  },
+  Hat: {
+    id: 'c13492a5-d9db-47c3-a804-80f45f96c081'
+  },</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">SGVhZGVyOiB7CiAgICBpZDogJzAzYzg1YzY0LWYwM2YtNDc4OS05ZTg4LTAwMTU4ZjBlYTQxZScsCiAgICBvcHRpb25zOiB7CiAgICAgIHJlZ2lvbjogeyAkY29udGV4dDogJyMvcmVnaW9uJyB9LAogICAgICBzZWN0aW9uOiAnTGlmZSAmIEFydHMnLAogICAgICBzaG93U2VjdGlvbkxvZ286IHRydWUsCiAgICAgIHNob3dNYXN0aGVhZFN0cmFwOiB0cnVlLAogICAgICBpc0xvZ2dlZEluOiB7ICRjb250ZXh0OiAnIy9pc0xvZ2dlZEluJyB9LAogICAgICBwYXRoOiAnL25ld3MvbGlmZS1hcnRzJywKICAgICAgaGlkZVNlYXJjaDogdHJ1ZSwKICAgICAgdXNlcjogeyAkY29udGV4dDogJyMvdXNlcid9LAogICAgfQogIH0sCiAgTW9iaWxlSGVhZGVyOiB7CiAgICBpZDogJ2M2NjkyNmFkLTcyOTctNDFmNC04M2ZkLWUzN2Y0NTVhZTJmMicsCiAgICBvcHRpb25zOiB7CiAgICAgIHJlZ2lvbjogeyAkY29udGV4dDogJyMvcmVnaW9uJyB9LAogICAgICBpc0xvZ2dlZEluOiB7ICRjb250ZXh0OiAnIy9pc0xvZ2dlZEluJyB9LAogICAgICBzaG93VG9kYXlzUGFwZXI6IGZhbHNlLAogICAgICBzZWN0aW9uc05hdlN0cmFwczogewogICAgICAgIGhpZGVBbGw6ICfpmpDol4/lhajpg6gnLAogICAgICAgIHNob3dBbGw6ICfmmL7npLrlhajpg6gnCiAgICAgIH0sCiAgICAgIGhpZGVTZWFyY2g6IHRydWUsCiAgICAgIHNlY3Rpb246ICdMaWZlICYgQXJ0cycsCiAgICAgIHNob3dTZWN0aW9uTG9nbzogdHJ1ZQogICAgfQogIH0sCiAgRm9vdGVyOiB7CiAgICBpZDogJzliNmZlYTdhLWNhMmEtNGVjMi05ODJmLWVhMzA3OTY3ODM0MicsCiAgICBvcHRpb25zOiB7CiAgICAgIHJlZ2lvbjogeyAkY29udGV4dDogJyMvcmVnaW9uJyB9LAogICAgICB3c2pVcmw6IHsgJGNvbnRleHQ6ICcjL2RvbWFpbicgfSwKICAgICAgaXNMb2dnZWRJbjogeyAkY29udGV4dDogJyMvaXNMb2dnZWRJbicgfSwKICAgICAgbG9jYWxpemVUZXh0Q29udGVudDogJ+acrOe9keermeaWh+Wtl+WGheWuueW9kumBk+eQvOaWr+WFrOWPuOaJgOacie+8jOS7u+S9leWNleS9jeWPiuS4quS6uuacque7j+iuuOWPr++8jOS4jeW+l+aTheiHqui9rOi9veS9v+eUqCcKICAgIH0KICB9LAogIE1vYmlsZUZvb3RlcjogewogICAgaWQ6ICdkOGU1NzEwYS02ZjAxLTQ5YWMtYmMyYi0xMTY1MTM1YWZhMTUnLAogICAgb3B0aW9uczogewogICAgICBpc0xvZ2dlZEluOiB7ICRjb250ZXh0OiAnIy9pc0xvZ2dlZEluJyB9LAogICAgICByZWdpb246IHsgJGNvbnRleHQ6ICcjL3JlZ2lvbicgfSwKICAgICAgd3NqVXJsOiB7ICRjb250ZXh0OiAnIy9kb21haW4nIH0sCiAgICAgIGxvY2FsaXplVGV4dENvbnRlbnQ6ICfmnKznvZHnq5nmloflrZflhoXlrrnlvZLpgZPnkLzmlq/lhazlj7jmiYDmnInvvIzku7vkvZXljZXkvY3lj4rkuKrkurrmnKrnu4/orrjlj6/vvIzkuI3lvpfmk4Xoh6rovazovb3kvb/nlKgnCiAgICB9CiAgfSwKCiAgTWFya2V0RGF0YTogewogICAgaWQ6ICcxN2YzMjA0MC0wYmZkLTQ3OTAtYmIzNi03MzJkMzIwOTMxNzYnCiAgfSwKICBIYXQ6IHsKICAgIGlkOiAnYzEzNDkyYTUtZDlkYi00N2MzLWE4MDQtODBmNDVmOTZjMDgxJwogIH0s</text>
+      </register>
+      <register name="3" type="4">
+        <text>Header: {
+    id: '03c85c64-f03f-4789-9e88-00158f0ea41e',
+    options: {
+      region: { $context: '#/region' },
+      section: 'Economy',
+      showSectionLogo: true,
+      showMastheadStrap: true,
+      isLoggedIn: { $context: '#/isLoggedIn' },
+      path: '/news/economy',
+      hideSearch: true,
+      user: { $context: '#/user'},
+    }
+  },
+  MobileHeader: {
+    id: 'c66926ad-7297-41f4-83fd-e37f455ae2f2',
+    options: {
+      region: { $context: '#/region' },
+      isLoggedIn: { $context: '#/isLoggedIn' },
+      showTodaysPaper: false,
+      sectionsNavStraps: {
+        hideAll: '隐藏全部',
+        showAll: '显示全部'
+      },
+      hideSearch: true,
+      section: 'Economy',
+      showSectionLogo: true
+    }
+  },
+  Footer: {
+    id: '9b6fea7a-ca2a-4ec2-982f-ea3079678342',
+    options: {
+      region: { $context: '#/region' },
+      wsjUrl: { $context: '#/domain' },
+      isLoggedIn: { $context: '#/isLoggedIn' },
+      localizeTextContent: '本网站文字内容归道琼斯公司所有，任何单位及个人未经许可，不得擅自转载使用'
+    }
+  },
+  MobileFooter: {
+    id: 'd8e5710a-6f01-49ac-bc2b-1165135afa15',
+    options: {
+      isLoggedIn: { $context: '#/isLoggedIn' },
+      region: { $context: '#/region' },
+      wsjUrl: { $context: '#/domain' },
+      localizeTextContent: '本网站文字内容归道琼斯公司所有，任何单位及个人未经许可，不得擅自转载使用'
+    }
+  },
+  MarketData: {
+    id: '17f32040-0bfd-4790-bb36-732d32093176'
+  },
+  Hat: {
+    id: 'c13492a5-d9db-47c3-a804-80f45f96c081'
+  },</text>
+      </register>
+      <register name="4" type="4">
+        <text>Header: {
+    id: '03c85c64-f03f-4789-9e88-00158f0ea41e',
+    options: {
+      hideSearch: true,
+      isLoggedIn: { $context: '#/isLoggedIn' },
+      path: '/news/business',
+      region: { $context: '#/region' },
+      section: 'Business',
+      showMastheadStrap: true,
+      showSectionLogo: true,
+      user: { $context: '#/user'},
+    }
+  },
+  MobileHeader: {
+    id: 'c66926ad-7297-41f4-83fd-e37f455ae2f2',
+    options: {
+      hideSearch: true,
+      isLoggedIn: { $context: '#/isLoggedIn' },
+      region: { $context: '#/region' },
+      section: 'Business',
+      sectionsNavStraps: {
+        hideAll: '隐藏全部',
+        showAll: '显示全部'
+      },
+      showSectionLogo: true,
+      showTodaysPaper: false,
+    }
+  },
+  Footer: {
+    id: '9b6fea7a-ca2a-4ec2-982f-ea3079678342',
+    options: {
+      region: { $context: '#/region' },
+      wsjUrl: { $context: '#/domain' },
+      isLoggedIn: { $context: '#/isLoggedIn' },
+      localizeTextContent: '本网站文字内容归道琼斯公司所有，任何单位及个人未经许可，不得擅自转载使用'
+    }
+  },
+  MobileFooter: {
+    id: 'd8e5710a-6f01-49ac-bc2b-1165135afa15',
+    options: {
+      isLoggedIn: { $context: '#/isLoggedIn' },
+      region: { $context: '#/region' },
+      wsjUrl: { $context: '#/domain' },
+      localizeTextContent: '本网站文字内容归道琼斯公司所有，任何单位及个人未经许可，不得擅自转载使用'
+    }
+  },
+  MarketData: {
+    id: '17f32040-0bfd-4790-bb36-732d32093176'
+  },
+  Hat: {
+    id: 'c13492a5-d9db-47c3-a804-80f45f96c081'
+  },</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIHNob3dNYXN0aGVhZFN0cmFwOiBwYWdlRGF0YS5zaG93TWFzdGhlYWRTdHJhcCB8fCBmYWxzZSwK</text>
       </register>
-      <register name="3" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAic2hvd2RkTWFzdGhlYWRTdHJhcCI6IHRydWUsCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgc2hvd01hc3RoZWFkU3RyYXA6IHRydWUsCg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="9" type="4">
         <text encoding="base64">IEhlYWRlcjogewogICAgaWQ6ICcwM2M4NWM2NC1mMDNmLTQ3ODktOWU4OC0wMDE1OGYwZWE0MWUnLAogICAgb3B0aW9uczogewogICAgICByZWdpb246IHsgJGNvbnRleHQ6ICcjL3JlZ2lvbicgfSwKICAgICAgc2VjdGlvbjogJ0NoaW5hJywKICAgICAgc2hvd1NlY3Rpb25Mb2dvOiB0cnVlLAogICAgICBzaG93TWFzdGhlYWRTdHJhcDogdHJ1ZSwKICAgICAgaXNMb2dnZWRJbjogeyAkY29udGV4dDogJyMvaXNMb2dnZWRJbicgfSwKICAgICAgcGF0aDogJy9uZXdzL2NoaW5hJywKICAgICAgaGlkZVNlYXJjaDogdHJ1ZSwKICAgICAgdXNlcjogeyAkY29udGV4dDogJyMvdXNlcid9LAogICAgfQogIH0sCiAgTW9iaWxlSGVhZGVyOiB7CiAgICBpZDogJ2M2NjkyNmFkLTcyOTctNDFmNC04M2ZkLWUzN2Y0NTVhZTJmMicsCiAgICBvcHRpb25zOiB7CiAgICAgIHJlZ2lvbjogeyAkY29udGV4dDogJyMvcmVnaW9uJyB9LAogICAgICBpc0xvZ2dlZEluOiB7ICRjb250ZXh0OiAnIy9pc0xvZ2dlZEluJyB9LAogICAgICBzaG93VG9kYXlzUGFwZXI6IGZhbHNlLAogICAgICBzZWN0aW9uc05hdlN0cmFwczogewogICAgICAgIGhpZGVBbGw6ICfpmpDol4/lhajpg6gnLAogICAgICAgIHNob3dBbGw6ICfmmL7npLrlhajpg6gnCiAgICAgIH0sCiAgICAgIGhpZGVTZWFyY2g6IHRydWUsCiAgICAgIHNlY3Rpb246IHsgJGNvbnRleHQ6ICcjL3NlY3Rpb24nIH0sCiAgICAgIHNob3dTZWN0aW9uTG9nbzogdHJ1ZQogICAgfQogIH0sCgogIEZvb3RlcjogewogICAgaWQ6ICc5YjZmZWE3YS1jYTJhLTRlYzItOTgyZi1lYTMwNzk2NzgzNDInLAogICAgb3B0aW9uczogewogICAgICByZWdpb246IHsgJGNvbnRleHQ6ICcjL3JlZ2lvbicgfSwKICAgICAgd3NqVXJsOiB7ICRjb250ZXh0OiAnIy9kb21haW4nIH0sCiAgICAgIGlzTG9nZ2VkSW46IHsgJGNvbnRleHQ6ICcjL2lzTG9nZ2VkSW4nIH0sCiAgICAgIGxvY2FsaXplVGV4dENvbnRlbnQ6ICfmnKznvZHnq5nmloflrZflhoXlrrnlvZLpgZPnkLzmlq/lhazlj7jmiYDmnInvvIzku7vkvZXljZXkvY3lj4rkuKrkurrmnKrnu4/orrjlj6/vvIzkuI3lvpfmk4Xoh6rovazovb3kvb/nlKgnCiAgICB9CiAgfSwKICBNb2JpbGVGb290ZXI6IHsKICAgIGlkOiAnZDhlNTcxMGEtNmYwMS00OWFjLWJjMmItMTE2NTEzNWFmYTE1JywKICAgIG9wdGlvbnM6IHsKICAgICAgaXNMb2dnZWRJbjogeyAkY29udGV4dDogJyMvaXNMb2dnZWRJbicgfSwKICAgICAgcmVnaW9uOiB7ICRjb250ZXh0OiAnIy9yZWdpb24nIH0sCiAgICAgIHdzalVybDogeyAkY29udGV4dDogJyMvZG9tYWluJyB9LAogICAgICBsb2NhbGl6ZVRleHRDb250ZW50OiAn5pys572R56uZ5paH5a2X5YaF5a655b2S6YGT55C85pav5YWs5Y+45omA5pyJ77yM5Lu75L2V5Y2V5L2N5Y+K5Liq5Lq65pyq57uP6K645Y+v77yM5LiN5b6X5pOF6Ieq6L2s6L295L2/55SoJwogICAgfQogIH0sCiAgTWFya2V0RGF0YTogewogICAgaWQ6ICcxN2YzMjA0MC0wYmZkLTQ3OTAtYmIzNi03MzJkMzIwOTMxNzYnCiAgfSwKICBIYXQ6IHsKICAgIGlkOiAnYzEzNDkyYTUtZDlkYi00N2MzLWE4MDQtODBmNDVmOTZjMDgxJwogIH0s</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29weShyZXF1aXJlKCcuL0Zvb3Rlcl84dScpKQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29weShyZXF1aXJlKCcuL0Zvb3Rlcl80dScpKQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29weShyZXF1aXJlKCcuL0Zvb3Rlcl80dScpKQo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29weShyZXF1aXJlKCcuL0hlYWRlcl84dScpKSwK</text>
       </register>
       <register name=":" type="4">
         <text>set incsearch</text>

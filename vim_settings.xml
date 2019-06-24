@@ -5,9 +5,6 @@
     <filemarks>
       <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/treasury/treasury_provider.js" timestamp="1558966091259" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/webui/modules/wsj/articleTools/generateOptions.js" timestamp="1559662214547" />
-      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/bondBenchmark/processBondBenchmark.js" timestamp="1559053789253">
-        <mark key="^" line="1" column="1" />
-      </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/util/imageHelper.js" timestamp="1559661345290" />
       <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/wsj/ArticleTools/index.js" timestamp="1559659800235" />
       <file name="/JavaScript Console" timestamp="1559057060660">
@@ -29,6 +26,7 @@
         <mark key="." line="83" column="1" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/shared-react-components/ArticleTools/index.js" timestamp="1559826463409" />
+      <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/shared-react-components/ArticleTools/TextSizeModal.js" timestamp="1561378517113" />
       <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/quotes/Quotes.js" timestamp="1559054316749">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />

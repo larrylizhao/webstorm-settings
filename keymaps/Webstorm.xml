@@ -1,0 +1,8 @@
+<keymap version="1" name="Webstorm " parent="Mac OS X 10.5+">
+  <action id="CloseAllEditors">
+    <keyboard-shortcut first-keystroke="meta back_slash" second-keystroke="meta w" />
+  </action>
+  <action id="CompareClipboardWithSelection">
+    <keyboard-shortcut first-keystroke="meta back_slash" second-keystroke="meta c" />
+  </action>
+</keymap>

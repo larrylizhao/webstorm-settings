@@ -10,6 +10,13 @@
         <mark key="." line="15" column="3" />
         <mark key="^" line="15" column="3" />
       </file>
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routesInternational/index.js" timestamp="1561364102458">
+        <mark key="'" line="201" column="96" />
+        <mark key="[" line="185" column="11" />
+        <mark key="]" line="185" column="11" />
+        <mark key="." line="185" column="11" />
+        <mark key="^" line="185" column="14" />
+      </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Economy/pageData.json" timestamp="1561356901929">
         <mark key="[" line="14" column="18" />
         <mark key="]" line="16" column="23" />
@@ -28,11 +35,11 @@
         <mark key="." line="15" column="3" />
         <mark key="^" line="15" column="3" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Technology/pageData.json" timestamp="1561362662678">
-        <mark key="[" line="17" column="18" />
-        <mark key="]" line="19" column="26" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Technology/pageData.json" timestamp="1561364084780">
+        <mark key="[" line="16" column="18" />
+        <mark key="]" line="16" column="18" />
         <mark key="^" line="19" column="26" />
-        <mark key="." line="19" column="26" />
+        <mark key="." line="16" column="18" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/World/components/index.js" timestamp="1561362605604">
         <mark key="[" line="15" column="1" />
@@ -46,7 +53,7 @@
         <mark key="." line="15" column="3" />
         <mark key="^" line="15" column="3" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/World/pageData.json" timestamp="1561362673260">
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/World/pageData.json" timestamp="1561364005344">
         <mark key="[" line="19" column="17" />
         <mark key="]" line="19" column="22" />
         <mark key="." line="19" column="22" />
@@ -58,6 +65,7 @@
         <mark key="." line="15" column="3" />
         <mark key="^" line="15" column="3" />
       </file>
+      <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/wsj/WSJHeader/index.js" timestamp="1561363273395" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Opinion/pageData.json" timestamp="1561359625853">
         <mark key="[" line="14" column="18" />
         <mark key="]" line="16" column="23" />
@@ -88,7 +96,7 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/LifeArts/pageData.json" timestamp="1561356978536">
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/LifeArts/pageData.json" timestamp="1561363786002">
         <mark key="[" line="14" column="18" />
         <mark key="]" line="16" column="25" />
         <mark key="^" line="16" column="25" />
@@ -137,10 +145,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>technology</text>
+        <text>o</text>
       </register>
       <register name="-" type="4">
-        <text>technology</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text>static</text>

@@ -3,8 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/shared/services/examineRedirect/index.js" timestamp="1561106978893" />
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Home/presentation/Header_8u.js" timestamp="1561103376040" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Business/components/index.js" timestamp="1561085218735">
         <mark key="'" line="13" column="2" />
         <mark key="[" line="12" column="0" />
@@ -18,44 +16,40 @@
         <mark key="^" line="78" column="3" />
         <mark key="." line="78" column="3" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Home/presentation/Header_4u.js" timestamp="1561103418724" />
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/_shared/Components/index.js" timestamp="1561348365406">
-        <mark key="[" line="25" column="22" />
-        <mark key="]" line="25" column="22" />
-        <mark key="^" line="25" column="22" />
-        <mark key="." line="25" column="22" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/_shared/Components/index.js" timestamp="1561349499364">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Home/presentation/Footer_8u.js" timestamp="1561103509449" />
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routesInternational/index.js" timestamp="1561348342505">
-        <mark key="'" line="202" column="96" />
-        <mark key="[" line="186" column="45" />
-        <mark key="]" line="187" column="7" />
-        <mark key="." line="187" column="7" />
-        <mark key="^" line="187" column="7" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routesInternational/index.js" timestamp="1561349573754">
+        <mark key="'" line="201" column="96" />
+        <mark key="[" line="187" column="0" />
+        <mark key="]" line="187" column="0" />
+        <mark key="." line="187" column="0" />
+        <mark key="^" line="187" column="28" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Home/presentation/Footer_4u.js" timestamp="1561103540375" />
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Components/index.js" timestamp="1561100443358" />
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Home/presentation/Footer_12u.js" timestamp="1561103485835" />
-      <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/wsj/SlimlineHeader/index.js" timestamp="1561106675601" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Home/presentation/index.js" timestamp="1561348058523">
         <mark key="[" line="27" column="43" />
         <mark key="]" line="28" column="27" />
         <mark key="^" line="28" column="27" />
         <mark key="." line="28" column="27" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Home/presentation/Footer_16u.js" timestamp="1561103459725" />
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/_shared/_pageData_base.json" timestamp="1561107931556">
-        <mark key="[" line="41" column="36" />
-        <mark key="]" line="42" column="63" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/_shared/_pageData_base.json" timestamp="1561349627113">
+        <mark key="[" line="58" column="1" />
+        <mark key="]" line="58" column="1" />
         <mark key="^" line="42" column="63" />
-        <mark key="." line="42" column="63" />
+        <mark key="." line="58" column="1" />
+      </file>
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/China/pageData.json" timestamp="1561349554389">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/_shared/Blocks/footers.js" timestamp="1561103551126">
         <mark key="[" line="31" column="6" />
         <mark key="]" line="31" column="6" />
         <mark key="." line="31" column="6" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/presentation/emea/stockIndexes/4u.js" timestamp="1561085386579" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/_shared/Blocks/headers.js" timestamp="1561103435865">
         <mark key="[" line="120" column="3" />
         <mark key="]" line="155" column="0" />
@@ -68,11 +62,9 @@
         <mark key="." line="15" column="3" />
         <mark key="^" line="15" column="3" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/modules/dj.svc.nav/lib/footer_config/COLUMN_LINKS.json" timestamp="1561089824743" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hant/_shared/_pageData_base.json" timestamp="1561108181589">
         <mark key="[" line="41" column="36" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Home/presentation/Header_16u.js" timestamp="1561100821845" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/China/components/index.js" timestamp="1561342775646">
         <mark key="[" line="16" column="1" />
         <mark key="]" line="15" column="3" />
@@ -84,7 +76,6 @@
         <mark key="]" line="48" column="3" />
         <mark key="." line="48" column="3" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Home/presentation/Header_12u.js" timestamp="1561100919283" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hant/Home/presentation/index.js" timestamp="1561108569648">
         <mark key="[" line="58" column="17" />
         <mark key="]" line="58" column="28" />
@@ -96,7 +87,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Home/presentation/Contents_16u.js" timestamp="1561087700147" />
+      <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/wsj/WSJHeader/index.js" timestamp="1561349490320" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/China/presentation/index.js" timestamp="1561348137229">
         <mark key="'" line="2" column="0" />
         <mark key="[" line="48" column="25" />
@@ -129,41 +120,41 @@
       <jump line="2" column="0" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/China/presentation/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>section === 'Home Page'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>section === 'Home Page'</text>
+        <text>{ $context: '#/showMastheadStrap' }</text>
       </register>
       <register name="/" type="4">
         <text>context</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IEhlYWRlcjogewogICAgaWQ6ICcwM2M4NWM2NC1mMDNmLTQ3ODktOWU4OC0wMDE1OGYwZWE0MWUnLAogICAgb3B0aW9uczogewogICAgICByZWdpb246IHsgJGNvbnRleHQ6ICcjL3JlZ2lvbicgfSwKICAgICAgc2VjdGlvbjogJ0NoaW5hJywKICAgICAgc2hvd1NlY3Rpb25Mb2dvOiB0cnVlLAogICAgICBzaG93TWFzdGhlYWRTdHJhcDogdHJ1ZSwKICAgICAgaXNMb2dnZWRJbjogeyAkY29udGV4dDogJyMvaXNMb2dnZWRJbicgfSwKICAgICAgcGF0aDogJy9uZXdzL2NoaW5hJywKICAgICAgaGlkZVNlYXJjaDogdHJ1ZSwKICAgICAgdXNlcjogeyAkY29udGV4dDogJyMvdXNlcid9LAogICAgfQogIH0sCiAgTW9iaWxlSGVhZGVyOiB7CiAgICBpZDogJ2M2NjkyNmFkLTcyOTctNDFmNC04M2ZkLWUzN2Y0NTVhZTJmMicsCiAgICBvcHRpb25zOiB7CiAgICAgIHJlZ2lvbjogeyAkY29udGV4dDogJyMvcmVnaW9uJyB9LAogICAgICBpc0xvZ2dlZEluOiB7ICRjb250ZXh0OiAnIy9pc0xvZ2dlZEluJyB9LAogICAgICBzaG93VG9kYXlzUGFwZXI6IGZhbHNlLAogICAgICBzZWN0aW9uc05hdlN0cmFwczogewogICAgICAgIGhpZGVBbGw6ICfpmpDol4/lhajpg6gnLAogICAgICAgIHNob3dBbGw6ICfmmL7npLrlhajpg6gnCiAgICAgIH0sCiAgICAgIGhpZGVTZWFyY2g6IHRydWUsCiAgICAgIHNlY3Rpb246IHsgJGNvbnRleHQ6ICcjL3NlY3Rpb24nIH0sCiAgICAgIHNob3dTZWN0aW9uTG9nbzogdHJ1ZQogICAgfQogIH0sCgogIEZvb3RlcjogewogICAgaWQ6ICc5YjZmZWE3YS1jYTJhLTRlYzItOTgyZi1lYTMwNzk2NzgzNDInLAogICAgb3B0aW9uczogewogICAgICByZWdpb246IHsgJGNvbnRleHQ6ICcjL3JlZ2lvbicgfSwKICAgICAgd3NqVXJsOiB7ICRjb250ZXh0OiAnIy9kb21haW4nIH0sCiAgICAgIGlzTG9nZ2VkSW46IHsgJGNvbnRleHQ6ICcjL2lzTG9nZ2VkSW4nIH0sCiAgICAgIGxvY2FsaXplVGV4dENvbnRlbnQ6ICfmnKznvZHnq5nmloflrZflhoXlrrnlvZLpgZPnkLzmlq/lhazlj7jmiYDmnInvvIzku7vkvZXljZXkvY3lj4rkuKrkurrmnKrnu4/orrjlj6/vvIzkuI3lvpfmk4Xoh6rovazovb3kvb/nlKgnCiAgICB9CiAgfSwKICBNb2JpbGVGb290ZXI6IHsKICAgIGlkOiAnZDhlNTcxMGEtNmYwMS00OWFjLWJjMmItMTE2NTEzNWFmYTE1JywKICAgIG9wdGlvbnM6IHsKICAgICAgaXNMb2dnZWRJbjogeyAkY29udGV4dDogJyMvaXNMb2dnZWRJbicgfSwKICAgICAgcmVnaW9uOiB7ICRjb250ZXh0OiAnIy9yZWdpb24nIH0sCiAgICAgIHdzalVybDogeyAkY29udGV4dDogJyMvZG9tYWluJyB9LAogICAgICBsb2NhbGl6ZVRleHRDb250ZW50OiAn5pys572R56uZ5paH5a2X5YaF5a655b2S6YGT55C85pav5YWs5Y+45omA5pyJ77yM5Lu75L2V5Y2V5L2N5Y+K5Liq5Lq65pyq57uP6K645Y+v77yM5LiN5b6X5pOF6Ieq6L2s6L295L2/55SoJwogICAgfQogIH0sCiAgTWFya2V0RGF0YTogewogICAgaWQ6ICcxN2YzMjA0MC0wYmZkLTQ3OTAtYmIzNi03MzJkMzIwOTMxNzYnCiAgfSwKICBIYXQ6IHsKICAgIGlkOiAnYzEzNDkyYTUtZDlkYi00N2MzLWE4MDQtODBmNDVmOTZjMDgxJwogIH0s</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29weShyZXF1aXJlKCcuL0Zvb3Rlcl84dScpKQo=</text>
+        <text encoding="base64">ICAgIHNob3dNYXN0aGVhZFN0cmFwOiBwYWdlRGF0YS5zaG93TWFzdGhlYWRTdHJhcCB8fCBmYWxzZSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29weShyZXF1aXJlKCcuL0Zvb3Rlcl80dScpKQo=</text>
+        <text encoding="base64">ICAic2hvd2RkTWFzdGhlYWRTdHJhcCI6IHRydWUsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29weShyZXF1aXJlKCcuL0Zvb3Rlcl80dScpKQo=</text>
+        <text encoding="base64">ICAgICAgc2hvd01hc3RoZWFkU3RyYXA6IHRydWUsCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29weShyZXF1aXJlKCcuL0hlYWRlcl84dScpKSwK</text>
+      <register name="5" type="4">
+        <text encoding="base64">IEhlYWRlcjogewogICAgaWQ6ICcwM2M4NWM2NC1mMDNmLTQ3ODktOWU4OC0wMDE1OGYwZWE0MWUnLAogICAgb3B0aW9uczogewogICAgICByZWdpb246IHsgJGNvbnRleHQ6ICcjL3JlZ2lvbicgfSwKICAgICAgc2VjdGlvbjogJ0NoaW5hJywKICAgICAgc2hvd1NlY3Rpb25Mb2dvOiB0cnVlLAogICAgICBzaG93TWFzdGhlYWRTdHJhcDogdHJ1ZSwKICAgICAgaXNMb2dnZWRJbjogeyAkY29udGV4dDogJyMvaXNMb2dnZWRJbicgfSwKICAgICAgcGF0aDogJy9uZXdzL2NoaW5hJywKICAgICAgaGlkZVNlYXJjaDogdHJ1ZSwKICAgICAgdXNlcjogeyAkY29udGV4dDogJyMvdXNlcid9LAogICAgfQogIH0sCiAgTW9iaWxlSGVhZGVyOiB7CiAgICBpZDogJ2M2NjkyNmFkLTcyOTctNDFmNC04M2ZkLWUzN2Y0NTVhZTJmMicsCiAgICBvcHRpb25zOiB7CiAgICAgIHJlZ2lvbjogeyAkY29udGV4dDogJyMvcmVnaW9uJyB9LAogICAgICBpc0xvZ2dlZEluOiB7ICRjb250ZXh0OiAnIy9pc0xvZ2dlZEluJyB9LAogICAgICBzaG93VG9kYXlzUGFwZXI6IGZhbHNlLAogICAgICBzZWN0aW9uc05hdlN0cmFwczogewogICAgICAgIGhpZGVBbGw6ICfpmpDol4/lhajpg6gnLAogICAgICAgIHNob3dBbGw6ICfmmL7npLrlhajpg6gnCiAgICAgIH0sCiAgICAgIGhpZGVTZWFyY2g6IHRydWUsCiAgICAgIHNlY3Rpb246IHsgJGNvbnRleHQ6ICcjL3NlY3Rpb24nIH0sCiAgICAgIHNob3dTZWN0aW9uTG9nbzogdHJ1ZQogICAgfQogIH0sCgogIEZvb3RlcjogewogICAgaWQ6ICc5YjZmZWE3YS1jYTJhLTRlYzItOTgyZi1lYTMwNzk2NzgzNDInLAogICAgb3B0aW9uczogewogICAgICByZWdpb246IHsgJGNvbnRleHQ6ICcjL3JlZ2lvbicgfSwKICAgICAgd3NqVXJsOiB7ICRjb250ZXh0OiAnIy9kb21haW4nIH0sCiAgICAgIGlzTG9nZ2VkSW46IHsgJGNvbnRleHQ6ICcjL2lzTG9nZ2VkSW4nIH0sCiAgICAgIGxvY2FsaXplVGV4dENvbnRlbnQ6ICfmnKznvZHnq5nmloflrZflhoXlrrnlvZLpgZPnkLzmlq/lhazlj7jmiYDmnInvvIzku7vkvZXljZXkvY3lj4rkuKrkurrmnKrnu4/orrjlj6/vvIzkuI3lvpfmk4Xoh6rovazovb3kvb/nlKgnCiAgICB9CiAgfSwKICBNb2JpbGVGb290ZXI6IHsKICAgIGlkOiAnZDhlNTcxMGEtNmYwMS00OWFjLWJjMmItMTE2NTEzNWFmYTE1JywKICAgIG9wdGlvbnM6IHsKICAgICAgaXNMb2dnZWRJbjogeyAkY29udGV4dDogJyMvaXNMb2dnZWRJbicgfSwKICAgICAgcmVnaW9uOiB7ICRjb250ZXh0OiAnIy9yZWdpb24nIH0sCiAgICAgIHdzalVybDogeyAkY29udGV4dDogJyMvZG9tYWluJyB9LAogICAgICBsb2NhbGl6ZVRleHRDb250ZW50OiAn5pys572R56uZ5paH5a2X5YaF5a655b2S6YGT55C85pav5YWs5Y+45omA5pyJ77yM5Lu75L2V5Y2V5L2N5Y+K5Liq5Lq65pyq57uP6K645Y+v77yM5LiN5b6X5pOF6Ieq6L2s6L295L2/55SoJwogICAgfQogIH0sCiAgTWFya2V0RGF0YTogewogICAgaWQ6ICcxN2YzMjA0MC0wYmZkLTQ3OTAtYmIzNi03MzJkMzIwOTMxNzYnCiAgfSwKICBIYXQ6IHsKICAgIGlkOiAnYzEzNDkyYTUtZDlkYi00N2MzLWE4MDQtODBmNDVmOTZjMDgxJwogIH0s</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29weShyZXF1aXJlKCcuL0Zvb3Rlcl84dScpKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29weShyZXF1aXJlKCcuL0hlYWRlcl8xMnUnKSksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29weShyZXF1aXJlKCcuL0Zvb3Rlcl80dScpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29weShyZXF1aXJlKCcuL0Zvb3Rlcl8xMnUnKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29weShyZXF1aXJlKCcuL0Zvb3Rlcl80dScpKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29weShyZXF1aXJlKCcuL0hlYWRlcl8xNnUnKSksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29weShyZXF1aXJlKCcuL0hlYWRlcl84dScpKSwK</text>
       </register>
       <register name=":" type="4">
         <text>set incsearch</text>

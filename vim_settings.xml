@@ -140,6 +140,13 @@
         <mark key="." line="18" column="3" />
         <mark key="^" line="18" column="3" />
       </file>
+      <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/wsj/SlimlineHeader/SectionsNav.js" timestamp="1561515976481">
+        <mark key="'" line="32" column="0" />
+        <mark key="[" line="32" column="29" />
+        <mark key="]" line="32" column="53" />
+        <mark key="^" line="32" column="53" />
+        <mark key="." line="32" column="53" />
+      </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Economy/components/index.js" timestamp="1561368155071">
         <mark key="[" line="15" column="1" />
         <mark key="]" line="15" column="2" />
@@ -327,6 +334,9 @@
         <mark key="." line="25" column="3" />
         <mark key="^" line="25" column="3" />
       </file>
+      <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/wsj/SlimlineHeader/index.js" timestamp="1561516099020">
+        <mark key="'" line="323" column="24" />
+      </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/_shared/_pageData_base.json" timestamp="1561368017671">
         <mark key="[" line="41" column="37" />
         <mark key="]" line="43" column="19" />
@@ -345,6 +355,7 @@
         <mark key="^" line="16" column="25" />
         <mark key="." line="16" column="25" />
       </file>
+      <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/wsj/SlimlineHeader/NavOverlay.js" timestamp="1561516053566" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hant/China/presentation/index.js" timestamp="1561427492746" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Opinion/components/index.js" timestamp="1561358061137">
         <mark key="[" line="15" column="2" />
@@ -400,6 +411,13 @@
       <jump line="198" column="96" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routesInternational/index.js" />
       <jump line="2" column="0" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/China/presentation/index.js" />
       <jump line="15" column="23" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routesInternational/routeConfig.json" />
+      <jump line="32" column="0" filename="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/wsj/SlimlineHeader/SectionsNav.js" />
+      <jump line="270" column="8" filename="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/wsj/SlimlineHeader/index.js" />
+      <jump line="391" column="61" filename="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/wsj/SlimlineHeader/index.js" />
+      <jump line="425" column="6" filename="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/wsj/SlimlineHeader/index.js" />
+      <jump line="456" column="6" filename="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/wsj/SlimlineHeader/index.js" />
+      <jump line="62" column="6" filename="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/wsj/SlimlineHeader/index.js" />
+      <jump line="323" column="24" filename="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/wsj/SlimlineHeader/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -409,7 +427,7 @@
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>static</text>
+        <text>navigation</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBpbmNsdWRlRXh0cmFsTGlua3M6IGZhbHNlLAo=</text>
@@ -443,9 +461,9 @@
       </register>
     </registers>
     <search>
-      <last-search>static</last-search>
+      <last-search>navigation</last-search>
       <last-offset />
-      <last-pattern>static</last-pattern>
+      <last-pattern>navigation</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -464,6 +482,7 @@
         <entry>sidebarstatic</entry>
         <entry>sidebar</entry>
         <entry>static</entry>
+        <entry>navigation</entry>
       </history-search>
       <history-cmd>
         <entry>set ignorecase</entry>

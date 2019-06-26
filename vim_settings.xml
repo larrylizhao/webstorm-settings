@@ -146,6 +146,12 @@
         <mark key="^" line="3" column="21" />
         <mark key="." line="15" column="2" />
       </file>
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/wsj/upgradesDowngrades/index.js" timestamp="1561534334000">
+        <mark key="[" line="2" column="31" />
+        <mark key="]" line="2" column="48" />
+        <mark key="." line="2" column="48" />
+        <mark key="^" line="2" column="48" />
+      </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/_shared/Components/index.js" timestamp="1561451085450">
         <mark key="]" line="22" column="38" />
         <mark key="^" line="22" column="38" />
@@ -305,6 +311,12 @@
         <mark key="." line="1" column="32" />
         <mark key="^" line="58" column="28" />
       </file>
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/wsj/upgradesDowngrades/pageData.json" timestamp="1561534292164">
+        <mark key="[" line="9" column="24" />
+        <mark key="]" line="9" column="26" />
+        <mark key="." line="9" column="26" />
+        <mark key="^" line="9" column="26" />
+      </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hant/Photos/components/index.js" timestamp="1561434578587">
         <mark key="[" line="15" column="2" />
         <mark key="]" line="15" column="2" />
@@ -414,10 +426,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>console.log('region is', req.region.wsjregion);</text>
+        <text>cmd</text>
       </register>
       <register name="-" type="4">
-        <text>console.log('region is', req.region.wsjregion);</text>
+        <text>cmd</text>
       </register>
       <register name="/" type="4">
         <text>navigation</text>

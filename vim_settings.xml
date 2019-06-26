@@ -140,12 +140,12 @@
         <mark key="." line="18" column="3" />
         <mark key="^" line="18" column="3" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/wsj/SlimlineHeader/SectionsNav.js" timestamp="1561515976481">
+      <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/wsj/SlimlineHeader/SectionsNav.js" timestamp="1561520944803">
         <mark key="'" line="32" column="0" />
-        <mark key="[" line="32" column="29" />
-        <mark key="]" line="32" column="53" />
-        <mark key="^" line="32" column="53" />
-        <mark key="." line="32" column="53" />
+        <mark key="[" line="89" column="42" />
+        <mark key="]" line="89" column="42" />
+        <mark key="^" line="89" column="42" />
+        <mark key="." line="89" column="42" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Economy/components/index.js" timestamp="1561368155071">
         <mark key="[" line="15" column="1" />
@@ -234,12 +234,12 @@
         <mark key="^" line="16" column="24" />
         <mark key="." line="16" column="24" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routesInternational/index.js" timestamp="1561452884872">
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routesInternational/index.js" timestamp="1561521099819">
         <mark key="'" line="201" column="96" />
-        <mark key="[" line="176" column="0" />
-        <mark key="]" line="176" column="48" />
-        <mark key="." line="176" column="48" />
-        <mark key="^" line="176" column="48" />
+        <mark key="[" line="176" column="2" />
+        <mark key="]" line="176" column="1" />
+        <mark key="." line="176" column="1" />
+        <mark key="^" line="176" column="1" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hant/LifeArts/pageData.json" timestamp="1561431207519">
         <mark key="[" line="14" column="18" />
@@ -420,11 +420,11 @@
       <jump line="323" column="24" filename="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/wsj/SlimlineHeader/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBpbmNsdWRlRXh0cmFsTGlua3M6IGZhbHNlLAo=</text>
+      <register name="&quot;" type="4">
+        <text>console.log('region is', req.region.wsjregion);</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>console.log('region is', req.region.wsjregion);</text>
       </register>
       <register name="/" type="4">
         <text>navigation</text>

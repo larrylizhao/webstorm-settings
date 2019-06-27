@@ -131,7 +131,7 @@
         <mark key="." line="3" column="21" />
         <mark key="^" line="3" column="21" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/shared-react-components/ArticleTools/TextSizeModal.js" timestamp="1561641162839" />
+      <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/shared-react-components/ArticleTools/TextSizeModal.js" timestamp="1561641176795" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/StaticPage/components/index.js" timestamp="1561367177747">
         <mark key="[" line="15" column="2" />
         <mark key="]" line="15" column="3" />
@@ -329,6 +329,12 @@
         <mark key="]" line="14" column="18" />
         <mark key="." line="14" column="18" />
       </file>
+      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/upgradesDowngrades/upgradesDowngrades_provider.js" timestamp="1561642632587">
+        <mark key="[" line="39" column="40" />
+        <mark key="]" line="40" column="1" />
+        <mark key="." line="40" column="1" />
+        <mark key="^" line="40" column="1" />
+      </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Economy/components/index.js" timestamp="1561368155071">
         <mark key="[" line="15" column="1" />
         <mark key="]" line="15" column="2" />
@@ -401,10 +407,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text encoding="base64">ICBpbnN0cnVtZW50LmZvcm1hdHRlZFByaWNlRWFybmluZ3NSYXRpbyA9IEZvcm1hdHRlci5mb3JtYXRUb01hbnRpc3NhKGluc3RydW1lbnQucHJpY2VFYXJuaW5nc1JhdGlvLCBEQVRBX1BSRUNJU0lPTik7CiAgaW5zdHJ1bWVudC5mb3JtYXR0ZWRQcmljZUVhcm5pbmdzUmF0aW81MldlZWtBZ28gPSBGb3JtYXR0ZXIuZm9ybWF0VG9NYW50aXNzYShpbnN0cnVtZW50LnByaWNlRWFybmluZ3NSYXRpbzUyV2Vla0FnbywgREFUQV9QUkVDSVNJT04pOwogIGluc3RydW1lbnQuZm9ybWF0dGVkUHJpY2VFYXJuaW5nc1JhdGlvRXN0aW1hdGUgPSBGb3JtYXR0ZXIuZm9ybWF0VG9NYW50aXNzYShpbnN0cnVtZW50LnByaWNlRWFybmluZ3NSYXRpb0VzdGltYXRlLCBEQVRBX1BSRUNJU0lPTik7CiAgaW5zdHJ1bWVudC5mb3JtYXR0ZWRZaWVsZCA9IEZvcm1hdHRlci5mb3JtYXRUb01hbnRpc3NhKGluc3RydW1lbnQueWllbGQsIERBVEFfUFJFQ0lTSU9OKTsKICBpbnN0cnVtZW50LmZvcm1hdHRlZFlpZWxkNTJXZWVrQWdvID0gRm9ybWF0dGVyLmZvcm1hdFRvTWFudGlzc2EoaW5zdHJ1bWVudC55aWVsZDUyV2Vla0FnbywgREFUQV9QUkVDSVNJT04pOw==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>model</text>
       </register>
       <register name="/" type="4">
         <text>navigation</text>
@@ -412,32 +418,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAoYykgQnJva2VyYWdlIGZpcm0gcGFydGljaXBhdGVkIGluIHRoZSBzZWNvbmRhcnkgb2ZmZXJpbmcuCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICBpbnN0cnVtZW50LmZvcm1hdHRlZFByaWNlRWFybmluZ3NSYXRpbyA9IEZvcm1hdHRlci5mb3JtYXRUb01hbnRpc3NhKGluc3RydW1lbnQucHJpY2VFYXJuaW5nc1JhdGlvLCBEQVRBX1BSRUNJU0lPTik7CiAgaW5zdHJ1bWVudC5mb3JtYXR0ZWRQcmljZUVhcm5pbmdzUmF0aW81MldlZWtBZ28gPSBGb3JtYXR0ZXIuZm9ybWF0VG9NYW50aXNzYShpbnN0cnVtZW50LnByaWNlRWFybmluZ3NSYXRpbzUyV2Vla0FnbywgREFUQV9QUkVDSVNJT04pOwogIGluc3RydW1lbnQuZm9ybWF0dGVkUHJpY2VFYXJuaW5nc1JhdGlvRXN0aW1hdGUgPSBGb3JtYXR0ZXIuZm9ybWF0VG9NYW50aXNzYShpbnN0cnVtZW50LnByaWNlRWFybmluZ3NSYXRpb0VzdGltYXRlLCBEQVRBX1BSRUNJU0lPTik7CiAgaW5zdHJ1bWVudC5mb3JtYXR0ZWRZaWVsZCA9IEZvcm1hdHRlci5mb3JtYXRUb01hbnRpc3NhKGluc3RydW1lbnQueWllbGQsIERBVEFfUFJFQ0lTSU9OKTsKICBpbnN0cnVtZW50LmZvcm1hdHRlZFlpZWxkNTJXZWVrQWdvID0gRm9ybWF0dGVyLmZvcm1hdFRvTWFudGlzc2EoaW5zdHJ1bWVudC55aWVsZDUyV2Vla0FnbywgREFUQV9QUkVDSVNJT04pOw==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAKICAKICAoYykgQnJva2VyYWdlIGZpcm0gcGFydGljaXBhdGVkIGluIHRoZSBzZWNvbmRhcnkgb2ZmZXJpbmcuCg==</text>
+        <text encoding="base64">ICBjb25zdCAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zdCBkb3duZ3JhZGVzVGFibGVGdWxsID0gIHsK</text>
+        <text encoding="base64">ICBtb2RlbC5mb3JtYXR0ZWRUcmFkZURhdGUgPSBGb3JtYXR0ZXIuZm9ybWF0VGltZXN0YW1wQXNEYXRlT25seVVTRWFzdChtb2RlbC50cmFkZURhdGUpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAKICAKICAoYykgQnJva2VyYWdlIGZpcm0gcGFydGljaXBhdGVkIGluIHRoZSBzZWNvbmRhcnkgb2ZmZXJpbmcuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zdCBkb3duZ3JhZGVzVGFibGVGdWxsID0gIHsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgY29weSA9IHJlcXVpcmUoJ2xvZGFzaC5jbG9uZWRlZXAnKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IFsKICAgICAgICAuLi5zb3VyY2VzRm9vdG5vdGUKICAgICAgXQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set incsearch</text>
@@ -447,12 +453,13 @@
       <last-search>navigation</last-search>
       <last-offset />
       <last-pattern>navigation</last-pattern>
+      <last-replace>~</last-replace>
+      <last-substitute>navigation</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>MutualFundsAndEtfs</entry>
         <entry>EtfMoversBreadcrumbsMobile</entry>
         <entry>%s</entry>
         <entry>ETF Movers</entry>
@@ -472,6 +479,7 @@
         <entry>console</entry>
         <entry>i18nlocale</entry>
         <entry>i18n</entry>
+        <entry>navigation</entry>
       </history-search>
       <history-cmd>
         <entry>%s/MutualFundsAndEtfs/Treasury/g</entry>

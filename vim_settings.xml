@@ -132,6 +132,7 @@
         <mark key="^" line="16" column="23" />
         <mark key="." line="16" column="23" />
       </file>
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/components/MarketsDiaryDiariesTable.js" timestamp="1561605477280" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routesInternational/routeConfig.json" timestamp="1561453462175">
         <mark key="'" line="15" column="23" />
         <mark key="[" line="78" column="4" />
@@ -304,11 +305,11 @@
         <mark key="." line="25" column="3" />
         <mark key="^" line="25" column="3" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/UpgradesDowngrades/presentation/Index/blocks/index.js" timestamp="1561604502363">
-        <mark key="[" line="1" column="53" />
-        <mark key="]" line="78" column="78" />
-        <mark key="." line="78" column="78" />
-        <mark key="^" line="78" column="78" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/UpgradesDowngrades/presentation/Index/blocks/index.js" timestamp="1561605683311">
+        <mark key="[" line="5" column="11" />
+        <mark key="]" line="5" column="11" />
+        <mark key="." line="5" column="11" />
+        <mark key="^" line="7" column="1" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/wsj/SlimlineHeader/index.js" timestamp="1561516099020">
         <mark key="'" line="323" column="24" />
@@ -386,25 +387,25 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>otherIndex</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>otherIndex</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>navigation</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbXBvbmVudDogY29tcG9uZW50cy5GYWN0b3J5LmdldENhcmRIZWFkZXIoJ0NvdmVyYWdlIFJlc3VtZWQnLCBmYWxzZSksCg==</text>
+        <text encoding="base64">ICAoYykgQnJva2VyYWdlIGZpcm0gcGFydGljaXBhdGVkIGluIHRoZSBzZWNvbmRhcnkgb2ZmZXJpbmcuCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zdCBkb3duZ3JhZGVzVGFibGVGdWxsID0gIHsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAKICAKICAoYykgQnJva2VyYWdlIGZpcm0gcGFydGljaXBhdGVkIGluIHRoZSBzZWNvbmRhcnkgb2ZmZXJpbmcuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25zdCBkb3duZ3JhZGVzVGFibGVGdWxsID0gIHsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -413,16 +414,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgY29weSA9IHJlcXVpcmUoJ2xvZGFzaC5jbG9uZWRlZXAnKTsK</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">IFsKICAgICAgICAuLi5zb3VyY2VzRm9vdG5vdGUKICAgICAgXQ==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Y29uc3QgY29weSA9IHJlcXVpcmUoJ2xvZGFzaC5jbG9uZWRlZXAnKTsK</text>
+      </register>
       <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICBpc0JvbGQ6IHRydWUsCiAgICAgICAgICBpc0Rpc3BsYXllZEluQ29sb3I6IHRydWUsCiAgICAgICAgICBwZVlpZWxkTGFiZWxQYXRoOiAnZm9ybWF0dGVkVHJhZGVEYXRlJywKICAgICAgICAgIHBlWWllbGRMYWJlbFN5bWJvbDogJ+KAoCcsCiAgICAgICAgICB2YWx1ZTogJ2Zvcm1hdHRlZFlpZWxkJwogICAgICAgIH0s</text>
+        <text encoding="base64">IFsKICAgICAgICAuLi5zb3VyY2VzRm9vdG5vdGUKICAgICAgXQ==</text>
       </register>
       <register name=":" type="4">
         <text>set incsearch</text>

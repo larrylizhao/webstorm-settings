@@ -117,6 +117,9 @@
         <mark key="^" line="59" column="29" />
         <mark key="." line="48" column="26" />
       </file>
+      <file name="/Clipboard.txt" timestamp="1561369507632">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hant/SidebarStatic/components/index.js" timestamp="1561434614489">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="3" column="14" />
@@ -163,6 +166,9 @@
         <mark key="^" line="3" column="21" />
         <mark key="." line="15" column="2" />
       </file>
+      <file name="vm.js" timestamp="1561707258696">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/wsj/upgradesDowngrades/index.js" timestamp="1561534334000">
         <mark key="[" line="2" column="31" />
         <mark key="]" line="2" column="48" />
@@ -185,7 +191,7 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/upgradesDowngrades/upgradesDowngrades_provider.js" timestamp="1561692452246">
+      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/upgradesDowngrades/upgradesDowngrades_provider.js" timestamp="1561707237132">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
@@ -278,6 +284,12 @@
         <mark key="]" line="15" column="3" />
         <mark key="." line="15" column="3" />
         <mark key="^" line="15" column="3" />
+      </file>
+      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/upgradesDowngrades/test/upgradesDowngrades-test.js" timestamp="1561707412583">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="16" column="46" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Technology/pageData.json" timestamp="1561364084780">
         <mark key="[" line="16" column="18" />
@@ -388,6 +400,9 @@
         <mark key="." line="36" column="45" />
         <mark key="^" line="81" column="76" />
       </file>
+      <file name="/JavaScript Console" timestamp="1561707240385">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/_shared/_pageData_base.json" timestamp="1561368017671">
         <mark key="[" line="41" column="37" />
         <mark key="]" line="43" column="19" />
@@ -486,11 +501,11 @@
       <jump line="29" column="50" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/UpgradesDowngrades/presentation/Index/4u.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text />
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBsZXQgdHJhZGVEYXRlRm9ybWF0dGVyID0gbnVsbDsK</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>navigation</text>
@@ -498,32 +513,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICBhcHBsaWNhdGlvbkJsb2Nrcy4K</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">LgogICAgICAgICAgICAgICA=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICBsZXQgdHJhZGVEYXRlRm9ybWF0dGVyID0gbnVsbDsK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">LgogICAgICAgICAgICAgICA=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAnZm9ybWF0VGltZXN0YW1wQXNEYXRlT25seVVTRWFzdCc6IHRyYWRlRGF0ZUZvcm1hdHRlcgo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">LgogICAgICAgICAgICAgICA=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHRyYWRlRGF0ZUZvcm1hdHRlciA9IHNpbm9uLnN0dWIoKTsK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">LgogICAgICAgICAgICAgICA=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICBsZXQgdHJhZGVEYXRlRm9ybWF0dGVyID0gbnVsbDsK</text>
       </register>
       <register name="5" type="4">
         <text encoding="base64">LgogICAgICAgICAgICAgICA=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgRm9ybWF0dGVyID0gcmVxdWlyZSgnLi4vdXRpbHMvZm9ybWF0dGVycycpOwo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">LgogICAgICAgICAgICAgICA=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">fTsK</text>
+      <register name="7" type="4">
+        <text encoding="base64">LgogICAgICAgICAgICAgICA=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICB1cGdyYWRlczogcmVxdWlyZSgnLi91cGdyYWRlcycpLAo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">LgogICAgICAgICAgICAgICA=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">LgogICAgICAgICAgICAgICA=</text>
       </register>
       <register name=":" type="4">
         <text>set incsearch</text>

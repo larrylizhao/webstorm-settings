@@ -3,11 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJJapan/StaticPage/components/index.js" timestamp="1561452967260">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-      </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hant/World/pageData.json" timestamp="1561432636564">
         <mark key="[" line="17" column="18" />
         <mark key="]" line="19" column="21" />
@@ -22,11 +17,6 @@
         <mark key="^" line="0" column="33" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/modules/dj.svc.nav/lib/nav_service.js" timestamp="1561520040893" />
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/_shared/Components/index.js" timestamp="1561349499364">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Components/index.js" timestamp="1561602921929">
         <mark key="[" line="103" column="47" />
         <mark key="]" line="104" column="67" />
@@ -50,11 +40,6 @@
         <mark key="." line="15" column="3" />
         <mark key="^" line="15" column="3" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/_shared/Blocks/footers.js" timestamp="1561103551126">
-        <mark key="[" line="31" column="6" />
-        <mark key="]" line="31" column="6" />
-        <mark key="." line="31" column="6" />
-      </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/China/components/index.js" timestamp="1561356829781">
         <mark key="[" line="16" column="1" />
         <mark key="]" line="15" column="3" />
@@ -66,11 +51,6 @@
         <mark key="]" line="19" column="22" />
         <mark key="." line="19" column="22" />
         <mark key="^" line="19" column="22" />
-      </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/_shared/Components/components.js" timestamp="1561098114297">
-        <mark key="[" line="48" column="3" />
-        <mark key="]" line="48" column="3" />
-        <mark key="." line="48" column="3" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hant/Home/components/index.js" timestamp="1561369262143">
         <mark key="[" line="2" column="0" />
@@ -99,11 +79,6 @@
         <mark key="]" line="15" column="3" />
         <mark key="." line="15" column="3" />
         <mark key="^" line="15" column="3" />
-      </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/WSJJapan/components.js" timestamp="1561453005670">
-        <mark key="[" line="19" column="27" />
-        <mark key="]" line="19" column="27" />
-        <mark key="." line="19" column="27" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/wsj/WSJHeader/index.js" timestamp="1561363273395" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hant/Business/presentation/index.js" timestamp="1561369445776">
@@ -174,6 +149,12 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/upgradesDowngrades/upgradesDowngrades_provider.js" timestamp="1561628977486">
+        <mark key="[" line="9" column="24" />
+        <mark key="]" line="27" column="55" />
+        <mark key="." line="27" column="55" />
+        <mark key="^" line="27" column="55" />
+      </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hant/Markets/components/index.js" timestamp="1561431373261">
         <mark key="[" line="15" column="1" />
         <mark key="]" line="15" column="3" />
@@ -211,11 +192,6 @@
         <mark key="^" line="17" column="1" />
         <mark key="." line="17" column="1" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hant/Photos/pageData.json" timestamp="1561433329792">
-        <mark key="[" line="14" column="18" />
-        <mark key="]" line="14" column="18" />
-        <mark key="." line="14" column="18" />
-      </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routesInternational/index.js" timestamp="1561521099819">
         <mark key="'" line="201" column="96" />
         <mark key="[" line="176" column="2" />
@@ -240,11 +216,6 @@
         <mark key="]" line="15" column="3" />
         <mark key="." line="15" column="3" />
         <mark key="^" line="15" column="3" />
-      </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJJapan/WhatsNews/components/index.js" timestamp="1561452941589">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Technology/pageData.json" timestamp="1561364084780">
         <mark key="[" line="16" column="18" />
@@ -387,10 +358,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>navigation</text>
@@ -399,31 +370,34 @@
         <text encoding="base64">ICAoYykgQnJva2VyYWdlIGZpcm0gcGFydGljaXBhdGVkIGluIHRoZSBzZWNvbmRhcnkgb2ZmZXJpbmcuCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBjb25zdCBpbmRleEVuZHBvaW50ID0gIFRZUEVTW3R5cGUudG9VcHBlckNhc2UoKV07Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAKICAKICAoYykgQnJva2VyYWdlIGZpcm0gcGFydGljaXBhdGVkIGluIHRoZSBzZWNvbmRhcnkgb2ZmZXJpbmcuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zdCBkb3duZ3JhZGVzVGFibGVGdWxsID0gIHsK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>const TYPES = {
+  'DOW': 'Dow',
+  'OTHERS': 'OtherIndexes'
+};</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">CnB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKCl7CiAgTm90ZSBub3RlID0gbmV3IE5vdGUoMSk7CiAgdGVzdChub3RlKTsKICBTeXN0ZW0ub3V0LnByaW50bG4obm90ZS5kYXRhKTsKfQoKc3RhdGljIHZvaWQgdGVzdChOb3RlIG5vdGUpewogIG5vdGUgPSBuZXcgTm90ZSg1KTsKfQoKLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiAg5L2c6ICF77ya5re85re855qE5bCP6Lef54+tCuadpea6kO+8mkNTRE4K5Y6f5paH77yaaHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl8zNzA3Nzk1MC9hcnRpY2xlL2RldGFpbHMvODExMjM1NTMKICDniYjmnYPlo7DmmI7vvJrmnKzmlofkuLrljZrkuLvljp/liJvmlofnq6DvvIzovazovb3or7fpmYTkuIrljZrmlofpk77mjqXvvIE=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAKICAKICAoYykgQnJva2VyYWdlIGZpcm0gcGFydGljaXBhdGVkIGluIHRoZSBzZWNvbmRhcnkgb2ZmZXJpbmcuCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgY29weSA9IHJlcXVpcmUoJ2xvZGFzaC5jbG9uZWRlZXAnKTsK</text>
+        <text encoding="base64">ICBjb25zdCBkb3duZ3JhZGVzVGFibGVGdWxsID0gIHsK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IFsKICAgICAgICAuLi5zb3VyY2VzRm9vdG5vdGUKICAgICAgXQ==</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>set incsearch</text>

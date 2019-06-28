@@ -191,7 +191,7 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/upgradesDowngrades/upgradesDowngrades_provider.js" timestamp="1561707237132">
+      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/upgradesDowngrades/upgradesDowngrades_provider.js" timestamp="1561712335242">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
@@ -285,11 +285,12 @@
         <mark key="." line="15" column="3" />
         <mark key="^" line="15" column="3" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/upgradesDowngrades/test/upgradesDowngrades-test.js" timestamp="1561707412583">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="16" column="46" />
+      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/upgradesDowngrades/test/upgradesDowngrades-test.js" timestamp="1561713072384">
+        <mark key="'" line="119" column="23" />
+        <mark key="[" line="138" column="57" />
+        <mark key="]" line="138" column="64" />
+        <mark key="^" line="138" column="64" />
+        <mark key="." line="138" column="64" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Technology/pageData.json" timestamp="1561364084780">
         <mark key="[" line="16" column="18" />
@@ -499,55 +500,61 @@
       <jump line="62" column="6" filename="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/wsj/SlimlineHeader/index.js" />
       <jump line="323" column="24" filename="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/wsj/SlimlineHeader/index.js" />
       <jump line="29" column="50" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/UpgradesDowngrades/presentation/Index/4u.js" />
+      <jump line="81" column="22" filename="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/upgradesDowngrades/test/upgradesDowngrades-test.js" />
+      <jump line="82" column="4" filename="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/upgradesDowngrades/test/upgradesDowngrades-test.js" />
+      <jump line="17" column="3" filename="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/upgradesDowngrades/test/upgradesDowngrades-test.js" />
+      <jump line="119" column="23" filename="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/upgradesDowngrades/test/upgradesDowngrades-test.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBsZXQgdHJhZGVEYXRlRm9ybWF0dGVyID0gbnVsbDsK</text>
+      <register name="&quot;" type="4">
+        <text>2.24'</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>2.24'</text>
       </register>
       <register name="/" type="4">
-        <text>navigation</text>
+        <text>&quot;</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICBhcHBsaWNhdGlvbkJsb2Nrcy4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBsZXQgdHJhZGVEYXRlRm9ybWF0dGVyID0gbnVsbDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAnZm9ybWF0VGltZXN0YW1wQXNEYXRlT25seVVTRWFzdCc6IHRyYWRlRGF0ZUZvcm1hdHRlcgo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">Y29uc3QgaW5zdHJ1bWVudDEgPSB7J2luc3RydW1lbnRJZCc6ICczNDMzMzgnLCAnbmFtZSc6ICdEb3cgSm9uZXMgSW5kdXN0cmlhbCBBdmVyYWdlJywgJ3ByaWNlRWFybmluZ3NSYXRpbyc6ICcxNy43MycsICdwcmljZUVhcm5pbmdzUmF0aW9Fc3RpbWF0ZSc6ICcxNS44NDEyMzYxNzU3ODgxJywgJ3ByaWNlRWFybmluZ3NSYXRpbzUyV2Vla0Fnbyc6ICcyNS4xOScsICd0aWNrZXInOiAnREpJJywgJ3lpZWxkJzogJzIuMjcnLCAneWllbGQ1MldlZWtBZ28nOiAnMi4yNCcgfTsKICAgIGNvbnN0IGluc3RydW1lbnQyID0geydpbnN0cnVtZW50SWQnOiAnMzQzMzQzJywgJ25hbWUnOiAnTkFTREFRIDEwMCBJbmRleCcsICdwcmljZUVhcm5pbmdzUmF0aW8nOiAnMjQuMDEnLCAncHJpY2VFYXJuaW5nc1JhdGlvRXN0aW1hdGUnOiAnMjEuMjUnLCAncHJpY2VFYXJuaW5nc1JhdGlvNTJXZWVrQWdvJzogJzI1Ljc1JywgJ3RpY2tlcic6ICdSSVhGJywgJ3lpZWxkJzogJzEuMDQnLCAneWllbGQ1MldlZWtBZ28nOiAnMS4wNCcgfTsKICAgIGNvbnN0IHJlc3BvbnNlID0gewogICAgICBpbnN0cnVtZW50czogW2luc3RydW1lbnQxLCBpbnN0cnVtZW50Ml0KICAgIH07Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRyYWRlRGF0ZUZvcm1hdHRlciA9IHNpbm9uLnN0dWIoKTsK</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICBsZXQgdHJhZGVEYXRlRm9ybWF0dGVyID0gbnVsbDsK</text>
+      <register name="4" type="4">
+        <text encoding="base64">IGNvbnN0IGluc3RydW1lbnQxID0geydpbnN0cnVtZW50SWQnOiAnMzQzMzM4JywgJ25hbWUnOiAnRG93IEpvbmVzIEluZHVzdHJpYWwgQXZlcmFnZScsICdwcmljZUVhcm5pbmdzUmF0aW8nOiAnMTcuNzMnLCAncHJpY2VFYXJuaW5nc1JhdGlvRXN0aW1hdGUnOiAnMTUuODQxMjM2MTc1Nzg4MScsICdwcmljZUVhcm5pbmdzUmF0aW81MldlZWtBZ28nOiAnMjUuMTknLCAndGlja2VyJzogJ0RKSScsICd5aWVsZCc6ICcyLjI3JywgJ3lpZWxkNTJXZWVrQWdvJzogJzIuMjQnIH07CiAgICBjb25zdCBpbnN0cnVtZW50MiA9IHsnaW5zdHJ1bWVudElkJzogJzM0MzM0MycsICduYW1lJzogJ05BU0RBUSAxMDAgSW5kZXgnLCAncHJpY2VFYXJuaW5nc1JhdGlvJzogJzI0LjAxJywgJ3ByaWNlRWFybmluZ3NSYXRpb0VzdGltYXRlJzogJzIxLjI1JywgJ3ByaWNlRWFybmluZ3NSYXRpbzUyV2Vla0Fnbyc6ICcyNS43NScsICd0aWNrZXInOiAnUklYRicsICd5aWVsZCc6ICcxLjA0JywgJ3lpZWxkNTJXZWVrQWdvJzogJzEuMDQnIH07CiAgICBjb25zdCByZXNwb25zZSA9IHsKICAgICAgaW5zdHJ1bWVudHM6IFtpbnN0cnVtZW50MSwgaW5zdHJ1bWVudDJdCiAgICB9Owo=</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">LgogICAgICAgICAgICAgICA=</text>
+        <text encoding="base64">IGNvbnN0IGluc3RydW1lbnQxID0gewogICAgICAnYWN0aW9uJzogJ1VwZ3JhZGVkJywKICAgICAgJ2FjdGlvblR5cGUnOiAnTWFya2V0IFBlcmZvcm0nLAogICAgICAnYnJva2VyYWdlTmFtZSc6ICdXZWxscyBGYXJnbycsCiAgICAgICdjb21wYW55TmFtZSc6ICdEaWFtb25kcm9jayBIb3NwaXRhbGl0eScsCiAgICAgICd0aW1lc3RhbXAnOiAnMjAxOS0wNi0yN1QwMDowMjoyNScsCiAgICAgICdpZCc6ICdVRDIwMTkwNjI3MDAwMjI1JywKICAgICAgJ29sZFRhcmdldFByaWNlJzogbnVsbCwKICAgICAgJ3RhcmdldFByaWNlJzogbnVsbCwKICAgICAgJ3RpY2tlcic6ICdEUkgnCiAgICB9OwogICAgY29uc3QgaW5zdHJ1bWVudDIgPSB7CiAgICAgICdhY3Rpb24nOiAnVXBncmFkZWQnLAogICAgICAnYWN0aW9uVHlwZSc6ICdOZXV0cmFsJywKICAgICAgJ2Jyb2tlcmFnZU5hbWUnOiAnUm9zZW5ibGF0dCcsCiAgICAgICdjb21wYW55TmFtZSc6ICdBcHBsaWVkIE9wdG9lbGVjdHJvbmljcycsCiAgICAgICd0aW1lc3RhbXAnOiAnMjAxOS0wNi0yN1QwNzoyNToyNCcsCiAgICAgICdpZCc6ICdVRDIwMTkwNjI3MDcyNTI0JywKICAgICAgJ29sZFRhcmdldFByaWNlJzogbnVsbCwKICAgICAgJ3RhcmdldFByaWNlJzogJzEwJywKICAgICAgJ3RpY2tlcic6ICdBQU9JJwogICAgfTsKICAgIGNvbnN0IHJlc3BvbnNlID0gewogICAgICB1cGdyYWRlczogewogICAgICAgIGluc3RydW1lbnRzOiBbaW5zdHJ1bWVudDEsIGluc3RydW1lbnQyXQogICAgICB9CiAgICB9Owo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">LgogICAgICAgICAgICAgICA=</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">LgogICAgICAgICAgICAgICA=</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">LgogICAgICAgICAgICAgICA=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">LgogICAgICAgICAgICAgICA=</text>
+        <text encoding="base64">ICBjb25zdCByZXNwb25zZSA9IHsKICAgICAgdXBncmFkZXM6IHsKICAgICAgICBpbnN0cnVtZW50czogW2luc3RydW1lbnQxLCBpbnN0cnVtZW50Ml0KICAgICAgfQogICAgfTs=</text>
       </register>
       <register name=":" type="4">
-        <text>set incsearch</text>
+        <text>%s/&quot;/'/g</text>
       </register>
     </registers>
     <search>
-      <last-search>navigation</last-search>
+      <last-search>&quot;</last-search>
       <last-offset />
-      <last-pattern>navigation</last-pattern>
+      <last-pattern>&quot;</last-pattern>
+      <last-replace>'</last-replace>
+      <last-substitute>&quot;</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -567,11 +574,15 @@
         <entry>sidebar</entry>
         <entry>static</entry>
         <entry>navigation</entry>
+        <entry>const</entry>
+        <entry>&quot;</entry>
       </history-search>
       <history-cmd>
         <entry>set ignorecase</entry>
         <entry>set smartcase</entry>
         <entry>set incsearch</entry>
+        <entry>s/&quot;/'/g</entry>
+        <entry>%s/&quot;/'/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />

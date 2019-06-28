@@ -149,10 +149,10 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/upgradesDowngrades/upgradesDowngrades_provider.js" timestamp="1561628977486">
-        <mark key="[" line="9" column="24" />
-        <mark key="]" line="27" column="55" />
-        <mark key="." line="27" column="55" />
+      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/upgradesDowngrades/upgradesDowngrades_provider.js" timestamp="1561687002209">
+        <mark key="[" line="40" column="13" />
+        <mark key="]" line="40" column="13" />
+        <mark key="." line="40" column="13" />
         <mark key="^" line="27" column="55" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hant/Markets/components/index.js" timestamp="1561431373261">
@@ -235,7 +235,7 @@
         <mark key="." line="3" column="21" />
         <mark key="^" line="3" column="21" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/UpgradesDowngrades/components/UpgradesDowngradesTable.js" timestamp="1561602304168">
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/UpgradesDowngrades/components/UpgradesDowngradesTable.js" timestamp="1561686982627">
         <mark key="[" line="3" column="50" />
         <mark key="]" line="3" column="57" />
         <mark key="." line="3" column="57" />
@@ -358,10 +358,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text>company</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>company</text>
       </register>
       <register name="/" type="4">
         <text>navigation</text>

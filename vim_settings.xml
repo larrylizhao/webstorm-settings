@@ -11,8 +11,9 @@
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Currencies/components/ExchangeRatesTable.js" timestamp="1561703922960" />
       <file name="$USER_HOME$/Desktop/wsj/modules/dj.svc.nav/lib/nav_service.js" timestamp="1561520040893" />
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/resp.section.pages/page/16u_Article_Types_jp.json" timestamp="1562125019558" />
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/resp.section.pages/page/16u_Article_Types_jp.json" timestamp="1562125126885" />
       <file name="$USER_HOME$/Desktop/wsj/frontpage/web/lib/components/Page/layouts/japanbusiness.js" timestamp="1562059368373" />
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/view/wsj/breadcrumbs.mu" timestamp="1562125931772" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/UpgradesDowngrades/presentation/Index/12u.js" timestamp="1561693282237">
         <mark key="[" line="18" column="26" />
         <mark key="]" line="18" column="26" />
@@ -33,6 +34,7 @@
         <mark key="." line="1" column="16" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/content/extendedHoursStockMovers.js" timestamp="1561688376734" />
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/module/wsj/breadcrumbs.js" timestamp="1562125871358" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Technology/components/index.js" timestamp="1561362594279">
         <mark key="[" line="15" column="2" />
         <mark key="]" line="15" column="3" />
@@ -355,7 +357,7 @@
         <mark key="." line="36" column="45" />
         <mark key="^" line="81" column="76" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/resp.section.pages/layout/16u_ArticleTypes_jp.mu" timestamp="1562056061932" />
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/resp.section.pages/layout/16u_ArticleTypes_jp.mu" timestamp="1562125144156" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/_shared/_pageData_base.json" timestamp="1561368017671">
         <mark key="[" line="41" column="37" />
         <mark key="]" line="43" column="19" />
@@ -389,6 +391,12 @@
         <mark key="]" line="16" column="23" />
         <mark key="^" line="16" column="23" />
         <mark key="." line="16" column="23" />
+      </file>
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/resp.module.automated_content/lib/page_header.js" timestamp="1562125619497">
+        <mark key="[" line="31" column="4" />
+        <mark key="]" line="32" column="65" />
+        <mark key="." line="32" column="65" />
+        <mark key="^" line="32" column="65" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hant/StaticArticlePage/components/index.js" timestamp="1561434850375">
         <mark key="[" line="26" column="0" />
@@ -433,7 +441,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>technology</text>
+        <text encoding="base64">CglpZih2aWV3SW5mby5oZWFkZXIgPT09ICcnKQ==</text>
       </register>
       <register name="-" type="4">
         <text>technology</text>
@@ -444,32 +452,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICBhcHBsaWNhdGlvbkJsb2Nrcy4K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vbWFzdGVyCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CglpZih2aWV3SW5mby5oZWFkZXIgPT09ICcnKQ==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAiZGF0YS1wcm92aWRlciI6ICIwLjQuMjM4IiwKPT09PT09PQo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vbWFzdGVyCg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAiZGF0YS1wcm92aWRlciI6ICIwLjQuMjM4IiwKPT09PT09PQo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECmNvbnN0IGdldFdTSkxheW91dCA9IHJlcXVpcmUoJy4uL2dldFdTSkxheW91dCcpOwo9PT09PT09Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vbWFzdGVyCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECmNvbnN0IGdldFdTSkxheW91dCA9IHJlcXVpcmUoJy4uL2dldFdTSkxheW91dCcpOwo9PT09PT09Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">Y29uc3QgaW5zdHJ1bWVudDEgPSB7J2luc3RydW1lbnRJZCc6ICczNDMzMzgnLCAnbmFtZSc6ICdEb3cgSm9uZXMgSW5kdXN0cmlhbCBBdmVyYWdlJywgJ3ByaWNlRWFybmluZ3NSYXRpbyc6ICcxNy43MycsICdwcmljZUVhcm5pbmdzUmF0aW9Fc3RpbWF0ZSc6ICcxNS44NDEyMzYxNzU3ODgxJywgJ3ByaWNlRWFybmluZ3NSYXRpbzUyV2Vla0Fnbyc6ICcyNS4xOScsICd0aWNrZXInOiAnREpJJywgJ3lpZWxkJzogJzIuMjcnLCAneWllbGQ1MldlZWtBZ28nOiAnMi4yNCcgfTsKICAgIGNvbnN0IGluc3RydW1lbnQyID0geydpbnN0cnVtZW50SWQnOiAnMzQzMzQzJywgJ25hbWUnOiAnTkFTREFRIDEwMCBJbmRleCcsICdwcmljZUVhcm5pbmdzUmF0aW8nOiAnMjQuMDEnLCAncHJpY2VFYXJuaW5nc1JhdGlvRXN0aW1hdGUnOiAnMjEuMjUnLCAncHJpY2VFYXJuaW5nc1JhdGlvNTJXZWVrQWdvJzogJzI1Ljc1JywgJ3RpY2tlcic6ICdSSVhGJywgJ3lpZWxkJzogJzEuMDQnLCAneWllbGQ1MldlZWtBZ28nOiAnMS4wNCcgfTsKICAgIGNvbnN0IHJlc3BvbnNlID0gewogICAgICBpbnN0cnVtZW50czogW2luc3RydW1lbnQxLCBpbnN0cnVtZW50Ml0KICAgIH07Cg==</text>
+      <register name="8" type="2">
+        <text encoding="base64">PT09PT09PQo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>119</text>

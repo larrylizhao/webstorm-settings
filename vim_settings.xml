@@ -72,6 +72,9 @@
         <mark key="^" line="6" column="1" />
         <mark key="." line="6" column="1" />
       </file>
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_sections.app/package.json" timestamp="1562135542941">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Markets/components/index.js" timestamp="1561357864154">
         <mark key="[" line="15" column="2" />
         <mark key="]" line="15" column="3" />
@@ -358,6 +361,9 @@
         <mark key="^" line="81" column="76" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/resp.section.pages/layout/16u_ArticleTypes_jp.mu" timestamp="1562125144156" />
+      <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/wsj/SlimlineHeader/index.js" timestamp="1561516099020">
+        <mark key="'" line="323" column="24" />
+      </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/_shared/_pageData_base.json" timestamp="1561368017671">
         <mark key="[" line="41" column="37" />
         <mark key="]" line="43" column="19" />
@@ -438,6 +444,7 @@
       <jump line="17" column="3" filename="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/upgradesDowngrades/test/upgradesDowngrades-test.js" />
       <jump line="119" column="23" filename="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/upgradesDowngrades/test/upgradesDowngrades-test.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/wsj/grand-canyon/package.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/wsj/Tesla/wsj_sections.app/package.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -447,7 +454,7 @@
         <text>technology</text>
       </register>
       <register name="/" type="4">
-        <text>===</text>
+        <text>resp.module.autom</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICBhcHBsaWNhdGlvbkJsb2Nrcy4K</text>
@@ -484,9 +491,9 @@
       </register>
     </registers>
     <search>
-      <last-search>===</last-search>
+      <last-search>resp.module.autom</last-search>
       <last-offset />
-      <last-pattern>===</last-pattern>
+      <last-pattern>resp.module.autom</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>===</last-substitute>
       <last-dir>1</last-dir>
@@ -512,6 +519,7 @@
         <entry>&quot;</entry>
         <entry>====</entry>
         <entry>===</entry>
+        <entry>resp.module.autom</entry>
       </history-search>
       <history-cmd>
         <entry>set ignorecase</entry>

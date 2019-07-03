@@ -120,7 +120,7 @@
         <mark key="." line="18" column="3" />
         <mark key="^" line="18" column="3" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/webui/modules/wsj/comingup.js" timestamp="1562120813302" />
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/webui/modules/wsj/comingup.js" timestamp="1562123112357" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/UpgradesDowngrades/content/upgrades.js" timestamp="1561688547863">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -479,7 +479,7 @@
         <text encoding="base64">Y29uc3QgaW5zdHJ1bWVudDEgPSB7J2luc3RydW1lbnRJZCc6ICczNDMzMzgnLCAnbmFtZSc6ICdEb3cgSm9uZXMgSW5kdXN0cmlhbCBBdmVyYWdlJywgJ3ByaWNlRWFybmluZ3NSYXRpbyc6ICcxNy43MycsICdwcmljZUVhcm5pbmdzUmF0aW9Fc3RpbWF0ZSc6ICcxNS44NDEyMzYxNzU3ODgxJywgJ3ByaWNlRWFybmluZ3NSYXRpbzUyV2Vla0Fnbyc6ICcyNS4xOScsICd0aWNrZXInOiAnREpJJywgJ3lpZWxkJzogJzIuMjcnLCAneWllbGQ1MldlZWtBZ28nOiAnMi4yNCcgfTsKICAgIGNvbnN0IGluc3RydW1lbnQyID0geydpbnN0cnVtZW50SWQnOiAnMzQzMzQzJywgJ25hbWUnOiAnTkFTREFRIDEwMCBJbmRleCcsICdwcmljZUVhcm5pbmdzUmF0aW8nOiAnMjQuMDEnLCAncHJpY2VFYXJuaW5nc1JhdGlvRXN0aW1hdGUnOiAnMjEuMjUnLCAncHJpY2VFYXJuaW5nc1JhdGlvNTJXZWVrQWdvJzogJzI1Ljc1JywgJ3RpY2tlcic6ICdSSVhGJywgJ3lpZWxkJzogJzEuMDQnLCAneWllbGQ1MldlZWtBZ28nOiAnMS4wNCcgfTsKICAgIGNvbnN0IHJlc3BvbnNlID0gewogICAgICBpbnN0cnVtZW50czogW2luc3RydW1lbnQxLCBpbnN0cnVtZW50Ml0KICAgIH07Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>110</text>
+        <text>119</text>
       </register>
     </registers>
     <search>
@@ -519,6 +519,7 @@
         <entry>s/&quot;/'/g</entry>
         <entry>%s/&quot;/'/g</entry>
         <entry>110</entry>
+        <entry>119</entry>
       </history-cmd>
       <history-expr />
       <history-input />

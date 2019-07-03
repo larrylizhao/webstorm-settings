@@ -398,11 +398,11 @@
         <mark key="^" line="16" column="23" />
         <mark key="." line="16" column="23" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/resp.module.automated_content/lib/page_header.js" timestamp="1562137936747">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
-        <mark key="^" line="35" column="4" />
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/resp.module.automated_content/lib/page_header.js" timestamp="1562138701691">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
+        <mark key="^" line="33" column="59" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hant/StaticArticlePage/components/index.js" timestamp="1561434850375">
         <mark key="[" line="26" column="0" />
@@ -448,7 +448,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CXZpZXdJbmZvLmhlYWRlci5yZXBsYWNlKCdKLUpvdXJuYWwgUnBvcnRzJywgJ0pvdXJuYWwgUnBvcnRzJyk7Cg==</text>
+        <text encoding="base64">CWNvbnNvbGUubG9nKCd2aWV3aW5mbyBpcycsIHZpZXdJbmZvKTsK</text>
       </register>
       <register name="-" type="4">
         <text>technology</text>
@@ -460,31 +460,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICBhcHBsaWNhdGlvbkJsb2Nrcy4K</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">CWNvbnNvbGUubG9nKCd2aWV3aW5mbyBpcycsIHZpZXdJbmZvKTsK</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">CXZpZXdJbmZvLmhlYWRlci5yZXBsYWNlKCdKLUpvdXJuYWwgUnBvcnRzJywgJ0pvdXJuYWwgUnBvcnRzJyk7Cg==</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">CglpZih2aWV3SW5mby5oZWFkZXIgPT09ICcnKQ==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vbWFzdGVyCg==</text>
-      </register>
       <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAiZGF0YS1wcm92aWRlciI6ICIwLjQuMjM4IiwKPT09PT09PQo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vbWFzdGVyCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vbWFzdGVyCg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAiZGF0YS1wcm92aWRlciI6ICIwLjQuMjM4IiwKPT09PT09PQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECmNvbnN0IGdldFdTSkxheW91dCA9IHJlcXVpcmUoJy4uL2dldFdTSkxheW91dCcpOwo9PT09PT09Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vbWFzdGVyCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECmNvbnN0IGdldFdTSkxheW91dCA9IHJlcXVpcmUoJy4uL2dldFdTSkxheW91dCcpOwo9PT09PT09Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>119</text>

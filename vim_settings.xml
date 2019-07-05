@@ -138,8 +138,8 @@
         <mark key="." line="16" column="23" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/components/MarketsDiaryDiariesTable.js" timestamp="1561605477280" />
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routesInternational/routeConfig.json" timestamp="1562293719773">
-        <mark key="'" line="15" column="23" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routesInternational/routeConfig.json" timestamp="1562295006490">
+        <mark key="'" line="269" column="4" />
         <mark key="[" line="78" column="4" />
         <mark key="]" line="78" column="3" />
         <mark key="^" line="78" column="3" />
@@ -493,6 +493,9 @@
       <jump line="91" column="34" filename="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/wsj/SlimlineHeader/SectionsNav.js" />
       <jump line="202" column="0" filename="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/wsj/SlimlineHeader/SectionsNav.js" />
       <jump line="90" column="4" filename="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/wsj/SlimlineHeader/SectionsNav.js" />
+      <jump line="264" column="3" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routesInternational/routeConfig.json" />
+      <jump line="269" column="4" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routesInternational/routeConfig.json" />
+      <jump line="189" column="35" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routesInternational/routeConfig.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -593,6 +596,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>

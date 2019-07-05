@@ -56,6 +56,12 @@
         <mark key="." line="43" column="21" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/resp.module.automated_content/view/articletypes/page_header.mu" timestamp="1562055534269" />
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/webui/packages/wsj/china_header/index.js" timestamp="1562309172075">
+        <mark key="[" line="63" column="26" />
+        <mark key="]" line="64" column="50" />
+        <mark key="^" line="64" column="50" />
+        <mark key="." line="64" column="50" />
+      </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/China/components/index.js" timestamp="1561356829781">
         <mark key="[" line="16" column="1" />
         <mark key="]" line="15" column="3" />
@@ -151,7 +157,7 @@
         <mark key="." line="18" column="3" />
         <mark key="^" line="18" column="3" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/wsj/SlimlineHeader/SectionsNav.js" timestamp="1562307449437">
+      <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/wsj/SlimlineHeader/SectionsNav.js" timestamp="1562309105186">
         <mark key="'" line="34" column="21" />
         <mark key="[" line="90" column="35" />
         <mark key="]" line="91" column="3" />
@@ -354,6 +360,7 @@
         <mark key="." line="9" column="26" />
         <mark key="^" line="9" column="26" />
       </file>
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/page/china_wsj_resp_article_16u.json" timestamp="1562309054268" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/StaticPage/components/index.js" timestamp="1561367177747">
         <mark key="[" line="15" column="2" />
         <mark key="]" line="15" column="3" />
@@ -501,7 +508,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdleGNsdWRlbWFpbiBpcycsZXhjbHVkZU1haW4uaW5jbHVkZXMocmVnaW9uKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdpbmNsdWRlRXh0cmFsTGlua3MnOiBmYWxzZQo=</text>
       </register>
       <register name="-" type="4">
         <text>t</text>
@@ -509,8 +516,8 @@
       <register name="/" type="4">
         <text>resp.module.autom</text>
       </register>
-      <register name="0" type="4">
-        <text>Journal Reports</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdpbmNsdWRlRXh0cmFsTGlua3MnOiBmYWxzZQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdleGNsdWRlbWFpbiBpcycsZXhjbHVkZU1haW4uaW5jbHVkZXMocmVnaW9uKSk7Cg==</text>

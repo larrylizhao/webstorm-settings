@@ -151,12 +151,12 @@
         <mark key="." line="18" column="3" />
         <mark key="^" line="18" column="3" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/wsj/SlimlineHeader/SectionsNav.js" timestamp="1562299019119">
-        <mark key="'" line="90" column="4" />
-        <mark key="[" line="91" column="16" />
-        <mark key="]" line="91" column="30" />
-        <mark key="^" line="91" column="30" />
-        <mark key="." line="91" column="30" />
+      <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/wsj/SlimlineHeader/SectionsNav.js" timestamp="1562307449437">
+        <mark key="'" line="34" column="21" />
+        <mark key="[" line="90" column="35" />
+        <mark key="]" line="91" column="3" />
+        <mark key="^" line="91" column="3" />
+        <mark key="." line="91" column="3" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/webui/modules/wsj/comingup.js" timestamp="1562123112357" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/UpgradesDowngrades/content/upgrades.js" timestamp="1561688547863">
@@ -496,13 +496,14 @@
       <jump line="264" column="3" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routesInternational/routeConfig.json" />
       <jump line="269" column="4" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routesInternational/routeConfig.json" />
       <jump line="189" column="35" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routesInternational/routeConfig.json" />
+      <jump line="34" column="21" filename="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/wsj/SlimlineHeader/SectionsNav.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CWNvbnNvbGUubG9nKCd2aWV3aW5mbyBoZWFkZXIgaXMnLCB2aWV3SW5mby5oZWFkZXIgPT09ICdKLUpvdXJuYWwgUmVwb3J0cycpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdleGNsdWRlbWFpbiBpcycsZXhjbHVkZU1haW4uaW5jbHVkZXMocmVnaW9uKSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>technology</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>resp.module.autom</text>
@@ -511,28 +512,28 @@
         <text>Journal Reports</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CWNvbnNvbGUubG9nKCd2aWV3aW5mbyBoZWFkZXIgaXMnLCB2aWV3SW5mby5oZWFkZXIgPT09ICdKLUpvdXJuYWwgUmVwb3J0cycpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdleGNsdWRlbWFpbiBpcycsZXhjbHVkZU1haW4uaW5jbHVkZXMocmVnaW9uKSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CWNvbnNvbGUubG9nKCd2aWV3aW5mbyBpcycsIHZpZXdJbmZvKTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdyZWdpb24gaXMnLCByZWdpb24pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CXZpZXdJbmZvLmhlYWRlci5yZXBsYWNlKCdKLUpvdXJuYWwgUmVwb3J0cycsICdKb3VybmFsIFJlcG9ydHMnKTsK</text>
+        <text encoding="base64">CWNvbnNvbGUubG9nKCd2aWV3aW5mbyBoZWFkZXIgaXMnLCB2aWV3SW5mby5oZWFkZXIgPT09ICdKLUpvdXJuYWwgUmVwb3J0cycpOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">CWNvbnNvbGUubG9nKCd2aWV3aW5mbyBpcycsIHZpZXdJbmZvKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CXZpZXdJbmZvLmhlYWRlci5yZXBsYWNlKCdKLUpvdXJuYWwgUnBvcnRzJywgJ0pvdXJuYWwgUnBvcnRzJyk7Cg==</text>
+        <text encoding="base64">CXZpZXdJbmZvLmhlYWRlci5yZXBsYWNlKCdKLUpvdXJuYWwgUmVwb3J0cycsICdKb3VybmFsIFJlcG9ydHMnKTsK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CglpZih2aWV3SW5mby5oZWFkZXIgPT09ICcnKQ==</text>
+      <register name="6" type="2">
+        <text encoding="base64">CWNvbnNvbGUubG9nKCd2aWV3aW5mbyBpcycsIHZpZXdJbmZvKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vbWFzdGVyCg==</text>
+        <text encoding="base64">CXZpZXdJbmZvLmhlYWRlci5yZXBsYWNlKCdKLUpvdXJuYWwgUnBvcnRzJywgJ0pvdXJuYWwgUnBvcnRzJyk7Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAiZGF0YS1wcm92aWRlciI6ICIwLjQuMjM4IiwKPT09PT09PQo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">CglpZih2aWV3SW5mby5oZWFkZXIgPT09ICcnKQ==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vbWFzdGVyCg==</text>
@@ -602,6 +603,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed M</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>

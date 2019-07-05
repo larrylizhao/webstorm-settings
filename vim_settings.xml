@@ -517,9 +517,6 @@
         <mark key="^" line="81" column="76" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/resp.section.pages/layout/16u_ArticleTypes_jp.mu" timestamp="1562125144156" />
-      <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/wsj/SlimlineHeader/index.js" timestamp="1562292366285">
-        <mark key="'" line="323" column="24" />
-      </file>
       <file name="/JavaScript Console" timestamp="1562315951910">
         <mark key="[" line="0" column="0" />
       </file>
@@ -574,10 +571,11 @@
         <mark key="." line="35" column="60" />
         <mark key="^" line="35" column="60" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/webui/packages/wsj/japan_header/index.js" timestamp="1561453274749">
-        <mark key="[" line="199" column="0" />
-        <mark key="]" line="199" column="0" />
-        <mark key="." line="199" column="0" />
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/webui/packages/wsj/japan_header/index.js" timestamp="1562317581802">
+        <mark key="[" line="62" column="26" />
+        <mark key="]" line="63" column="50" />
+        <mark key="." line="63" column="50" />
+        <mark key="^" line="63" column="50" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hant/Opinion/pageData.json" timestamp="1561431451169">
         <mark key="[" line="14" column="18" />

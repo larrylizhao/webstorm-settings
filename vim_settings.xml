@@ -138,7 +138,7 @@
         <mark key="." line="16" column="23" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/components/MarketsDiaryDiariesTable.js" timestamp="1561605477280" />
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routesInternational/routeConfig.json" timestamp="1561453462175">
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routesInternational/routeConfig.json" timestamp="1562293719773">
         <mark key="'" line="15" column="23" />
         <mark key="[" line="78" column="4" />
         <mark key="]" line="78" column="3" />
@@ -150,6 +150,13 @@
         <mark key="]" line="18" column="3" />
         <mark key="." line="18" column="3" />
         <mark key="^" line="18" column="3" />
+      </file>
+      <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/wsj/SlimlineHeader/SectionsNav.js" timestamp="1562293876674">
+        <mark key="'" line="90" column="4" />
+        <mark key="[" line="91" column="0" />
+        <mark key="]" line="91" column="3" />
+        <mark key="^" line="91" column="3" />
+        <mark key="." line="91" column="3" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/webui/modules/wsj/comingup.js" timestamp="1562123112357" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/UpgradesDowngrades/content/upgrades.js" timestamp="1561688547863">
@@ -483,6 +490,9 @@
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/wsj/grand-canyon/package.json" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/wsj/Tesla/wsj_sections.app/package.json" />
       <jump line="273" column="34" filename="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/module/breadcrumb/wsjJapanArticleTypes.json" />
+      <jump line="91" column="34" filename="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/wsj/SlimlineHeader/SectionsNav.js" />
+      <jump line="202" column="0" filename="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/wsj/SlimlineHeader/SectionsNav.js" />
+      <jump line="90" column="4" filename="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/wsj/SlimlineHeader/SectionsNav.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">

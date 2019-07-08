@@ -76,7 +76,7 @@
         <mark key="." line="43" column="21" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/resp.module.automated_content/view/articletypes/page_header.mu" timestamp="1562055534269" />
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/webui/packages/wsj/china_header/index.js" timestamp="1562309172075">
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/webui/packages/wsj/china_header/index.js" timestamp="1562552172650">
         <mark key="[" line="63" column="26" />
         <mark key="]" line="64" column="50" />
         <mark key="^" line="64" column="50" />
@@ -245,6 +245,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
         <mark key="^" line="2" column="48" />
+      </file>
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/_shared/Components/index.js" timestamp="1562552298574">
+        <mark key="[" line="18" column="18" />
+        <mark key="]" line="18" column="18" />
+        <mark key="^" line="22" column="38" />
+        <mark key="." line="18" column="18" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Home/presentation/index.js" timestamp="1561356141178">
         <mark key="[" line="27" column="43" />
@@ -661,11 +667,11 @@
       <jump line="34" column="21" filename="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/wsj/SlimlineHeader/SectionsNav.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgcmVnaW9uOiB7ICRjb250ZXh0OiAnIy9yZWdpb24nIH0K</text>
+      <register name="&quot;" type="4">
+        <text>l</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>resp.module.autom</text>

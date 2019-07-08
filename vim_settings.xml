@@ -216,7 +216,7 @@
         <mark key="." line="18" column="3" />
         <mark key="^" line="18" column="3" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/wsj/SlimlineHeader/SectionsNav.js" timestamp="1562311912921">
+      <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/wsj/SlimlineHeader/SectionsNav.js" timestamp="1562551427821">
         <mark key="'" line="34" column="21" />
         <mark key="[" line="90" column="35" />
         <mark key="]" line="91" column="3" />
@@ -518,6 +518,9 @@
         <mark key="^" line="81" column="76" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/resp.section.pages/layout/16u_ArticleTypes_jp.mu" timestamp="1562125144156" />
+      <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/wsj/SlimlineHeader/index.js" timestamp="1562551459026">
+        <mark key="'" line="323" column="24" />
+      </file>
       <file name="/JavaScript Console" timestamp="1562315951910">
         <mark key="[" line="0" column="0" />
       </file>

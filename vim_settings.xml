@@ -413,6 +413,13 @@
         <mark key="^" line="9" column="26" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/page/china_wsj_resp_article_16u.json" timestamp="1562309054268" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hant/Home/content/index.js" timestamp="1562640682654">
+        <mark key="'" line="10" column="16" />
+        <mark key="[" line="104" column="29" />
+        <mark key="]" line="105" column="13" />
+        <mark key="^" line="105" column="13" />
+        <mark key="." line="105" column="13" />
+      </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/StaticPage/components/index.js" timestamp="1561367177747">
         <mark key="[" line="15" column="2" />
         <mark key="]" line="15" column="3" />
@@ -460,12 +467,12 @@
         <mark key="." line="30" column="54" />
         <mark key="^" line="30" column="54" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Home/content/index.js" timestamp="1562638149343">
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Home/content/index.js" timestamp="1562640617906">
         <mark key="'" line="4" column="12" />
-        <mark key="[" line="79" column="32" />
-        <mark key="]" line="4" column="12" />
-        <mark key="." line="4" column="12" />
-        <mark key="^" line="4" column="12" />
+        <mark key="[" line="104" column="29" />
+        <mark key="]" line="105" column="14" />
+        <mark key="." line="105" column="14" />
+        <mark key="^" line="105" column="14" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/web-ui-2/component/531a55ea-7cc4-4c30-80c4-7197d0008a4c.js" timestamp="1562311115073">
         <mark key="[" line="0" column="81" />
@@ -617,6 +624,7 @@
       <jump line="34" column="21" filename="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/wsj/SlimlineHeader/SectionsNav.js" />
       <jump line="18" column="21" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routesInternational/routeConfig.json" />
       <jump line="4" column="12" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Home/content/index.js" />
+      <jump line="10" column="16" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hant/Home/content/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">

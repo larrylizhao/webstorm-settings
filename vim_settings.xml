@@ -28,6 +28,7 @@
         <mark key="." line="18" column="26" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Stocks/components/StockIndexesTable.js" timestamp="1561703862772" />
+      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/articles/article_provider.js" timestamp="1562658898669" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Components/index.js" timestamp="1561693180216">
         <mark key="[" line="103" column="47" />
         <mark key="]" line="104" column="67" />
@@ -399,7 +400,7 @@
         <mark key="^" line="58" column="28" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/_shared/_pageData_base.json" timestamp="1562571407864" />
-      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/dataTypes.js" timestamp="1561688551632">
+      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/dataTypes.js" timestamp="1562658464315">
         <mark key="[" line="86" column="7" />
         <mark key="]" line="86" column="24" />
         <mark key="." line="86" column="24" />
@@ -457,7 +458,7 @@
         <mark key="." line="0" column="71" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/UpgradesDowngrades/components/UpgradesDowngradesBreadcrumbs.js" timestamp="1561693138806" />
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/services/rss.js" timestamp="1562642189093">
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/services/rss.js" timestamp="1562657900429">
         <mark key="[" line="96" column="27" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/frontpage/web/lib/components/pages/JapanHP.js" timestamp="1562308667814" />

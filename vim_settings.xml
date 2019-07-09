@@ -450,7 +450,9 @@
         <mark key="." line="0" column="71" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/UpgradesDowngrades/components/UpgradesDowngradesBreadcrumbs.js" timestamp="1561693138806" />
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/services/rss.js" timestamp="1562577896332" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/services/rss.js" timestamp="1562638092093">
+        <mark key="[" line="96" column="27" />
+      </file>
       <file name="$USER_HOME$/Desktop/wsj/frontpage/web/lib/components/pages/JapanHP.js" timestamp="1562308667814" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/UpgradesDowngrades/presentation/Index/16u.js" timestamp="1561693447116">
         <mark key="[" line="25" column="32" />
@@ -458,7 +460,13 @@
         <mark key="." line="30" column="54" />
         <mark key="^" line="30" column="54" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Home/content/index.js" timestamp="1562555613813" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Home/content/index.js" timestamp="1562638149343">
+        <mark key="'" line="4" column="12" />
+        <mark key="[" line="79" column="32" />
+        <mark key="]" line="4" column="12" />
+        <mark key="." line="4" column="12" />
+        <mark key="^" line="4" column="12" />
+      </file>
       <file name="$USER_HOME$/Desktop/wsj/web-ui-2/component/531a55ea-7cc4-4c30-80c4-7197d0008a4c.js" timestamp="1562311115073">
         <mark key="[" line="0" column="81" />
         <mark key="]" line="0" column="81" />
@@ -512,6 +520,9 @@
       </file>
       <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/wsj/SlimlineHeader/NavOverlay.js" timestamp="1562292245248" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hant/China/presentation/index.js" timestamp="1561427492746" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Markets/pageData.json" timestamp="1561357984536">
+        <mark key="[" line="14" column="18" />
+      </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hant/Technology/components/index.js" timestamp="1561432749018">
         <mark key="[" line="15" column="2" />
         <mark key="]" line="15" column="3" />
@@ -605,16 +616,17 @@
       <jump line="189" column="35" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routesInternational/routeConfig.json" />
       <jump line="34" column="21" filename="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/wsj/SlimlineHeader/SectionsNav.js" />
       <jump line="18" column="21" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routesInternational/routeConfig.json" />
+      <jump line="4" column="12" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Home/content/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICByc3NOT0g6ICcn</text>
       </register>
       <register name="-" type="4">
-        <text>cn</text>
+        <text encoding="base64">ICByc3NOT0g6ICcn</text>
       </register>
       <register name="/" type="4">
-        <text>Hant</text>
+        <text>top_left</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Y29uc3QgcnNzID0gcmVxdWlyZSgnLi4vc2VydmljZXMvcnNzJyk7Cg==</text>
@@ -651,9 +663,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Hant</last-search>
+      <last-search>top_left</last-search>
       <last-offset />
-      <last-pattern>Hant</last-pattern>
+      <last-pattern>top_left</last-pattern>
       <last-replace>'</last-replace>
       <last-substitute>===</last-substitute>
       <last-dir>1</last-dir>
@@ -661,7 +673,6 @@
     </search>
     <history>
       <history-search>
-        <entry>wsj-nav</entry>
         <entry>footer</entry>
         <entry>Footer</entry>
         <entry encoding="base64">XDxhYnNvbHV0ZVw+</entry>
@@ -681,6 +692,7 @@
         <entry>resp.module.autom</entry>
         <entry>wsjchina</entry>
         <entry>Hant</entry>
+        <entry>top_left</entry>
       </history-search>
       <history-cmd>
         <entry>set ignorecase</entry>

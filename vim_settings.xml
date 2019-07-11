@@ -190,7 +190,7 @@
         <mark key="^" line="16" column="23" />
         <mark key="." line="16" column="23" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/modules/cwsjconverter/lib/rssparser.js" timestamp="1562815914764" />
+      <file name="$USER_HOME$/Desktop/wsj/modules/cwsjconverter/lib/rssparser.js" timestamp="1562818001617" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hant/Home/pageData.json" timestamp="1562742717306">
         <mark key="[" line="17" column="28" />
         <mark key="]" line="17" column="29" />
@@ -560,6 +560,9 @@
         <mark key="." line="0" column="81" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/resp.section.pages/layout/16u_ArticleTypes_jp.mu" timestamp="1562125144156" />
+      <file name="events.js" timestamp="1562817608010">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/JavaScript Console" timestamp="1562815848734">
         <mark key="[" line="0" column="0" />
       </file>

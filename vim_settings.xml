@@ -139,7 +139,7 @@
         <mark key="." line="3" column="14" />
         <mark key="^" line="3" column="14" />
       </file>
-      <file name="/Clipboard.txt" timestamp="1562319699473">
+      <file name="/Clipboard.txt" timestamp="1562925962391">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/module/breadcrumb/wsjJapanArticleTypes.json" timestamp="1562230090359">
@@ -238,10 +238,17 @@
         <mark key="." line="15" column="3" />
         <mark key="^" line="15" column="3" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/frontpage/web/webpack.config.js" timestamp="1562923642727">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
+      <file name="$USER_HOME$/Desktop/wsj/frontpage/web/webpack.config.js" timestamp="1562925979822">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/wsj/frontpage/web/.babelrc" timestamp="1562925531797">
+        <mark key="'" line="1" column="30" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="30" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/_shared/Blocks/headers.js" timestamp="1561103435865">
         <mark key="[" line="120" column="3" />
@@ -261,10 +268,11 @@
         <mark key="^" line="67" column="2" />
         <mark key="." line="67" column="2" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/frontpage/web/package.json" timestamp="1562923676943">
-        <mark key="[" line="146" column="0" />
-        <mark key="]" line="146" column="0" />
-        <mark key="." line="146" column="0" />
+      <file name="$USER_HOME$/Desktop/wsj/frontpage/web/package.json" timestamp="1562924880940">
+        <mark key="[" line="35" column="14" />
+        <mark key="]" line="35" column="18" />
+        <mark key="." line="35" column="18" />
+        <mark key="^" line="35" column="18" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hant/Business/components/index.js" timestamp="1561369133559">
         <mark key="[" line="15" column="2" />
@@ -352,6 +360,7 @@
         <mark key="^" line="20" column="42" />
         <mark key="." line="17" column="29" />
       </file>
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/webpack.config.js" timestamp="1562925810382" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hant/Business/pageData.json" timestamp="1561426968872">
         <mark key="[" line="14" column="18" />
         <mark key="]" line="16" column="24" />
@@ -554,12 +563,9 @@
         <mark key="." line="63" column="50" />
         <mark key="^" line="63" column="50" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hant/HomeMockup/content/index.js" timestamp="1562830199114">
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hant/HomeMockup/content/index.js" timestamp="1562926150323">
         <mark key="'" line="62" column="4" />
-        <mark key="[" line="72" column="13" />
-        <mark key="]" line="72" column="14" />
         <mark key="^" line="82" column="13" />
-        <mark key="." line="72" column="14" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hant/Opinion/pageData.json" timestamp="1561431451169">
         <mark key="[" line="14" column="18" />
@@ -649,63 +655,63 @@
       <jump line="42" column="4" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hant/HomeMockup/content/index.js" />
       <jump line="52" column="4" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hant/HomeMockup/content/index.js" />
       <jump line="62" column="4" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hant/HomeMockup/content/index.js" />
+      <jump line="3" column="30" filename="$USER_HOME$/Desktop/wsj/frontpage/web/.babelrc" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICByc3NOT0g6ICcn</text>
+        <text>6.26.3</text>
       </register>
       <register name="/" type="4">
-        <text>rssNOH:</text>
+        <text>'</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Y29uc3QgcnNzID0gcmVxdWlyZSgnLi4vc2VydmljZXMvcnNzJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">ICAiYmFiZWwiOiB7CiAgICAicHJlc2V0cyI6IFsKICAgICAgImVzMjAxNSIKICAgIF0KICB9LA==</text>
+        <text encoding="base64">ICAgICAgICAgb3B0aW9uczogewogICAgICAgICAgfQ==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJlc2V0czogWydlczIwMTUnLCAncmVhY3QnXQo=</text>
+        <text encoding="base64">ICAib3B0aW9uYWwiOiBbInJ1bnRpbWUiXSwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3B0aW9uYWw6ICdydW50aW1lJywK</text>
+        <text encoding="base64">ICAibG9vc2UiOiAiYWxsIiwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FjaGVEaXJlY3Rvcnk6IHRydWUsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygncnNzU3RyIGlzJywgcnNzU3RyKTsK</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAiYmFiZWwiOiB7CiAgICAicHJlc2V0cyI6IFsKICAgICAgImVzMjAxNSIKICAgIF0KICB9LA==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBhcnRpY2xlLmNvZGVzLm9yaWdpbiA9ICdTQjEyNzU5NjEzMzMyNzY3ODI0Nzc2MDA0NTg1MzU3NzkzNDY5Mzg1MDYyJzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJlc2V0czogWydlczIwMTUnLCAncmVhY3QnXQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3B0aW9uYWw6ICdydW50aW1lJywK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FjaGVEaXJlY3Rvcnk6IHRydWUsCg==</text>
       </register>
       <register name=":" type="4">
-        <text>119</text>
+        <text>s/'/&quot;/g</text>
       </register>
     </registers>
     <search>
-      <last-search>rssNOH:</last-search>
+      <last-search>'</last-search>
       <last-offset />
-      <last-pattern>rssNOH:</last-pattern>
-      <last-replace>'</last-replace>
-      <last-substitute>===</last-substitute>
+      <last-pattern>'</last-pattern>
+      <last-replace>&quot;</last-replace>
+      <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>header</entry>
         <entry>context</entry>
         <entry>photo</entry>
         <entry>sidebarstatic</entry>
@@ -725,6 +731,7 @@
         <entry>6</entry>
         <entry>rssNOH: '6</entry>
         <entry>rssNOH:</entry>
+        <entry>'</entry>
       </history-search>
       <history-cmd>
         <entry>set ignorecase</entry>
@@ -734,6 +741,7 @@
         <entry>%s/&quot;/'/g</entry>
         <entry>110</entry>
         <entry>119</entry>
+        <entry>s/'/&quot;/g</entry>
       </history-cmd>
       <history-expr />
       <history-input />

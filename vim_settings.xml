@@ -361,6 +361,7 @@
         <mark key="^" line="20" column="42" />
         <mark key="." line="17" column="29" />
       </file>
+      <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/util/article-data/determine-flashline.js" timestamp="1563178342010" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/webpack.config.js" timestamp="1562925810382" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hant/Business/pageData.json" timestamp="1561426968872">
         <mark key="[" line="14" column="18" />
@@ -466,7 +467,7 @@
         <mark key="^" line="3070" column="35" />
         <mark key="." line="3070" column="35" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/shared/ArticleCard/index.js" timestamp="1563171032623" />
+      <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/shared/ArticleCard/index.js" timestamp="1563178361303" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/UpgradesDowngrades/content/downgrades.js" timestamp="1561688941635">
         <mark key="[" line="3" column="13" />
         <mark key="]" line="3" column="22" />

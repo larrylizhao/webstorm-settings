@@ -393,11 +393,12 @@
         <mark key="." line="25" column="3" />
         <mark key="^" line="25" column="3" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/consumer-services/lib/articletype/hardcoded_params.json" timestamp="1563259657501">
-        <mark key="[" line="3066" column="4" />
-        <mark key="]" line="3070" column="35" />
-        <mark key="^" line="3070" column="35" />
-        <mark key="." line="3070" column="35" />
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/consumer-services/lib/articletype/hardcoded_params.json" timestamp="1563269034626">
+        <mark key="'" line="4788" column="22" />
+        <mark key="[" line="4986" column="21" />
+        <mark key="]" line="4986" column="22" />
+        <mark key="^" line="4986" column="22" />
+        <mark key="." line="4986" column="22" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/consumer-services/lib/articletype/service.js" timestamp="1563257705296" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/UpgradesDowngrades/content/downgrades.js" timestamp="1561688941635">
@@ -582,16 +583,17 @@
       <jump line="52" column="4" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hant/HomeMockup/content/index.js" />
       <jump line="62" column="4" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hant/HomeMockup/content/index.js" />
       <jump line="3" column="30" filename="$USER_HOME$/Desktop/wsj/frontpage/web/.babelrc" />
+      <jump line="4788" column="22" filename="$USER_HOME$/Desktop/wsj/Tesla/consumer-services/lib/articletype/hardcoded_params.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>國際</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>國際</text>
       </register>
       <register name="/" type="4">
-        <text>'</text>
+        <text>CT-BGH</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Y29uc3QgcnNzID0gcmVxdWlyZSgnLi4vc2VydmljZXMvcnNzJyk7Cg==</text>
@@ -628,9 +630,9 @@
       </register>
     </registers>
     <search>
-      <last-search>'</last-search>
+      <last-search>CT-BGH</last-search>
       <last-offset />
-      <last-pattern>'</last-pattern>
+      <last-pattern>CT-BGH</last-pattern>
       <last-replace>&quot;</last-replace>
       <last-substitute>'</last-substitute>
       <last-dir>1</last-dir>
@@ -638,7 +640,6 @@
     </search>
     <history>
       <history-search>
-        <entry>context</entry>
         <entry>photo</entry>
         <entry>sidebarstatic</entry>
         <entry>sidebar</entry>
@@ -658,6 +659,7 @@
         <entry>rssNOH: '6</entry>
         <entry>rssNOH:</entry>
         <entry>'</entry>
+        <entry>CT-BGH</entry>
       </history-search>
       <history-cmd>
         <entry>set ignorecase</entry>

@@ -250,6 +250,7 @@
         <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/frontpage/api/lib/services/lists/sources/collection/_flashline.js" timestamp="1563243224848" />
+      <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/deprecated/ArticleCard/index.js" timestamp="1563245133182" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/_shared/Blocks/headers.js" timestamp="1561103435865">
         <mark key="[" line="120" column="3" />
         <mark key="]" line="155" column="0" />
@@ -350,7 +351,7 @@
         <mark key="]" line="102" column="0" />
         <mark key="." line="102" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/modules/cwsjconverter/lib/reformatter.js" timestamp="1562917404792">
+      <file name="$USER_HOME$/Desktop/wsj/modules/cwsjconverter/lib/reformatter.js" timestamp="1563244371587">
         <mark key="[" line="358" column="0" />
         <mark key="]" line="358" column="0" />
         <mark key="." line="358" column="0" />

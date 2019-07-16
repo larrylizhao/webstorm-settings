@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/content/scripts/englishTab.js" timestamp="1563262886013" />
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/content/scripts/englishTab.js" timestamp="1563266536576" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/consumer-services/lib/articletype/routes.js" timestamp="1563257420333" />
       <file name="/Clipboard.txt" timestamp="1562925962391">
         <mark key="[" line="0" column="0" />
@@ -11,12 +11,8 @@
       <file name="vm.js" timestamp="1561707258696">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/frontpage/web/webpack.config.js" timestamp="1562925979822">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
-      </file>
       <file name="$USER_HOME$/Desktop/wsj/frontpage/api/lib/services/lists/sources/collection/_flashline.js" timestamp="1563243224848" />
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/view/articleSnippetLoginSection.mu" timestamp="1563267047835" />
       <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/deprecated/ArticleCard/index.js" timestamp="1563262582949" />
       <file name="$USER_HOME$/Desktop/wsj/frontpage/api/lib/services/external/consumer_services.js" timestamp="1563249974134" />
       <file name="/fragment.js" timestamp="1562825142018">
@@ -24,11 +20,6 @@
       </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/view/english-tab.mu" timestamp="1563262849648" />
       <file name="$USER_HOME$/Desktop/wsj/frontpage/api/lib/services/lists/sources/collection/index.js" timestamp="1563182065528" />
-      <file name="$USER_HOME$/Desktop/wsj/modules/cwsjconverter/lib/rssparser.js" timestamp="1562917453335">
-        <mark key="[" line="102" column="0" />
-        <mark key="]" line="102" column="0" />
-        <mark key="." line="102" column="0" />
-      </file>
       <file name="$USER_HOME$/Desktop/wsj/modules/cwsjconverter/lib/reformatter.js" timestamp="1563244371587">
         <mark key="[" line="358" column="0" />
         <mark key="]" line="358" column="0" />
@@ -43,15 +34,19 @@
       </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/consumer-services/lib/articletype/service.js" timestamp="1563257705296" />
       <file name="$USER_HOME$/Desktop/wsj/frontpage/api/lib/resources/article.js" timestamp="1563180800273" />
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/view/articleBody.mu" timestamp="1563266782268" />
       <file name="events.js" timestamp="1562817608010">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/JavaScript Console" timestamp="1563260427043">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hant/HomeMockup/content/index.js" timestamp="1562926150323">
-        <mark key="'" line="62" column="4" />
-        <mark key="^" line="82" column="13" />
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/svc/getArticle.js" timestamp="1563266998648" />
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/module/articleBody.js" timestamp="1563267208135">
+        <mark key="[" line="133" column="80" />
+        <mark key="]" line="133" column="80" />
+        <mark key="^" line="134" column="84" />
+        <mark key="." line="133" column="80" />
       </file>
     </filemarks>
     <jumps>
@@ -114,11 +109,11 @@
       <jump line="3" column="30" filename="$USER_HOME$/Desktop/wsj/frontpage/web/.babelrc" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IAo=</text>
+      <register name="&quot;" type="4">
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>6.26.3</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>'</text>
@@ -127,31 +122,31 @@
         <text encoding="base64">Y29uc3QgcnNzID0gcmVxdWlyZSgnLi4vc2VydmljZXMvcnNzJyk7Cg==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IGVuZ1RhYkxvZ2luID0gKHBhcmFtcyAmJiBwYXJhbXMuZW5nVGFiTG9naW4pID8gcGFyYW1zLmVuZ1RhYkxvZ2luIDogbnVsbDsK</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">IAo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text encoding="base64">ICAgICAgICAgb3B0aW9uczogewogICAgICAgICAgfQ==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAib3B0aW9uYWwiOiBbInJ1bnRpbWUiXSwK</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAibG9vc2UiOiAiYWxsIiwK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICAiYmFiZWwiOiB7CiAgICAicHJlc2V0cyI6IFsKICAgICAgImVzMjAxNSIKICAgIF0KICB9LA==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcHJlc2V0czogWydlczIwMTUnLCAncmVhY3QnXQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3B0aW9uYWw6ICdydW50aW1lJywK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FjaGVEaXJlY3Rvcnk6IHRydWUsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgb3B0aW9uYWw6ICdydW50aW1lJywK</text>
       </register>
       <register name=":" type="4">
         <text>s/'/&quot;/g</text>

@@ -213,6 +213,11 @@
         <mark key="." line="331" column="50" />
         <mark key="^" line="331" column="50" />
       </file>
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/i18n/zh_HANT.json" timestamp="1563327366096">
+        <mark key="[" line="26" column="27" />
+        <mark key="]" line="26" column="27" />
+        <mark key="." line="26" column="27" />
+      </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hant/LifeArts/presentation/index.js" timestamp="1561427751939">
         <mark key="[" line="0" column="41" />
         <mark key="]" line="67" column="2" />
@@ -407,6 +412,7 @@
         <mark key="." line="3" column="22" />
         <mark key="^" line="3" column="22" />
       </file>
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/i18n/zh_HANS.json" timestamp="1563327329912" />
       <file name="$USER_HOME$/Desktop/wsj/web-ui-2/component/c66926ad-7297-41f4-83fd-e37f455ae2f2.js" timestamp="1562311077431">
         <mark key="[" line="0" column="71" />
         <mark key="]" line="0" column="71" />
@@ -587,10 +593,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>國際</text>
+        <text>版</text>
       </register>
       <register name="-" type="4">
-        <text>國際</text>
+        <text>版</text>
       </register>
       <register name="/" type="4">
         <text>CT-BGH</text>

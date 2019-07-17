@@ -213,11 +213,6 @@
         <mark key="." line="331" column="50" />
         <mark key="^" line="331" column="50" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/i18n/zh_HANT.json" timestamp="1563327366096">
-        <mark key="[" line="26" column="27" />
-        <mark key="]" line="26" column="27" />
-        <mark key="." line="26" column="27" />
-      </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hant/LifeArts/presentation/index.js" timestamp="1561427751939">
         <mark key="[" line="0" column="41" />
         <mark key="]" line="67" column="2" />
@@ -296,11 +291,6 @@
         <mark key="." line="15" column="3" />
         <mark key="^" line="15" column="3" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/modules/cwsjconverter/lib/reformatter.js" timestamp="1563244371587">
-        <mark key="[" line="358" column="0" />
-        <mark key="]" line="358" column="0" />
-        <mark key="." line="358" column="0" />
-      </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hant/Home/pageData.json" timestamp="1562742717306">
         <mark key="[" line="17" column="28" />
         <mark key="]" line="17" column="29" />
@@ -375,10 +365,10 @@
         <mark key="^" line="9" column="26" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/page/china_wsj_resp_article_16u.json" timestamp="1563268266599">
-        <mark key="[" line="199" column="10" />
-        <mark key="]" line="199" column="11" />
-        <mark key="^" line="199" column="29" />
-        <mark key="." line="199" column="11" />
+        <mark key="[" line="30" column="10" />
+        <mark key="]" line="30" column="11" />
+        <mark key="^" line="30" column="29" />
+        <mark key="." line="30" column="11" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/StaticPage/components/index.js" timestamp="1561367177747">
         <mark key="[" line="15" column="2" />

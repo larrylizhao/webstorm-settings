@@ -59,6 +59,12 @@
         <mark key="^" line="0" column="60" />
         <mark key="." line="0" column="60" />
       </file>
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/node_modules/dj.svc.vendorhttpclient/lib/t1_content_service.js" timestamp="1563331665841">
+        <mark key="[" line="27" column="69" />
+        <mark key="]" line="27" column="69" />
+        <mark key="." line="27" column="69" />
+        <mark key="^" line="27" column="69" />
+      </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/China/components/index.js" timestamp="1561356829781">
         <mark key="[" line="16" column="1" />
         <mark key="]" line="15" column="3" />
@@ -185,12 +191,14 @@
         <mark key="^" line="28" column="27" />
         <mark key="." line="28" column="27" />
       </file>
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/resp.svc.article/lib/article_english_overlay_resource.js" timestamp="1563331472127" />
       <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/mdc/upgradesDowngrades/upgradesDowngrades_provider.js" timestamp="1562038342615">
         <mark key="[" line="48" column="41" />
         <mark key="]" line="45" column="13" />
         <mark key="." line="45" column="13" />
         <mark key="^" line="45" column="13" />
       </file>
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/resp.svc.article/lib/articles_dao_service.js" timestamp="1563332761481" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hant/Markets/components/index.js" timestamp="1561431373261">
         <mark key="[" line="15" column="1" />
         <mark key="]" line="15" column="3" />
@@ -212,6 +220,12 @@
         <mark key="]" line="68" column="23" />
         <mark key="." line="331" column="50" />
         <mark key="^" line="331" column="50" />
+      </file>
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/i18n/zh_HANT.json" timestamp="1563332818509">
+        <mark key="[" line="22" column="2" />
+        <mark key="]" line="22" column="2" />
+        <mark key="." line="22" column="2" />
+        <mark key="^" line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hant/LifeArts/presentation/index.js" timestamp="1561427751939">
         <mark key="[" line="0" column="41" />
@@ -438,7 +452,7 @@
       <file name="events.js" timestamp="1562817608010">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1563267864474">
+      <file name="/JavaScript Console" timestamp="1563333073417">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Home/pageData.json" timestamp="1562730091213">
@@ -583,10 +597,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>版</text>
+        <text encoding="base64">CQ==</text>
       </register>
       <register name="-" type="4">
-        <text>版</text>
+        <text encoding="base64">CQ==</text>
       </register>
       <register name="/" type="4">
         <text>CT-BGH</text>
@@ -594,32 +608,32 @@
       <register name="0" type="2">
         <text encoding="base64">Y29uc3QgcnNzID0gcmVxdWlyZSgnLi4vc2VydmljZXMvcnNzJyk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGVuZ1RhYkxvZ2luID0gKHBhcmFtcyAmJiBwYXJhbXMuZW5nVGFiTG9naW4pID8gcGFyYW1zLmVuZ1RhYkxvZ2luIDogbnVsbDsK</text>
+      <register name="1" type="4">
+        <text encoding="base64">IiwKICAJ</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IGVuZ1RhYkxvZ2luID0gKHBhcmFtcyAmJiBwYXJhbXMuZW5nVGFiTG9naW4pID8gcGFyYW1zLmVuZ1RhYkxvZ2luIDogbnVsbDsK</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">IAo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">ICAgICAgICAgb3B0aW9uczogewogICAgICAgICAgfQ==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAib3B0aW9uYWwiOiBbInJ1bnRpbWUiXSwK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAibG9vc2UiOiAiYWxsIiwK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ICAiYmFiZWwiOiB7CiAgICAicHJlc2V0cyI6IFsKICAgICAgImVzMjAxNSIKICAgIF0KICB9LA==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJlc2V0czogWydlczIwMTUnLCAncmVhY3QnXQo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3B0aW9uYWw6ICdydW50aW1lJywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJlc2V0czogWydlczIwMTUnLCAncmVhY3QnXQo=</text>
       </register>
       <register name=":" type="4">
         <text>s/'/&quot;/g</text>

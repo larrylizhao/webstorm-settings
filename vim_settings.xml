@@ -130,7 +130,7 @@
       <file name="/Clipboard.txt" timestamp="1562925962391">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJJapan/RSSFeed/content/index.js" timestamp="1563440481832" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJJapan/RSSFeed/content/index.js" timestamp="1563441067900" />
       <file name="$USER_HOME$/Desktop/wsj/web-ui-2/component/03c85c64-f03f-4789-9e88-00158f0ea41e.js" timestamp="1562311122381">
         <mark key="[" line="0" column="66" />
         <mark key="]" line="0" column="66" />
@@ -149,11 +149,11 @@
         <mark key="^" line="16" column="23" />
         <mark key="." line="16" column="23" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routesInternational/routeConfig.json" timestamp="1563437536118">
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routesInternational/routeConfig.json" timestamp="1563441166459">
         <mark key="'" line="18" column="21" />
-        <mark key="[" line="144" column="35" />
-        <mark key="]" line="144" column="36" />
-        <mark key="." line="144" column="36" />
+        <mark key="[" line="23" column="37" />
+        <mark key="]" line="23" column="37" />
+        <mark key="." line="23" column="37" />
         <mark key="^" line="145" column="27" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hant/World/components/index.js" timestamp="1561432677462">
@@ -615,11 +615,11 @@
       <jump line="4788" column="22" filename="$USER_HOME$/Desktop/wsj/Tesla/consumer-services/lib/articletype/hardcoded_params.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAnYXJ0aWNsZWNoaW5hJzogJy4vYXJ0aWNsZXMvYXJ0aWNsZV9jaGluYV9wcm92aWRlcicsCg==</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">CQ==</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>CT-BGH</text>

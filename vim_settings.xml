@@ -148,12 +148,12 @@
         <mark key="^" line="16" column="23" />
         <mark key="." line="16" column="23" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routesInternational/routeConfig.json" timestamp="1563436202089">
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routesInternational/routeConfig.json" timestamp="1563437536118">
         <mark key="'" line="18" column="21" />
-        <mark key="[" line="31" column="29" />
-        <mark key="]" line="32" column="21" />
-        <mark key="." line="32" column="21" />
-        <mark key="^" line="32" column="21" />
+        <mark key="[" line="144" column="35" />
+        <mark key="]" line="144" column="36" />
+        <mark key="." line="144" column="36" />
+        <mark key="^" line="145" column="27" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hant/World/components/index.js" timestamp="1561432677462">
         <mark key="[" line="15" column="2" />
@@ -224,7 +224,7 @@
         <mark key="^" line="155" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/page/japan_wsj_resp_article_16u.json" timestamp="1563268239939" />
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routes/routeConfig.json" timestamp="1562572624355">
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routes/routeConfig.json" timestamp="1563437408313">
         <mark key="[" line="68" column="0" />
         <mark key="]" line="68" column="23" />
         <mark key="." line="331" column="50" />

@@ -16,6 +16,7 @@
         <mark key="^" line="18" column="26" />
         <mark key="." line="18" column="26" />
       </file>
+      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/articles/article_provider.js" timestamp="1563419990492" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hant/HomeMockup/pageData.json" timestamp="1562742736724">
         <mark key="[" line="14" column="19" />
         <mark key="]" line="21" column="49" />
@@ -373,6 +374,13 @@
         <mark key="." line="1" column="32" />
         <mark key="^" line="58" column="28" />
       </file>
+      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/dataTypes.js" timestamp="1563420062893">
+        <mark key="'" line="57" column="38" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="86" column="24" />
+      </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/wsj/upgradesDowngrades/pageData.json" timestamp="1561534292164">
         <mark key="[" line="9" column="24" />
         <mark key="]" line="9" column="26" />
@@ -599,8 +607,8 @@
       <jump line="4788" column="22" filename="$USER_HOME$/Desktop/wsj/Tesla/consumer-services/lib/articletype/hardcoded_params.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">CQ==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAnYXJ0aWNsZWNoaW5hJzogJy4vYXJ0aWNsZXMvYXJ0aWNsZV9jaGluYV9wcm92aWRlcicsCg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">CQ==</text>
@@ -611,32 +619,32 @@
       <register name="0" type="2">
         <text encoding="base64">Y29uc3QgcnNzID0gcmVxdWlyZSgnLi4vc2VydmljZXMvcnNzJyk7Cg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAnYXJ0aWNsZWNoaW5hJzogJy4vYXJ0aWNsZXMvYXJ0aWNsZV9jaGluYV9wcm92aWRlcicsCg==</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">IiwKICAJ</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgIGNvbnN0IGVuZ1RhYkxvZ2luID0gKHBhcmFtcyAmJiBwYXJhbXMuZW5nVGFiTG9naW4pID8gcGFyYW1zLmVuZ1RhYkxvZ2luIDogbnVsbDsK</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">IAo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICAgICAgICAgb3B0aW9uczogewogICAgICAgICAgfQ==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAib3B0aW9uYWwiOiBbInJ1bnRpbWUiXSwK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAibG9vc2UiOiAiYWxsIiwK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">ICAiYmFiZWwiOiB7CiAgICAicHJlc2V0cyI6IFsKICAgICAgImVzMjAxNSIKICAgIF0KICB9LA==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJlc2V0czogWydlczIwMTUnLCAncmVhY3QnXQo=</text>
       </register>
       <register name=":" type="4">
         <text>s/'/&quot;/g</text>

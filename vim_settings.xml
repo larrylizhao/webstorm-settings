@@ -158,7 +158,7 @@
         <mark key="^" line="16" column="23" />
         <mark key="." line="16" column="23" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routesInternational/routeConfig.json" timestamp="1563441166459">
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routesInternational/routeConfig.json" timestamp="1563507913579">
         <mark key="'" line="18" column="21" />
         <mark key="[" line="23" column="37" />
         <mark key="]" line="23" column="37" />
@@ -568,11 +568,11 @@
         <mark key="." line="133" column="80" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/StaticPages/RSSFeed/pageData.json" timestamp="1563504111382" />
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/RSSFeed/presentation/shared/ListModule.js" timestamp="1563504428383">
-        <mark key="[" line="12" column="18" />
-        <mark key="]" line="12" column="25" />
-        <mark key="." line="12" column="25" />
-        <mark key="^" line="12" column="25" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/RSSFeed/presentation/shared/ListModule.js" timestamp="1563507555658">
+        <mark key="[" line="20" column="45" />
+        <mark key="]" line="20" column="58" />
+        <mark key="^" line="20" column="58" />
+        <mark key="." line="20" column="58" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/LifeArts/pageData.json" timestamp="1561363786002">
         <mark key="[" line="14" column="18" />
@@ -603,6 +603,12 @@
         <mark key="]" line="36" column="0" />
         <mark key="^" line="35" column="71" />
         <mark key="." line="36" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hant/RSSFeed/presentation/shared/ListModule.js" timestamp="1563507594519">
+        <mark key="[" line="20" column="56" />
+        <mark key="]" line="20" column="63" />
+        <mark key="." line="20" column="63" />
+        <mark key="^" line="20" column="63" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/web-ui-2/component/d8e5710a-6f01-49ac-bc2b-1165135afa15.js" timestamp="1562311062668">
         <mark key="[" line="0" column="69" />
@@ -687,10 +693,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgIHsKICAgICAgY29tcG9uZW50OiB7CiAgICAgICAgJHJlZjogJyMvY29tcG9uZW50cy9TdHJhcGxpbmUnLAogICAgICAgIG9wdGlvbnM6IHsKICAgICAgICAgIGNsYXNzTmFtZTogWyduby1ib3JkZXInXSwKICAgICAgICAgIGxhYmVsOiAnVGhlIFdhbGwgU3RyZWV0IEpvdXJuYWwgRGlnaXRhbCBOZXR3b3JrIFJTUyBGZWVkcycsCiAgICAgICAgICBkZXNjcmlwdGlvbjogJ1hNTCBmZWVkcyBmb3Igb3VyIG1haW4gZGlnaXRhbCBzZWN0aW9ucy4nLAogICAgICAgICAgbWFyZ2luOiBbJ3RvcC1sYXJnZSddLAogICAgICAgICAgcGFkZGluZzogWyd0b3AnLCAnYm90dG9tJ10sCiAgICAgICAgICBzaXplOiAneC1tZWRpdW0nLAogICAgICAgICAgdGFnOiAnaDInLAogICAgICAgIH0KICAgICAgfQogICAgfSw=</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>ニュース'</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>CT-BGH</text>
@@ -698,32 +704,32 @@
       <register name="0" type="2">
         <text encoding="base64">Y29uc3QgcnNzID0gcmVxdWlyZSgnLi4vc2VydmljZXMvcnNzJyk7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgIHsKICAgICAgY29tcG9uZW50OiB7CiAgICAgICAgJHJlZjogJyMvY29tcG9uZW50cy9TdHJhcGxpbmUnLAogICAgICAgIG9wdGlvbnM6IHsKICAgICAgICAgIGNsYXNzTmFtZTogWyduby1ib3JkZXInXSwKICAgICAgICAgIGxhYmVsOiAnVGhlIFdhbGwgU3RyZWV0IEpvdXJuYWwgRGlnaXRhbCBOZXR3b3JrIFJTUyBGZWVkcycsCiAgICAgICAgICBkZXNjcmlwdGlvbjogJ1hNTCBmZWVkcyBmb3Igb3VyIG1haW4gZGlnaXRhbCBzZWN0aW9ucy4nLAogICAgICAgICAgbWFyZ2luOiBbJ3RvcC1sYXJnZSddLAogICAgICAgICAgcGFkZGluZzogWyd0b3AnLCAnYm90dG9tJ10sCiAgICAgICAgICBzaXplOiAneC1tZWRpdW0nLAogICAgICAgICAgdGFnOiAnaDInLAogICAgICAgIH0KICAgICAgfQogICAgfSw=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHJlcXVpcmUoJy4vU3RyYXBsaW5lLmpzJykoJ+S4u+mggScsICdodHRwczovL2NuLi5kZXYud3NqLmNvbS9yc3MnKQogIF0KfTsK</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IHsKICAgICAgICAgICAgICBjb21wb25lbnQ6IHsKICAgICAgICAgICAgICAgICRyZWY6ICcjL2NvbXBvbmVudHMvQURfRycKICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHJlcXVpcmUoJy4vU3RyYXBsaW5lLmpzJykoJ+ODnuODvOOCseODg+ODiCcsICdodHRwczovL2ZlZWRzLmEuZGouY29tL3Jzcy9SU1NKYXBhbk1hcmtldC54bWwnKSwKICBdCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LAo=</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICBBcnRpY2xlQ2FyZDogewogICAgaWQ6ICdmN2JlZDMwNC05MjRlLTRmYjMtYjYyZC00NTJiYWE3YWEzN2QnCiAgfQ==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICwK</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">IFN0YXRpYzogewogICAgaWQ6ICc2NTFlZjA0MC1iNzYyLTRkYWQtYmZjNy1mODZkYmI2NWY4MzInLAogICAgb3B0aW9uczogewogICAgICBwYWRkaW5nOiBbJ3RvcCcsICdib3R0b20nLCAncmlnaHQnXSwKICAgICAgaGVhZGxpbmVMZXZlbDogMiwKICAgICAgaGVhZGluZzogJ3NlcmlmLTEnCiAgICB9CiAgfSwKICBNb3N0UG9wdWxhckNhcmQ6IHsKICAgIGlkOiAnZWViMDU0ODQtZmRkMi00NzlkLWI3ZjAtNzY5ZDVjODUzM2NiJywgLy8gQXJ0aWNsZQogICAgb3B0aW9uczogewogICAgICBjbGFzc05hbWU6ICduby1taW5oZWlnaHQnLAogICAgICB0YWdOYW1lOiAnbGknLAogICAgICBoZWFkbGluZUxldmVsOiA0LAogICAgICBoZWFkaW5nOiA1LAogICAgICBzaG93SW1hZ2U6IGZhbHNlCiAgICB9CiAgfQ==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvcHkocmVxdWlyZSgnLi4vc2hhcmVkL0Fib3V0LmpzJykpCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgIHsKICAgICAgY29tcG9uZW50OiB7CiAgICAgICAgJHJlZjogJyMvY29tcG9uZW50cy9TdHJhcGxpbmUnLAogICAgICAgIG9wdGlvbnM6IHsKICAgICAgICAgIGNsYXNzTmFtZTogWyduby1ib3JkZXInXSwKICAgICAgICAgIGxhYmVsOiAnVGhlIFdhbGwgU3RyZWV0IEpvdXJuYWwgRGlnaXRhbCBOZXR3b3JrIFJTUyBGZWVkcycsCiAgICAgICAgICBkZXNjcmlwdGlvbjogJ1hNTCBmZWVkcyBmb3Igb3VyIG1haW4gZGlnaXRhbCBzZWN0aW9ucy4nLAogICAgICAgICAgbWFyZ2luOiBbJ3RvcC1sYXJnZSddLAogICAgICAgICAgcGFkZGluZzogWyd0b3AnLCAnYm90dG9tJ10sCiAgICAgICAgICBzaXplOiAneC1tZWRpdW0nLAogICAgICAgICAgdGFnOiAnaDInLAogICAgICAgIH0KICAgICAgfQogICAgfSw=</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">IHsKICAgICAgICAgICAgICBjb21wb25lbnQ6IHsKICAgICAgICAgICAgICAgICRyZWY6ICcjL2NvbXBvbmVudHMvQURfRycKICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">LAo=</text>
+      </register>
       <register name="9" type="4">
-        <text encoding="base64">ICBob3d0bzogewogICAgaWQ6ICd3c2pfanBfcnNzZmVlZF90aXRsZScsCiAgICB0eXBlOiAnc3RhdGljJywKICB9LAogICdhYm91dC1yc3MnOiB7CiAgICBpZDogJ3dzal9qcF9yc3NmZWVkX2Fib3V0JywKICAgIHR5cGU6ICdzdGF0aWMnLAogIH0s</text>
+        <text encoding="base64">ICBBcnRpY2xlQ2FyZDogewogICAgaWQ6ICdmN2JlZDMwNC05MjRlLTRmYjMtYjYyZC00NTJiYWE3YWEzN2QnCiAgfQ==</text>
       </register>
       <register name=":" type="4">
         <text>s/'/&quot;/g</text>

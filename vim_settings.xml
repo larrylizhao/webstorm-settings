@@ -155,8 +155,11 @@
         <mark key="^" line="16" column="23" />
         <mark key="." line="16" column="23" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routesInternational/routeConfig.json" timestamp="1563526055942">
-        <mark key="'" line="18" column="21" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routesInternational/routeConfig.json" timestamp="1563778258730">
+        <mark key="[" line="18" column="5" />
+        <mark key="]" line="24" column="21" />
+        <mark key="." line="24" column="21" />
+        <mark key="^" line="24" column="21" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hant/World/components/index.js" timestamp="1561432677462">
         <mark key="[" line="15" column="2" />
@@ -341,12 +344,12 @@
         <mark key="." line="16" column="24" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/view/english-tab.mu" timestamp="1563262849648" />
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routesInternational/index.js" timestamp="1563775656321">
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routesInternational/index.js" timestamp="1563778245726">
         <mark key="'" line="298" column="96" />
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
-        <mark key="^" line="71" column="4" />
+        <mark key="[" line="61" column="13" />
+        <mark key="]" line="61" column="13" />
+        <mark key="." line="61" column="13" />
+        <mark key="^" line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/web-ui-2/component/9b6fea7a-ca2a-4ec2-982f-ea3079678342.js" timestamp="1562311100204">
         <mark key="[" line="0" column="66" />
@@ -728,11 +731,11 @@
       <jump line="39" column="27" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/RSSFeed/presentation/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>CT-BGH</text>
@@ -741,31 +744,31 @@
         <text encoding="base64">Y29uc3QgcnNzID0gcmVxdWlyZSgnLi4vc2VydmljZXMvcnNzJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgcnNzQXJyYXkgW10K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJzdXBwb3J0UlNTIjogCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ZnVuY3Rpb24gcnNzSGFuZGxlcihhcHAsIHJvdXRlQ29uZmlnKSB7CiAgYXBwLmdldChgJHtyb3V0ZUNvbmZpZy5wYXRoID09PSAnLycgPyAnL3poLWhhbnMnIDogcm91dGVDb25maWcucGF0aH0vcnNzYCwgKHJlcSwgcmVzKSA9PiB7CiAgICBjb25zdCB7IHJzc0NvbmZpZyB9ID0gcGFnZV9kYXRhX2hhbmRsZXJzLmdldFBhZ2VEYXRhKHJvdXRlQ29uZmlnLCByZXEucGFyYW1zKTsKICAgIHJldHVybiByc3MocnNzQ29uZmlnLCByZXEsIHJlcyk7CiAgfSk7Cn0K</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">ZnVuY3Rpb24gcnNzSGFuZGxlcihhcHAsIHJvdXRlQ29uZmlnKSB7CiAgYXBwLmdldChgJHtyb3V0ZUNvbmZpZy5wYXRoID09PSAnLycgPyAnL3poLWhhbnMnIDogcm91dGVDb25maWcucGF0aH0vcnNzYCwgKHJlcSwgcmVzKSA9PiB7CiAgICBjb25zdCB7IHJzc0NvbmZpZyB9ID0gcGFnZV9kYXRhX2hhbmRsZXJzLmdldFBhZ2VEYXRhKHJvdXRlQ29uZmlnLCByZXEucGFyYW1zKTsKICAgIHJldHVybiByc3MocnNzQ29uZmlnLCByZXEsIHJlcyk7CiAgfSk7Cn0K</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ICBhcHAuZ2V0KGAke3JvdXRlQ29uZmlnLnBhdGggPT09ICcvJyA/ICcvemgtaGFucycgOiByb3V0ZUNvbmZpZy5wYXRofS9yc3NgLCAocmVxLCByZXMpID0+IHsKICAgIGNvbnN0IHsgcnNzQ29uZmlnIH0gPSBwYWdlX2RhdGFfaGFuZGxlcnMuZ2V0UGFnZURhdGEocm91dGVDb25maWcsIHJlcS5wYXJhbXMpOwogICAgcmV0dXJuIHJzcyhyc3NDb25maWcsIHJlcSwgcmVzKTsKICB9KTs=</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text encoding="base64">Cj09PT09PT0KPj4+Pj4+PiBvcmlnaW4vbWFzdGVy</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHJlcXVpcmUoJy4vU3RyYXBsaW5lLmpzJykoJ+S4u+mggScsICdodHRwczovL2NuLi5kZXYud3NqLmNvbS9yc3MnKQogIF0KfTsK</text>
       </register>
       <register name=":" type="4">
         <text>s/'/&quot;/g</text>

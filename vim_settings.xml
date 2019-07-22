@@ -383,10 +383,11 @@
         <mark key="." line="15" column="3" />
         <mark key="^" line="15" column="3" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/modules/cwsjconverter/lib/reformatter.js" timestamp="1563244371587">
-        <mark key="[" line="358" column="0" />
-        <mark key="]" line="358" column="0" />
-        <mark key="." line="358" column="0" />
+      <file name="$USER_HOME$/Desktop/wsj/modules/cwsjconverter/lib/reformatter.js" timestamp="1563786003232">
+        <mark key="[" line="583" column="9" />
+        <mark key="]" line="588" column="7" />
+        <mark key="." line="588" column="7" />
+        <mark key="^" line="588" column="7" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hant/Home/pageData.json" timestamp="1562742717306">
         <mark key="[" line="17" column="28" />
@@ -558,7 +559,7 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/node_modules/package-engine/lib/engine/index.js" timestamp="1563521937272" />
-      <file name="/JavaScript Console" timestamp="1563528523254">
+      <file name="/JavaScript Console" timestamp="1563786012897">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/assets/index.js" timestamp="1563528367651" />

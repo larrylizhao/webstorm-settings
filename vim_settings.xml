@@ -9,7 +9,12 @@
         <mark key="^" line="19" column="21" />
         <mark key="." line="19" column="21" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/China/content/index.js" timestamp="1563867253610" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/China/content/index.js" timestamp="1563869203814">
+        <mark key="[" line="15" column="23" />
+        <mark key="]" line="14" column="25" />
+        <mark key="." line="14" column="25" />
+        <mark key="^" line="14" column="25" />
+      </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/UpgradesDowngrades/presentation/Index/12u.js" timestamp="1561693282237">
         <mark key="[" line="18" column="26" />
         <mark key="]" line="18" column="26" />
@@ -80,6 +85,7 @@
         <mark key="." line="19" column="22" />
         <mark key="^" line="19" column="22" />
       </file>
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/LifeArts/Sports/content/index.js" timestamp="1563869165992" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/UpgradesDowngrades/content/index.js" timestamp="1561689243817">
         <mark key="[" line="6" column="1" />
         <mark key="]" line="6" column="1" />
@@ -204,7 +210,7 @@
         <mark key="^" line="22" column="38" />
         <mark key="." line="18" column="18" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/dnsaSearch/queries/index.js" timestamp="1563867090626" />
+      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/dnsaSearch/queries/index.js" timestamp="1563868891644" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Home/presentation/index.js" timestamp="1563523785448">
         <mark key="[" line="27" column="43" />
         <mark key="]" line="28" column="27" />
@@ -438,7 +444,7 @@
         <mark key="." line="1" column="32" />
         <mark key="^" line="58" column="28" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/dataTypes.js" timestamp="1563420062893">
+      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/dataTypes.js" timestamp="1563869139058">
         <mark key="'" line="57" column="38" />
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -507,9 +513,9 @@
         <mark key="." line="30" column="54" />
         <mark key="^" line="30" column="54" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Home/content/index.js" timestamp="1563867127137">
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Home/content/index.js" timestamp="1563868184591">
         <mark key="'" line="4" column="12" />
-        <mark key="[" line="101" column="8" />
+        <mark key="[" line="103" column="9" />
         <mark key="]" line="106" column="11" />
         <mark key="." line="106" column="11" />
         <mark key="^" line="106" column="11" />
@@ -699,10 +705,14 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'WSJCNHomeHeadlineFeedBottom2'</text>
+        <text>{
+      lang: 'gb',
+      section: 'china',
+      bucket: 'left'
+    }</text>
       </register>
       <register name="-" type="4">
-        <text>'WSJCNHomeHeadlineFeedBottom2'</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>CT-BGH</text>
@@ -710,32 +720,36 @@
       <register name="0" type="2">
         <text encoding="base64">Y29uc3QgcnNzID0gcmVxdWlyZSgnLi4vc2VydmljZXMvcnNzJyk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Y29uc3QgcnNzQXJyYXkgW10K</text>
+      <register name="1" type="4">
+        <text>{
+      lang: 'gb',
+      section: 'china',
+      bucket: 'left'
+    }</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJzdXBwb3J0UlNTIjogCg==</text>
+        <text encoding="base64">Y29uc3QgcnNzQXJyYXkgW10K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJzdXBwb3J0UlNTIjogCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ZnVuY3Rpb24gcnNzSGFuZGxlcihhcHAsIHJvdXRlQ29uZmlnKSB7CiAgYXBwLmdldChgJHtyb3V0ZUNvbmZpZy5wYXRoID09PSAnLycgPyAnL3poLWhhbnMnIDogcm91dGVDb25maWcucGF0aH0vcnNzYCwgKHJlcSwgcmVzKSA9PiB7CiAgICBjb25zdCB7IHJzc0NvbmZpZyB9ID0gcGFnZV9kYXRhX2hhbmRsZXJzLmdldFBhZ2VEYXRhKHJvdXRlQ29uZmlnLCByZXEucGFyYW1zKTsKICAgIHJldHVybiByc3MocnNzQ29uZmlnLCByZXEsIHJlcyk7CiAgfSk7Cn0K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
-      </register>
-      <register name="7" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICBhcHAuZ2V0KGAke3JvdXRlQ29uZmlnLnBhdGggPT09ICcvJyA/ICcvemgtaGFucycgOiByb3V0ZUNvbmZpZy5wYXRofS9yc3NgLCAocmVxLCByZXMpID0+IHsKICAgIGNvbnN0IHsgcnNzQ29uZmlnIH0gPSBwYWdlX2RhdGFfaGFuZGxlcnMuZ2V0UGFnZURhdGEocm91dGVDb25maWcsIHJlcS5wYXJhbXMpOwogICAgcmV0dXJuIHJzcyhyc3NDb25maWcsIHJlcSwgcmVzKTsKICB9KTs=</text>
+      <register name="6" type="4">
+        <text encoding="base64">ZnVuY3Rpb24gcnNzSGFuZGxlcihhcHAsIHJvdXRlQ29uZmlnKSB7CiAgYXBwLmdldChgJHtyb3V0ZUNvbmZpZy5wYXRoID09PSAnLycgPyAnL3poLWhhbnMnIDogcm91dGVDb25maWcucGF0aH0vcnNzYCwgKHJlcSwgcmVzKSA9PiB7CiAgICBjb25zdCB7IHJzc0NvbmZpZyB9ID0gcGFnZV9kYXRhX2hhbmRsZXJzLmdldFBhZ2VEYXRhKHJvdXRlQ29uZmlnLCByZXEucGFyYW1zKTsKICAgIHJldHVybiByc3MocnNzQ29uZmlnLCByZXEsIHJlcyk7CiAgfSk7Cn0K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">Cj09PT09PT0KPj4+Pj4+PiBvcmlnaW4vbWFzdGVy</text>
+        <text encoding="base64">ICBhcHAuZ2V0KGAke3JvdXRlQ29uZmlnLnBhdGggPT09ICcvJyA/ICcvemgtaGFucycgOiByb3V0ZUNvbmZpZy5wYXRofS9yc3NgLCAocmVxLCByZXMpID0+IHsKICAgIGNvbnN0IHsgcnNzQ29uZmlnIH0gPSBwYWdlX2RhdGFfaGFuZGxlcnMuZ2V0UGFnZURhdGEocm91dGVDb25maWcsIHJlcS5wYXJhbXMpOwogICAgcmV0dXJuIHJzcyhyc3NDb25maWcsIHJlcSwgcmVzKTsKICB9KTs=</text>
       </register>
       <register name=":" type="4">
         <text>s/'/&quot;/g</text>

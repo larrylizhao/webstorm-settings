@@ -28,6 +28,7 @@
         <mark key="." line="21" column="49" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/componentProvider.js" timestamp="1563854997007" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/Pro/PrivateEquity/pageData.json" timestamp="1563869732795" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Components/index.js" timestamp="1561693180216">
         <mark key="[" line="103" column="47" />
         <mark key="]" line="104" column="67" />
@@ -329,6 +330,7 @@
       <file name="/fragment.js" timestamp="1563528358054">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/Pro/PrivateEquity/content/index.js" timestamp="1563869743797" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Business/pageData.json" timestamp="1561356459520">
         <mark key="[" line="14" column="18" />
         <mark key="]" line="16" column="24" />
@@ -513,7 +515,7 @@
         <mark key="." line="30" column="54" />
         <mark key="^" line="30" column="54" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Home/content/index.js" timestamp="1563868184591">
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Home/content/index.js" timestamp="1563869645585">
         <mark key="'" line="4" column="12" />
         <mark key="[" line="103" column="9" />
         <mark key="]" line="106" column="11" />

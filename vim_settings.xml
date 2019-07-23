@@ -276,6 +276,12 @@
         <mark key="." line="22" column="2" />
         <mark key="^" line="21" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/wsj/modules/dj.svc.nav/lib/footer_config/COLUMN_LINKS.json" timestamp="1563847716247">
+        <mark key="[" line="434" column="18" />
+        <mark key="]" line="434" column="21" />
+        <mark key="." line="434" column="21" />
+        <mark key="^" line="434" column="21" />
+      </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Photos/components/index.js" timestamp="1563442789220" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hant/LifeArts/presentation/index.js" timestamp="1561427751939">
         <mark key="[" line="0" column="41" />
@@ -734,10 +740,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text />
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>CT-BGH</text>

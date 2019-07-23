@@ -9,6 +9,7 @@
         <mark key="^" line="19" column="21" />
         <mark key="." line="19" column="21" />
       </file>
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/China/content/index.js" timestamp="1563867253610" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/UpgradesDowngrades/presentation/Index/12u.js" timestamp="1561693282237">
         <mark key="[" line="18" column="26" />
         <mark key="]" line="18" column="26" />
@@ -203,7 +204,7 @@
         <mark key="^" line="22" column="38" />
         <mark key="." line="18" column="18" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/dnsaSearch/queries/index.js" timestamp="1563852832030" />
+      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/dnsaSearch/queries/index.js" timestamp="1563867090626" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Home/presentation/index.js" timestamp="1563523785448">
         <mark key="[" line="27" column="43" />
         <mark key="]" line="28" column="27" />
@@ -506,12 +507,12 @@
         <mark key="." line="30" column="54" />
         <mark key="^" line="30" column="54" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Home/content/index.js" timestamp="1563853119486">
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Home/content/index.js" timestamp="1563867127137">
         <mark key="'" line="4" column="12" />
-        <mark key="[" line="96" column="26" />
-        <mark key="]" line="96" column="5" />
-        <mark key="." line="96" column="5" />
-        <mark key="^" line="96" column="5" />
+        <mark key="[" line="101" column="8" />
+        <mark key="]" line="106" column="11" />
+        <mark key="." line="106" column="11" />
+        <mark key="^" line="106" column="11" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/web-ui-2/component/531a55ea-7cc4-4c30-80c4-7197d0008a4c.js" timestamp="1562311115073">
         <mark key="[" line="0" column="81" />
@@ -698,10 +699,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>//国际 FP_BUCKET_WORLD - SQL_10</text>
+        <text>'WSJCNHomeHeadlineFeedBottom2'</text>
       </register>
       <register name="-" type="4">
-        <text>//国际 FP_BUCKET_WORLD - SQL_10</text>
+        <text>'WSJCNHomeHeadlineFeedBottom2'</text>
       </register>
       <register name="/" type="4">
         <text>CT-BGH</text>

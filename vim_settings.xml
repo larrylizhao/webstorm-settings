@@ -21,6 +21,7 @@
         <mark key="^" line="21" column="49" />
         <mark key="." line="21" column="49" />
       </file>
+      <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/componentProvider.js" timestamp="1563854997007" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/Components/index.js" timestamp="1561693180216">
         <mark key="[" line="103" column="47" />
         <mark key="]" line="104" column="67" />
@@ -38,6 +39,9 @@
         <mark key="]" line="15" column="3" />
         <mark key="." line="15" column="3" />
         <mark key="^" line="15" column="3" />
+      </file>
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/node_modules/web-ui-2/lib/componentProvider.js" timestamp="1563855161198">
+        <mark key="'" line="90" column="1" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/webui/packages/wsj/china_header/index.js" timestamp="1562552172650">
         <mark key="[" line="63" column="26" />
@@ -433,11 +437,6 @@
         <mark key="." line="1" column="32" />
         <mark key="^" line="58" column="28" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/RSSFeed/content/index.js" timestamp="1563761381382">
-        <mark key="[" line="12" column="3" />
-        <mark key="]" line="12" column="3" />
-        <mark key="." line="12" column="3" />
-      </file>
       <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/dataTypes.js" timestamp="1563420062893">
         <mark key="'" line="57" column="38" />
         <mark key="[" line="8" column="0" />
@@ -482,6 +481,7 @@
         <mark key="^" line="4986" column="22" />
         <mark key="." line="4986" column="22" />
       </file>
+      <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/shared/ArticleCard/index.js" timestamp="1563854991708" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/MDC/_Shared/UpgradesDowngrades/content/downgrades.js" timestamp="1561688941635">
         <mark key="[" line="3" column="13" />
         <mark key="]" line="3" column="22" />
@@ -528,7 +528,7 @@
       <file name="events.js" timestamp="1562817608010">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1563853718851">
+      <file name="/JavaScript Console" timestamp="1563854540292">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Home/pageData.json" timestamp="1563430074544">
@@ -694,6 +694,7 @@
       <jump line="3" column="30" filename="$USER_HOME$/Desktop/wsj/frontpage/web/.babelrc" />
       <jump line="4788" column="22" filename="$USER_HOME$/Desktop/wsj/Tesla/consumer-services/lib/articletype/hardcoded_params.json" />
       <jump line="39" column="27" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/RSSFeed/presentation/index.js" />
+      <jump line="90" column="1" filename="$USER_HOME$/Desktop/wsj/grand-canyon/node_modules/web-ui-2/lib/componentProvider.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">

@@ -143,7 +143,7 @@
         <mark key="^" line="61" column="28" />
         <mark key="." line="61" column="28" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/wsj/WSJHeader/index.js" timestamp="1564045147347" />
+      <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/wsj/WSJHeader/index.js" timestamp="1564046239707" />
       <file name="$USER_HOME$/Desktop/wsj/web-ui-2/component/96c349b6-3f3c-48fb-ab2c-6e96dff1d9fe.js" timestamp="1562311108208">
         <mark key="[" line="0" column="69" />
         <mark key="]" line="0" column="69" />
@@ -288,6 +288,7 @@
         <mark key="^" line="0" column="13" />
         <mark key="." line="0" column="13" />
       </file>
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/middleware/wsj_nav.js" timestamp="1564046125365" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/_shared/Blocks/headers.js" timestamp="1561103435865">
         <mark key="[" line="120" column="3" />
         <mark key="]" line="155" column="0" />
@@ -378,7 +379,7 @@
         <mark key="^" line="6" column="43" />
         <mark key="." line="0" column="6" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/wsj/WSJHeader/data/customerNav.json" timestamp="1564045125534" />
+      <file name="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/wsj/WSJHeader/data/customerNav.json" timestamp="1564046272402" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Business/pageData.json" timestamp="1561356459520">
         <mark key="[" line="14" column="18" />
         <mark key="]" line="16" column="24" />

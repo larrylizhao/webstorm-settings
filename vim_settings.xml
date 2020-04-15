@@ -79,6 +79,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJJapan/_shared/Section/List/List.js" timestamp="1586944630211" />
       <file name="/fragment.js" timestamp="1586932975931">
         <mark key="[" line="0" column="0" />
       </file>
@@ -88,13 +89,8 @@
         <mark key="^" line="49" column="47" />
         <mark key="." line="49" column="47" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJJapan/Opinion/content/index.js" timestamp="1586944549911" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJJapan/Opinion/content/index.js" timestamp="1586944595318" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJJapan/Opinion/presentation/shared/BucketGroup/index_4u.js" timestamp="1586937215233" />
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/page/japan_wsj_buildingblocks_article.json" timestamp="1586917282972">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-      </file>
       <file name="/JavaScript Console" timestamp="1586918974742">
         <mark key="[" line="0" column="0" />
       </file>

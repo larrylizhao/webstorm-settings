@@ -88,6 +88,7 @@
         <mark key="^" line="49" column="47" />
         <mark key="." line="49" column="47" />
       </file>
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJJapan/Opinion/content/index.js" timestamp="1586944549911" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJJapan/Opinion/presentation/shared/BucketGroup/index_4u.js" timestamp="1586937215233" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/page/japan_wsj_buildingblocks_article.json" timestamp="1586917282972">
         <mark key="[" line="18" column="0" />
@@ -96,9 +97,6 @@
       </file>
       <file name="/JavaScript Console" timestamp="1586918974742">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/resp.svc.article/lib/template_config.js" timestamp="1586917248953">
-        <mark key="[" line="83" column="52" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/plain-react/Strapline/decorators/WSJJapanTheme.css" timestamp="1586938130039">
         <mark key="[" line="51" column="1" />
@@ -115,12 +113,14 @@
       </file>
       <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/plain-react/Strapline/decorators/wsj-theme/style.css" timestamp="1586938028058" />
       <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/plain-react/Strapline/decorators/WSJChinaTheme.css" timestamp="1586938013638" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/WSJBlog/AutomatedSectionFronts/_components/index.js" timestamp="1586944454618" />
       <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/collections/collection_allesseh_full.js" timestamp="1586920639104">
         <mark key="[" line="53" column="4" />
         <mark key="]" line="44" column="0" />
         <mark key="^" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJJapan/_shared/Section/components.js" timestamp="1586944447193" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/assets/webpack-config/entries.js" timestamp="1586942158899">
         <mark key="[" line="153" column="0" />
         <mark key="]" line="153" column="0" />

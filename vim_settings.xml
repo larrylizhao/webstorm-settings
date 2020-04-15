@@ -79,6 +79,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJJapan/Opinion/presentation/16u/MajorBucket.js" timestamp="1586937181054" />
       <file name="/fragment.js" timestamp="1586932975931">
         <mark key="[" line="0" column="0" />
       </file>
@@ -105,16 +106,11 @@
         <mark key="^" line="4" column="19" />
         <mark key="." line="4" column="19" />
       </file>
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJJapan/Opinion/presentation/shared/BucketGroup/index_4u.js" timestamp="1586937215233" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/page/japan_wsj_buildingblocks_article.json" timestamp="1586917282972">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/TestPackage/components/index.js" timestamp="1586854916783">
-        <mark key="[" line="8" column="3" />
-        <mark key="]" line="14" column="2" />
-        <mark key="^" line="14" column="2" />
-        <mark key="." line="14" column="2" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/collections/collection_allesseh_full.js" timestamp="1586920639104">
         <mark key="[" line="53" column="4" />

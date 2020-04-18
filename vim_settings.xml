@@ -79,9 +79,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJJapan/_shared/Section/List/List.js" timestamp="1586944630211" />
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJJapan/_shared/Section/List/index.js" timestamp="1586945203813" />
-      <file name="$USER_HOME$/Desktop/wsj/modules/cwsj-batch-injector/server.js" timestamp="1586963285267">
+      <file name="$USER_HOME$/Desktop/wsj/modules/cwsj-batch-injector/server.js" timestamp="1587207857904">
         <mark key="[" line="261" column="37" />
         <mark key="]" line="261" column="36" />
         <mark key="^" line="261" column="36" />
@@ -98,8 +96,12 @@
         <mark key="]" line="317" column="0" />
         <mark key="." line="317" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJJapan/Opinion/content/index.js" timestamp="1586944595318" />
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJJapan/Opinion/presentation/shared/BucketGroup/index_4u.js" timestamp="1586937215233" />
+      <file name="$USER_HOME$/Desktop/wsj/modules/cwsj-batch-injector/converter.js" timestamp="1586962359374">
+        <mark key="[" line="15" column="43" />
+        <mark key="]" line="15" column="46" />
+        <mark key="." line="15" column="45" />
+        <mark key="^" line="15" column="46" />
+      </file>
       <file name="/JavaScript Console" timestamp="1586962780040">
         <mark key="[" line="0" column="0" />
       </file>
@@ -109,18 +111,6 @@
         <mark key="^" line="53" column="12" />
         <mark key="." line="53" column="11" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routes/routeConfig.json" timestamp="1587116741448" />
-      <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/plain-react/Strapline/decorators/wsj-theme/style.css" timestamp="1586938028058" />
-      <file name="$USER_HOME$/Desktop/wsj/modules/cwsj-batch-injector/converter.js" timestamp="1586962359374">
-        <mark key="[" line="15" column="43" />
-        <mark key="]" line="15" column="46" />
-        <mark key="." line="15" column="45" />
-        <mark key="^" line="15" column="46" />
-      </file>
-      <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/plain-react/Strapline/decorators/WSJChinaTheme.css" timestamp="1586938013638" />
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/WSJBlog/AutomatedSectionFronts/_components/index.js" timestamp="1586944454618" />
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJJapan/_shared/Section/components.js" timestamp="1586944447193" />
-      <file name="$USER_HOME$/Desktop/wsj/modules/cwsjconverter/lib/utils.js" timestamp="1587105671625" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/assets/webpack-config/entries.js" timestamp="1586942158899">
         <mark key="[" line="153" column="0" />
         <mark key="]" line="153" column="0" />

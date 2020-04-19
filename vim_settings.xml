@@ -79,7 +79,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Desktop/wsj/modules/cwsj-batch-injector/server.js" timestamp="1587207857904">
+      <file name="/JavaScript Console" timestamp="1586962780040">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/wsj/modules/cwsj-batch-injector/server.js" timestamp="1587224394573">
         <mark key="[" line="261" column="37" />
         <mark key="]" line="261" column="36" />
         <mark key="^" line="261" column="36" />
@@ -96,15 +99,6 @@
         <mark key="]" line="317" column="0" />
         <mark key="." line="317" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/modules/cwsj-batch-injector/converter.js" timestamp="1586962359374">
-        <mark key="[" line="15" column="43" />
-        <mark key="]" line="15" column="46" />
-        <mark key="." line="15" column="45" />
-        <mark key="^" line="15" column="46" />
-      </file>
-      <file name="/JavaScript Console" timestamp="1586962780040">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/plain-react/Strapline/decorators/WSJJapanTheme.css" timestamp="1586938130039">
         <mark key="[" line="51" column="1" />
         <mark key="]" line="53" column="12" />
@@ -119,6 +113,12 @@
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/node_modules/package-engine/lib/engine/resourceLoader/index.js" timestamp="1586962675595">
         <mark key="'" line="363" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/wsj/modules/cwsj-batch-injector/converter.js" timestamp="1586962359374">
+        <mark key="[" line="15" column="43" />
+        <mark key="]" line="15" column="46" />
+        <mark key="." line="15" column="45" />
+        <mark key="^" line="15" column="46" />
       </file>
     </filemarks>
     <jumps>

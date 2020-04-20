@@ -85,8 +85,15 @@
         <mark key="^" line="1" column="20" />
         <mark key="." line="1" column="19" />
       </file>
-      <file name="/JavaScript Console" timestamp="1587365854612">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/page/japan_wsj_resp_article_16u_snippet.json" timestamp="1587369140738">
+        <mark key="[" line="170" column="0" />
+        <mark key="]" line="170" column="0" />
+        <mark key="." line="170" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/page/japan_wsj_resp_article_16u.json" timestamp="1587369150151">
+        <mark key="[" line="230" column="0" />
+        <mark key="]" line="230" column="0" />
+        <mark key="." line="230" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/modules/cwsj-batch-injector/server.js" timestamp="1587366184502">
         <mark key="[" line="261" column="37" />
@@ -105,6 +112,20 @@
         <mark key="]" line="317" column="0" />
         <mark key="." line="317" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/wsj/modules/cwsj-batch-injector/converter.js" timestamp="1587349037579">
+        <mark key="[" line="15" column="43" />
+        <mark key="]" line="15" column="46" />
+        <mark key="." line="15" column="45" />
+        <mark key="^" line="15" column="46" />
+      </file>
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/page/japan_wsj_resp_article_16u_slideshow.json" timestamp="1587369123682">
+        <mark key="[" line="133" column="0" />
+        <mark key="]" line="133" column="0" />
+        <mark key="." line="133" column="0" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1587365854612">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/plain-react/Strapline/decorators/WSJJapanTheme.css" timestamp="1586938130039">
         <mark key="[" line="51" column="1" />
         <mark key="]" line="53" column="12" />
@@ -119,12 +140,6 @@
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/node_modules/package-engine/lib/engine/resourceLoader/index.js" timestamp="1586962675595">
         <mark key="'" line="363" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/wsj/modules/cwsj-batch-injector/converter.js" timestamp="1587349037579">
-        <mark key="[" line="15" column="43" />
-        <mark key="]" line="15" column="46" />
-        <mark key="." line="15" column="45" />
-        <mark key="^" line="15" column="46" />
       </file>
     </filemarks>
     <jumps>
@@ -233,7 +248,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICA8bWV0YSBodHRwLWVxdWl2PSJDb250ZW50LVNlY3VyaXR5LVBvbGljeSIgY29udGVudD0idXBncmFkZS1pbnNlY3VyZS1yZXF1ZXN0cyI+Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBwYXJlbnQgb2YgMTNmYmZmY2Y0Li4uIFJldmVydCAiUmV2ZXJ0ICJKYXBhbiBzaGFyZXRvb2wgKCM0NDgzKSIgKCM0NTE5KSIgKCM0NTczKQo=</text>
       </register>
       <register name="-" type="4">
         <text>prod</text>
@@ -245,31 +260,31 @@
         <text encoding="base64">Y29uc3Qgc2VhcmNoUGF0aE1hcHBpbmcgPSByZXF1aXJlKCcuLi9XU0pIZWFkZXIvZGF0YS9zZWFyY2hQYXRoTWFwcGluZycpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICA8bWV0YSBodHRwLWVxdWl2PSJDb250ZW50LVNlY3VyaXR5LVBvbGljeSIgY29udGVudD0idXBncmFkZS1pbnNlY3VyZS1yZXF1ZXN0cyI+Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBwYXJlbnQgb2YgMTNmYmZmY2Y0Li4uIFJldmVydCAiUmV2ZXJ0ICJKYXBhbiBzaGFyZXRvb2wgKCM0NDgzKSIgKCM0NTE5KSIgKCM0NTczKQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgICAgICAiZW5jb2RlRW1haWxVcmwiOiB0cnVlLAogICAgICAgICAgInNoYXJlUGF0aCI6ICJodHRwczovL2pwLndzai5jb20vYXJ0aWNsZXMiLAogICAgICAgICAgImFydGljbGVUZW1wbGF0ZSI6ICJ3c2otc3RhbmRhcmQiCj09PT09PT0=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdXNlTGF6eUxvYWRJbWFnZTogdHJ1ZSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdXNlTGF6eUxvYWRJbWFnZTogdHJ1ZSwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdGltZXN0YW1wRm9ybWF0OiAnWVlZWeW5tE1N5pyIRETml6UgaGg6bW0nLAo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBwYXJlbnQgb2YgMTNmYmZmY2Y0Li4uIFJldmVydCAiUmV2ZXJ0ICJKYXBhbiBzaGFyZXRvb2wgKCM0NDgzKSIgKCM0NTE5KSIgKCM0NTczKQ==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgbWVkaWFGbG9hdDogJ3JpZ2h0JywK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgICAgICAiZW5jb2RlRW1haWxVcmwiOiB0cnVlLAogICAgICAgICAgInNoYXJlUGF0aCI6ICJodHRwczovL2pwLndzai5jb20vYXJ0aWNsZXMiLAogICAgICAgICAgImFydGljbGVUZW1wbGF0ZSI6ICJ3c2otc3RhbmRhcmQiCj09PT09PT0=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgaGVhZGxpbmVMZXZlbDogMywK</text>
+        <text encoding="base64">Pj4+Pj4+PiBwYXJlbnQgb2YgMTNmYmZmY2Y0Li4uIFJldmVydCAiUmV2ZXJ0ICJKYXBhbiBzaGFyZXRvb2wgKCM0NDgzKSIgKCM0NTE5KSIgKCM0NTczKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgaGVhZGluZzogMywK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/'/&quot;/g</text>

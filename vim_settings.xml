@@ -123,8 +123,14 @@
         <mark key="]" line="133" column="0" />
         <mark key="." line="133" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1587365854612">
+      <file name="/JavaScript Console" timestamp="1587373888058">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/wsj/modules/cwsjconverter/lib/reformatter.js" timestamp="1587373543144">
+        <mark key="[" line="603" column="8" />
+        <mark key="]" line="603" column="11" />
+        <mark key="." line="603" column="10" />
+        <mark key="^" line="603" column="11" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/plain-react/Strapline/decorators/WSJJapanTheme.css" timestamp="1586938130039">
         <mark key="[" line="51" column="1" />
@@ -248,7 +254,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBwYXJlbnQgb2YgMTNmYmZmY2Y0Li4uIFJldmVydCAiUmV2ZXJ0ICJKYXBhbiBzaGFyZXRvb2wgKCM0NDgzKSIgKCM0NTE5KSIgKCM0NTczKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>prod</text>
@@ -260,31 +266,31 @@
         <text encoding="base64">Y29uc3Qgc2VhcmNoUGF0aE1hcHBpbmcgPSByZXF1aXJlKCcuLi9XU0pIZWFkZXIvZGF0YS9zZWFyY2hQYXRoTWFwcGluZycpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBwYXJlbnQgb2YgMTNmYmZmY2Y0Li4uIFJldmVydCAiUmV2ZXJ0ICJKYXBhbiBzaGFyZXRvb2wgKCM0NDgzKSIgKCM0NTE5KSIgKCM0NTczKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZihhdXRob3JzLmxlbmd0aCA+IDEpIHsKICAgICAgICAgIAogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAKICAgICAgICB9</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgICAgICAiZW5jb2RlRW1haWxVcmwiOiB0cnVlLAogICAgICAgICAgInNoYXJlUGF0aCI6ICJodHRwczovL2pwLndzai5jb20vYXJ0aWNsZXMiLAogICAgICAgICAgImFydGljbGVUZW1wbGF0ZSI6ICJ3c2otc3RhbmRhcmQiCj09PT09PT0=</text>
+        <text encoding="base64">Pj4+Pj4+PiBwYXJlbnQgb2YgMTNmYmZmY2Y0Li4uIFJldmVydCAiUmV2ZXJ0ICJKYXBhbiBzaGFyZXRvb2wgKCM0NDgzKSIgKCM0NTE5KSIgKCM0NTczKQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBwYXJlbnQgb2YgMTNmYmZmY2Y0Li4uIFJldmVydCAiUmV2ZXJ0ICJKYXBhbiBzaGFyZXRvb2wgKCM0NDgzKSIgKCM0NTE5KSIgKCM0NTczKQ==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgICAgICAiZW5jb2RlRW1haWxVcmwiOiB0cnVlLAogICAgICAgICAgInNoYXJlUGF0aCI6ICJodHRwczovL2pwLndzai5jb20vYXJ0aWNsZXMiLAogICAgICAgICAgImFydGljbGVUZW1wbGF0ZSI6ICJ3c2otc3RhbmRhcmQiCj09PT09PT0=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBwYXJlbnQgb2YgMTNmYmZmY2Y0Li4uIFJldmVydCAiUmV2ZXJ0ICJKYXBhbiBzaGFyZXRvb2wgKCM0NDgzKSIgKCM0NTE5KSIgKCM0NTczKQo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBwYXJlbnQgb2YgMTNmYmZmY2Y0Li4uIFJldmVydCAiUmV2ZXJ0ICJKYXBhbiBzaGFyZXRvb2wgKCM0NDgzKSIgKCM0NTE5KSIgKCM0NTczKQ==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgICAgICAiZW5jb2RlRW1haWxVcmwiOiB0cnVlLAogICAgICAgICAgInNoYXJlUGF0aCI6ICJodHRwczovL2pwLndzai5jb20vYXJ0aWNsZXMiLAogICAgICAgICAgImFydGljbGVUZW1wbGF0ZSI6ICJ3c2otc3RhbmRhcmQiCj09PT09PT0=</text>
       </register>
       <register name=":" type="4">
         <text>s/'/&quot;/g</text>

@@ -85,11 +85,7 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="2" column="1" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/page/japan_wsj_resp_article_16u_snippet.json" timestamp="1587369140738">
-        <mark key="[" line="170" column="0" />
-        <mark key="]" line="170" column="0" />
-        <mark key="." line="170" column="0" />
-      </file>
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/404/presentation/index.js" timestamp="1587463336664" />
       <file name="$USER_HOME$/Desktop/wsj/modules/cwsj-batch-injector/server.js" timestamp="1587377915570">
         <mark key="[" line="261" column="37" />
         <mark key="]" line="261" column="36" />
@@ -107,19 +103,18 @@
         <mark key="]" line="4" column="16" />
         <mark key="." line="4" column="16" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/Search/components/index.js" timestamp="1587462437776">
-        <mark key="[" line="0" column="18" />
-        <mark key="]" line="1" column="2" />
-        <mark key="." line="1" column="1" />
-        <mark key="^" line="1" column="2" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/Search/components/index.js" timestamp="1587463513528">
+        <mark key="]" line="6" column="3" />
+        <mark key="^" line="6" column="3" />
+        <mark key="." line="6" column="2" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routesInternational/index.js" timestamp="1587462350849">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="80" />
         <mark key="." line="317" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/Search/content/index.js" timestamp="1587462103374">
-        <mark key="[" line="2" column="0" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/Search/content/index.js" timestamp="1587463435474">
+        <mark key="[" line="1" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
@@ -134,17 +129,13 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJJapan/Search/pageData.json" timestamp="1587462671744" />
-      <file name="$USER_HOME$/Desktop/wsj/modules/cwsjconverter/lib/reformatter.js" timestamp="1587376865772">
-        <mark key="[" line="605" column="19" />
-        <mark key="]" line="605" column="28" />
-        <mark key="." line="605" column="27" />
-        <mark key="^" line="605" column="28" />
-      </file>
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/404/components/index.js" timestamp="1587463509530" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/node_modules/dj.svc.nav/lib/nav_service.js" timestamp="1587461460815" />
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/page/japan_wsj_resp_article_16u.json" timestamp="1587369150151">
-        <mark key="[" line="230" column="0" />
-        <mark key="]" line="230" column="0" />
-        <mark key="." line="230" column="0" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/Search/presentation/index.js" timestamp="1587463455503">
+        <mark key="'" line="56" column="0" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/Search/pageData.json" timestamp="1587462734419">
         <mark key="[" line="3" column="14" />
@@ -157,15 +148,10 @@
         <mark key="]" line="265" column="0" />
         <mark key="." line="265" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/page/japan_wsj_resp_article_16u_slideshow.json" timestamp="1587369123682">
-        <mark key="[" line="133" column="0" />
-        <mark key="]" line="133" column="0" />
-        <mark key="." line="133" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Search/pageData.json" timestamp="1587462772351" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/Pro/Search/AI/pageData.json" timestamp="1587463274865" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Search/pageData.json" timestamp="1587463282322" />
     </filemarks>
     <jumps>
-      <jump line="22" column="21" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/WSJBlog/AutomatedSectionFronts/RealTimeEconomics/pageData.json" />
       <jump line="22" column="6" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/WSJBlog/AutomatedSectionFronts/Expat/pageData.json" />
       <jump line="23" column="7" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/WSJBlog/AutomatedSectionFronts/Expat/pageData.json" />
       <jump line="367" column="4" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routes/routeConfig.json" />
@@ -265,12 +251,13 @@
       <jump line="247" column="0" filename="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/webui/modules/wsj/articleTools/generateOptions.js" />
       <jump line="22" column="64" filename="$USER_HOME$/Desktop/wsj/grand-canyon/node_modules/package-engine/lib/engine/resourceLoader/index.js" />
       <jump line="363" column="0" filename="$USER_HOME$/Desktop/wsj/grand-canyon/node_modules/package-engine/lib/engine/resourceLoader/index.js" />
+      <jump line="64" column="0" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/Search/presentation/index.js" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>Error</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgSGVhZGVyQXJlYSgxNiwgaGVhZGVyT3B0cyksCiAgICAgICAgICAgIGNvcHkocmVxdWlyZSgnLi9Db250ZW50c18xNnUnKSksCiAgICAgICAgICAgIEZvb3RlcigxNik=</text>
       </register>
       <register name="-" type="4">
         <text>Error</text>
@@ -282,15 +269,29 @@
         <text encoding="base64">Y29uc3QgcXVlcnlQYXJhbXNIYW5kbGVyID0gcmVxdWlyZSgnLi4vLi4vcm91dGluZy9zZXJ2aWNlcy9xdWVyeVBhcmFtc0hhbmRsZXInKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgImZ1bGwtdGV4dCI6IHRydWUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgSGVhZGVyQXJlYSgxNiwgaGVhZGVyT3B0cyksCiAgICAgICAgICAgIGNvcHkocmVxdWlyZSgnLi9Db250ZW50c18xNnUnKSksCiAgICAgICAgICAgIEZvb3RlcigxNik=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgSGVhZGVyQXJlYSgxMiwgaGVhZGVyT3B0cyksCiAgICAgICAgICAgIGNvcHkocmVxdWlyZSgnLi9Db250ZW50c18xMnUnKSksCiAgICAgICAgICAgIEZvb3RlcigxMik=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgSGVhZGVyQXJlYSg4LCBoZWFkZXJPcHRzKSwKICAgICAgICAgICAgY29weShyZXF1aXJlKCcuL0NvbnRlbnRzXzh1JykpLAogICAgICAgICAgICBGb290ZXIoOCk=</text>
       </register>
       <register name="4" type="4">
+        <text>HeaderArea(4, headerOpts),
+            copy(require('./Contents_4u')),
+            Footer(4)</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgImZ1bGwtdGV4dCI6IHRydWUK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAsCg==</text>
+      </register>
+      <register name="8" type="4">
         <text>Container: {
     id: '275181c7-8620-4df3-a008-d0cd9937db22'
   },
@@ -331,40 +332,8 @@
     id: 'c8b2d263-28a6-4058-89de-03b72cbd94fd'
   }</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICB9Cg==</text>
-      </register>
-      <register name="6" type="4">
-        <text>articles_strip: {
-    type: 'collection',
-    id: 'RESP_Trending_US'
-  },
-  podcasts_strip: {
-    type: 'podcast',
-    id: JSON.stringify({
-      groupid: 116,
-      count: '3',
-      fields: 'guid,name,linkURL,podcastName,thumbnailImageManagerIsolated'
-    })
-  },
-  videos_strip: {
-    type: 'recommended_videos',
-    id: JSON.stringify({
-      count: '5',
-      fields: 'guid,name,thumbnailList,linkURL,formattedDuration',
-      type: 'wsj-playlist',
-      query: 'WSJ+editor+video+picks',
-      queryType: 'column',
-    }),</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICJlZGl0aW9uIjogImFzaWEsanAiLAo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZihhdXRob3JzLmxlbmd0aCA+IDEpIHsKICAgICAgICAgIAogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAKICAgICAgICB9</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/'/&quot;/g</text>

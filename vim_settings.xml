@@ -82,7 +82,7 @@
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/Homepage/presentation/8u/PopularArticles.js" timestamp="1587541990063" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Opinion/presentation/Contents_4u.js" timestamp="1587541524898" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/routing/services/queryParamsHandler.js" timestamp="1587542295466" />
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/Search/components/index.js" timestamp="1587541858750">
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/Search/components/index.js" timestamp="1587542502963">
         <mark key="[" line="7" column="0" />
         <mark key="]" line="7" column="0" />
         <mark key="^" line="6" column="3" />
@@ -99,6 +99,7 @@
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/_shared/Components/index.js" timestamp="1587540338722" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/US/NewYork/content/index.js" timestamp="1587539770116" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Search/components/index.js" timestamp="1587541467268" />
+      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/dnsaSearch/dnsa_provider_v2.js" timestamp="1587542392024" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/Search/presentation/index.js" timestamp="1587541789681">
         <mark key="'" line="60" column="0" />
         <mark key="[" line="44" column="36" />
@@ -119,10 +120,9 @@
         <mark key="." line="265" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/shared/ArticleCard/index.js" timestamp="1587539810248" />
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/US/NewYork/presentation/4u/LeadBucket.js" timestamp="1587539586042" />
       <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/wsj/WSJHeader/metadata.json" timestamp="1587540392891" />
-      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/dataTypes.js" timestamp="1587539684165" />
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Search/content/index.js" timestamp="1587542342927" />
+      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/dataTypes.js" timestamp="1587542378237" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Search/content/index.js" timestamp="1587542442496" />
       <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/wsj/SearchBar/metadata.json" timestamp="1587541239139" />
     </filemarks>
     <jumps>

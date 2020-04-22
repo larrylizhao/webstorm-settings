@@ -79,72 +79,51 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Desktop/wsj/modules/cwsj-batch-injector/config.json" timestamp="1587435824737">
-        <mark key="[" line="1" column="17" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="3" column="0" />
-        <mark key="." line="2" column="1" />
-      </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/404/presentation/index.js" timestamp="1587463336664" />
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routesInternational/routeConfig.json" timestamp="1587537118972">
-        <mark key="[" line="45" column="4" />
-        <mark key="]" line="49" column="47" />
-        <mark key="^" line="49" column="47" />
-        <mark key="." line="49" column="47" />
-      </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/Search/index.js" timestamp="1587462123062">
-        <mark key="[" line="4" column="16" />
-        <mark key="]" line="4" column="16" />
-        <mark key="." line="4" column="16" />
-      </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/Search/components/index.js" timestamp="1587463513528">
-        <mark key="]" line="6" column="3" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/Homepage/presentation/8u/PopularArticles.js" timestamp="1587541990063" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Opinion/presentation/Contents_4u.js" timestamp="1587541524898" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/routing/services/queryParamsHandler.js" timestamp="1587542295466" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/Search/components/index.js" timestamp="1587541858750">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
         <mark key="^" line="6" column="3" />
-        <mark key="." line="6" column="2" />
+        <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routesInternational/index.js" timestamp="1587462350849">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="80" />
-        <mark key="." line="317" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/Search/content/index.js" timestamp="1587463435474">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routes/index.js" timestamp="1587537531073">
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/Homepage/presentation/16u/index.js" timestamp="1587541810574" />
+      <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/wsj/SearchResultPaginationHeader/metadata.json" timestamp="1587541240479" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routes/index.js" timestamp="1587542142329">
         <mark key="[" line="215" column="75" />
         <mark key="]" line="217" column="102" />
         <mark key="." line="217" column="101" />
         <mark key="^" line="217" column="102" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/shared/ResponsiveConditional/README.md" timestamp="1587536700621" />
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/Noted/SectionFront/presentation/8u/Main.js" timestamp="1587459289046" />
-      <file name="/JavaScript Console" timestamp="1587435827671">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/_shared/Components/index.js" timestamp="1587540338722" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/US/NewYork/content/index.js" timestamp="1587539770116" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Search/components/index.js" timestamp="1587541467268" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/Search/presentation/index.js" timestamp="1587541789681">
+        <mark key="'" line="60" column="0" />
+        <mark key="[" line="44" column="36" />
+        <mark key="]" line="45" column="89" />
+        <mark key="." line="45" column="88" />
+        <mark key="^" line="45" column="89" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJJapan/Search/pageData.json" timestamp="1587462671744" />
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/404/components/index.js" timestamp="1587463509530" />
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/node_modules/dj.svc.nav/lib/nav_service.js" timestamp="1587461460815" />
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/Search/presentation/index.js" timestamp="1587463455503">
-        <mark key="'" line="56" column="0" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/Search/pageData.json" timestamp="1587465387562">
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Opinion/presentation/index.js" timestamp="1587541641613" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/Search/pageData.json" timestamp="1587542118784">
         <mark key="[" line="2" column="26" />
         <mark key="]" line="2" column="19" />
         <mark key="^" line="2" column="19" />
         <mark key="." line="2" column="18" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routes/routeConfig.json" timestamp="1587537110746">
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routes/routeConfig.json" timestamp="1587542210819">
         <mark key="[" line="265" column="0" />
         <mark key="]" line="265" column="0" />
         <mark key="." line="265" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/Pro/Search/AI/pageData.json" timestamp="1587463274865" />
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Search/pageData.json" timestamp="1587463282322" />
+      <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/shared/ArticleCard/index.js" timestamp="1587539810248" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/US/NewYork/presentation/4u/LeadBucket.js" timestamp="1587539586042" />
+      <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/wsj/WSJHeader/metadata.json" timestamp="1587540392891" />
+      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/dataTypes.js" timestamp="1587539684165" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Search/content/index.js" timestamp="1587542342927" />
+      <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/wsj/SearchBar/metadata.json" timestamp="1587541239139" />
     </filemarks>
     <jumps>
       <jump line="22" column="6" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/WSJBlog/AutomatedSectionFronts/Expat/pageData.json" />
@@ -252,7 +231,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSGVhZGVyQXJlYSgxNiwgaGVhZGVyT3B0cyksCiAgICAgICAgICAgIGNvcHkocmVxdWlyZSgnLi9Db250ZW50c18xNnUnKSksCiAgICAgICAgICAgIEZvb3RlcigxNik=</text>
+        <text encoding="base64">ICBzdHJhcGxpbmU6CgogIHNlYXJjaGJhcjp7CiAgICAKfQ==</text>
       </register>
       <register name="-" type="4">
         <text>Error</text>
@@ -264,29 +243,32 @@
         <text encoding="base64">Y29uc3QgcXVlcnlQYXJhbXNIYW5kbGVyID0gcmVxdWlyZSgnLi4vLi4vcm91dGluZy9zZXJ2aWNlcy9xdWVyeVBhcmFtc0hhbmRsZXInKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSGVhZGVyQXJlYSgxNiwgaGVhZGVyT3B0cyksCiAgICAgICAgICAgIGNvcHkocmVxdWlyZSgnLi9Db250ZW50c18xNnUnKSksCiAgICAgICAgICAgIEZvb3RlcigxNik=</text>
+        <text encoding="base64">ICBzdHJhcGxpbmU6CgogIHNlYXJjaGJhcjp7CiAgICAKfQ==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSGVhZGVyQXJlYSgxMiwgaGVhZGVyT3B0cyksCiAgICAgICAgICAgIGNvcHkocmVxdWlyZSgnLi9Db250ZW50c18xMnUnKSksCiAgICAgICAgICAgIEZvb3RlcigxMik=</text>
+        <text encoding="base64">ICAgICAgICAgICAgSGVhZGVyQXJlYSgxNiwgaGVhZGVyT3B0cyksCiAgICAgICAgICAgIGNvcHkocmVxdWlyZSgnLi9Db250ZW50c18xNnUnKSksCiAgICAgICAgICAgIEZvb3RlcigxNik=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgSGVhZGVyQXJlYSgxMiwgaGVhZGVyT3B0cyksCiAgICAgICAgICAgIGNvcHkocmVxdWlyZSgnLi9Db250ZW50c18xMnUnKSksCiAgICAgICAgICAgIEZvb3RlcigxMik=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgSGVhZGVyQXJlYSg4LCBoZWFkZXJPcHRzKSwKICAgICAgICAgICAgY29weShyZXF1aXJlKCcuL0NvbnRlbnRzXzh1JykpLAogICAgICAgICAgICBGb290ZXIoOCk=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>HeaderArea(4, headerOpts),
             copy(require('./Contents_4u')),
             Footer(4)</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgImZ1bGwtdGV4dCI6IHRydWUK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAsCg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>Container: {
     id: '275181c7-8620-4df3-a008-d0cd9937db22'
   },
@@ -326,9 +308,6 @@
   WSJFlexibleColumn: {
     id: 'c8b2d263-28a6-4058-89de-03b72cbd94fd'
   }</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/'/&quot;/g</text>

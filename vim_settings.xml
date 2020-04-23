@@ -79,6 +79,28 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/routing/services/queryParamsHandler.js" timestamp="1587548899582" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/Search/components/index.js" timestamp="1587542502963">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="6" column="3" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routes/index.js" timestamp="1587548743228">
+        <mark key="[" line="215" column="75" />
+        <mark key="]" line="217" column="102" />
+        <mark key="." line="217" column="101" />
+        <mark key="^" line="217" column="102" />
+      </file>
+      <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/plain-react/Container/index.js" timestamp="1587625222226" />
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/resp.svc.article/lib/articles_service.js" timestamp="1587624073801" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/Search/presentation/index.js" timestamp="1587541789681">
+        <mark key="'" line="60" column="0" />
+        <mark key="[" line="44" column="36" />
+        <mark key="]" line="45" column="89" />
+        <mark key="." line="45" column="88" />
+        <mark key="^" line="45" column="89" />
+      </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/Search/pageData.json" timestamp="1587542118784">
         <mark key="[" line="2" column="26" />
         <mark key="]" line="2" column="19" />
@@ -90,30 +112,9 @@
         <mark key="]" line="265" column="0" />
         <mark key="." line="265" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/routing/services/queryParamsHandler.js" timestamp="1587548899582" />
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/Search/components/index.js" timestamp="1587542502963">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="6" column="3" />
-        <mark key="." line="7" column="0" />
-      </file>
       <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/wsj/SearchBar/AdvancedSearch.js" timestamp="1587548970501" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/Pro/Search/AI/pageData.json" timestamp="1587548650851" />
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routes/index.js" timestamp="1587548743228">
-        <mark key="[" line="215" column="75" />
-        <mark key="]" line="217" column="102" />
-        <mark key="." line="217" column="101" />
-        <mark key="^" line="217" column="102" />
-      </file>
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/resp.svc.article/lib/articles_service.js" timestamp="1587624073801" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/page/wsj_noted_magazine_article.json" timestamp="1587624158534" />
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/Search/presentation/index.js" timestamp="1587541789681">
-        <mark key="'" line="60" column="0" />
-        <mark key="[" line="44" column="36" />
-        <mark key="]" line="45" column="89" />
-        <mark key="." line="45" column="88" />
-        <mark key="^" line="45" column="89" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="22" column="6" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/WSJBlog/AutomatedSectionFronts/Expat/pageData.json" />

@@ -86,7 +86,7 @@
         <mark key="^" line="6" column="3" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routes/index.js" timestamp="1587955943898">
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routes/index.js" timestamp="1587956600802">
         <mark key="[" line="215" column="75" />
         <mark key="]" line="217" column="102" />
         <mark key="." line="217" column="101" />
@@ -95,13 +95,6 @@
       <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/shared/Strapline/metadata.json" timestamp="1587633117593" />
       <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/plain-react/Container/index.js" timestamp="1587625222226" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/resp.svc.article/lib/articles_service.js" timestamp="1587624073801" />
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/Search/presentation/index.js" timestamp="1587541789681">
-        <mark key="'" line="60" column="0" />
-        <mark key="[" line="44" column="36" />
-        <mark key="]" line="45" column="89" />
-        <mark key="." line="45" column="88" />
-        <mark key="^" line="45" column="89" />
-      </file>
       <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/plain-react/FixedGrid/index.js" timestamp="1587633189206" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/Search/pageData.json" timestamp="1587542118784">
         <mark key="[" line="2" column="26" />
@@ -109,7 +102,7 @@
         <mark key="^" line="2" column="19" />
         <mark key="." line="2" column="18" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routes/routeConfig.json" timestamp="1587548702307">
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routes/routeConfig.json" timestamp="1587956771594">
         <mark key="[" line="265" column="0" />
         <mark key="]" line="265" column="0" />
         <mark key="." line="265" column="0" />
@@ -117,6 +110,7 @@
       <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/wsj/SearchBar/AdvancedSearch.js" timestamp="1587548970501" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/Pro/Search/AI/pageData.json" timestamp="1587548650851" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/Noted/SectionFront/content/index.js" timestamp="1587650728380" />
+      <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/wsj/SearchBar/index.js" timestamp="1587968704644" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/page/wsj_noted_magazine_article.json" timestamp="1587624158534" />
     </filemarks>
     <jumps>

@@ -92,10 +92,10 @@
         <mark key="." line="217" column="101" />
         <mark key="^" line="217" column="102" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/shared/Strapline/metadata.json" timestamp="1587633117593" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/_ListLayouts/Cards/Buckets/Lead_V1.js" timestamp="1587971484015" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJJapan/Search/presentation/SearchBar.js" timestamp="1587974000912" />
       <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/wsj/SearchResultPagination/index.js" timestamp="1588040553590" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/Homepage/components/index.js" timestamp="1588043273320" />
       <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/plain-react/FixedGrid/index.js" timestamp="1587633189206" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routes/routeConfig.json" timestamp="1587956771594">
         <mark key="[" line="265" column="0" />
@@ -103,7 +103,11 @@
         <mark key="." line="265" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/wsj/SearchBar/AdvancedSearch.js" timestamp="1587977755087" />
-      <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/wsj/SearchBar/decorators/wsj-theme/style.css" timestamp="1588040330438" />
+      <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/wsj/SearchBar/decorators/wsj-theme/style.css" timestamp="1588041992552">
+        <mark key="[" line="801" column="0" />
+        <mark key="]" line="801" column="0" />
+        <mark key="." line="801" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/Noted/SectionFront/content/index.js" timestamp="1587650728380" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/Noted/SectionFront/pageData.json" timestamp="1587973422513" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/Pro/Search/_presentation/shared/SearchBar.js" timestamp="1587980079479" />
@@ -217,7 +221,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBzdHJhcGxpbmU6CgogIHNlYXJjaGJhcjp7CiAgICAKfQ==</text>
+        <text encoding="base64">ICBsaW5lLWhlaWdodDogMjVweDsK</text>
       </register>
       <register name="-" type="4">
         <text>Error</text>
@@ -229,71 +233,33 @@
         <text encoding="base64">Y29uc3QgcXVlcnlQYXJhbXNIYW5kbGVyID0gcmVxdWlyZSgnLi4vLi4vcm91dGluZy9zZXJ2aWNlcy9xdWVyeVBhcmFtc0hhbmRsZXInKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBzdHJhcGxpbmU6CgogIHNlYXJjaGJhcjp7CiAgICAKfQ==</text>
+        <text encoding="base64">ICBsaW5lLWhlaWdodDogMjVweDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSGVhZGVyQXJlYSgxNiwgaGVhZGVyT3B0cyksCiAgICAgICAgICAgIGNvcHkocmVxdWlyZSgnLi9Db250ZW50c18xNnUnKSksCiAgICAgICAgICAgIEZvb3RlcigxNik=</text>
+        <text encoding="base64">ICBzdHJhcGxpbmU6CgogIHNlYXJjaGJhcjp7CiAgICAKfQ==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSGVhZGVyQXJlYSgxMiwgaGVhZGVyT3B0cyksCiAgICAgICAgICAgIGNvcHkocmVxdWlyZSgnLi9Db250ZW50c18xMnUnKSksCiAgICAgICAgICAgIEZvb3RlcigxMik=</text>
+        <text encoding="base64">ICAgICAgICAgICAgSGVhZGVyQXJlYSgxNiwgaGVhZGVyT3B0cyksCiAgICAgICAgICAgIGNvcHkocmVxdWlyZSgnLi9Db250ZW50c18xNnUnKSksCiAgICAgICAgICAgIEZvb3RlcigxNik=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgSGVhZGVyQXJlYSgxMiwgaGVhZGVyT3B0cyksCiAgICAgICAgICAgIGNvcHkocmVxdWlyZSgnLi9Db250ZW50c18xMnUnKSksCiAgICAgICAgICAgIEZvb3RlcigxMik=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgSGVhZGVyQXJlYSg4LCBoZWFkZXJPcHRzKSwKICAgICAgICAgICAgY29weShyZXF1aXJlKCcuL0NvbnRlbnRzXzh1JykpLAogICAgICAgICAgICBGb290ZXIoOCk=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>HeaderArea(4, headerOpts),
             copy(require('./Contents_4u')),
             Footer(4)</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgImZ1bGwtdGV4dCI6IHRydWUK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAsCg==</text>
-      </register>
-      <register name="9" type="4">
-        <text>Container: {
-    id: '275181c7-8620-4df3-a008-d0cd9937db22'
-  },
-  ErrorContainer: {
-    id: '7467b499-ede2-47cf-9552-511e60cd4ed7',
-    options: {
-      code: 404,
-      title: 'Page Not Found',
-      description: 'We can’t find the page you\'re looking for. If you typed the URL into your browser, check that you entered it correctly. If you reached this page via our site or search, please let us know by emailing ',
-      heading: 'serif',
-      className: '',
-      returnText: 'support@wsj.com',
-      returnUrl: 'mailto:support@wsj.com'
-    }
-  },
-  FixedColumn: {
-    id: '53c7ea50-e345-4390-bb20-e15f72a3c00c'
-  },
-  FixedGrid: {
-    id: '5443d428-3003-428f-a0e6-15a61b4ccda3'
-  },
-  ArticleCard: {
-    id: 'f7bed304-924e-4fb3-b62d-452baa7aa37d'
-  },
-  PodcastEpisodeCard: { 
-    id: '33daabbc-e957-4406-93a4-75ae667f2b19', 
-  },
-  ResponsiveConditional: {
-    id: 'c8882c9c-15d3-4d1f-9b0e-81b6f321365d'
-  },
-  Strapline: {
-    id: '8510af2f-d489-4a7b-9af3-f34c7225f470'
-  },
-  WSJFlexibleColumnContainer: {
-    id: '6b08b2f6-d09c-4298-90e0-ba5346b36ede'
-  },
-  WSJFlexibleColumn: {
-    id: 'c8b2d263-28a6-4058-89de-03b72cbd94fd'
-  }</text>
       </register>
       <register name=":" type="4">
         <text>s/'/&quot;/g</text>

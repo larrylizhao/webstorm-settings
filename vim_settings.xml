@@ -88,22 +88,21 @@
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/Search/content/index.js" timestamp="1588065428552" />
       <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/wsj/MostPopular/index.js" timestamp="1588059139690" />
-      <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/wsj/SearchResultPagination/index.js" timestamp="1588040553590" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/Homepage/components/index.js" timestamp="1588063269989" />
       <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/wsj/MostPopular/metadata.json" timestamp="1588059109636" />
-      <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/wsj/SearchBar/decorators/wsj-theme/style.css" timestamp="1588041992552">
-        <mark key="[" line="801" column="0" />
-        <mark key="]" line="801" column="0" />
-        <mark key="." line="801" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/Pro/Search/_presentation/shared/SearchBar.js" timestamp="1587980079479" />
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hant/Search/presentation/_shared/SearchBar.js" timestamp="1587980293519" />
+      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/dataTypes.js" timestamp="1588067464968" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/_utils/addOptions.js" timestamp="1588060395624" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/_shared/PopularVideos/index.js" timestamp="1588059179398">
         <mark key="[" line="14" column="17" />
         <mark key="]" line="14" column="20" />
         <mark key="^" line="14" column="20" />
         <mark key="." line="14" column="19" />
+      </file>
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/Search/presentation/12u/left.js" timestamp="1588067899147">
+        <mark key="[" line="14" column="9" />
+        <mark key="]" line="15" column="7" />
+        <mark key="^" line="15" column="7" />
+        <mark key="." line="15" column="6" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routesInternational/routeConfig.json" timestamp="1588061697751" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/routing/services/queryParamsHandler.js" timestamp="1588063172857">
@@ -112,8 +111,11 @@
         <mark key="." line="62" column="2" />
         <mark key="^" line="62" column="3" />
       </file>
+      <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/wsj/QuoteSearch/index.js" timestamp="1588067474963" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Search/components/index.js" timestamp="1588067478894" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/Podcasts/Show/components/index.js" timestamp="1588063313878" />
-      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/search/quote_search_provider.js" timestamp="1588065978409">
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Search/presentation/_shared/QuoteSearch.js" timestamp="1588067522789" />
+      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/search/quote_search_provider.js" timestamp="1588067465849">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="32" />
         <mark key="^" line="13" column="32" />
@@ -122,8 +124,7 @@
       <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/wsj/SearchBar/AdvancedSearch.spec.js" timestamp="1588066439198">
         <mark key="[" line="113" column="5" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Search/content/index.js" timestamp="1588065532504" />
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/Search/presentation/_shared/SearchBar.js" timestamp="1587980277563" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Search/content/index.js" timestamp="1588067502106" />
     </filemarks>
     <jumps>
       <jump line="22" column="6" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/WSJBlog/AutomatedSectionFronts/Expat/pageData.json" />

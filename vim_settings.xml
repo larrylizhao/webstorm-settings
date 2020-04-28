@@ -86,22 +86,19 @@
         <mark key="." line="2" column="61" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/routing/services/queryParamsHandler.js" timestamp="1587974005673" />
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/_shared/PopularArticles/index.js" timestamp="1588059046398" />
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routes/index.js" timestamp="1587956600802">
-        <mark key="[" line="215" column="75" />
-        <mark key="]" line="217" column="102" />
-        <mark key="." line="217" column="101" />
-        <mark key="^" line="217" column="102" />
+      <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/plain-react/Headline/index.js" timestamp="1588059155191" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/_shared/PopularArticles/index.js" timestamp="1588059165747">
+        <mark key="[" line="14" column="17" />
+        <mark key="]" line="14" column="20" />
+        <mark key="^" line="14" column="20" />
+        <mark key="." line="14" column="19" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/_ListLayouts/Cards/Buckets/Lead_V1.js" timestamp="1587971484015" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJJapan/Search/presentation/SearchBar.js" timestamp="1587974000912" />
+      <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/wsj/MostPopular/index.js" timestamp="1588059139690" />
       <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/wsj/SearchResultPagination/index.js" timestamp="1588040553590" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/Homepage/components/index.js" timestamp="1588043273320" />
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routes/routeConfig.json" timestamp="1587956771594">
-        <mark key="[" line="265" column="0" />
-        <mark key="]" line="265" column="0" />
-        <mark key="." line="265" column="0" />
-      </file>
+      <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/wsj/MostPopular/metadata.json" timestamp="1588059109636" />
       <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/wsj/SearchBar/AdvancedSearch.js" timestamp="1587977755087" />
       <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/wsj/SearchBar/decorators/wsj-theme/style.css" timestamp="1588041992552">
         <mark key="[" line="801" column="0" />
@@ -113,6 +110,12 @@
       <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/wsj/SearchBar/index.js" timestamp="1587977690973" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/Search/presentation/_shared/SearchBar.js" timestamp="1587980277563" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hant/Search/presentation/_shared/SearchBar.js" timestamp="1587980293519" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/_shared/PopularVideos/index.js" timestamp="1588059179398">
+        <mark key="[" line="14" column="17" />
+        <mark key="]" line="14" column="20" />
+        <mark key="^" line="14" column="20" />
+        <mark key="." line="14" column="19" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="22" column="6" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/WSJBlog/AutomatedSectionFronts/Expat/pageData.json" />

@@ -95,7 +95,7 @@
       <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/shared/Strapline/metadata.json" timestamp="1587633117593" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/_ListLayouts/Cards/Buckets/Lead_V1.js" timestamp="1587971484015" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJJapan/Search/presentation/SearchBar.js" timestamp="1587974000912" />
-      <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/plain-react/Container/index.js" timestamp="1587625222226" />
+      <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/wsj/SearchResultPagination/index.js" timestamp="1588040553590" />
       <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/plain-react/FixedGrid/index.js" timestamp="1587633189206" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routes/routeConfig.json" timestamp="1587956771594">
         <mark key="[" line="265" column="0" />
@@ -103,13 +103,13 @@
         <mark key="." line="265" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/wsj/SearchBar/AdvancedSearch.js" timestamp="1587977755087" />
+      <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/wsj/SearchBar/decorators/wsj-theme/style.css" timestamp="1588040330438" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/Noted/SectionFront/content/index.js" timestamp="1587650728380" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/Noted/SectionFront/pageData.json" timestamp="1587973422513" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/Pro/Search/_presentation/shared/SearchBar.js" timestamp="1587980079479" />
       <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/wsj/SearchBar/index.js" timestamp="1587977690973" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/Search/presentation/_shared/SearchBar.js" timestamp="1587980277563" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hant/Search/presentation/_shared/SearchBar.js" timestamp="1587980293519" />
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/page/wsj_noted_magazine_article.json" timestamp="1587624158534" />
     </filemarks>
     <jumps>
       <jump line="22" column="6" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/WSJBlog/AutomatedSectionFronts/Expat/pageData.json" />

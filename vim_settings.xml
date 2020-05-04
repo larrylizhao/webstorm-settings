@@ -79,6 +79,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/package.json" timestamp="1588573638475" />
       <file name="$USER_HOME$/Desktop/wsj/frontpage/api/config.json" timestamp="1588557327027" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/HeardOnTheStreet/pageData.json" timestamp="1588559406284" />
       <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/dataTypes.js" timestamp="1588067464968" />
@@ -101,9 +102,6 @@
         <mark key="]" line="13" column="32" />
         <mark key="^" line="13" column="32" />
         <mark key="." line="13" column="31" />
-      </file>
-      <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/wsj/SearchBar/AdvancedSearch.spec.js" timestamp="1588066439198">
-        <mark key="[" line="113" column="5" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Search/content/index.js" timestamp="1588067502106" />
     </filemarks>

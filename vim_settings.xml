@@ -81,23 +81,13 @@
     <filemarks>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/Search/content/index.js" timestamp="1588065428552" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/Homepage/components/index.js" timestamp="1588063269989" />
+      <file name="$USER_HOME$/Desktop/wsj/frontpage/api/config.json" timestamp="1588557327027" />
       <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/dataTypes.js" timestamp="1588067464968" />
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/_utils/addOptions.js" timestamp="1588060395624" />
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/_shared/PopularVideos/index.js" timestamp="1588059179398">
-        <mark key="[" line="14" column="17" />
-        <mark key="]" line="14" column="20" />
-        <mark key="^" line="14" column="20" />
-        <mark key="." line="14" column="19" />
-      </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routesInternational/routeConfig.json" timestamp="1588061697751" />
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/routing/services/queryParamsHandler.js" timestamp="1588063172857">
-        <mark key="[" line="62" column="2" />
-        <mark key="]" line="62" column="3" />
-        <mark key="." line="62" column="2" />
-        <mark key="^" line="62" column="3" />
-      </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Home/content/index.js" timestamp="1588556999042" />
       <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/wsj/QuoteSearch/index.js" timestamp="1588067474963" />
+      <file name="/JavaScript Console" timestamp="1588559286043">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Search/components/index.js" timestamp="1588067478894" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/Podcasts/Show/components/index.js" timestamp="1588063313878" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/Search/presentation/4u/content.js" timestamp="1588556952931" />

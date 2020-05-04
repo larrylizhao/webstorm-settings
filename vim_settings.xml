@@ -107,11 +107,11 @@
         <mark key="." line="167" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/node_modules/dj.svc.region/lib/site_config.json" timestamp="1588581479197" />
-      <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/wsj/SearchBar/index.js" timestamp="1588575917817">
-        <mark key="[" line="153" column="60" />
-        <mark key="]" line="154" column="48" />
+      <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/wsj/SearchBar/index.js" timestamp="1588582431759">
+        <mark key="[" line="154" column="0" />
+        <mark key="]" line="154" column="0" />
         <mark key="^" line="154" column="48" />
-        <mark key="." line="154" column="47" />
+        <mark key="." line="154" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -219,8 +219,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>c</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2NzcyBpcycsIGNzcygncmVzdWx0LWl0ZW0nKSk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>c</text>
@@ -232,33 +232,33 @@
         <text encoding="base64">Y29uc3QgcXVlcnlQYXJhbXNIYW5kbGVyID0gcmVxdWlyZSgnLi4vLi4vcm91dGluZy9zZXJ2aWNlcy9xdWVyeVBhcmFtc0hhbmRsZXInKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBsaW5lLWhlaWdodDogMjVweDsK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2NzcyBpcycsIGNzcygncmVzdWx0LWl0ZW0nKSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBzdHJhcGxpbmU6CgogIHNlYXJjaGJhcjp7CiAgICAKfQ==</text>
+        <text encoding="base64">ICBsaW5lLWhlaWdodDogMjVweDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSGVhZGVyQXJlYSgxNiwgaGVhZGVyT3B0cyksCiAgICAgICAgICAgIGNvcHkocmVxdWlyZSgnLi9Db250ZW50c18xNnUnKSksCiAgICAgICAgICAgIEZvb3RlcigxNik=</text>
+        <text encoding="base64">ICBzdHJhcGxpbmU6CgogIHNlYXJjaGJhcjp7CiAgICAKfQ==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSGVhZGVyQXJlYSgxMiwgaGVhZGVyT3B0cyksCiAgICAgICAgICAgIGNvcHkocmVxdWlyZSgnLi9Db250ZW50c18xMnUnKSksCiAgICAgICAgICAgIEZvb3RlcigxMik=</text>
+        <text encoding="base64">ICAgICAgICAgICAgSGVhZGVyQXJlYSgxNiwgaGVhZGVyT3B0cyksCiAgICAgICAgICAgIGNvcHkocmVxdWlyZSgnLi9Db250ZW50c18xNnUnKSksCiAgICAgICAgICAgIEZvb3RlcigxNik=</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgSGVhZGVyQXJlYSgxMiwgaGVhZGVyT3B0cyksCiAgICAgICAgICAgIGNvcHkocmVxdWlyZSgnLi9Db250ZW50c18xMnUnKSksCiAgICAgICAgICAgIEZvb3RlcigxMik=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgSGVhZGVyQXJlYSg4LCBoZWFkZXJPcHRzKSwKICAgICAgICAgICAgY29weShyZXF1aXJlKCcuL0NvbnRlbnRzXzh1JykpLAogICAgICAgICAgICBGb290ZXIoOCk=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>HeaderArea(4, headerOpts),
             copy(require('./Contents_4u')),
             Footer(4)</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgImZ1bGwtdGV4dCI6IHRydWUK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/'/&quot;/g</text>

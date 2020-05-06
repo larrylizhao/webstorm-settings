@@ -83,7 +83,6 @@
       <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/wsj/BrandingBanner/decorators/ImageGridTheme.css" timestamp="1588663966587" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Home/components/index.js" timestamp="1588586386234" />
       <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/dataTypes.js" timestamp="1588582010051" />
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/node_modules/dj.svc.region/lib/server_alias_service.js" timestamp="1588581344016" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/node_modules/dj.svc.region/lib/config_compiler.js" timestamp="1588584073433" />
       <file name="$USER_HOME$/Desktop/wsj/akanode.app/conf/www.s.dev.wsj.com.json" timestamp="1588735906542">
         <mark key="[" line="235" column="17" />
@@ -91,9 +90,10 @@
         <mark key="." line="235" column="15" />
         <mark key="^" line="235" column="16" />
       </file>
+      <file name="$USER_HOME$/Desktop/wsj/web-ui/generate.js" timestamp="1588754691647" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routesInternational/routeConfig.json" timestamp="1588586031286" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Home/content/index.js" timestamp="1588586398554" />
-      <file name="/JavaScript Console" timestamp="1588752969653">
+      <file name="/JavaScript Console" timestamp="1588754579880">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/web-ui/package.json" timestamp="1588749653292" />

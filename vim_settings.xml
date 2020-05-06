@@ -82,22 +82,31 @@
       <file name="/fragment.js" timestamp="1588581339131">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/wsj/SearchBar/SearchSuggestions.js" timestamp="1588575822517" />
       <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/wsj/BrandingBanner/decorators/ImageGridTheme.css" timestamp="1588663966587" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/node_modules/dj.svc.region/lib/region_service.js" timestamp="1588578171098" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Home/components/index.js" timestamp="1588586386234" />
       <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/dataTypes.js" timestamp="1588582010051" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/node_modules/dj.svc.region/lib/server_alias_service.js" timestamp="1588581344016" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/node_modules/dj.svc.region/lib/config_compiler.js" timestamp="1588584073433" />
-      <file name="$USER_HOME$/Desktop/wsj/web-ui/node_modules/package-engine/lib/component/Factory.js" timestamp="1588574932137" />
+      <file name="$USER_HOME$/Desktop/wsj/akanode.app/conf/www.s.dev.wsj.com.json" timestamp="1588735906542">
+        <mark key="[" line="235" column="17" />
+        <mark key="]" line="235" column="16" />
+        <mark key="." line="235" column="15" />
+        <mark key="^" line="235" column="16" />
+      </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routesInternational/routeConfig.json" timestamp="1588586031286" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Home/content/index.js" timestamp="1588586398554" />
-      <file name="$USER_HOME$/Desktop/wsj/web-ui/node_modules/package-engine/lib/component/WebUIComponent.js" timestamp="1588574761785" />
       <file name="/JavaScript Console" timestamp="1588577704164">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/web-ui/package.json" timestamp="1588576534374" />
       <file name="$USER_HOME$/Desktop/wsj/frontpage/api/lib/services/lists/_configService/JapanLife.js" timestamp="1588582423033" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routes/routeConfig.json" timestamp="1588735764911">
+        <mark key="[" line="268" column="22" />
+        <mark key="]" line="269" column="25" />
+        <mark key="." line="269" column="24" />
+        <mark key="^" line="269" column="25" />
+      </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/node_modules/dj.svc.region/lib/site_config.json" timestamp="1588581479197" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJJapan/Life/content/index.js" timestamp="1588586552127" />
       <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/wsj/SearchBar/index.js" timestamp="1588582431759">
@@ -106,6 +115,7 @@
         <mark key="^" line="154" column="48" />
         <mark key="." line="154" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/wsj/akanode.app/conf/cn.s.dev.wsj.com.json" timestamp="1588735833505" />
     </filemarks>
     <jumps>
       <jump line="57" column="28" filename="$USER_HOME$/Desktop/wsj/grand-canyon/package.json" />
@@ -213,7 +223,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2NzcyBpcycsIGNzcygncmVzdWx0LWl0ZW0nKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAiL3NlYXJjaC8qIiwK</text>
       </register>
       <register name="-" type="4">
         <text>c</text>
@@ -225,33 +235,33 @@
         <text encoding="base64">Y29uc3QgcXVlcnlQYXJhbXNIYW5kbGVyID0gcmVxdWlyZSgnLi4vLi4vcm91dGluZy9zZXJ2aWNlcy9xdWVyeVBhcmFtc0hhbmRsZXInKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2NzcyBpcycsIGNzcygncmVzdWx0LWl0ZW0nKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAiL3NlYXJjaC8qIiwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBsaW5lLWhlaWdodDogMjVweDsK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2NzcyBpcycsIGNzcygncmVzdWx0LWl0ZW0nKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBzdHJhcGxpbmU6CgogIHNlYXJjaGJhcjp7CiAgICAKfQ==</text>
+        <text encoding="base64">ICBsaW5lLWhlaWdodDogMjVweDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSGVhZGVyQXJlYSgxNiwgaGVhZGVyT3B0cyksCiAgICAgICAgICAgIGNvcHkocmVxdWlyZSgnLi9Db250ZW50c18xNnUnKSksCiAgICAgICAgICAgIEZvb3RlcigxNik=</text>
+        <text encoding="base64">ICBzdHJhcGxpbmU6CgogIHNlYXJjaGJhcjp7CiAgICAKfQ==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSGVhZGVyQXJlYSgxMiwgaGVhZGVyT3B0cyksCiAgICAgICAgICAgIGNvcHkocmVxdWlyZSgnLi9Db250ZW50c18xMnUnKSksCiAgICAgICAgICAgIEZvb3RlcigxMik=</text>
+        <text encoding="base64">ICAgICAgICAgICAgSGVhZGVyQXJlYSgxNiwgaGVhZGVyT3B0cyksCiAgICAgICAgICAgIGNvcHkocmVxdWlyZSgnLi9Db250ZW50c18xNnUnKSksCiAgICAgICAgICAgIEZvb3RlcigxNik=</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgSGVhZGVyQXJlYSgxMiwgaGVhZGVyT3B0cyksCiAgICAgICAgICAgIGNvcHkocmVxdWlyZSgnLi9Db250ZW50c18xMnUnKSksCiAgICAgICAgICAgIEZvb3RlcigxMik=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgSGVhZGVyQXJlYSg4LCBoZWFkZXJPcHRzKSwKICAgICAgICAgICAgY29weShyZXF1aXJlKCcuL0NvbnRlbnRzXzh1JykpLAogICAgICAgICAgICBGb290ZXIoOCk=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>HeaderArea(4, headerOpts),
             copy(require('./Contents_4u')),
             Footer(4)</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgImZ1bGwtdGV4dCI6IHRydWUK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgImZ1bGwtdGV4dCI6IHRydWUK</text>
       </register>
       <register name=":" type="4">
         <text>s/'/&quot;/g</text>

@@ -79,9 +79,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/fragment.js" timestamp="1588581339131">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/wsj/SlimlineHeader/decorators/wsj-theme/style.css" timestamp="1588737389033" />
       <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/wsj/BrandingBanner/decorators/ImageGridTheme.css" timestamp="1588663966587" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Home/components/index.js" timestamp="1588586386234" />
@@ -96,6 +93,9 @@
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routesInternational/routeConfig.json" timestamp="1588586031286" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Home/content/index.js" timestamp="1588586398554" />
+      <file name="/JavaScript Console" timestamp="1588752969653">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/wsj/web-ui/package.json" timestamp="1588749653292" />
       <file name="$USER_HOME$/Desktop/wsj/frontpage/api/lib/services/lists/_configService/JapanLife.js" timestamp="1588582423033" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routes/routeConfig.json" timestamp="1588735764911">

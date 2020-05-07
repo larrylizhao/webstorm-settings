@@ -80,7 +80,6 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Desktop/wsj/web-ui/scripts/generate.js" timestamp="1588755025834" />
-      <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/wsj/BrandingBanner/decorators/ImageGridTheme.css" timestamp="1588663966587" />
       <file name="$USER_HOME$/Desktop/wsj/akanode.app/conf/www.s.dev.wsj.com.json" timestamp="1588821854094">
         <mark key="[" line="237" column="0" />
         <mark key="]" line="237" column="0" />
@@ -107,10 +106,16 @@
         <mark key="." line="92" column="19" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/node_modules/package-engine/lib/engine/index.js" timestamp="1588756728940" />
-      <file name="/JavaScript Console" timestamp="1588845985399">
+      <file name="/JavaScript Console" timestamp="1588847048817">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/web-ui/package.json" timestamp="1588749653292" />
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/resp.svc.article/lib/articles_service.js" timestamp="1588847039496">
+        <mark key="[" line="507" column="3" />
+        <mark key="]" line="509" column="23" />
+        <mark key="^" line="509" column="23" />
+        <mark key="." line="509" column="22" />
+      </file>
       <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/wsj/SlimlineHeader/decorators/wsj-china-theme/style.css" timestamp="1588737410349">
         <mark key="[" line="12" column="2" />
         <mark key="]" line="13" column="15" />

@@ -99,11 +99,11 @@
       </file>
       <file name="$USER_HOME$/Desktop/wsj/web-ui/package.json" timestamp="1588749653292" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/node_modules/package-engine/lib/engine/resolveCurrentState/loadComponents.js" timestamp="1588756307624" />
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routes/routeConfig.json" timestamp="1588735764911">
-        <mark key="[" line="268" column="22" />
-        <mark key="]" line="269" column="25" />
-        <mark key="." line="269" column="24" />
-        <mark key="^" line="269" column="25" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routes/routeConfig.json" timestamp="1588819663601">
+        <mark key="[" line="268" column="20" />
+        <mark key="]" line="268" column="16" />
+        <mark key="." line="268" column="15" />
+        <mark key="^" line="268" column="16" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/wsj/SlimlineHeader/decorators/wsj-china-theme/style.css" timestamp="1588737410349">
         <mark key="[" line="12" column="2" />

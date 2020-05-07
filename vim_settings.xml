@@ -84,8 +84,8 @@
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/server.js" timestamp="1588757916631" />
       <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/wsj/BrandingBanner/decorators/ImageGridTheme.css" timestamp="1588663966587" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Home/components/index.js" timestamp="1588586386234" />
-      <file name="$USER_HOME$/Desktop/wsj/akanode.app/conf/www.s.dev.wsj.com.json" timestamp="1588735906542">
-        <mark key="[" line="235" column="17" />
+      <file name="$USER_HOME$/Desktop/wsj/akanode.app/conf/www.s.dev.wsj.com.json" timestamp="1588820902436">
+        <mark key="[" line="235" column="10" />
         <mark key="]" line="235" column="16" />
         <mark key="." line="235" column="15" />
         <mark key="^" line="235" column="16" />

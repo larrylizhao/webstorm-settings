@@ -84,19 +84,26 @@
         <mark key="]" line="59" column="2" />
         <mark key="." line="59" column="2" />
       </file>
+      <file name="$USER_HOME$/Desktop/wsj/modules/narrator-admin/index.js" timestamp="1588927336393">
+        <mark key="[" line="97" column="5" />
+        <mark key="]" line="97" column="2" />
+        <mark key="^" line="97" column="2" />
+        <mark key="." line="97" column="1" />
+      </file>
+      <file name="$USER_HOME$/Desktop/wsj/modules/narrator-admin/api/index.js" timestamp="1588927316016" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routes/routeConfig.json" timestamp="1588821770797">
+        <mark key="[" line="268" column="0" />
+        <mark key="]" line="268" column="0" />
+        <mark key="." line="268" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/wsj/SlimlineHeader/SectionsNav.js" timestamp="1588824810932">
         <mark key="[" line="92" column="19" />
         <mark key="]" line="92" column="19" />
         <mark key="^" line="6" column="55" />
         <mark key="." line="92" column="19" />
       </file>
-      <file name="/JavaScript Console" timestamp="1588926211838">
+      <file name="/JavaScript Console" timestamp="1588927343330">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routes/routeConfig.json" timestamp="1588821770797">
-        <mark key="[" line="268" column="0" />
-        <mark key="]" line="268" column="0" />
-        <mark key="." line="268" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/akanode.app/conf/www.s.dev.wsj.com.json" timestamp="1588821854094">
         <mark key="[" line="237" column="0" />

@@ -79,53 +79,79 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Desktop/wsj/modules/narrator-admin/services/shared/collection/image-grid/payload-builder/index.js" timestamp="1588923038949">
-        <mark key="[" line="59" column="2" />
-        <mark key="]" line="59" column="2" />
-        <mark key="." line="59" column="2" />
+      <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/shared/ArticleCard/decorators/WSJTheme.css" timestamp="1588929902254" />
+      <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/wsj/SlimlineHeader/decorators/wsj-theme/style.css" timestamp="1588929630034" />
+      <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/wsj/GlobalStyles/styles.css" timestamp="1588929894422" />
+      <file name="/JavaScript Console" timestamp="1588927343330">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/wsj/modules/narrator-admin/components/shared/Header.js" timestamp="1588943850293">
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="." line="78" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/wsj/modules/narrator-admin/services/shared/collection/image-grid/compiler/build4u.js" timestamp="1588943485258">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/wsj/modules/narrator-admin/store/project-types.js" timestamp="1588943935018">
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/wsj/modules/narrator-admin/services/shared/collection/image-grid/compiler/build8u.js" timestamp="1588943473819">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/modules/narrator-admin/index.js" timestamp="1588927336393">
-        <mark key="[" line="97" column="5" />
-        <mark key="]" line="97" column="2" />
-        <mark key="^" line="97" column="2" />
-        <mark key="." line="97" column="1" />
+        <mark key="[" line="30" column="5" />
+        <mark key="]" line="30" column="2" />
+        <mark key="^" line="30" column="2" />
+        <mark key="." line="30" column="1" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/modules/narrator-admin/api/index.js" timestamp="1588927316016" />
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routes/routeConfig.json" timestamp="1588821770797">
-        <mark key="[" line="268" column="0" />
-        <mark key="]" line="268" column="0" />
-        <mark key="." line="268" column="0" />
+      <file name="$USER_HOME$/Desktop/wsj/modules/narrator-admin/services/createProject.js" timestamp="1588943919391">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/shared/ArticleCard/decorators/WSJTheme.css" timestamp="1588929902254" />
       <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/wsj/SlimlineHeader/decorators/wsj-china-theme/style.css" timestamp="1588929941494">
         <mark key="[" line="19" column="19" />
         <mark key="]" line="20" column="1" />
         <mark key="^" line="20" column="1" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/modules/narrator-admin/store/header.js" timestamp="1588930332866" />
-      <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/wsj/SlimlineHeader/decorators/wsj-theme/style.css" timestamp="1588929630034" />
-      <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/wsj/GlobalStyles/styles.css" timestamp="1588929894422" />
-      <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/wsj/SlimlineHeader/SectionsNav.js" timestamp="1588824810932">
-        <mark key="[" line="92" column="19" />
-        <mark key="]" line="92" column="19" />
-        <mark key="^" line="6" column="55" />
-        <mark key="." line="92" column="19" />
+      <file name="$USER_HOME$/Desktop/wsj/modules/narrator-admin/store/header.js" timestamp="1588943432105">
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1588927343330">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Desktop/wsj/modules/narrator-admin/services/shared/collection/image-grid/compiler/utils.js" timestamp="1588943502815">
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="0" />
+        <mark key="." line="86" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/akanode.app/conf/www.s.dev.wsj.com.json" timestamp="1588821854094">
-        <mark key="[" line="237" column="0" />
-        <mark key="]" line="237" column="0" />
-        <mark key="." line="237" column="0" />
-        <mark key="^" line="90" column="19" />
+      <file name="$USER_HOME$/Desktop/wsj/modules/narrator-admin/services/shared/collection/image-grid/compiler/build16u.js" timestamp="1588943416949">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/resp.svc.article/lib/articles_service.js" timestamp="1588847039496">
-        <mark key="[" line="507" column="3" />
-        <mark key="]" line="509" column="23" />
-        <mark key="^" line="509" column="23" />
-        <mark key="." line="509" column="22" />
+      <file name="$USER_HOME$/Desktop/wsj/modules/narrator-admin/services/shared/collection/image-grid/compiler/build12u.js" timestamp="1588943464745">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/wsj/modules/narrator-admin/pages/_app.js" timestamp="1588943649957">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/wsj/modules/narrator-admin/components/Layout.js" timestamp="1588943728731">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="28" column="26" />
       </file>
     </filemarks>
     <jumps>
@@ -234,7 +260,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vbWFzdGVyCg==</text>
       </register>
       <register name="-" type="4">
         <text>let</text>
@@ -246,10 +272,10 @@
         <text encoding="base64">Y29uc3QgcXVlcnlQYXJhbXNIYW5kbGVyID0gcmVxdWlyZSgnLi4vLi4vcm91dGluZy9zZXJ2aWNlcy9xdWVyeVBhcmFtc0hhbmRsZXInKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vbWFzdGVyCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAiL3NlYXJjaCoiLAo=</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
@@ -258,19 +284,19 @@
         <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vbWFzdGVyCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">PQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAiaGlzdG9yeSI6IFt7CiAgICAgICJkYXRlIjogbm93LAogICAgICAidHlwZSI6ICJjcmVhdGUiLAogICAgICAiZW1haWwiOiBwcm9qZWN0LnVzZXJFbWFpbAogICAgfV0sCiAgICAiY2hpbGRyZW4iOiBbXSwKICAgICJ0eXBlIjogInByb2plY3QiLAogICAgInN1Yl90eXBlIjogcHJvamVjdC5zdWJfdHlwZSwKICAgICJzbHVnIjogcHJvamVjdC5zbHVnLAogICAgImpzb24iOiBwcm9qZWN0Lmpzb24sCiAgICAiZGVsZXRlZCI6IG51bGwKPT09PT09</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">PT09PT09PQogICAgInBhdGgiOiAiL3NlYXJjaCIsCj4+Pj4+Pj4gb3JpZ2luL21hc3Rl</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGlmICghcHJvamVjdFNlbGVjdE9wdGlvbnMuaW5jbHVkZXMoJ0FsbCcpKSB7CiAgICAgIHByb2plY3RTZWxlY3RPcHRpb25zLnVuc2hpZnQoJ0FsbCcpOwogICAgfQ==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwb3NpdGlvbjogYWJzb2x1dGU7CiAgdG9wOiAxN3B4OwogIHJpZ2h0OiA0cHg7CiAgZGlzcGxheTogYmxvY2s7CiAgd2lkdGg6IDEwcHg7CiAgaGVpZ2h0OiAxMHB4OwogIGNvbnRlbnQ6ICIgIjsKICAtd2Via2l0LXRyYW5zaXRpb246IGFsbCAuMTVzOwogIHRyYW5zaXRpb246IGFsbCAuMTVzOwogIC13ZWJraXQtdHJhbnNmb3JtOiByb3RhdGUoLTQ1ZGVnKTsKICB0cmFuc2Zvcm06IHJvdGF0ZSgtNDVkZWcpOwogIGJvcmRlci1ib3R0b206IDFweCBzb2xpZCAjOTk5OwogIGJvcmRlci1sZWZ0OiAxcHggc29saWQgIzk5OTs=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/'/&quot;/g</text>

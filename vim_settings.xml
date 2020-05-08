@@ -79,16 +79,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routes/routeConfig.json" timestamp="1588821770797">
-        <mark key="[" line="268" column="0" />
-        <mark key="]" line="268" column="0" />
-        <mark key="." line="268" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/wsj/SlimlineHeader/decorators/wsj-china-theme/style.css" timestamp="1588737410349">
-        <mark key="[" line="12" column="2" />
-        <mark key="]" line="13" column="15" />
-        <mark key="." line="13" column="14" />
-        <mark key="^" line="13" column="15" />
+      <file name="$USER_HOME$/Desktop/wsj/modules/narrator-admin/services/shared/collection/image-grid/payload-builder/index.js" timestamp="1588909204397">
+        <mark key="[" line="11" column="5" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routesInternational/routeConfig.json" timestamp="1588850152619" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routes/newsletterCenter.js" timestamp="1588849775872" />
@@ -101,18 +93,25 @@
       <file name="/JavaScript Console" timestamp="1588848788803">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/akanode.app/conf/www.s.dev.wsj.com.json" timestamp="1588821854094">
-        <mark key="[" line="237" column="0" />
-        <mark key="]" line="237" column="0" />
-        <mark key="." line="237" column="0" />
-        <mark key="^" line="90" column="19" />
-      </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/svc/attachData/attachNewsletterInsets.js" timestamp="1588849126060" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/resp.svc.article/lib/articles_service.js" timestamp="1588847039496">
         <mark key="[" line="507" column="3" />
         <mark key="]" line="509" column="23" />
         <mark key="^" line="509" column="23" />
         <mark key="." line="509" column="22" />
+      </file>
+      <file name="$USER_HOME$/Desktop/wsj/modules/narrator-admin/services/shared/collection/image-grid/compiler/build4u.js" timestamp="1588909195926" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routes/routeConfig.json" timestamp="1588821770797">
+        <mark key="[" line="268" column="0" />
+        <mark key="]" line="268" column="0" />
+        <mark key="." line="268" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/wsj/modules/narrator-admin/services/shared/collection/image-grid/presentation/Wrapper.js" timestamp="1588909003664" />
+      <file name="$USER_HOME$/Desktop/wsj/akanode.app/conf/www.s.dev.wsj.com.json" timestamp="1588821854094">
+        <mark key="[" line="237" column="0" />
+        <mark key="]" line="237" column="0" />
+        <mark key="." line="237" column="0" />
+        <mark key="^" line="90" column="19" />
       </file>
     </filemarks>
     <jumps>

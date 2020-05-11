@@ -79,14 +79,15 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/shared/ArticleCard/decorators/WSJTheme.css" timestamp="1588929902254" />
-      <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/wsj/GlobalStyles/styles.css" timestamp="1588929894422" />
+      <file name="/JavaScript Console" timestamp="1589181918611">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/wsj/modules/narrator-admin/components/shared/Header.js" timestamp="1588943850293">
         <mark key="[" line="78" column="0" />
         <mark key="]" line="78" column="0" />
         <mark key="." line="78" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/svc/attachData/attachNewsletterInsets.js" timestamp="1589170339866" />
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/svc/attachData/attachNewsletterInsets.js" timestamp="1589181850771" />
       <file name="$USER_HOME$/Desktop/wsj/modules/narrator-admin/services/shared/collection/image-grid/compiler/build4u.js" timestamp="1588943485258">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -96,6 +97,12 @@
         <mark key="[" line="72" column="0" />
         <mark key="]" line="72" column="0" />
         <mark key="." line="72" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/view/newsletter-signup.mu" timestamp="1589181713977">
+        <mark key="[" line="5" column="125" />
+        <mark key="]" line="5" column="126" />
+        <mark key="^" line="5" column="126" />
+        <mark key="." line="5" column="125" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/modules/narrator-admin/services/shared/collection/image-grid/compiler/build8u.js" timestamp="1588943473819">
         <mark key="[" line="18" column="0" />

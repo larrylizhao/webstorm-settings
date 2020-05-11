@@ -80,16 +80,13 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/shared/ArticleCard/decorators/WSJTheme.css" timestamp="1588929902254" />
-      <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/wsj/SlimlineHeader/decorators/wsj-theme/style.css" timestamp="1588929630034" />
       <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/wsj/GlobalStyles/styles.css" timestamp="1588929894422" />
-      <file name="/JavaScript Console" timestamp="1588927343330">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Desktop/wsj/modules/narrator-admin/components/shared/Header.js" timestamp="1588943850293">
         <mark key="[" line="78" column="0" />
         <mark key="]" line="78" column="0" />
         <mark key="." line="78" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/svc/attachData/attachNewsletterInsets.js" timestamp="1589170339866" />
       <file name="$USER_HOME$/Desktop/wsj/modules/narrator-admin/services/shared/collection/image-grid/compiler/build4u.js" timestamp="1588943485258">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
@@ -104,12 +101,6 @@
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/wsj/modules/narrator-admin/index.js" timestamp="1588927336393">
-        <mark key="[" line="30" column="5" />
-        <mark key="]" line="30" column="2" />
-        <mark key="^" line="30" column="2" />
-        <mark key="." line="30" column="1" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/modules/narrator-admin/services/createProject.js" timestamp="1588943919391">
         <mark key="[" line="20" column="0" />
@@ -137,11 +128,13 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/view/media-objects.mu" timestamp="1589170338662" />
       <file name="$USER_HOME$/Desktop/wsj/modules/narrator-admin/services/shared/collection/image-grid/compiler/build12u.js" timestamp="1588943464745">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/content/scripts/newsletter-signup-inview.js" timestamp="1589170346061" />
       <file name="$USER_HOME$/Desktop/wsj/modules/narrator-admin/pages/_app.js" timestamp="1589007043462">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />

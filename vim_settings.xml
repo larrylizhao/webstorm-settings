@@ -88,11 +88,16 @@
         <mark key="]" line="78" column="0" />
         <mark key="." line="78" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/svc/attachData/attachNewsletterInsets.js" timestamp="1589193834778">
-        <mark key="[" line="39" column="62" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
-        <mark key="^" line="40" column="0" />
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/svc/attachData/attachNewsletterInsets.js" timestamp="1589203292612">
+        <mark key="[" line="64" column="35" />
+        <mark key="]" line="68" column="0" />
+        <mark key="." line="68" column="0" />
+        <mark key="^" line="68" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/resp.svc.article/lib/articles_service.js" timestamp="1589203556995">
+        <mark key="[" line="509" column="0" />
+        <mark key="]" line="509" column="0" />
+        <mark key="." line="509" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/modules/narrator-admin/services/shared/collection/image-grid/compiler/build4u.js" timestamp="1588943485258">
         <mark key="[" line="18" column="0" />
@@ -104,11 +109,11 @@
         <mark key="]" line="72" column="0" />
         <mark key="." line="72" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/view/newsletter-signup.mu" timestamp="1589193373210">
-        <mark key="[" line="5" column="125" />
-        <mark key="]" line="5" column="126" />
-        <mark key="^" line="5" column="126" />
-        <mark key="." line="5" column="125" />
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/view/newsletter-signup.mu" timestamp="1589203295308">
+        <mark key="[" line="5" column="127" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="8" column="0" />
+        <mark key="." line="7" column="17" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/modules/narrator-admin/services/shared/collection/image-grid/compiler/build8u.js" timestamp="1588943473819">
         <mark key="[" line="18" column="0" />
@@ -121,22 +126,13 @@
         <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/module/articleBody.js" timestamp="1589183513015" />
-      <file name="$USER_HOME$/Desktop/wsj/modules/narrator-admin/store/header.js" timestamp="1588943432105">
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
-      </file>
       <file name="$USER_HOME$/Desktop/wsj/modules/narrator-admin/services/shared/collection/image-grid/compiler/utils.js" timestamp="1588943502815">
         <mark key="[" line="86" column="0" />
         <mark key="]" line="86" column="0" />
         <mark key="." line="86" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/view/webUINewsletterCard.mu" timestamp="1589185364456" />
-      <file name="$USER_HOME$/Desktop/wsj/modules/narrator-admin/services/shared/collection/image-grid/compiler/build16u.js" timestamp="1588943416949">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-      </file>
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/resp.svc.article/lib/articles_resource.js" timestamp="1589203548895" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/view/media-objects.mu" timestamp="1589185957152" />
       <file name="$USER_HOME$/Desktop/wsj/modules/narrator-admin/services/shared/collection/image-grid/compiler/build12u.js" timestamp="1588943464745">
         <mark key="[" line="18" column="0" />
@@ -262,7 +258,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vbWFzdGVyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>let</text>
@@ -274,28 +270,28 @@
         <text encoding="base64">Y29uc3QgcXVlcnlQYXJhbXNIYW5kbGVyID0gcmVxdWlyZSgnLi4vLi4vcm91dGluZy9zZXJ2aWNlcy9xdWVyeVBhcmFtc0hhbmRsZXInKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vbWFzdGVyCg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vbWFzdGVyCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">PQo=</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAiaGlzdG9yeSI6IFt7CiAgICAgICJkYXRlIjogbm93LAogICAgICAidHlwZSI6ICJjcmVhdGUiLAogICAgICAiZW1haWwiOiBwcm9qZWN0LnVzZXJFbWFpbAogICAgfV0sCiAgICAiY2hpbGRyZW4iOiBbXSwKICAgICJ0eXBlIjogInByb2plY3QiLAogICAgInN1Yl90eXBlIjogcHJvamVjdC5zdWJfdHlwZSwKICAgICJzbHVnIjogcHJvamVjdC5zbHVnLAogICAgImpzb24iOiBwcm9qZWN0Lmpzb24sCiAgICAiZGVsZXRlZCI6IG51bGwKPT09PT09</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmICghcHJvamVjdFNlbGVjdE9wdGlvbnMuaW5jbHVkZXMoJ0FsbCcpKSB7CiAgICAgIHByb2plY3RTZWxlY3RPcHRpb25zLnVuc2hpZnQoJ0FsbCcpOwogICAgfQ==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICBpc0ZyZWVBcnRpY2xlID0gdHJ1ZTsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vbWFzdGVyCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">PT09PT09PQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vbWFzdGVyCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">PQo=</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAiaGlzdG9yeSI6IFt7CiAgICAgICJkYXRlIjogbm93LAogICAgICAidHlwZSI6ICJjcmVhdGUiLAogICAgICAiZW1haWwiOiBwcm9qZWN0LnVzZXJFbWFpbAogICAgfV0sCiAgICAiY2hpbGRyZW4iOiBbXSwKICAgICJ0eXBlIjogInByb2plY3QiLAogICAgInN1Yl90eXBlIjogcHJvamVjdC5zdWJfdHlwZSwKICAgICJzbHVnIjogcHJvamVjdC5zbHVnLAogICAgImpzb24iOiBwcm9qZWN0Lmpzb24sCiAgICAiZGVsZXRlZCI6IG51bGwKPT09PT09</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>

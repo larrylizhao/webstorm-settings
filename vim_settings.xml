@@ -79,7 +79,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/JavaScript Console" timestamp="1589181918611">
+      <file name="/JavaScript Console" timestamp="1589182860408">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/modules/narrator-admin/components/shared/Header.js" timestamp="1588943850293">
@@ -87,7 +87,12 @@
         <mark key="]" line="78" column="0" />
         <mark key="." line="78" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/svc/attachData/attachNewsletterInsets.js" timestamp="1589181850771" />
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/svc/attachData/attachNewsletterInsets.js" timestamp="1589182847980">
+        <mark key="[" line="39" column="19" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+        <mark key="^" line="40" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/wsj/modules/narrator-admin/services/shared/collection/image-grid/compiler/build4u.js" timestamp="1588943485258">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />

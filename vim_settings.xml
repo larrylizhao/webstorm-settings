@@ -84,7 +84,7 @@
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Economy/content/index.js" timestamp="1589253264573" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routesInternational/routeConfig.json" timestamp="1589253199657" />
-      <file name="/JavaScript Console" timestamp="1589193862052">
+      <file name="/JavaScript Console" timestamp="1589275915983">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/modules/dj.svc.region/lib/region_service.js" timestamp="1589267075776" />
@@ -110,11 +110,6 @@
         <mark key="^" line="8" column="0" />
         <mark key="." line="7" column="17" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/modules/narrator-admin/services/createProject.js" timestamp="1588943919391">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-      </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/module/articleBody.js" timestamp="1589183513015" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routes/routeConfig.json" timestamp="1589253753880">
         <mark key="[" line="268" column="0" />
@@ -131,6 +126,7 @@
         <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/Noted/SectionFront/content/index.js" timestamp="1589253730733" />
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/node_modules/dj.svc.region/lib/config_compiler.js" timestamp="1589276630028" />
       <file name="$USER_HOME$/Desktop/wsj/modules/dj.svc.region/lib/site_config.json" timestamp="1589272533914">
         <mark key="[" line="36" column="31" />
         <mark key="]" line="36" column="31" />

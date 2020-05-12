@@ -79,15 +79,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/fragment.js" timestamp="1589272824664">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Economy/content/index.js" timestamp="1589253264573" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routesInternational/routeConfig.json" timestamp="1589253199657" />
       <file name="/JavaScript Console" timestamp="1589193862052">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/wsj/modules/narrator-admin/components/shared/Header.js" timestamp="1588943850293">
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="0" />
-        <mark key="." line="78" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/modules/dj.svc.region/lib/region_service.js" timestamp="1589267075776" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/svc/attachData/attachNewsletterInsets.js" timestamp="1589253041462">
@@ -133,7 +131,7 @@
         <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/Noted/SectionFront/content/index.js" timestamp="1589253730733" />
-      <file name="$USER_HOME$/Desktop/wsj/modules/dj.svc.region/lib/site_config.json" timestamp="1589268651996">
+      <file name="$USER_HOME$/Desktop/wsj/modules/dj.svc.region/lib/site_config.json" timestamp="1589272533914">
         <mark key="[" line="36" column="31" />
         <mark key="]" line="36" column="31" />
         <mark key="^" line="36" column="31" />

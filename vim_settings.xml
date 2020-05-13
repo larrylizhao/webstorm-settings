@@ -84,11 +84,11 @@
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Economy/content/index.js" timestamp="1589253264573" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routesInternational/routeConfig.json" timestamp="1589253199657" />
-      <file name="$USER_HOME$/Desktop/wsj/modules/dj.svc.region/lib/config_compiler.js" timestamp="1589353659146">
-        <mark key="[" line="100" column="5" />
-        <mark key="]" line="96" column="25" />
-        <mark key="^" line="96" column="25" />
-        <mark key="." line="96" column="24" />
+      <file name="$USER_HOME$/Desktop/wsj/modules/dj.svc.region/lib/config_compiler.js" timestamp="1589355968932">
+        <mark key="[" line="109" column="37" />
+        <mark key="]" line="105" column="20" />
+        <mark key="^" line="105" column="20" />
+        <mark key="." line="105" column="19" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/wsj/SlimlineHeader/SectionsNav.js" timestamp="1589340639029">
         <mark key="[" line="50" column="48" />
@@ -254,7 +254,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGNvb2tpZSA9IGNob29zZXIuY29va2llOwo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgd3NqcmVnaW9uOiByZWdpb25Db29raWUgfSA9IHJlcSAmJiByZXEuY29va2llcyB8fCB7fTsK</text>
       </register>
       <register name="-" type="4">
         <text>let</text>
@@ -266,31 +266,31 @@
         <text encoding="base64">Y29uc3QgcXVlcnlQYXJhbXNIYW5kbGVyID0gcmVxdWlyZSgnLi4vLi4vcm91dGluZy9zZXJ2aWNlcy9xdWVyeVBhcmFtc0hhbmRsZXInKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGNvb2tpZSA9IGNob29zZXIuY29va2llOwo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgd3NqcmVnaW9uOiByZWdpb25Db29raWUgfSA9IHJlcSAmJiByZXEuY29va2llcyB8fCB7fTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QHZhbHVlIGNvbG9yLWJsdWUgZnJvbSAiLi4vLi4vLi4vLi4vd3NqL0dsb2JhbFN0eWxlcy9zdHlsZXMuY3NzIjsK</text>
+        <text encoding="base64">ICAgIGNvbnN0IGNvb2tpZSA9IGNob29zZXIuY29va2llOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">QHZhbHVlIGNvbG9yLWJsdWUgZnJvbSAiLi4vLi4vLi4vLi4vd3NqL0dsb2JhbFN0eWxlcy9zdHlsZXMuY3NzIjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cjw8PDw8PDwgVXBkYXRlZCB1cHN0cmVhbQouc2VjdGlvbnMtdGl0bGU6YWZ0ZXIgewogIGRpc3BsYXk6IG5vbmUKfQoKLnNlY3Rpb25zLXRpdGxlOmhvdmVyIHsKICBjb2xvcjogY29sb3ItYmx1ZQp9Cj09PT09PT0KPj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXM=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">LnNlY3Rpb25zLXRpdGxlOmFmdGVyIHsKICBkaXNwbGF5OiBub25lCn0K</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cjw8PDw8PDwgVXBkYXRlZCB1cHN0cmVhbQouc2VjdGlvbnMtdGl0bGU6YWZ0ZXIgewogIGRpc3BsYXk6IG5vbmUKfQoKLnNlY3Rpb25zLXRpdGxlOmhvdmVyIHsKICBjb2xvcjogY29sb3ItYmx1ZQp9Cj09PT09PT0KPj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXM=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">LnNlY3Rpb25zLXRpdGxlOmFmdGVyIHsKICBkaXNwbGF5OiBub25lCn0K</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBpc0ZyZWVBcnRpY2xlID0gdHJ1ZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBvcmlnaW4vbWFzdGVyCg==</text>
+        <text encoding="base64">ICBpc0ZyZWVBcnRpY2xlID0gdHJ1ZTsK</text>
       </register>
       <register name=":" type="4">
         <text>s/'/&quot;/g</text>

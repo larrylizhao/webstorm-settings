@@ -82,8 +82,8 @@
       <file name="/fragment.js" timestamp="1589353424885">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/modules/dj.svc.region/lib/config_compiler.js" timestamp="1589357130838">
-        <mark key="[" line="109" column="37" />
+      <file name="$USER_HOME$/Desktop/wsj/modules/dj.svc.region/lib/config_compiler.js" timestamp="1589358061788">
+        <mark key="[" line="109" column="54" />
         <mark key="]" line="105" column="20" />
         <mark key="^" line="105" column="20" />
         <mark key="." line="105" column="19" />
@@ -134,11 +134,11 @@
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/Noted/SectionFront/content/index.js" timestamp="1589253730733" />
       <file name="$USER_HOME$/Desktop/wsj/modules/dj.svc.region/lib/index.js" timestamp="1589344325635" />
-      <file name="$USER_HOME$/Desktop/wsj/modules/dj.svc.region/lib/site_config.json" timestamp="1589351523494">
-        <mark key="[" line="36" column="41" />
-        <mark key="]" line="36" column="86" />
-        <mark key="^" line="36" column="86" />
-        <mark key="." line="36" column="85" />
+      <file name="$USER_HOME$/Desktop/wsj/modules/dj.svc.region/lib/site_config.json" timestamp="1589358109621">
+        <mark key="[" line="36" column="61" />
+        <mark key="]" line="36" column="62" />
+        <mark key="^" line="36" column="62" />
+        <mark key="." line="36" column="61" />
       </file>
     </filemarks>
     <jumps>
@@ -246,11 +246,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgd3NqcmVnaW9uOiByZWdpb25Db29raWUgfSA9IHJlcSAmJiByZXEuY29va2llcyB8fCB7fTsK</text>
+      <register name="&quot;" type="4">
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>let</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>search</text>

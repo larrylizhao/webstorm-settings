@@ -131,11 +131,11 @@
       <file name="$USER_HOME$/Desktop/wsj/modules/dj.svc.region/lib/determine_tesla_url.js" timestamp="1589344704456" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/node_modules/dj.svc.region/lib/config_compiler.js" timestamp="1589276630028" />
       <file name="$USER_HOME$/Desktop/wsj/modules/dj.svc.region/lib/index.js" timestamp="1589344325635" />
-      <file name="$USER_HOME$/Desktop/wsj/modules/dj.svc.region/lib/site_config.json" timestamp="1589344111044">
-        <mark key="[" line="36" column="31" />
-        <mark key="]" line="36" column="31" />
-        <mark key="^" line="36" column="31" />
-        <mark key="." line="36" column="30" />
+      <file name="$USER_HOME$/Desktop/wsj/modules/dj.svc.region/lib/site_config.json" timestamp="1589351523494">
+        <mark key="[" line="36" column="41" />
+        <mark key="]" line="36" column="86" />
+        <mark key="^" line="36" column="86" />
+        <mark key="." line="36" column="85" />
       </file>
     </filemarks>
     <jumps>

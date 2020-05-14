@@ -147,7 +147,6 @@
         <mark key="^" line="5" column="20" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/WSJBlog/Puzzle/presentation/12u/content.js" timestamp="1589364190008" />
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/WSJBlog/AutomatedSubsectionFronts/_shared/getWSJLayout.js" timestamp="1589363744167" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routes/routeConfig.json" timestamp="1589375133150">
         <mark key="[" line="759" column="4" />
         <mark key="]" line="289" column="0" />
@@ -155,6 +154,7 @@
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/WSJBlog/Puzzle/presentation/index.js" timestamp="1589373532933" />
       <file name="$USER_HOME$/Desktop/wsj/modules/dj.svc.region/lib/index.js" timestamp="1589427379940" />
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/node_modules/dj.svc.region/lib/product_map.js" timestamp="1589439978807" />
     </filemarks>
     <jumps>
       <jump line="95" column="5" filename="$USER_HOME$/Desktop/wsj/grand-canyon/package.json" />

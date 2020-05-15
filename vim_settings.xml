@@ -79,6 +79,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/fragment.js" timestamp="1589525566780">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/wsj/modules/dj.svc.region/lib/config_compiler.js" timestamp="1589444095787">
         <mark key="[" line="113" column="31" />
         <mark key="]" line="104" column="56" />
@@ -86,30 +89,19 @@
         <mark key="." line="104" column="55" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/modules/dj.svc.region/lib/region_service.js" timestamp="1589427370210" />
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/WSJBlog/Puzzle/content/index.js" timestamp="1589373467706">
-        <mark key="[" line="3" column="29" />
-        <mark key="]" line="6" column="4" />
-        <mark key="." line="6" column="3" />
-        <mark key="^" line="6" column="4" />
-      </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/WSJBlog/Puzzle/presentation/16u/index.js" timestamp="1589374511438">
         <mark key="[" line="15" column="31" />
         <mark key="]" line="16" column="14" />
         <mark key="." line="16" column="13" />
         <mark key="^" line="16" column="14" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/node_modules/dj.svc.region/lib/config_compiler.js" timestamp="1589520301965">
-        <mark key="[" line="48" column="8" />
-        <mark key="]" line="48" column="111" />
-        <mark key="^" line="48" column="111" />
-        <mark key="." line="48" column="110" />
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/node_modules/dj.svc.region/lib/config_compiler.js" timestamp="1589525811672">
+        <mark key="[" line="99" column="97" />
+        <mark key="]" line="99" column="102" />
+        <mark key="^" line="99" column="102" />
+        <mark key="." line="99" column="101" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/WSJBlog/AutomatedSectionFronts/_presentation/16u/index.js" timestamp="1589374491187" />
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/WSJBlog/Puzzle/components/index.js" timestamp="1589373431946">
-        <mark key="[" line="12" column="3" />
-        <mark key="]" line="12" column="3" />
-        <mark key="." line="12" column="3" />
-      </file>
       <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/plain-react/NewslettersCard/config.json" timestamp="1589519870978" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/WSJBlog/Puzzle/index.js" timestamp="1589373539078">
         <mark key="[" line="4" column="17" />
@@ -117,7 +109,7 @@
         <mark key="." line="5" column="19" />
         <mark key="^" line="5" column="20" />
       </file>
-      <file name="/JavaScript Console" timestamp="1589524227846">
+      <file name="/JavaScript Console" timestamp="1589525677699">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="internal/modules/cjs/loader.js" timestamp="1589517669017">
@@ -136,6 +128,9 @@
       </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/node_modules/dj.svc.region/lib/site_config.json" timestamp="1589517501080">
         <mark key="[" line="33" column="5" />
+      </file>
+      <file name="internal/bootstrap/loaders.js" timestamp="1589525678371">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/WSJBlog/Puzzle/presentation/index.js" timestamp="1589373532933" />
       <file name="$USER_HOME$/Desktop/wsj/modules/dj.svc.region/lib/index.js" timestamp="1589427379940" />
@@ -252,11 +247,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y29uc3QgRm9vdGVyID0gcmVxdWlyZSgnLi4vLi4vLi4vX3NoYXJlZC9Gb290ZXInKTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">cGF0aF9jb250ZW50X2Nvb2tpZS5maWx0ZXIodiA9PiB0eXBlb2YgdiA9PT0gJ29iamVjdCcgJiYgQXJyYXkuaXNBcnJheSh2LmNvb2tpZXMpKS5wb3AoKTs=</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">cGF0aF9jb250ZW50X2Nvb2tpZS5maWx0ZXIodiA9PiB0eXBlb2YgdiA9PT0gJ29iamVjdCcgJiYgQXJyYXkuaXNBcnJheSh2LmNvb2tpZXMpKS5wb3AoKTs=</text>
       </register>
       <register name="/" type="4">
         <text>search</text>

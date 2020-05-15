@@ -132,7 +132,7 @@
         <mark key="." line="5" column="19" />
         <mark key="^" line="5" column="20" />
       </file>
-      <file name="/JavaScript Console" timestamp="1589512235461">
+      <file name="/JavaScript Console" timestamp="1589517278284">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routes/routeConfig.json" timestamp="1589375133150">
@@ -140,13 +140,16 @@
         <mark key="]" line="289" column="0" />
         <mark key="." line="289" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/node_modules/dj.svc.region/lib/site_config.json" timestamp="1589517501080">
+        <mark key="[" line="33" column="5" />
+      </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/WSJBlog/Puzzle/presentation/index.js" timestamp="1589373532933" />
       <file name="$USER_HOME$/Desktop/wsj/modules/dj.svc.region/lib/index.js" timestamp="1589427379940" />
-      <file name="$USER_HOME$/Desktop/wsj/modules/dj.svc.region/lib/site_config.json" timestamp="1589442983750">
-        <mark key="[" line="36" column="19" />
-        <mark key="]" line="36" column="62" />
-        <mark key="^" line="36" column="62" />
-        <mark key="." line="36" column="61" />
+      <file name="$USER_HOME$/Desktop/wsj/modules/dj.svc.region/lib/site_config.json" timestamp="1589512865835">
+        <mark key="[" line="48" column="5" />
+        <mark key="]" line="33" column="62" />
+        <mark key="^" line="33" column="62" />
+        <mark key="." line="33" column="61" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/node_modules/dj.svc.region/lib/product_map.js" timestamp="1589439978807" />
     </filemarks>

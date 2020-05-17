@@ -116,6 +116,12 @@
       <file name="internal/modules/cjs/loader.js" timestamp="1589517669017">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/auth/test.js" timestamp="1589645296842">
+        <mark key="[" line="3" column="6" />
+        <mark key="]" line="3" column="7" />
+        <mark key="^" line="3" column="7" />
+        <mark key="." line="3" column="6" />
+      </file>
       <file name="$USER_HOME$/Desktop/wsj/modules/dj.svc.region/lib/site_config.json" timestamp="1589512865835">
         <mark key="[" line="48" column="5" />
         <mark key="]" line="33" column="62" />
@@ -235,16 +241,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>cookies</text>
+        <text>，</text>
       </register>
       <register name="-" type="4">
-        <text>cookies</text>
+        <text>，</text>
       </register>
       <register name="/" type="4">
         <text>search</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y29uc3QgcXVlcnlQYXJhbXNIYW5kbGVyID0gcmVxdWlyZSgnLi4vLi4vcm91dGluZy9zZXJ2aWNlcy9xdWVyeVBhcmFtc0hhbmRsZXInKTsK</text>
+        <text encoding="base64">YS5mdW4oMik7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Y29uc3QgRm9vdGVyID0gcmVxdWlyZSgnLi4vLi4vLi4vX3NoYXJlZC9Gb290ZXInKTsK</text>

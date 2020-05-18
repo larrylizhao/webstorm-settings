@@ -80,7 +80,7 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/resp.svc.article/lib/redirect_logic.js" timestamp="1589787937262" />
-      <file name="/fragment.js" timestamp="1589787605902">
+      <file name="/fragment.js" timestamp="1589788247119">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/shared/ArticleCard/index.js" timestamp="1589608757546" />
@@ -92,10 +92,7 @@
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/node_modules/dj.svc.region/lib/site_config.json" timestamp="1589517501080">
         <mark key="[" line="33" column="5" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/modules/dj.svc.region/lib/config_compiler.js" timestamp="1589444095787">
-        <mark key="[" line="115" column="31" />
-      </file>
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/resp.svc.article/lib/articles_resource.js" timestamp="1589616985796" />
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/resp.svc.article/lib/articles_resource.js" timestamp="1589789851302" />
       <file name="internal/bootstrap/loaders.js" timestamp="1589526301839">
         <mark key="[" line="0" column="0" />
       </file>
@@ -122,6 +119,7 @@
         <mark key="^" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/resp.svc.article/lib/template_config.js" timestamp="1589788287963" />
       <file name="$USER_HOME$/Desktop/wsj/modules/dj.svc.region/lib/site_config.json" timestamp="1589512865835">
         <mark key="[" line="48" column="5" />
         <mark key="]" line="33" column="62" />
@@ -134,7 +132,7 @@
         <mark key="." line="68" column="0" />
         <mark key="^" line="68" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/resp.svc.article/lib/articles_service.js" timestamp="1589787882504" />
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/resp.svc.article/lib/articles_service.js" timestamp="1589788340470" />
     </filemarks>
     <jumps>
       <jump line="95" column="5" filename="$USER_HOME$/Desktop/wsj/grand-canyon/package.json" />

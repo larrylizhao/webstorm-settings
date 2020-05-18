@@ -110,7 +110,7 @@
         <mark key="^" line="104" column="49" />
         <mark key="." line="104" column="48" />
       </file>
-      <file name="/JavaScript Console" timestamp="1589645369925">
+      <file name="/JavaScript Console" timestamp="1589769224844">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="internal/modules/cjs/loader.js" timestamp="1589517669017">
@@ -134,6 +134,7 @@
         <mark key="." line="68" column="0" />
         <mark key="^" line="68" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/resp.svc.article/lib/articles_service.js" timestamp="1589769109258" />
     </filemarks>
     <jumps>
       <jump line="95" column="5" filename="$USER_HOME$/Desktop/wsj/grand-canyon/package.json" />

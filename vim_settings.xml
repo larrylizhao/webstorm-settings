@@ -110,17 +110,17 @@
         <mark key="^" line="104" column="49" />
         <mark key="." line="104" column="48" />
       </file>
-      <file name="/JavaScript Console" timestamp="1589527760537">
+      <file name="/JavaScript Console" timestamp="1589645369925">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="internal/modules/cjs/loader.js" timestamp="1589517669017">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/auth/test.js" timestamp="1589645296842">
-        <mark key="[" line="3" column="6" />
-        <mark key="]" line="3" column="7" />
-        <mark key="^" line="3" column="7" />
-        <mark key="." line="3" column="6" />
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/auth/test.js" timestamp="1589645551665">
+        <mark key="[" line="9" column="5" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/modules/dj.svc.region/lib/site_config.json" timestamp="1589512865835">
         <mark key="[" line="48" column="5" />
@@ -241,10 +241,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>，</text>
+        <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>，</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>search</text>

@@ -81,14 +81,15 @@
     <filemarks>
       <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/shared/NewsletterCard/metadata.json" timestamp="1589865580531" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/webui/packages/wsj/webuinewslettercard/index.js" timestamp="1589864880562" />
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/webui/shared/componentProvider.js" timestamp="1589872166275" />
       <file name="/JavaScript Console" timestamp="1589863359298">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/svc/attachData/attachNewsletterInsets.js" timestamp="1589865547091">
-        <mark key="[" line="64" column="35" />
-        <mark key="]" line="68" column="0" />
-        <mark key="." line="68" column="0" />
-        <mark key="^" line="68" column="0" />
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/svc/attachData/attachNewsletterInsets.js" timestamp="1589872083715">
+        <mark key="[" line="80" column="53" />
+        <mark key="]" line="80" column="50" />
+        <mark key="." line="80" column="49" />
+        <mark key="^" line="80" column="50" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/resp.svc.article/lib/articles_service.js" timestamp="1589863335915">
         <mark key="[" line="507" column="3" />
@@ -102,12 +103,6 @@
         <mark key="]" line="31" column="19" />
         <mark key="^" line="31" column="19" />
         <mark key="." line="31" column="18" />
-      </file>
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/node_modules/dj.svc.region/lib/region_service.js" timestamp="1589814662784">
-        <mark key="[" line="249" column="2" />
-        <mark key="]" line="249" column="6" />
-        <mark key="." line="249" column="5" />
-        <mark key="^" line="249" column="6" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/config/.env.development" timestamp="1589862875548">
         <mark key="[" line="72" column="25" />

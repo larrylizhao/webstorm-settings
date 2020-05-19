@@ -79,13 +79,14 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routesInternational/routeConfig.json" timestamp="1589874393942" />
       <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/shared/NewsletterCard/metadata.json" timestamp="1589865580531" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/webui/packages/wsj/webuinewslettercard/index.js" timestamp="1589864880562" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/webui/shared/componentProvider.js" timestamp="1589872166275" />
-      <file name="/JavaScript Console" timestamp="1589863359298">
+      <file name="/JavaScript Console" timestamp="1589872875086">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/svc/attachData/attachNewsletterInsets.js" timestamp="1589872083715">
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/svc/attachData/attachNewsletterInsets.js" timestamp="1589872659918">
         <mark key="[" line="80" column="53" />
         <mark key="]" line="80" column="50" />
         <mark key="." line="80" column="49" />
@@ -103,12 +104,6 @@
         <mark key="]" line="31" column="19" />
         <mark key="^" line="31" column="19" />
         <mark key="." line="31" column="18" />
-      </file>
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/config/.env.development" timestamp="1589862875548">
-        <mark key="[" line="72" column="25" />
-        <mark key="]" line="72" column="46" />
-        <mark key="^" line="72" column="46" />
-        <mark key="." line="72" column="45" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/webui/packages/barrons/webuinewslettercard/index.js" timestamp="1589864101173" />
       <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/dataTypes.js" timestamp="1589869596145" />

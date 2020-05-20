@@ -82,6 +82,7 @@
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/webui/README.md" timestamp="1589952485514" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/view/articleBody.mu" timestamp="1589958246739" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/layout/wsj_resp_article_16u.mu" timestamp="1589951873512" />
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/view/webui-components/wsj/articleTools.mu" timestamp="1589960372918" />
       <file name="/JavaScript Console" timestamp="1589958172188">
         <mark key="[" line="0" column="0" />
       </file>
@@ -97,12 +98,6 @@
         <mark key="." line="80" column="49" />
         <mark key="^" line="80" column="50" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/collections/collection_list_provider.js" timestamp="1589869607831">
-        <mark key="[" line="31" column="20" />
-        <mark key="]" line="31" column="19" />
-        <mark key="^" line="31" column="19" />
-        <mark key="." line="31" column="18" />
-      </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/content/scripts/components/wsj/webUINewsletterCard.js" timestamp="1589951898270">
         <mark key="[" line="48" column="3" />
       </file>
@@ -112,6 +107,7 @@
         <mark key="^" line="33" column="55" />
         <mark key="." line="33" column="54" />
       </file>
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/content/scripts/components/wsj/articleTools.js" timestamp="1589960368184" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/page/wsj_resp_article_16u.json" timestamp="1589956626264" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/resp.svc.article/lib/critical_styles_service.js" timestamp="1589956655300" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/view/webUINewsletterCard.mu" timestamp="1589958329990" />

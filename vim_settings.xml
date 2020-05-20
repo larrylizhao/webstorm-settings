@@ -79,11 +79,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/svc/attachData/index.js" timestamp="1589962529240" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/webui/README.md" timestamp="1589952485514" />
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/module/assets.js" timestamp="1589962034740" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/view/articleBody.mu" timestamp="1589958246739" />
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/layout/wsj_resp_article_16u.mu" timestamp="1589951873512" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/view/webui-components/wsj/articleTools.mu" timestamp="1589960372918" />
-      <file name="/JavaScript Console" timestamp="1589958172188">
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/view/asset/styles.mu" timestamp="1589962752437" />
+      <file name="/JavaScript Console" timestamp="1589962571369">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/assets/webpack-config/css-entries.js" timestamp="1589957492642">
@@ -98,22 +100,27 @@
         <mark key="." line="80" column="49" />
         <mark key="^" line="80" column="50" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/content/scripts/components/wsj/webUINewsletterCard.js" timestamp="1589951898270">
-        <mark key="[" line="48" column="3" />
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/content/scripts/components/wsj/webUINewsletterCard.js" timestamp="1589962341672">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/page/japan_wsj_resp_article_16u.json" timestamp="1589956559971">
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/dist/manifest.json" timestamp="1589962258037" />
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/page/japan_wsj_resp_article_16u.json" timestamp="1589962255078">
         <mark key="[" line="32" column="45" />
         <mark key="]" line="33" column="55" />
         <mark key="^" line="33" column="55" />
         <mark key="." line="33" column="54" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/content/scripts/components/wsj/articleTools.js" timestamp="1589960368184" />
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/page/wsj_resp_article_16u.json" timestamp="1589956626264" />
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/page/wsj_resp_article_16u.json" timestamp="1589962251822" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/resp.svc.article/lib/critical_styles_service.js" timestamp="1589956655300" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/view/webUINewsletterCard.mu" timestamp="1589958329990" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/view/webUISlideShow.mu" timestamp="1589958200773" />
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/content/scripts/components/wsj/smiheader.js" timestamp="1589945498823" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/view/webui-components/mg/header.mu" timestamp="1589958391280" />
+      <file name="/Clipboard.txt" timestamp="1589962009389">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/assets/webpack-config/entries.js" timestamp="1589957431951" />
     </filemarks>
     <jumps>
@@ -221,8 +228,8 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="4">
-        <text>self</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>self</text>
@@ -234,31 +241,31 @@
         <text encoding="base64">YS5mdW4oMik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zdCBzZWxmID0gdGhpczsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">Y29uc3QgZW5naW5lID0gcmVxdWlyZSgnLi4vLi4vLi4vLi4vbGliL3dlYnVpL21vZHVsZXMvd3NqL2VuZ2luZScpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PT09PT09PXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">Cm1vZHVsZS5leHBvcnRzID0gKAogIHVuaXQsCiAgeyBpc0RhcmsgPSBmYWxzZSwgbWFzdGhlYWRPbmx5ID0gZmFsc2UsIGRpc2FibGVMb2dpbiA9IGZhbHNlIH0sCikgPT4gewo+Pj4+Pj4+IG9yaWdpbi9tYXN0ZQ==</text>
+      <register name="4" type="2">
+        <text encoding="base64">Y29uc3QgcmVuZGVyV2ViVUlDb21wb25lbnQgPSByZXF1aXJlKCcuLi9zaGFyZWQvcmVuZGVyQ29tcG9uZW50Jyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text>======</text>
+        <text encoding="base64">ICBjb25zdCBzZWxmID0gdGhpczsK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">PQogICAgZGVjb3JhdG9yczogewogICAgICAnKic6IFsnV1NKVGhlbWUnLCAnV2hhdHNOZXdzVGhlbWUnLCAnSW1hZ2VHcmlkVGhlbWUnXSwKICAgIH0sCiAgICBwcmVzZW50YXRpb246IHByZXNlbnRhdGlvbiwKICAgIGNvbXBvbmVudHM6IGNvbXBvbmVudHMsCiAgfTsKfTsKPj4+Pj4+PiBvcmlnaW4vbWFzdGVyCj09PT09PT0KfQo+Pj4+Pj4+IHBhcmVudCBvZiAzYjAyMmIwLi4uIFNldCBkZWNvcmF0b3JzIGJ5IHJlZ2lvbgo=</text>
+      <register name="6" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+        <text encoding="base64">PT09PT09PXIK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">Cm1vZHVsZS5leHBvcnRzID0gKAogIHVuaXQsCiAgeyBpc0RhcmsgPSBmYWxzZSwgbWFzdGhlYWRPbmx5ID0gZmFsc2UsIGRpc2FibGVMb2dpbiA9IGZhbHNlIH0sCikgPT4gewo+Pj4+Pj4+IG9yaWdpbi9tYXN0ZQ==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgRm9vdGVyID0gcmVxdWlyZSgnLi4vLi4vLi4vX3NoYXJlZC9Gb290ZXInKTsK</text>
+        <text>======</text>
       </register>
       <register name=":" type="4">
         <text>s/'/&quot;/g</text>

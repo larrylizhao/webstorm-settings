@@ -79,13 +79,20 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routesInternational/routeConfig.json" timestamp="1589874393942" />
-      <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/shared/NewsletterCard/metadata.json" timestamp="1589865580531" />
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/webui/packages/wsj/webuinewslettercard/index.js" timestamp="1589864880562" />
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/webui/shared/componentProvider.js" timestamp="1589872166275" />
-      <file name="/JavaScript Console" timestamp="1589872875086">
+      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/collections/collection_list_provider.js" timestamp="1589869607831">
+        <mark key="[" line="31" column="20" />
+        <mark key="]" line="31" column="19" />
+        <mark key="^" line="31" column="19" />
+        <mark key="." line="31" column="18" />
+      </file>
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/content/scripts/components/wsj/webUINewsletterCard.js" timestamp="1589945523640">
+        <mark key="[" line="48" column="3" />
+      </file>
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/view/webUINewsletterCard.mu" timestamp="1589945415881" />
+      <file name="/JavaScript Console" timestamp="1589945833082">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/content/scripts/components/wsj/smiheader.js" timestamp="1589945498823" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/svc/attachData/attachNewsletterInsets.js" timestamp="1589872659918">
         <mark key="[" line="80" column="53" />
         <mark key="]" line="80" column="50" />
@@ -98,19 +105,6 @@
         <mark key="^" line="509" column="23" />
         <mark key="." line="509" column="22" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/node_modules/package-engine/lib/engine/resolveCurrentState/PlaceContent.js" timestamp="1589869382596" />
-      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/collections/collection_list_provider.js" timestamp="1589869607831">
-        <mark key="[" line="31" column="20" />
-        <mark key="]" line="31" column="19" />
-        <mark key="^" line="31" column="19" />
-        <mark key="." line="31" column="18" />
-      </file>
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/webui/packages/barrons/webuinewslettercard/index.js" timestamp="1589864101173" />
-      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/dataTypes.js" timestamp="1589869596145" />
-      <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/shared/NewsletterCard/index.js" timestamp="1589864322990" />
-      <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/shared/VideoCenter/index.js" timestamp="1589869844813" />
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/svc/getNewsletter.js" timestamp="1589865301190" />
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/node_modules/package-engine/lib/engine/resourceLoader/index.js" timestamp="1589869376828" />
     </filemarks>
     <jumps>
       <jump line="95" column="5" filename="$USER_HOME$/Desktop/wsj/grand-canyon/package.json" />

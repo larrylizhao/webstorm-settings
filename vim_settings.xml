@@ -85,11 +85,19 @@
         <mark key="^" line="31" column="19" />
         <mark key="." line="31" column="18" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/content/scripts/components/wsj/webUINewsletterCard.js" timestamp="1589945523640">
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/content/scripts/components/wsj/webUINewsletterCard.js" timestamp="1589951898270">
         <mark key="[" line="48" column="3" />
       </file>
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/page/japan_wsj_resp_article_16u.json" timestamp="1589951845140">
+        <mark key="[" line="32" column="45" />
+        <mark key="]" line="33" column="55" />
+        <mark key="^" line="33" column="55" />
+        <mark key="." line="33" column="54" />
+      </file>
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/page/wsj_resp_article_16u.json" timestamp="1589951840638" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/view/webUINewsletterCard.mu" timestamp="1589945415881" />
-      <file name="/JavaScript Console" timestamp="1589945833082">
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/layout/wsj_resp_article_16u.mu" timestamp="1589951873512" />
+      <file name="/JavaScript Console" timestamp="1589951990144">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/content/scripts/components/wsj/smiheader.js" timestamp="1589945498823" />
@@ -98,12 +106,6 @@
         <mark key="]" line="80" column="50" />
         <mark key="." line="80" column="49" />
         <mark key="^" line="80" column="50" />
-      </file>
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/resp.svc.article/lib/articles_service.js" timestamp="1589863335915">
-        <mark key="[" line="507" column="3" />
-        <mark key="]" line="509" column="23" />
-        <mark key="^" line="509" column="23" />
-        <mark key="." line="509" column="22" />
       </file>
     </filemarks>
     <jumps>

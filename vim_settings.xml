@@ -83,9 +83,19 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/svc/attachData/index.js" timestamp="1589966687315" />
-      <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/plain-react/NewslettersCard/config.json" timestamp="1590032339825" />
+      <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/plain-react/NewslettersCard/config.json" timestamp="1590045325098">
+        <mark key="[" line="55" column="28" />
+        <mark key="]" line="55" column="25" />
+        <mark key="^" line="55" column="25" />
+        <mark key="." line="55" column="24" />
+      </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/resp.svc.article/itest/critical-styles.js" timestamp="1589968470284" />
-      <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/plain-react/NewslettersCard/index.js" timestamp="1589971249185" />
+      <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/plain-react/NewslettersCard/index.js" timestamp="1590045735576">
+        <mark key="[" line="13" column="28" />
+        <mark key="]" line="15" column="28" />
+        <mark key="^" line="15" column="28" />
+        <mark key="." line="15" column="27" />
+      </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/webui/packages/wsj/webuinewslettercard/index.js" timestamp="1589971408544" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/view/asset/styles.mu" timestamp="1589962752437" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/assets/webpack-config/css-entries.js" timestamp="1589969201155">
@@ -104,7 +114,12 @@
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/resp.svc.article/lib/critical_styles_service.js" timestamp="1589969068630" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/resp.svc.article/lib/articles_resource.js" timestamp="1589969239816" />
       <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/shared/LoadMoreAllesseh/index.js" timestamp="1589970020761" />
-      <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/plain-react/NewslettersCard/Card.js" timestamp="1589971357807" />
+      <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/plain-react/NewslettersCard/Card.js" timestamp="1590045352860">
+        <mark key="[" line="106" column="115" />
+        <mark key="]" line="106" column="132" />
+        <mark key="^" line="106" column="132" />
+        <mark key="." line="106" column="131" />
+      </file>
       <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/shared/LoadMore/index.js" timestamp="1589969970440" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/assets/webpack-config/entries.js" timestamp="1589970254314" />
       <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/plain-react/NewslettersCard/Confirmation.js" timestamp="1590033141521" />
@@ -214,11 +229,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBpc0ZyZWVBcnRpY2xlID0gdHJ1ZTsK</text>
+      <register name="&quot;" type="4">
+        <text>SUBSCRIBED</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>SUBSCRIBED</text>
       </register>
       <register name="/" type="4">
         <text>search</text>

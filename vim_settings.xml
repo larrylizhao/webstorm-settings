@@ -88,9 +88,6 @@
       <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/plain-react/NewslettersCard/index.js" timestamp="1589971249185" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/webui/packages/wsj/webuinewslettercard/index.js" timestamp="1589971408544" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/view/asset/styles.mu" timestamp="1589962752437" />
-      <file name="/JavaScript Console" timestamp="1589962571369">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/assets/webpack-config/css-entries.js" timestamp="1589969201155">
         <mark key="[" line="241" column="0" />
         <mark key="]" line="241" column="0" />
@@ -110,6 +107,7 @@
       <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/plain-react/NewslettersCard/Card.js" timestamp="1589971357807" />
       <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/shared/LoadMore/index.js" timestamp="1589969970440" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/assets/webpack-config/entries.js" timestamp="1589970254314" />
+      <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/plain-react/NewslettersCard/Confirmation.js" timestamp="1590033141521" />
     </filemarks>
     <jumps>
       <jump line="95" column="5" filename="$USER_HOME$/Desktop/wsj/grand-canyon/package.json" />

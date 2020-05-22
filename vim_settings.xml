@@ -88,6 +88,9 @@
         <mark key="." line="200" column="37" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/view/criticalStyles.mu" timestamp="1590117130403" />
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/view/newsletter-signup.mu" timestamp="1590128808982">
+        <mark key="[" line="5" column="134" />
+      </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/config/.env.development" timestamp="1590051389093">
         <mark key="[" line="75" column="0" />
         <mark key="]" line="75" column="0" />
@@ -111,11 +114,11 @@
       <file name="/JavaScript Console" timestamp="1590127628824">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/svc/attachData/attachNewsletterInsets.js" timestamp="1590066491712">
-        <mark key="[" line="80" column="53" />
-        <mark key="]" line="80" column="50" />
-        <mark key="." line="80" column="49" />
-        <mark key="^" line="80" column="50" />
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/svc/attachData/attachNewsletterInsets.js" timestamp="1590128778400">
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
+        <mark key="^" line="79" column="50" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/module/criticalStyles.js" timestamp="1590117134435" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/view/articleNewsletterCardWebUI.mu" timestamp="1590124814882" />
@@ -234,7 +237,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+        <text encoding="base64">ICAgIGZyYWdtZW50LmlzU2Nyb2xsID0gc2l0ZUVkaXRpb24gPT09ICdhc2lhLGpwJzsK</text>
       </register>
       <register name="-" type="4">
         <text>SUBSCRIBED</text>
@@ -246,31 +249,31 @@
         <text encoding="base64">YS5mdW4oMik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+        <text encoding="base64">ICAgIGZyYWdtZW50LmlzU2Nyb2xsID0gc2l0ZUVkaXRpb24gPT09ICdhc2lhLGpwJzsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBpc0ZyZWVBcnRpY2xlID0gdHJ1ZTsK</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBpc0ZyZWVBcnRpY2xlID0gdHJ1ZTsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgZW5naW5lID0gcmVxdWlyZSgnLi4vLi4vLi4vLi4vbGliL3dlYnVpL21vZHVsZXMvd3NqL2VuZ2luZScpOwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">Y29uc3QgZW5naW5lID0gcmVxdWlyZSgnLi4vLi4vLi4vLi4vbGliL3dlYnVpL21vZHVsZXMvd3NqL2VuZ2luZScpOwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgcmVuZGVyV2ViVUlDb21wb25lbnQgPSByZXF1aXJlKCcuLi9zaGFyZWQvcmVuZGVyQ29tcG9uZW50Jyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/'/&quot;/g</text>

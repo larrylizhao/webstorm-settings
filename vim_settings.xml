@@ -80,6 +80,23 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/svc/attachData/index.js" timestamp="1590067386260" />
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/webui/packages/wsj/webuinewslettercard/index.js" timestamp="1589971408544" />
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/assets/webpack-config/css-entries.js" timestamp="1590116023530">
+        <mark key="[" line="241" column="0" />
+        <mark key="]" line="241" column="0" />
+        <mark key="^" line="199" column="37" />
+        <mark key="." line="241" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/view/criticalStyles.mu" timestamp="1590117130403" />
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/config/.env.development" timestamp="1590051389093">
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="0" />
+        <mark key="." line="75" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/resp.svc.article/lib/articles_resource.js" timestamp="1589969239816" />
+      <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/shared/LoadMoreAllesseh/index.js" timestamp="1589970020761" />
+      <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/shared/LoadMore/index.js" timestamp="1589969970440" />
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/assets/webpack-config/entries.js" timestamp="1590117017325" />
       <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/plain-react/NewslettersCard/config.json" timestamp="1590045325098">
         <mark key="[" line="55" column="28" />
         <mark key="]" line="55" column="25" />
@@ -92,15 +109,8 @@
         <mark key="^" line="15" column="28" />
         <mark key="." line="15" column="27" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/webui/packages/wsj/webuinewslettercard/index.js" timestamp="1589971408544" />
       <file name="/JavaScript Console" timestamp="1590051934628">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/assets/webpack-config/css-entries.js" timestamp="1590116023530">
-        <mark key="[" line="241" column="0" />
-        <mark key="]" line="241" column="0" />
-        <mark key="^" line="199" column="37" />
-        <mark key="." line="241" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/svc/attachData/attachNewsletterInsets.js" timestamp="1590066491712">
         <mark key="[" line="80" column="53" />
@@ -108,20 +118,7 @@
         <mark key="." line="80" column="49" />
         <mark key="^" line="80" column="50" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/page/japan_wsj_resp_article_16u.json" timestamp="1589969228309">
-        <mark key="[" line="32" column="45" />
-        <mark key="]" line="33" column="55" />
-        <mark key="^" line="33" column="55" />
-        <mark key="." line="33" column="54" />
-      </file>
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/resp.svc.article/lib/critical_styles_service.js" timestamp="1589969068630" />
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/config/.env.development" timestamp="1590051389093">
-        <mark key="[" line="75" column="0" />
-        <mark key="]" line="75" column="0" />
-        <mark key="." line="75" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/resp.svc.article/lib/articles_resource.js" timestamp="1589969239816" />
-      <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/shared/LoadMoreAllesseh/index.js" timestamp="1589970020761" />
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/module/criticalStyles.js" timestamp="1590117134435" />
       <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/plain-react/NewslettersCard/Card.js" timestamp="1590115102323">
         <mark key="[" line="106" column="115" />
         <mark key="]" line="106" column="132" />
@@ -129,8 +126,6 @@
         <mark key="." line="106" column="131" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/svc/getNewsletter.js" timestamp="1590066488535" />
-      <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/shared/LoadMore/index.js" timestamp="1589969970440" />
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/assets/webpack-config/entries.js" timestamp="1589970254314" />
       <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/plain-react/NewslettersCard/Confirmation.js" timestamp="1590033141521" />
     </filemarks>
     <jumps>

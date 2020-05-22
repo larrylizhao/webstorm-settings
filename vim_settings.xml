@@ -81,8 +81,11 @@
     <filemarks>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/svc/attachData/index.js" timestamp="1590067386260" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/webui/packages/wsj/webuinewslettercard/index.js" timestamp="1589971408544" />
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/assets/webpack-config/css-entries.js" timestamp="1590123959200">
-        <mark key="^" line="199" column="37" />
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/assets/webpack-config/css-entries.js" timestamp="1590128331132">
+        <mark key="[" line="200" column="40" />
+        <mark key="]" line="200" column="38" />
+        <mark key="^" line="200" column="38" />
+        <mark key="." line="200" column="37" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/view/criticalStyles.mu" timestamp="1590117130403" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/config/.env.development" timestamp="1590051389093">
@@ -105,7 +108,7 @@
         <mark key="^" line="15" column="28" />
         <mark key="." line="15" column="27" />
       </file>
-      <file name="/JavaScript Console" timestamp="1590051934628">
+      <file name="/JavaScript Console" timestamp="1590127628824">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/svc/attachData/attachNewsletterInsets.js" timestamp="1590066491712">

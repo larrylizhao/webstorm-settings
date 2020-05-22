@@ -79,6 +79,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/fragment.js" timestamp="1590133202778">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/svc/attachData/index.js" timestamp="1590067386260" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/WSJBlog/Puzzle/pageData.json" timestamp="1590130916459" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/webui/packages/wsj/webuinewslettercard/index.js" timestamp="1589971408544" />
@@ -98,7 +101,6 @@
         <mark key="." line="75" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/shared/LoadMoreAllesseh/index.js" timestamp="1589970020761" />
-      <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/shared/LoadMore/index.js" timestamp="1589969970440" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/assets/webpack-config/entries.js" timestamp="1590117017325" />
       <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/plain-react/NewslettersCard/config.json" timestamp="1590045325098">
         <mark key="[" line="55" column="28" />
@@ -106,13 +108,13 @@
         <mark key="^" line="55" column="25" />
         <mark key="." line="55" column="24" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/plain-react/NewslettersCard/index.js" timestamp="1590045735576">
-        <mark key="[" line="13" column="28" />
-        <mark key="]" line="15" column="28" />
-        <mark key="^" line="15" column="28" />
-        <mark key="." line="15" column="27" />
+      <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/plain-react/NewslettersCard/index.js" timestamp="1590133003025">
+        <mark key="[" line="51" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="^" line="24" column="25" />
+        <mark key="." line="51" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1590130815551">
+      <file name="/JavaScript Console" timestamp="1590131593763">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/svc/attachData/attachNewsletterInsets.js" timestamp="1590128778400">
@@ -123,6 +125,7 @@
       </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/module/criticalStyles.js" timestamp="1590117134435" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/view/articleNewsletterCardWebUI.mu" timestamp="1590124814882" />
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/view/webUINewsletterCard.mu" timestamp="1590133158779" />
       <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/plain-react/NewslettersCard/Card.js" timestamp="1590115102323">
         <mark key="[" line="106" column="115" />
         <mark key="]" line="106" column="132" />
@@ -238,7 +241,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGZyYWdtZW50LmlzU2Nyb2xsID0gc2l0ZUVkaXRpb24gPT09ICdhc2lhLGpwJzsK</text>
+        <text encoding="base64">CgoKICDkvZzogIXvvJpteWt1cmlzdQogIOmTvuaOpe+8mmh0dHBzOi8vanVlamluLmltL3Bvc3QvNWEzOWRlM2Q2ZmI5YTA0NTE1NDQwNWVjCiAgICDmnaXmupDvvJrmjpjph5EKICDokZfkvZzmnYPlvZLkvZzogIXmiYDmnInjgILllYbkuJrovazovb3or7fogZTns7vkvZzogIXojrflvpfmjojmnYPvvIzpnZ7llYbkuJrovazovb3or7fms6jmmI7lh7rlpITjgIIK</text>
       </register>
       <register name="-" type="4">
         <text>SUBSCRIBED</text>
@@ -250,31 +253,31 @@
         <text encoding="base64">YS5mdW4oMik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGZyYWdtZW50LmlzU2Nyb2xsID0gc2l0ZUVkaXRpb24gPT09ICdhc2lhLGpwJzsK</text>
+        <text encoding="base64">CgoKICDkvZzogIXvvJpteWt1cmlzdQogIOmTvuaOpe+8mmh0dHBzOi8vanVlamluLmltL3Bvc3QvNWEzOWRlM2Q2ZmI5YTA0NTE1NDQwNWVjCiAgICDmnaXmupDvvJrmjpjph5EKICDokZfkvZzmnYPlvZLkvZzogIXmiYDmnInjgILllYbkuJrovazovb3or7fogZTns7vkvZzogIXojrflvpfmjojmnYPvvIzpnZ7llYbkuJrovazovb3or7fms6jmmI7lh7rlpITjgIIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
+        <text encoding="base64">IAo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">PT09PT09PQo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgaWYodGhpcy5wcm9wcyAhPT0gcHJvcHMpewoKICAgIH0=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBpc0ZyZWVBcnRpY2xlID0gdHJ1ZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvL+i/meenjeaWueW8j+WNgeWIhumAguWQiOeItuWtkOe7hOS7tgjnmoTkupLliqjvvIzpgJrluLjmmK/niLbnu4Tku7bpnIDopoHpgJrov4fmn5DkupvnirbmgIHmjqfliLblrZDnu4Tku7bmuLLmn5PkuqbmiJbplIDmr4EuLi4KCiAgY29tcG9uZW50V2lsbFJlY2VpdmVQcm9wcyhuZXh0UHJvcHMpIHsvL2NvbXBvbmVudFdpbGxSZWNlaXZlUHJvcHPmlrnms5XkuK3nrKzkuIDkuKrlj4LmlbDku6PooajljbPlsIbkvKDlhaXnmoTmlrDnmoRQcm9wcwogICAgaWYgKHRoaXMucHJvcHMuc2hhcmVjYXJkX3Nob3cgIT09IG5leHRQcm9wcy5zaGFyZWNhcmRfc2hvdyl7CiAgICAgIC8v5Zyo6L+Z6YeM5oiR5Lus5LuN5Y+v5Lul6YCa6L+HdGhpcy5wcm9wc+adpeiOt+WPluaXp+eahOWklumDqOeKtuaAgQogICAgICAvL+mAmui/h+aWsOaXp+eKtuaAgeeahOWvueavlO+8jOadpeWGs+WumuaYr+WQpui/m+ihjOWFtuS7luaWueazlQogICAgICBpZiAobmV4dFByb3BzLnNoYXJlY2FyZF9zaG93KXsKICAgICAgICB0aGlzLmhhbmRsZUdldENhcmQoKTsKICAgICAgfQogICAgfQogIH0KCiAg5L2c6ICF77yabXlrdXJpc3UKICDpk77mjqXvvJpodHRwczovL2p1ZWppbi5pbS9wb3N0LzVhMzlkZTNkNmZiOWEwNDUxNTQ0MDVlYwogICAg5p2l5rqQ77ya5o6Y6YeRCiAg6JGX5L2c5p2D5b2S5L2c6ICF5omA5pyJ44CC5ZWG5Lia6L2s6L296K+36IGU57O75L2c6ICF6I635b6X5o6I5p2D77yM6Z2e5ZWG5Lia6L2s6L296K+35rOo5piO5Ye65aSE44CCCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZyYWdtZW50LmlzU2Nyb2xsID0gc2l0ZUVkaXRpb24gPT09ICdhc2lhLGpwJzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y29uc3QgZW5naW5lID0gcmVxdWlyZSgnLi4vLi4vLi4vLi4vbGliL3dlYnVpL21vZHVsZXMvd3NqL2VuZ2luZScpOwo=</text>
+        <text encoding="base64">Pj4+Pj4+PiBTdGFzaGVkIGNoYW5nZXMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBVcGRhdGVkIHVwc3RyZWFtCg==</text>
       </register>
       <register name=":" type="4">
         <text>s/'/&quot;/g</text>

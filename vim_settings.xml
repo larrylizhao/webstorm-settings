@@ -82,20 +82,6 @@
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/view/newsletter-signup.mu" timestamp="1590128808982">
         <mark key="[" line="5" column="134" />
       </file>
-      <file name="/fragment.js" timestamp="1590133202778">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/config/.env.development" timestamp="1590051389093">
-        <mark key="[" line="75" column="0" />
-        <mark key="]" line="75" column="0" />
-        <mark key="." line="75" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/view/webUINewsletterCard.mu" timestamp="1590144260563">
-        <mark key="[" line="2" column="64" />
-        <mark key="]" line="4" column="9" />
-        <mark key="^" line="4" column="9" />
-        <mark key="." line="4" column="8" />
-      </file>
       <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/plain-react/NewslettersCard/Card.js" timestamp="1590115102323">
         <mark key="[" line="106" column="115" />
         <mark key="]" line="106" column="132" />
@@ -107,6 +93,9 @@
         <mark key="]" line="51" column="0" />
         <mark key="^" line="24" column="25" />
         <mark key="." line="51" column="0" />
+      </file>
+      <file name="/fragment.js" timestamp="1590133202778">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/svc/getNewsletter.js" timestamp="1590138300779">
         <mark key="[" line="35" column="19" />
@@ -120,8 +109,19 @@
         <mark key="^" line="200" column="38" />
         <mark key="." line="200" column="37" />
       </file>
-      <file name="/JavaScript Console" timestamp="1590144050435">
+      <file name="/JavaScript Console" timestamp="1590374152475">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/config/.env.development" timestamp="1590051389093">
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="0" />
+        <mark key="." line="75" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/view/webUINewsletterCard.mu" timestamp="1590144260563">
+        <mark key="[" line="2" column="64" />
+        <mark key="]" line="4" column="9" />
+        <mark key="^" line="4" column="9" />
+        <mark key="." line="4" column="8" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/svc/attachData/attachNewsletterInsets.js" timestamp="1590128778400">
         <mark key="[" line="69" column="0" />

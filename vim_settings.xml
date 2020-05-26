@@ -92,11 +92,6 @@
         <mark key="." line="103" column="20" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routes/routeConfig.json" timestamp="1590478338161" />
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/config/.env.development" timestamp="1590051389093">
-        <mark key="[" line="75" column="0" />
-        <mark key="]" line="75" column="0" />
-        <mark key="." line="75" column="0" />
-      </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/view/webUINewsletterCard.mu" timestamp="1590144260563">
         <mark key="[" line="2" column="64" />
         <mark key="]" line="4" column="9" />
@@ -142,6 +137,7 @@
       </file>
       <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/plain-react/NewsletterNonSubForm/index.js" timestamp="1590398493932" />
       <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/plain-react/NewsletterNonSubForm/config.json" timestamp="1590398418730" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/WSJBlog/Puzzle/content/index.js" timestamp="1590497370466" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/svc/attachData/attachNewsletterInsets.js" timestamp="1590389752841">
         <mark key="[" line="106" column="25" />
         <mark key="]" line="106" column="25" />

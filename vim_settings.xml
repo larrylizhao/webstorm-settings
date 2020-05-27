@@ -79,38 +79,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/fragment.js" timestamp="1590389045420">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/svc/attachData/index.js" timestamp="1590393861345">
-        <mark key="[" line="103" column="20" />
-        <mark key="]" line="103" column="21" />
-        <mark key="^" line="103" column="21" />
-        <mark key="." line="103" column="20" />
-      </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routes/routeConfig.json" timestamp="1590478338161" />
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/view/webUINewsletterCard.mu" timestamp="1590144260563">
-        <mark key="[" line="2" column="64" />
-        <mark key="]" line="4" column="9" />
-        <mark key="^" line="4" column="9" />
-        <mark key="." line="4" column="8" />
-      </file>
-      <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/plain-react/NewslettersCard/utils/services.js" timestamp="1590397176503" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routes/imageGrid.js" timestamp="1590572245176" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/WSJBlog/Puzzle/components/index.js" timestamp="1590497601785" />
-      <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/plain-react/NewslettersCard/config.json" timestamp="1590460305259">
-        <mark key="[" line="55" column="25" />
-        <mark key="]" line="55" column="29" />
-        <mark key="^" line="55" column="29" />
-        <mark key="." line="55" column="28" />
-      </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/WSJBlog/Puzzle/pageData.json" timestamp="1590499503990" />
-      <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/plain-react/NewslettersCard/Card.js" timestamp="1590460311855">
-        <mark key="[" line="106" column="115" />
-        <mark key="]" line="106" column="132" />
-        <mark key="^" line="106" column="132" />
-        <mark key="." line="106" column="131" />
-      </file>
-      <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/shared/LoadMoreAllesseh/index.js" timestamp="1590485066680" />
       <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/plain-react/NewslettersCard/index.js" timestamp="1590562651946">
         <mark key="[" line="15" column="26" />
         <mark key="]" line="20" column="30" />
@@ -121,20 +92,8 @@
       <file name="/JavaScript Console" timestamp="1590562988519">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/plain-react/NewsletterNonSubForm/index.js" timestamp="1590398493932" />
-      <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/plain-react/NewsletterNonSubForm/config.json" timestamp="1590398418730" />
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/svc/attachData/attachNewsletterInsets.js" timestamp="1590389752841">
-        <mark key="[" line="106" column="25" />
-        <mark key="]" line="106" column="25" />
-        <mark key="." line="106" column="25" />
-        <mark key="^" line="79" column="50" />
-      </file>
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/resp.svc.article/lib/articles_service.js" timestamp="1590143954184">
-        <mark key="[" line="516" column="0" />
-        <mark key="]" line="516" column="23" />
-        <mark key="^" line="516" column="23" />
-        <mark key="." line="516" column="22" />
-      </file>
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routes/routeConfig.json" timestamp="1590478338161" />
+      <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/shared/LoadMoreAllesseh/index.js" timestamp="1590485066680" />
       <file name="$USER_HOME$/Desktop/wsj/web-ui/es5/components/plain-react/NewslettersCard/index.js" timestamp="1590562581777" />
     </filemarks>
     <jumps>

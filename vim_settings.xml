@@ -81,11 +81,11 @@
     <filemarks>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routes/imageGrid.js" timestamp="1590572245176" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/China/content/index.js" timestamp="1590653702829" />
-      <file name="$USER_HOME$/Desktop/wsj/modules/dj.svc.region/lib/config_compiler.js" timestamp="1590659025524">
-        <mark key="[" line="120" column="21" />
-        <mark key="]" line="120" column="36" />
-        <mark key="^" line="120" column="36" />
-        <mark key="." line="120" column="35" />
+      <file name="$USER_HOME$/Desktop/wsj/modules/dj.svc.region/lib/config_compiler.js" timestamp="1590660830437">
+        <mark key="[" line="141" column="0" />
+        <mark key="]" line="120" column="27" />
+        <mark key="^" line="120" column="27" />
+        <mark key="." line="120" column="26" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/barrons/Pagination/index.js" timestamp="1590656008165" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/webui/packages/wsj/webuinewslettercard/index.js" timestamp="1590572816075" />
@@ -94,10 +94,10 @@
         <mark key="]" line="102" column="0" />
         <mark key="." line="102" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/modules/dj.svc.region/lib/region_service.js" timestamp="1590658992813">
-        <mark key="[" line="259" column="71" />
-        <mark key="]" line="259" column="72" />
-        <mark key="." line="259" column="71" />
+      <file name="$USER_HOME$/Desktop/wsj/modules/dj.svc.region/lib/region_service.js" timestamp="1590661020864">
+        <mark key="[" line="320" column="0" />
+        <mark key="]" line="320" column="0" />
+        <mark key="." line="320" column="0" />
         <mark key="^" line="259" column="72" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/wsj/BreakingNews/index.js" timestamp="1590655215572" />
@@ -106,7 +106,7 @@
         <mark key="[" line="109" column="136" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/China/components/index.js" timestamp="1590653696879" />
-      <file name="$USER_HOME$/Desktop/wsj/modules/dj.svc.region/lib/site_config.json" timestamp="1590655703568">
+      <file name="$USER_HOME$/Desktop/wsj/modules/dj.svc.region/lib/site_config.json" timestamp="1590660823293">
         <mark key="[" line="39" column="23" />
         <mark key="]" line="45" column="14" />
         <mark key="^" line="45" column="14" />
@@ -219,10 +219,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY29uc3Qgc2VsZiA9IHRoaXM7Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="-" type="4">
-        <text>Bring updateWsjregionNCookie back for CWSJ region</text>
+        <text>cookies</text>
       </register>
       <register name="/" type="4">
         <text>search</text>
@@ -231,31 +231,36 @@
         <text encoding="base64">YS5mdW4oMik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY29uc3Qgc2VsZiA9IHRoaXM7Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB0aGlzLnJlZ2lvbi5fZWRpdGlvbktleSA9IF9mb3JtYXRFZGl0aW9uS2V5KHRoaXMucmVnaW9uLnNpdGUsIHdzanJlZ2lvbik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHNpdGUgKyAoV1NKUkVHSU9OMlNJVEVbd3NqcmVnaW9uXSA/ICdfJyArIFdTSlJFR0lPTjJTSVRFW3dzanJlZ2lvbl0gOiAnJyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB0aGlzLnJlZ2lvbi53c2pyZWdpb24gPSB3c2pyZWdpb247Cg==</text>
+        <text encoding="base64">ICByZXR1cm4gc2l0ZSA9PT0gJ3dzaicgPyB3c2pyZWdpb24gOgogICAgICBzaXRlID09PSAnZm5ld3MnID8gJ2ZuZXdzJyA6CiAgICAgICAgICBzaXRlID09PSAncGVuZXdzJyA/ICdwZW5ld3MnIDoKICAgICAgICAgICAgICBzaXRlID09PSAnYmFycm9ucycgPyAnYmFycm9ucycgOgogICAgICAgICAgICAgICAgICBzaXRlID09PSAnbWFya2V0d2F0Y2gnID8gJ21hcmtldHdhdGNoJyA6Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnVuY3Rpb24gX2Zvcm1hdEVkaXRpb25LZXkoc2l0ZSwgd3NqcmVnaW9uKSB7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBpZiAocHJvZHVjdE1hcE9iai5jb252ZXJ0RWRpdGlvbiAmJiAocHJvZHVjdE1hcE9iai5jb252ZXJ0RWRpdGlvbi5mcm9tID09PSB3c2pyZWdpb24pKSB7CiAgICB0aGlzLnJlZ2lvblN2Yy51cGRhdGVXc2pyZWdpb25OQ29va2llKHByb2R1Y3RNYXBPYmouY29udmVydEVkaXRpb24udG8pOwogIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGlzTW9iaWxlID0gb3B0aW9ucy5pc01vYmlsZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IG9yaWdpbiA9IG9wdGlvbnMub3JpZ2luIHx8ICdnYyc7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CgoKICDkvZzogIXvvJpteWt1cmlzdQogIOmTvuaOpe+8mmh0dHBzOi8vanVlamluLmltL3Bvc3QvNWEzOWRlM2Q2ZmI5YTA0NTE1NDQwNWVjCiAgICDmnaXmupDvvJrmjpjph5EKICDokZfkvZzmnYPlvZLkvZzogIXmiYDmnInjgILllYbkuJrovazovb3or7fogZTns7vkvZzogIXojrflvpfmjojmnYPvvIzpnZ7llYbkuJrovazovb3or7fms6jmmI7lh7rlpITjgIIK</text>
+        <text>//Provides a more user-firendly name for wsjregion to be returned by editionKey()
+//For backward compatibility, WSJ uses the raw wsjregion as a key
+var WSJREGION2SITE = {
+  'europe,es': 'spain',
+  'asia,cn': 'china'
+};</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc3Qgc2VsZiA9IHRoaXM7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/'/&quot;/g</text>

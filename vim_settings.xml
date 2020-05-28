@@ -92,8 +92,10 @@
       <file name="/JavaScript Console" timestamp="1590562988519">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/shared/LoadMoreAllesseh/index.js" timestamp="1590485066680" />
-      <file name="$USER_HOME$/Desktop/wsj/modules/dj.svc.region/lib/site_config.json" timestamp="1590574371037" />
+      <file name="$USER_HOME$/Desktop/wsj/modules/dj.svc.region/lib/product_map.js" timestamp="1590635065310" />
+      <file name="$USER_HOME$/Desktop/wsj/modules/dj.svc.region/lib/site_config.json" timestamp="1590635016255">
+        <mark key="[" line="39" column="23" />
+      </file>
       <file name="$USER_HOME$/Desktop/wsj/web-ui/es5/components/plain-react/NewslettersCard/index.js" timestamp="1590562581777" />
     </filemarks>
     <jumps>

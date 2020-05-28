@@ -81,7 +81,7 @@
     <filemarks>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routes/imageGrid.js" timestamp="1590572245176" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/China/content/index.js" timestamp="1590653702829" />
-      <file name="$USER_HOME$/Desktop/wsj/modules/dj.svc.region/lib/config_compiler.js" timestamp="1590655830428">
+      <file name="$USER_HOME$/Desktop/wsj/modules/dj.svc.region/lib/config_compiler.js" timestamp="1590659025524">
         <mark key="[" line="120" column="21" />
         <mark key="]" line="120" column="36" />
         <mark key="^" line="120" column="36" />
@@ -94,10 +94,11 @@
         <mark key="]" line="102" column="0" />
         <mark key="." line="102" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/modules/dj.svc.region/lib/region_service.js" timestamp="1590656478092">
-        <mark key="[" line="254" column="23" />
-        <mark key="]" line="256" column="0" />
-        <mark key="." line="256" column="0" />
+      <file name="$USER_HOME$/Desktop/wsj/modules/dj.svc.region/lib/region_service.js" timestamp="1590658992813">
+        <mark key="[" line="259" column="71" />
+        <mark key="]" line="259" column="72" />
+        <mark key="." line="259" column="71" />
+        <mark key="^" line="259" column="72" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/wsj/BreakingNews/index.js" timestamp="1590655215572" />
       <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/collections/collection_list_provider.js" timestamp="1590655573693" />
@@ -218,7 +219,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICB0aGlzLnJlZ2lvbi5fZWRpdGlvbktleSA9IF9mb3JtYXRFZGl0aW9uS2V5KHRoaXMucmVnaW9uLnNpdGUsIHdzanJlZ2lvbik7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc3Qgc2VsZiA9IHRoaXM7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>Bring updateWsjregionNCookie back for CWSJ region</text>
@@ -230,31 +231,31 @@
         <text encoding="base64">YS5mdW4oMik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB0aGlzLnJlZ2lvbi5fZWRpdGlvbktleSA9IF9mb3JtYXRFZGl0aW9uS2V5KHRoaXMucmVnaW9uLnNpdGUsIHdzanJlZ2lvbik7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc3Qgc2VsZiA9IHRoaXM7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB0aGlzLnJlZ2lvbi53c2pyZWdpb24gPSB3c2pyZWdpb247Cg==</text>
+        <text encoding="base64">ICB0aGlzLnJlZ2lvbi5fZWRpdGlvbktleSA9IF9mb3JtYXRFZGl0aW9uS2V5KHRoaXMucmVnaW9uLnNpdGUsIHdzanJlZ2lvbik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB0aGlzLnJlZ2lvbi53c2pyZWdpb24gPSB3c2pyZWdpb247Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBpZiAocHJvZHVjdE1hcE9iai5jb252ZXJ0RWRpdGlvbiAmJiAocHJvZHVjdE1hcE9iai5jb252ZXJ0RWRpdGlvbi5mcm9tID09PSB3c2pyZWdpb24pKSB7CiAgICB0aGlzLnJlZ2lvblN2Yy51cGRhdGVXc2pyZWdpb25OQ29va2llKHByb2R1Y3RNYXBPYmouY29udmVydEVkaXRpb24udG8pOwogIH0K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGlzTW9iaWxlID0gb3B0aW9ucy5pc01vYmlsZTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IG9yaWdpbiA9IG9wdGlvbnMub3JpZ2luIHx8ICdnYyc7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CgoKICDkvZzogIXvvJpteWt1cmlzdQogIOmTvuaOpe+8mmh0dHBzOi8vanVlamluLmltL3Bvc3QvNWEzOWRlM2Q2ZmI5YTA0NTE1NDQwNWVjCiAgICDmnaXmupDvvJrmjpjph5EKICDokZfkvZzmnYPlvZLkvZzogIXmiYDmnInjgILllYbkuJrovazovb3or7fogZTns7vkvZzogIXojrflvpfmjojmnYPvvIzpnZ7llYbkuJrovazovb3or7fms6jmmI7lh7rlpITjgIIK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICBpZiAocHJvZHVjdE1hcE9iai5jb252ZXJ0RWRpdGlvbiAmJiAocHJvZHVjdE1hcE9iai5jb252ZXJ0RWRpdGlvbi5mcm9tID09PSB3c2pyZWdpb24pKSB7CiAgICB0aGlzLnJlZ2lvblN2Yy51cGRhdGVXc2pyZWdpb25OQ29va2llKHByb2R1Y3RNYXBPYmouY29udmVydEVkaXRpb24udG8pOwogIH0K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IGlzTW9iaWxlID0gb3B0aW9ucy5pc01vYmlsZTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IG9yaWdpbiA9IG9wdGlvbnMub3JpZ2luIHx8ICdnYyc7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CgoKICDkvZzogIXvvJpteWt1cmlzdQogIOmTvuaOpe+8mmh0dHBzOi8vanVlamluLmltL3Bvc3QvNWEzOWRlM2Q2ZmI5YTA0NTE1NDQwNWVjCiAgICDmnaXmupDvvJrmjpjph5EKICDokZfkvZzmnYPlvZLkvZzogIXmiYDmnInjgILllYbkuJrovazovb3or7fogZTns7vkvZzogIXojrflvpfmjojmnYPvvIzpnZ7llYbkuJrovazovb3or7fms6jmmI7lh7rlpITjgIIK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/'/&quot;/g</text>

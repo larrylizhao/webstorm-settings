@@ -89,10 +89,10 @@
       </file>
       <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/barrons/Pagination/index.js" timestamp="1590656008165" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/webui/packages/wsj/webuinewslettercard/index.js" timestamp="1590572816075" />
-      <file name="$USER_HOME$/Desktop/wsj/modules/dj.svc.region/lib/product_service.js" timestamp="1590656536459">
-        <mark key="[" line="102" column="0" />
-        <mark key="]" line="102" column="0" />
-        <mark key="." line="102" column="0" />
+      <file name="$USER_HOME$/Desktop/wsj/modules/dj.svc.region/lib/product_service.js" timestamp="1590720568464">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/modules/dj.svc.region/lib/region_service.js" timestamp="1590661020864">
         <mark key="[" line="320" column="0" />
@@ -100,7 +100,7 @@
         <mark key="." line="320" column="0" />
         <mark key="^" line="259" column="72" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/wsj/BreakingNews/index.js" timestamp="1590655215572" />
+      <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/wsj/BreakingNews/index.js" timestamp="1590720095551" />
       <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/collections/collection_list_provider.js" timestamp="1590655573693" />
       <file name="$USER_HOME$/Desktop/wsj/modules/dj.svc.region/lib/product_map.js" timestamp="1590641629507">
         <mark key="[" line="109" column="136" />
@@ -219,7 +219,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICBjb25zdCB3c2pyZWdpb24gPSB0aGlzLnJlZ2lvblN2Yy5yZWdpb24ud3NqcmVnaW9uOwo=</text>
       </register>
       <register name="-" type="4">
         <text>cookies</text>
@@ -231,19 +231,19 @@
         <text encoding="base64">YS5mdW4oMik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICBjb25zdCB3c2pyZWdpb24gPSB0aGlzLnJlZ2lvblN2Yy5yZWdpb24ud3NqcmVnaW9uOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHNpdGUgKyAoV1NKUkVHSU9OMlNJVEVbd3NqcmVnaW9uXSA/ICdfJyArIFdTSlJFR0lPTjJTSVRFW3dzanJlZ2lvbl0gOiAnJyk7Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICByZXR1cm4gc2l0ZSA9PT0gJ3dzaicgPyB3c2pyZWdpb24gOgogICAgICBzaXRlID09PSAnZm5ld3MnID8gJ2ZuZXdzJyA6CiAgICAgICAgICBzaXRlID09PSAncGVuZXdzJyA/ICdwZW5ld3MnIDoKICAgICAgICAgICAgICBzaXRlID09PSAnYmFycm9ucycgPyAnYmFycm9ucycgOgogICAgICAgICAgICAgICAgICBzaXRlID09PSAnbWFya2V0d2F0Y2gnID8gJ21hcmtldHdhdGNoJyA6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIHNpdGUgKyAoV1NKUkVHSU9OMlNJVEVbd3NqcmVnaW9uXSA/ICdfJyArIFdTSlJFR0lPTjJTSVRFW3dzanJlZ2lvbl0gOiAnJyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gX2Zvcm1hdEVkaXRpb25LZXkoc2l0ZSwgd3NqcmVnaW9uKSB7Cg==</text>
+        <text encoding="base64">ICByZXR1cm4gc2l0ZSA9PT0gJ3dzaicgPyB3c2pyZWdpb24gOgogICAgICBzaXRlID09PSAnZm5ld3MnID8gJ2ZuZXdzJyA6CiAgICAgICAgICBzaXRlID09PSAncGVuZXdzJyA/ICdwZW5ld3MnIDoKICAgICAgICAgICAgICBzaXRlID09PSAnYmFycm9ucycgPyAnYmFycm9ucycgOgogICAgICAgICAgICAgICAgICBzaXRlID09PSAnbWFya2V0d2F0Y2gnID8gJ21hcmtldHdhdGNoJyA6Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnVuY3Rpb24gX2Zvcm1hdEVkaXRpb25LZXkoc2l0ZSwgd3NqcmVnaW9uKSB7Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -252,15 +252,15 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
         <text>//Provides a more user-firendly name for wsjregion to be returned by editionKey()
 //For backward compatibility, WSJ uses the raw wsjregion as a key
 var WSJREGION2SITE = {
   'europe,es': 'spain',
   'asia,cn': 'china'
 };</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc3Qgc2VsZiA9IHRoaXM7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>s/'/&quot;/g</text>

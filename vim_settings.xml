@@ -109,12 +109,15 @@
       </file>
       <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/collections/collection_list_provider.js" timestamp="1590655573693" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/node_modules/dj.svc.region/lib/region_service.js" timestamp="1590724104802" />
-      <file name="$USER_HOME$/Desktop/wsj/modules/dj.svc.region/lib/product_map.js" timestamp="1590641629507">
-        <mark key="[" line="109" column="136" />
-      </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/China/components/index.js" timestamp="1590653696879" />
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routes/imageGrid.js" timestamp="1590572245176" />
+      <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/shared/NewsletterCard/index.js" timestamp="1590744323452" />
       <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/barrons/Pagination/index.js" timestamp="1590656008165" />
+      <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/plain-react/NewslettersCard/index.js" timestamp="1590744283645">
+        <mark key="[" line="13" column="65" />
+        <mark key="]" line="20" column="30" />
+        <mark key="^" line="20" column="30" />
+        <mark key="." line="20" column="29" />
+      </file>
       <file name="$USER_HOME$/Desktop/wsj/modules/dj.svc.region/test/product_service-test.js" timestamp="1590725228137">
         <mark key="[" line="36" column="34" />
         <mark key="]" line="37" column="26" />

@@ -89,7 +89,12 @@
         <mark key="^" line="120" column="27" />
         <mark key="." line="120" column="26" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/webui/packages/wsj/webuinewslettercard/index.js" timestamp="1590572816075" />
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/webui/packages/wsj/webuinewslettercard/index.js" timestamp="1590736630110">
+        <mark key="[" line="19" column="50" />
+        <mark key="]" line="19" column="51" />
+        <mark key="^" line="19" column="51" />
+        <mark key="." line="19" column="50" />
+      </file>
       <file name="$USER_HOME$/Desktop/wsj/modules/dj.svc.region/lib/region_service.js" timestamp="1590720620325">
         <mark key="[" line="236" column="0" />
         <mark key="]" line="236" column="0" />
@@ -117,6 +122,12 @@
       </file>
       <file name="/JavaScript Console" timestamp="1590723691198">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/svc/attachData/attachNewsletterInsets.js" timestamp="1590737188538">
+        <mark key="[" line="22" column="1" />
+        <mark key="]" line="22" column="2" />
+        <mark key="." line="22" column="1" />
+        <mark key="^" line="22" column="2" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/wsj/BreakingNews/index.js" timestamp="1590720095551" />
       <file name="$USER_HOME$/Desktop/wsj/modules/dj.svc.region/lib/site_config.json" timestamp="1590660823293">

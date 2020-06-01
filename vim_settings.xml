@@ -79,9 +79,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/fragment.js" timestamp="1590723722365">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/webui/packages/wsj/webuinewslettercard/index.js" timestamp="1590736630110">
         <mark key="[" line="19" column="50" />
         <mark key="]" line="19" column="51" />
@@ -101,7 +98,7 @@
         <mark key="." line="352" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/wsj/SearchResultPagination/index.js" timestamp="1590982723181" />
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/node_modules/dj.svc.region/lib/region_service.js" timestamp="1590724104802" />
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/module/articleSlideshowWebUI.js" timestamp="1590999263292" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/config/.env.development" timestamp="1590986040033">
         <mark key="[" line="75" column="0" />
         <mark key="]" line="75" column="0" />
@@ -114,6 +111,7 @@
         <mark key="^" line="37" column="72" />
         <mark key="." line="37" column="71" />
       </file>
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/i18n/jp_JP.json" timestamp="1590997946480" />
       <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/plain-react/NewslettersCard/config.json" timestamp="1590982274879">
         <mark key="[" line="55" column="25" />
         <mark key="]" line="55" column="29" />
@@ -126,18 +124,7 @@
         <mark key="^" line="20" column="30" />
         <mark key="." line="45" column="40" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/modules/dj.svc.region/test/product_service-test.js" timestamp="1590725228137">
-        <mark key="[" line="36" column="34" />
-        <mark key="]" line="37" column="26" />
-        <mark key="^" line="37" column="26" />
-        <mark key="." line="37" column="25" />
-      </file>
-      <file name="$USER_HOME$/Desktop/wsj/modules/dj.svc.region/lib/product_service.js" timestamp="1590725221694">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
-      </file>
-      <file name="/JavaScript Console" timestamp="1590986292450">
+      <file name="/JavaScript Console" timestamp="1590997664321">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/svc/attachData/attachNewsletterInsets.js" timestamp="1590737188538">
@@ -147,6 +134,9 @@
         <mark key="^" line="22" column="2" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/resp.svc.article/lib/articles_dao_service.js" timestamp="1590985587238" />
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/view/articleSlideshowWebUI.mu" timestamp="1590998518510" />
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/layout/japan_wsj_resp_article_16u_slideshow.mu" timestamp="1590998293003" />
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/page/japan_wsj_resp_article_16u_slideshow.json" timestamp="1590998476153" />
       <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/plain-react/NewslettersCard/Card.js" timestamp="1590982785613">
         <mark key="[" line="106" column="115" />
         <mark key="]" line="106" column="132" />

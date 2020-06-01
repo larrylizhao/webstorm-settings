@@ -82,12 +82,6 @@
       <file name="/fragment.js" timestamp="1590723722365">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/modules/dj.svc.region/lib/config_compiler.js" timestamp="1590660830437">
-        <mark key="[" line="141" column="0" />
-        <mark key="]" line="120" column="27" />
-        <mark key="^" line="120" column="27" />
-        <mark key="." line="120" column="26" />
-      </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/webui/packages/wsj/webuinewslettercard/index.js" timestamp="1590736630110">
         <mark key="[" line="19" column="50" />
         <mark key="]" line="19" column="51" />
@@ -109,6 +103,11 @@
         <mark key="^" line="259" column="72" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/node_modules/dj.svc.region/lib/region_service.js" timestamp="1590724104802" />
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/config/.env.development" timestamp="1590986040033">
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="0" />
+        <mark key="." line="75" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/shared/NewsletterCard/index.js" timestamp="1590982747951" />
       <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/shared/NewsletterCard/decorators/WSJTheme.js" timestamp="1590982793069">
         <mark key="[" line="36" column="59" />
@@ -148,7 +147,7 @@
         <mark key="." line="22" column="1" />
         <mark key="^" line="22" column="2" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/wsj/BreakingNews/index.js" timestamp="1590720095551" />
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/resp.svc.article/lib/articles_dao_service.js" timestamp="1590985587238" />
       <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/plain-react/NewslettersCard/Card.js" timestamp="1590982785613">
         <mark key="[" line="106" column="115" />
         <mark key="]" line="106" column="132" />

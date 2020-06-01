@@ -82,7 +82,6 @@
       <file name="/fragment.js" timestamp="1590723722365">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/China/content/index.js" timestamp="1590653702829" />
       <file name="$USER_HOME$/Desktop/wsj/modules/dj.svc.region/lib/config_compiler.js" timestamp="1590660830437">
         <mark key="[" line="141" column="0" />
         <mark key="]" line="120" column="27" />
@@ -101,19 +100,30 @@
         <mark key="^" line="200" column="38" />
         <mark key="." line="200" column="37" />
       </file>
+      <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/plain-react/NewsletterNonSubForm/index.js" timestamp="1590982328040" />
+      <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/wsj/SearchResultPagination/index.js" timestamp="1590982723181" />
       <file name="$USER_HOME$/Desktop/wsj/modules/dj.svc.region/lib/region_service.js" timestamp="1590720620325">
         <mark key="[" line="236" column="0" />
         <mark key="]" line="236" column="0" />
         <mark key="." line="236" column="0" />
         <mark key="^" line="259" column="72" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/collections/collection_list_provider.js" timestamp="1590655573693" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/node_modules/dj.svc.region/lib/region_service.js" timestamp="1590724104802" />
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/China/components/index.js" timestamp="1590653696879" />
-      <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/shared/NewsletterCard/index.js" timestamp="1590744323452" />
-      <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/barrons/Pagination/index.js" timestamp="1590656008165" />
-      <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/plain-react/NewslettersCard/index.js" timestamp="1590744563615">
-        <mark key="[" line="45" column="40" />
+      <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/shared/NewsletterCard/index.js" timestamp="1590982747951" />
+      <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/shared/NewsletterCard/decorators/WSJTheme.js" timestamp="1590982793069">
+        <mark key="[" line="36" column="59" />
+        <mark key="]" line="37" column="72" />
+        <mark key="^" line="37" column="72" />
+        <mark key="." line="37" column="71" />
+      </file>
+      <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/plain-react/NewslettersCard/config.json" timestamp="1590982274879">
+        <mark key="[" line="55" column="25" />
+        <mark key="]" line="55" column="29" />
+        <mark key="^" line="55" column="29" />
+        <mark key="." line="55" column="28" />
+      </file>
+      <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/plain-react/NewslettersCard/index.js" timestamp="1590982755103">
+        <mark key="[" line="42" column="60" />
         <mark key="]" line="45" column="40" />
         <mark key="^" line="20" column="30" />
         <mark key="." line="45" column="40" />
@@ -139,11 +149,11 @@
         <mark key="^" line="22" column="2" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/wsj/BreakingNews/index.js" timestamp="1590720095551" />
-      <file name="$USER_HOME$/Desktop/wsj/modules/dj.svc.region/lib/site_config.json" timestamp="1590660823293">
-        <mark key="[" line="39" column="23" />
-        <mark key="]" line="45" column="14" />
-        <mark key="^" line="45" column="14" />
-        <mark key="." line="45" column="13" />
+      <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/plain-react/NewslettersCard/Card.js" timestamp="1590982785613">
+        <mark key="[" line="106" column="115" />
+        <mark key="]" line="106" column="132" />
+        <mark key="^" line="106" column="132" />
+        <mark key="." line="106" column="131" />
       </file>
     </filemarks>
     <jumps>

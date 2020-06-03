@@ -110,20 +110,20 @@
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/resp.svc.article/lib/articles_dao_service.js" timestamp="1590985587238" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/view/articleSlideshowWebUI.mu" timestamp="1590998518510" />
       <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/wsj/BreakingNews/index.js" timestamp="1591085247688" />
-      <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/plain-react/ShareMenu/index.js" timestamp="1591151293819">
+      <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/plain-react/ShareMenu/index.js" timestamp="1591152779156">
         <mark key="[" line="145" column="53" />
         <mark key="]" line="145" column="38" />
         <mark key="^" line="145" column="38" />
         <mark key="." line="145" column="37" />
       </file>
+      <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/wsj/ShareTools/index.js" timestamp="1591152879346">
+        <mark key="[" line="189" column="119" />
+        <mark key="]" line="189" column="121" />
+        <mark key="^" line="189" column="121" />
+        <mark key="." line="189" column="120" />
+      </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/layout/japan_wsj_resp_article_16u_slideshow.mu" timestamp="1590998293003" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/page/japan_wsj_resp_article_16u_slideshow.json" timestamp="1590998476153" />
-      <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/plain-react/NewslettersCard/Card.js" timestamp="1590982785613">
-        <mark key="[" line="106" column="115" />
-        <mark key="]" line="106" column="132" />
-        <mark key="^" line="106" column="132" />
-        <mark key="." line="106" column="131" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="95" column="5" filename="$USER_HOME$/Desktop/wsj/grand-canyon/package.json" />

@@ -80,6 +80,7 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/China/content/index.js" timestamp="1591082496838" />
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/view/english-tab.mu" timestamp="1591172816109" />
       <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/plain-react/NewslettersCard/spec.js" timestamp="1590994504093">
         <mark key="[" line="352" column="0" />
         <mark key="]" line="352" column="0" />
@@ -88,23 +89,17 @@
       <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/plain-react/ArticleTools/index.js" timestamp="1591086572859" />
       <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/collections/collection_list_provider.js" timestamp="1591086237912" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/module/articleSlideshowWebUI.js" timestamp="1590999263292" />
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/node_modules/dj.svc.region/lib/region_service.js" timestamp="1591017911360" />
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/node_modules/dj.svc.region/lib/region_service.js" timestamp="1591172745739" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/config/.env.development" timestamp="1590986040033">
         <mark key="[" line="75" column="0" />
         <mark key="]" line="75" column="0" />
         <mark key="." line="75" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/shared/NewsletterCard/index.js" timestamp="1590994713665" />
-      <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/shared/NewsletterCard/decorators/WSJTheme.js" timestamp="1590982793069">
-        <mark key="[" line="36" column="59" />
-        <mark key="]" line="37" column="72" />
-        <mark key="^" line="37" column="72" />
-        <mark key="." line="37" column="71" />
-      </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/i18n/jp_JP.json" timestamp="1590997946480" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Economy/content/index.js" timestamp="1591083022376" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Business/content/index.js" timestamp="1591083013649" />
-      <file name="/JavaScript Console" timestamp="1590997664321">
+      <file name="/JavaScript Console" timestamp="1591172722748">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/resp.svc.article/lib/articles_dao_service.js" timestamp="1590985587238" />

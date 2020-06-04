@@ -93,11 +93,11 @@
       <file name="/JavaScript Console" timestamp="1591173333960">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/resp.svc.article/lib/articles_service.js" timestamp="1591243043768">
-        <mark key="[" line="516" column="0" />
-        <mark key="]" line="516" column="23" />
-        <mark key="^" line="516" column="23" />
-        <mark key="." line="516" column="22" />
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/resp.svc.article/lib/articles_service.js" timestamp="1591254175790">
+        <mark key="[" line="347" column="7" />
+        <mark key="]" line="349" column="27" />
+        <mark key="^" line="349" column="27" />
+        <mark key="." line="349" column="26" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/view/articleSlideshowWebUI.mu" timestamp="1590998518510" />
       <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/wsj/BreakingNews/index.js" timestamp="1591085247688" />

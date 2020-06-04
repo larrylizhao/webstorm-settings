@@ -82,11 +82,6 @@
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/China/content/index.js" timestamp="1591082496838" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/view/english-tab.mu" timestamp="1591172816109" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/node_modules/capi-converter/lib/capiConverter.js" timestamp="1591179249890" />
-      <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/plain-react/NewslettersCard/spec.js" timestamp="1590994504093">
-        <mark key="[" line="352" column="0" />
-        <mark key="]" line="352" column="0" />
-        <mark key="." line="352" column="0" />
-      </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/WSJBlog/Puzzle/content/index.js" timestamp="1591197789644" />
       <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/plain-react/ArticleTools/index.js" timestamp="1591086572859" />
       <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/collections/collection_list_provider.js" timestamp="1591086237912" />
@@ -101,6 +96,7 @@
       </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/view/articleSlideshowWebUI.mu" timestamp="1590998518510" />
       <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/wsj/BreakingNews/index.js" timestamp="1591085247688" />
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/node_modules/capi-converter/lib/Mappings.js" timestamp="1591241419303" />
       <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/plain-react/ShareMenu/index.js" timestamp="1591152779156">
         <mark key="[" line="145" column="53" />
         <mark key="]" line="145" column="38" />

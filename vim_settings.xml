@@ -79,29 +79,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/China/content/index.js" timestamp="1591082496838" />
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/view/english-tab.mu" timestamp="1591172816109" />
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/node_modules/capi-converter/lib/capiConverter.js" timestamp="1591179249890" />
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/WSJBlog/Puzzle/content/index.js" timestamp="1591197789644" />
-      <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/plain-react/ArticleTools/index.js" timestamp="1591086572859" />
-      <file name="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/collections/collection_list_provider.js" timestamp="1591086237912" />
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/module/articleSlideshowWebUI.js" timestamp="1590999263292" />
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/node_modules/dj.svc.region/lib/region_service.js" timestamp="1591172745739" />
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/i18n/jp_JP.json" timestamp="1590997946480" />
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Economy/content/index.js" timestamp="1591083022376" />
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Business/content/index.js" timestamp="1591083013649" />
-      <file name="/JavaScript Console" timestamp="1591173333960">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/resp.svc.article/lib/articles_service.js" timestamp="1591254175790">
-        <mark key="[" line="347" column="7" />
-        <mark key="]" line="349" column="27" />
-        <mark key="^" line="349" column="27" />
-        <mark key="." line="349" column="26" />
-      </file>
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/view/articleSlideshowWebUI.mu" timestamp="1590998518510" />
-      <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/wsj/BreakingNews/index.js" timestamp="1591085247688" />
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/node_modules/capi-converter/lib/Mappings.js" timestamp="1591241419303" />
       <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/plain-react/ShareMenu/index.js" timestamp="1591152779156">
         <mark key="[" line="145" column="53" />
         <mark key="]" line="145" column="38" />
@@ -114,8 +91,15 @@
         <mark key="^" line="189" column="121" />
         <mark key="." line="189" column="120" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/layout/japan_wsj_resp_article_16u_slideshow.mu" timestamp="1590998293003" />
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/page/japan_wsj_resp_article_16u_slideshow.json" timestamp="1590998476153" />
+      <file name="/JavaScript Console" timestamp="1591256439483">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/resp.svc.article/lib/articles_service.js" timestamp="1591254175790">
+        <mark key="[" line="347" column="7" />
+        <mark key="]" line="349" column="27" />
+        <mark key="^" line="349" column="27" />
+        <mark key="." line="349" column="26" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="95" column="5" filename="$USER_HOME$/Desktop/wsj/grand-canyon/package.json" />

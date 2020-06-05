@@ -13,9 +13,11 @@
     <mask>*.ats</mask>
     <mask>*.ts</mask>
     <mask>*.cjs</mask>
-    <mask>*.css</mask>
+    <mask>*.json</mask>
+    <mask>*.</mask>
     <mask>spec.js</mask>
     <mask>*.js</mask>
-    <mask>*.json</mask>
+    <mask>*.css</mask>
+    <mask>*.mu</mask>
   </component>
 </application>

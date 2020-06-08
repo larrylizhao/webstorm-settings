@@ -79,6 +79,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/resp.svc.article/lib/redirect_logic.js" timestamp="1591585024759" />
       <file name="$USER_HOME$/Desktop/wsj/web-ui/scripts/unitTestStaged.js" timestamp="1591350220158">
         <mark key="[" line="43" column="116" />
       </file>
@@ -94,7 +95,7 @@
         <mark key="^" line="189" column="121" />
         <mark key="." line="189" column="120" />
       </file>
-      <file name="/JavaScript Console" timestamp="1591361765585">
+      <file name="/JavaScript Console" timestamp="1591584661213">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/svc/getArticle.js" timestamp="1591263393527" />

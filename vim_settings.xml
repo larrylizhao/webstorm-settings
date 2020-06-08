@@ -80,22 +80,7 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/resp.svc.article/lib/redirect_logic.js" timestamp="1591585024759" />
-      <file name="$USER_HOME$/Desktop/wsj/web-ui/scripts/unitTestStaged.js" timestamp="1591350220158">
-        <mark key="[" line="43" column="116" />
-      </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/svc/attachData/index.js" timestamp="1591599581310" />
-      <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/plain-react/ShareMenu/index.js" timestamp="1591152779156">
-        <mark key="[" line="145" column="53" />
-        <mark key="]" line="145" column="38" />
-        <mark key="^" line="145" column="38" />
-        <mark key="." line="145" column="37" />
-      </file>
-      <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/wsj/ShareTools/index.js" timestamp="1591152879346">
-        <mark key="[" line="189" column="119" />
-        <mark key="]" line="189" column="121" />
-        <mark key="^" line="189" column="121" />
-        <mark key="." line="189" column="120" />
-      </file>
       <file name="/JavaScript Console" timestamp="1591584661213">
         <mark key="[" line="0" column="0" />
       </file>
@@ -106,6 +91,23 @@
         <mark key="^" line="349" column="27" />
         <mark key="." line="349" column="26" />
       </file>
+      <file name="$USER_HOME$/Desktop/wsj/web-ui/scripts/unitTestStaged.js" timestamp="1591350220158">
+        <mark key="[" line="43" column="116" />
+      </file>
+      <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/plain-react/ShareMenu/index.js" timestamp="1591152779156">
+        <mark key="[" line="145" column="53" />
+        <mark key="]" line="145" column="38" />
+        <mark key="^" line="145" column="38" />
+        <mark key="." line="145" column="37" />
+      </file>
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/view/mg/relatedArticles.mu" timestamp="1591600643620" />
+      <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/wsj/ShareTools/index.js" timestamp="1591152879346">
+        <mark key="[" line="189" column="119" />
+        <mark key="]" line="189" column="121" />
+        <mark key="^" line="189" column="121" />
+        <mark key="." line="189" column="120" />
+      </file>
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/view/media-objects/pullquote.mu" timestamp="1591600544410" />
     </filemarks>
     <jumps>
       <jump line="95" column="5" filename="$USER_HOME$/Desktop/wsj/grand-canyon/package.json" />

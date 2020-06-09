@@ -113,8 +113,11 @@
       </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/svc/attachData/attachNewsletterInsets.js" timestamp="1591601865034" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/resp.svc.article/lib/articles_dao_service.js" timestamp="1591606189465" />
-      <file name="$USER_HOME$/Desktop/wsj/web-ui/scripts/unitTestStaged.js" timestamp="1591350220158">
-        <mark key="[" line="43" column="116" />
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/module/articleBody.js" timestamp="1591676323810">
+        <mark key="[" line="109" column="7" />
+        <mark key="]" line="109" column="15" />
+        <mark key="^" line="109" column="15" />
+        <mark key="." line="109" column="14" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/page/japan_wsj_resp_article_16u.json" timestamp="1591675345808" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/node_modules/dj.svc.vendorhttpclient/lib/t1_content_service.js" timestamp="1591605469821" />

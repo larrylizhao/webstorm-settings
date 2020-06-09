@@ -80,12 +80,6 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/content/styles/article/newsletter-insets.css" timestamp="1591695445584" />
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/svc/attachData/index.js" timestamp="1591612126452">
-        <mark key="[" line="77" column="27" />
-        <mark key="]" line="93" column="16" />
-        <mark key="." line="93" column="15" />
-        <mark key="^" line="93" column="16" />
-      </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/view/puzzle.mu" timestamp="1591696735569">
         <mark key="[" line="5" column="39" />
         <mark key="]" line="5" column="10" />
@@ -93,6 +87,7 @@
         <mark key="^" line="5" column="10" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/view/articleBody.mu" timestamp="1591694659419" />
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/tesla.lib.core/lib/service/router_service.js" timestamp="1591717307690" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/svc/attachData/attachPuzzle.js" timestamp="1591671165894">
         <mark key="[" line="19" column="24" />
         <mark key="]" line="19" column="21" />
@@ -108,7 +103,7 @@
         <mark key="." line="83" column="29" />
         <mark key="^" line="83" column="30" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/tesla.lib.core/lib/service/core/request_module_service.js" timestamp="1591714938735" />
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/tesla.lib.core/lib/service/core/request_module_service.js" timestamp="1591717348394" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/route/index.json" timestamp="1591714323518" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/module/articleBody.js" timestamp="1591676323810">
         <mark key="[" line="109" column="7" />

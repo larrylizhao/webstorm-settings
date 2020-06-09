@@ -91,33 +91,30 @@
         <mark key="^" line="109" column="15" />
         <mark key="." line="109" column="14" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/view/puzzle.mu" timestamp="1591671194753">
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/view/puzzle.mu" timestamp="1591694844811">
         <mark key="[" line="2" column="52" />
         <mark key="]" line="2" column="54" />
         <mark key="." line="2" column="53" />
         <mark key="^" line="2" column="54" />
       </file>
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/view/articleBody.mu" timestamp="1591694659419" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/svc/attachData/attachPuzzle.js" timestamp="1591671165894">
         <mark key="[" line="19" column="24" />
         <mark key="]" line="19" column="21" />
         <mark key="." line="19" column="20" />
         <mark key="^" line="19" column="21" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/view/media-objects.mu" timestamp="1591690932249">
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/view/media-objects.mu" timestamp="1591694795184">
         <mark key="[" line="233" column="1" />
         <mark key="]" line="232" column="2" />
         <mark key="^" line="232" column="2" />
         <mark key="." line="232" column="1" />
       </file>
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/svc/attachData/attachWebUISlideShowInsets.js" timestamp="1591694833524" />
       <file name="/JavaScript Console" timestamp="1591693259459">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/resp.svc.article/lib/articles_service.js" timestamp="1591597710819">
-        <mark key="[" line="347" column="7" />
-        <mark key="]" line="349" column="27" />
-        <mark key="^" line="349" column="27" />
-        <mark key="." line="349" column="26" />
-      </file>
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/view/webUISlideShow.mu" timestamp="1591694823712" />
     </filemarks>
     <jumps>
       <jump line="95" column="5" filename="$USER_HOME$/Desktop/wsj/grand-canyon/package.json" />

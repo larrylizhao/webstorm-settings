@@ -108,6 +108,7 @@
         <mark key="." line="83" column="29" />
         <mark key="^" line="83" column="30" />
       </file>
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/tesla.lib.core/lib/service/core/request_module_service.js" timestamp="1591714938735" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/route/index.json" timestamp="1591714323518" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/module/articleBody.js" timestamp="1591676323810">
         <mark key="[" line="109" column="7" />
@@ -129,7 +130,7 @@
         <mark key="." line="7" column="1" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/view/webUISlideShow.mu" timestamp="1591694823712" />
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/tesla.lib.core/lib/service/core/routing_service.js" timestamp="1591714266996" />
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/tesla.lib.core/lib/service/core/routing_service.js" timestamp="1591714979262" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/tesla.lib.core/lib/service/kernel.js" timestamp="1591713745640" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/tesla.lib.core/lib/service/server_request.js" timestamp="1591711894469" />
     </filemarks>

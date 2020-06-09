@@ -93,7 +93,7 @@
         <mark key="^" line="2" column="54" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/package.json" timestamp="1591604630912" />
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/view/articleBody.mu" timestamp="1591603214306" />
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/view/articleBody.mu" timestamp="1591687980978" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/svc/attachData/attachPuzzle.js" timestamp="1591671165894">
         <mark key="[" line="19" column="24" />
         <mark key="]" line="19" column="21" />
@@ -122,7 +122,12 @@
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/page/japan_wsj_resp_article_16u.json" timestamp="1591675345808" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/node_modules/dj.svc.vendorhttpclient/lib/t1_content_service.js" timestamp="1591605469821" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/view/mg/relatedArticles.mu" timestamp="1591600643620" />
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/view/media-objects.mu" timestamp="1591603267622" />
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/view/media-objects.mu" timestamp="1591688100543">
+        <mark key="[" line="233" column="1" />
+        <mark key="]" line="232" column="2" />
+        <mark key="^" line="232" column="2" />
+        <mark key="." line="232" column="1" />
+      </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/content/scripts/newsletter-signup-inview.js" timestamp="1591672620008" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/view/amp/media-objects/interactive-iframe.mu" timestamp="1591601511971" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/view/media-objects/pullquote.mu" timestamp="1591600544410" />

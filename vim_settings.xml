@@ -79,12 +79,17 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/resp.svc.article/lib/redirect_logic.js" timestamp="1591585024759" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/svc/attachData/index.js" timestamp="1591612126452">
         <mark key="[" line="77" column="27" />
         <mark key="]" line="93" column="16" />
         <mark key="." line="93" column="15" />
         <mark key="^" line="93" column="16" />
+      </file>
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/module/articleBody.js" timestamp="1591676323810">
+        <mark key="[" line="109" column="7" />
+        <mark key="]" line="109" column="15" />
+        <mark key="^" line="109" column="15" />
+        <mark key="." line="109" column="14" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/view/puzzle.mu" timestamp="1591671194753">
         <mark key="[" line="2" column="52" />
@@ -92,45 +97,27 @@
         <mark key="." line="2" column="53" />
         <mark key="^" line="2" column="54" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/package.json" timestamp="1591604630912" />
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/view/articleBody.mu" timestamp="1591690994334" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/svc/attachData/attachPuzzle.js" timestamp="1591671165894">
         <mark key="[" line="19" column="24" />
         <mark key="]" line="19" column="21" />
         <mark key="." line="19" column="20" />
         <mark key="^" line="19" column="21" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/layout/japan_wsj_resp_article_16u.mu" timestamp="1591675307687" />
-      <file name="/JavaScript Console" timestamp="1591688172353">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/tesla.lib.core/lib/service/http_client.js" timestamp="1591605476319" />
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/resp.svc.article/lib/articles_service.js" timestamp="1591597710819">
-        <mark key="[" line="347" column="7" />
-        <mark key="]" line="349" column="27" />
-        <mark key="^" line="349" column="27" />
-        <mark key="." line="349" column="26" />
-      </file>
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/svc/attachData/attachNewsletterInsets.js" timestamp="1591601865034" />
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/resp.svc.article/lib/articles_dao_service.js" timestamp="1591606189465" />
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/module/articleBody.js" timestamp="1591676323810">
-        <mark key="[" line="109" column="7" />
-        <mark key="]" line="109" column="15" />
-        <mark key="^" line="109" column="15" />
-        <mark key="." line="109" column="14" />
-      </file>
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/page/japan_wsj_resp_article_16u.json" timestamp="1591675345808" />
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/node_modules/dj.svc.vendorhttpclient/lib/t1_content_service.js" timestamp="1591605469821" />
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/view/mg/relatedArticles.mu" timestamp="1591600643620" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/view/media-objects.mu" timestamp="1591690932249">
         <mark key="[" line="233" column="1" />
         <mark key="]" line="232" column="2" />
         <mark key="^" line="232" column="2" />
         <mark key="." line="232" column="1" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/content/scripts/newsletter-signup-inview.js" timestamp="1591672620008" />
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/view/amp/media-objects/interactive-iframe.mu" timestamp="1591601511971" />
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/view/media-objects/pullquote.mu" timestamp="1591600544410" />
+      <file name="/JavaScript Console" timestamp="1591693259459">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/resp.svc.article/lib/articles_service.js" timestamp="1591597710819">
+        <mark key="[" line="347" column="7" />
+        <mark key="]" line="349" column="27" />
+        <mark key="^" line="349" column="27" />
+        <mark key="." line="349" column="26" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="95" column="5" filename="$USER_HOME$/Desktop/wsj/grand-canyon/package.json" />

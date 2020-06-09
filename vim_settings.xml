@@ -79,23 +79,18 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/content/styles/article/newsletter-insets.css" timestamp="1591695445584" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/svc/attachData/index.js" timestamp="1591612126452">
         <mark key="[" line="77" column="27" />
         <mark key="]" line="93" column="16" />
         <mark key="." line="93" column="15" />
         <mark key="^" line="93" column="16" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/module/articleBody.js" timestamp="1591676323810">
-        <mark key="[" line="109" column="7" />
-        <mark key="]" line="109" column="15" />
-        <mark key="^" line="109" column="15" />
-        <mark key="." line="109" column="14" />
-      </file>
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/view/puzzle.mu" timestamp="1591694844811">
-        <mark key="[" line="2" column="52" />
-        <mark key="]" line="2" column="54" />
-        <mark key="." line="2" column="53" />
-        <mark key="^" line="2" column="54" />
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/view/puzzle.mu" timestamp="1591695895955">
+        <mark key="[" line="4" column="29" />
+        <mark key="]" line="4" column="18" />
+        <mark key="." line="4" column="17" />
+        <mark key="^" line="4" column="18" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/view/articleBody.mu" timestamp="1591694659419" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/svc/attachData/attachPuzzle.js" timestamp="1591671165894">
@@ -104,6 +99,21 @@
         <mark key="." line="19" column="20" />
         <mark key="^" line="19" column="21" />
       </file>
+      <file name="/JavaScript Console" timestamp="1591695857907">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/assets/webpack-config/css-entries.js" timestamp="1591695499286">
+        <mark key="[" line="83" column="24" />
+        <mark key="]" line="83" column="30" />
+        <mark key="." line="83" column="29" />
+        <mark key="^" line="83" column="30" />
+      </file>
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/module/articleBody.js" timestamp="1591676323810">
+        <mark key="[" line="109" column="7" />
+        <mark key="]" line="109" column="15" />
+        <mark key="^" line="109" column="15" />
+        <mark key="." line="109" column="14" />
+      </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/view/media-objects.mu" timestamp="1591694795184">
         <mark key="[" line="233" column="1" />
         <mark key="]" line="232" column="2" />
@@ -111,8 +121,11 @@
         <mark key="." line="232" column="1" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/svc/attachData/attachWebUISlideShowInsets.js" timestamp="1591694833524" />
-      <file name="/JavaScript Console" timestamp="1591693259459">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/content/styles/article/puzzle.css" timestamp="1591695523941">
+        <mark key="[" line="0" column="18" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="8" column="0" />
+        <mark key="." line="7" column="1" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/view/webUISlideShow.mu" timestamp="1591694823712" />
     </filemarks>
@@ -222,16 +235,16 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">L25ld3NsZXR0ZXJzL3t7fX0/ZW1iZWQ9MSZtb2Q9bmV3c2xldHRlcl9mcm9tX2FydGljbGU=</text>
+        <text>-insets</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">L25ld3NsZXR0ZXJzL3t7fX0/ZW1iZWQ9MSZtb2Q9bmV3c2xldHRlcl9mcm9tX2FydGljbGU=</text>
+        <text>-insets</text>
       </register>
       <register name="/" type="4">
         <text>search</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAnYXJ0aWNsZS5hcHAvbGliL3N2Yy9hdHRhY2hEYXRhL2F0dGFjaEJhbmtydXB0Y3lJbnRlbGxpZ2VuY2VJbnNldHMnLAo=</text>
+        <text encoding="base64">ICAgIENTU19QQVRIICsgJ2FydGljbGUvbmV3c2xldHRlci1pbnNldHMuY3NzJywK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBmcmFnbWVudC5zaG93SGVhZGVyID0gdHJ1ZTsK</text>

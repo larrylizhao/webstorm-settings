@@ -86,21 +86,21 @@
         <mark key="." line="93" column="15" />
         <mark key="^" line="93" column="16" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/view/puzzle.mu" timestamp="1591612217110">
-        <mark key="[" line="5" column="20" />
-        <mark key="]" line="5" column="25" />
-        <mark key="." line="5" column="24" />
-        <mark key="^" line="5" column="25" />
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/view/puzzle.mu" timestamp="1591671194753">
+        <mark key="[" line="2" column="52" />
+        <mark key="]" line="2" column="54" />
+        <mark key="." line="2" column="53" />
+        <mark key="^" line="2" column="54" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/package.json" timestamp="1591604630912" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/view/articleBody.mu" timestamp="1591603214306" />
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/svc/attachData/attachPuzzle.js" timestamp="1591612177698">
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/svc/attachData/attachPuzzle.js" timestamp="1591671165894">
         <mark key="[" line="19" column="24" />
         <mark key="]" line="19" column="21" />
         <mark key="." line="19" column="20" />
         <mark key="^" line="19" column="21" />
       </file>
-      <file name="/JavaScript Console" timestamp="1591612413514">
+      <file name="/JavaScript Console" timestamp="1591671649437">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/tesla.lib.core/lib/service/http_client.js" timestamp="1591605476319" />

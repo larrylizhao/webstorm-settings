@@ -79,6 +79,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Desktop/wsj/modules/consumer-proxy/lib/config.json" timestamp="1591858036141" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/module/articleBody.js" timestamp="1591676323810">
         <mark key="[" line="109" column="7" />
         <mark key="]" line="109" column="15" />

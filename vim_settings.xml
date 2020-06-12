@@ -88,13 +88,17 @@
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routesInternational/routeConfig.json" timestamp="1591848323444" />
       <file name="$USER_HOME$/Desktop/wsj/modules/consumer-proxy/lib/graphics-proxy.js" timestamp="1591861900783" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/layout/wsj_resp_article_16u.mu" timestamp="1591873356303" />
-      <file name="/JavaScript Console" timestamp="1591696876743">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="$USER_HOME$/Desktop/wsj/modules/consumer-proxy/.env.example" timestamp="1591929198952" />
       <file name="$USER_HOME$/Desktop/wsj/modules/cwsjconverter/lib/rssparser.js" timestamp="1591856775500" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/resp.svc.article/lib/template_config.js" timestamp="1591872466404" />
+      <file name="$USER_HOME$/Desktop/wsj/modules/consumer-proxy/lib/index.js" timestamp="1591928888053">
+        <mark key="[" line="1" column="14" />
+        <mark key="]" line="1" column="15" />
+        <mark key="^" line="1" column="15" />
+        <mark key="." line="1" column="14" />
+      </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/route/index.json" timestamp="1591873596382" />
-      <file name="$USER_HOME$/Desktop/wsj/modules/consumer-proxy/lib/config.json" timestamp="1591858036141" />
+      <file name="$USER_HOME$/Desktop/wsj/modules/consumer-proxy/lib/config.json" timestamp="1591929577767" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/module/articleBody.js" timestamp="1591872782978">
         <mark key="[" line="109" column="7" />
         <mark key="]" line="109" column="15" />
@@ -102,6 +106,12 @@
         <mark key="." line="109" column="14" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/layout/wsj_noted_magazine_article.mu" timestamp="1591872711808" />
+      <file name="$USER_HOME$/Desktop/wsj/modules/consumer-proxy/.env" timestamp="1591929196835">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="28" column="9" />
+        <mark key="." line="28" column="8" />
+        <mark key="^" line="28" column="9" />
+      </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/resp.svc.article/lib/articles_resource.js" timestamp="1591872373688" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/content/styles/article/puzzle.css" timestamp="1591869613985">
         <mark key="[" line="1" column="17" />
@@ -217,7 +227,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBjbGVhcjogbGVmdDsK</text>
+        <text encoding="base64">Q0FNUEFJR05fTU9OSVRPUl9BUElfS0VZPQpDT1VSVF9BUElfUEFTU1dPUkQ9CkNPVVJUX0FQSV9VU0VSTkFNRT0KREVMVEFYVVJMPQpESklTX0FVVEhfQ0xJRU5UX0lEPQpESklTX0FVVEhfUEFTU1dPUkQ9CkRKSVNfQVVUSF9VUkw9CkRKSVNfQVVUSF9VU0VSTkFNRT0KRE9DS0VUX0FMQVJNX1BBU1NXT1JEPQpET0NLRVRfQUxBUk1fVVNFUk5BTUU9CkRZTkFNT19BQ0NFU1NfS0VZX0lEPQpEWU5BTU9fUkVHSU9OPQpEWU5BTU9fU0VDUkVUX0FDQ0VTU19LRVk9CkVNQUlMX0dBVEVXQVlfQVBJX0RPTUFJTj0KRU1BSUxfR0FURVdBWV9BUElfVE9LRU49CkdBVEVXQVlfU01JX0VOVElUTEVNRU5UX1JFR0lPTl9QQVNTV09SRD0KR0FURVdBWV9TTUlfRU5USVRMRU1FTlRfUkVHSU9OX1VSTD0KR0FURVdBWV9TTUlfRU5USVRMRU1FTlRfUkVHSU9OX1VTRVJOQU1FPQpHUkFQSElDU19ET01BSU49CklERU5USVRZX1NNSV9BVVRIX0NMSUVOVF9JRD0KSURFTlRJVFlfU01JX0FVVEhfQ0xJRU5UX1NFQ1JFVD0KSURFTlRJVFlfU01JX0FVVEhfU0VSVkVSPQpJSFNfTUFSS0lUX0xFR0FMRU5USVRZPQpJSFNfTUFSS0lUX1BBU1NXT1JEPQpJSFNfTUFSS0lUX1VTRVJOQU1FPQpOT0RFX0VOVj0KUFJJVkFURV9BUElfQVVUSF9UT0tFTj0KU01JX0VOVElUTEVNRU5UX1NFQ1JFVD0KU01JX01BUktFVElOR19VUkw9ClNNSV9QUk9YWV9TRVJWRVJfRE9NQUlOPQpTVUdHRVNUX1NFUlZJQ0U9ClZFTlRVUkVTT1VSQ0VfU0VSVklDRT0KV1NKUFJPX0FJX1MzX1BSRUZJWD0KV1NKUFJPX0RPQ1VNRU5UU19TM19QUkVGSVg9CldTSlBST19FVkVOVFNfUzNfUFJFRklYPQpXU0pQUk9fTkVXU0xFVFRFUlNfUzNfUFJFRklYPQpXU0pQUk9fUzNfQlVDS0VUPQpXU0pQUk9fUzNfS0VZPQpXU0pQUk9fUzNfU0VDUkVUPQo=</text>
       </register>
       <register name="-" type="4">
         <text>-insets</text>
@@ -229,31 +239,31 @@
         <text encoding="base64">ICAgIENTU19QQVRIICsgJ2FydGljbGUvbmV3c2xldHRlci1pbnNldHMuY3NzJywK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjbGVhcjogbGVmdDsK</text>
+        <text encoding="base64">Q0FNUEFJR05fTU9OSVRPUl9BUElfS0VZPQpDT1VSVF9BUElfUEFTU1dPUkQ9CkNPVVJUX0FQSV9VU0VSTkFNRT0KREVMVEFYVVJMPQpESklTX0FVVEhfQ0xJRU5UX0lEPQpESklTX0FVVEhfUEFTU1dPUkQ9CkRKSVNfQVVUSF9VUkw9CkRKSVNfQVVUSF9VU0VSTkFNRT0KRE9DS0VUX0FMQVJNX1BBU1NXT1JEPQpET0NLRVRfQUxBUk1fVVNFUk5BTUU9CkRZTkFNT19BQ0NFU1NfS0VZX0lEPQpEWU5BTU9fUkVHSU9OPQpEWU5BTU9fU0VDUkVUX0FDQ0VTU19LRVk9CkVNQUlMX0dBVEVXQVlfQVBJX0RPTUFJTj0KRU1BSUxfR0FURVdBWV9BUElfVE9LRU49CkdBVEVXQVlfU01JX0VOVElUTEVNRU5UX1JFR0lPTl9QQVNTV09SRD0KR0FURVdBWV9TTUlfRU5USVRMRU1FTlRfUkVHSU9OX1VSTD0KR0FURVdBWV9TTUlfRU5USVRMRU1FTlRfUkVHSU9OX1VTRVJOQU1FPQpHUkFQSElDU19ET01BSU49CklERU5USVRZX1NNSV9BVVRIX0NMSUVOVF9JRD0KSURFTlRJVFlfU01JX0FVVEhfQ0xJRU5UX1NFQ1JFVD0KSURFTlRJVFlfU01JX0FVVEhfU0VSVkVSPQpJSFNfTUFSS0lUX0xFR0FMRU5USVRZPQpJSFNfTUFSS0lUX1BBU1NXT1JEPQpJSFNfTUFSS0lUX1VTRVJOQU1FPQpOT0RFX0VOVj0KUFJJVkFURV9BUElfQVVUSF9UT0tFTj0KU01JX0VOVElUTEVNRU5UX1NFQ1JFVD0KU01JX01BUktFVElOR19VUkw9ClNNSV9QUk9YWV9TRVJWRVJfRE9NQUlOPQpTVUdHRVNUX1NFUlZJQ0U9ClZFTlRVUkVTT1VSQ0VfU0VSVklDRT0KV1NKUFJPX0FJX1MzX1BSRUZJWD0KV1NKUFJPX0RPQ1VNRU5UU19TM19QUkVGSVg9CldTSlBST19FVkVOVFNfUzNfUFJFRklYPQpXU0pQUk9fTkVXU0xFVFRFUlNfUzNfUFJFRklYPQpXU0pQUk9fUzNfQlVDS0VUPQpXU0pQUk9fUzNfS0VZPQpXU0pQUk9fUzNfU0VDUkVUPQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBhbGlnbi1pdGVtczogY2VudGVyOwo=</text>
+        <text encoding="base64">ICBjbGVhcjogbGVmdDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBqdXN0aWZ5LWNvbnRlbnQ6IGNlbnRlcjsK</text>
+        <text encoding="base64">ICBhbGlnbi1pdGVtczogY2VudGVyOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB0ZXh0LWFsaWduOiBjZW50ZXI7Cg==</text>
+        <text encoding="base64">ICBqdXN0aWZ5LWNvbnRlbnQ6IGNlbnRlcjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PC9kaXY+Cg==</text>
+        <text encoding="base64">ICB0ZXh0LWFsaWduOiBjZW50ZXI7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICA8aDQgY2xhc3M9InN0cmFwIiBpdGVtcHJvcD0iZGVzY3JpcHRpb24iPlB1enpsZSBHYW1lPC9oND4K</text>
+        <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PGRpdiBjbGFzcz0ic3RyYXAtY29udGFpbmVyIj4K</text>
+        <text encoding="base64">ICA8aDQgY2xhc3M9InN0cmFwIiBpdGVtcHJvcD0iZGVzY3JpcHRpb24iPlB1enpsZSBHYW1lPC9oND4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBmbGV4LWRpcmVjdGlvbjogY29sdW1uOwo=</text>
+        <text encoding="base64">PGRpdiBjbGFzcz0ic3RyYXAtY29udGFpbmVyIj4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBkaXNwbGF5OiBmbGV4Owo=</text>
+        <text encoding="base64">ICBmbGV4LWRpcmVjdGlvbjogY29sdW1uOwo=</text>
       </register>
       <register name=":" type="4">
         <text>s/'/&quot;/g</text>

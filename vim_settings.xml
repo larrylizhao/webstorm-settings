@@ -85,14 +85,14 @@
         <mark key="^" line="45" column="119" />
         <mark key="." line="45" column="118" />
       </file>
-      <file name="/fragment.js" timestamp="1591932692427">
+      <file name="/fragment.js" timestamp="1592150385487">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/modules/consumer-proxy/lib/plugins/preProcess/puzzle/buildPuzzleURL.js" timestamp="1591955532606">
-        <mark key="[" line="3" column="12" />
-        <mark key="]" line="3" column="94" />
-        <mark key="^" line="3" column="94" />
-        <mark key="." line="3" column="93" />
+      <file name="$USER_HOME$/Desktop/wsj/modules/consumer-proxy/lib/plugins/preProcess/puzzle/buildPuzzleURL.js" timestamp="1592150990493">
+        <mark key="[" line="6" column="8" />
+        <mark key="]" line="6" column="12" />
+        <mark key="^" line="6" column="12" />
+        <mark key="." line="6" column="11" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/view/puzzle.mu" timestamp="1591869322702">
         <mark key="[" line="1" column="0" />
@@ -107,23 +107,23 @@
         <mark key="]" line="487" column="0" />
         <mark key="." line="487" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1592115087822">
+      <file name="/JavaScript Console" timestamp="1592150994424">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/resp.svc.article/lib/template_config.js" timestamp="1591872466404" />
       <file name="$USER_HOME$/Desktop/wsj/modules/consumer-proxy/lib/plugins/preProcess/common/attachQueryParams.js" timestamp="1591955353990" />
-      <file name="$USER_HOME$/Desktop/wsj/modules/consumer-proxy/lib/index.js" timestamp="1591952260712">
-        <mark key="[" line="1" column="14" />
-        <mark key="]" line="1" column="15" />
-        <mark key="^" line="1" column="15" />
-        <mark key="." line="1" column="14" />
+      <file name="$USER_HOME$/Desktop/wsj/modules/consumer-proxy/lib/index.js" timestamp="1592150392842">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="^" line="58" column="11" />
+        <mark key="." line="59" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/route/index.json" timestamp="1591873596382" />
-      <file name="$USER_HOME$/Desktop/wsj/modules/consumer-proxy/lib/config.json" timestamp="1592115074565">
-        <mark key="[" line="284" column="0" />
-        <mark key="]" line="284" column="0" />
-        <mark key="^" line="284" column="14" />
-        <mark key="." line="284" column="0" />
+      <file name="$USER_HOME$/Desktop/wsj/modules/consumer-proxy/lib/config.json" timestamp="1592150418436">
+        <mark key="[" line="275" column="39" />
+        <mark key="]" line="277" column="15" />
+        <mark key="^" line="277" column="15" />
+        <mark key="." line="277" column="14" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/module/articleBody.js" timestamp="1591872782978">
         <mark key="[" line="109" column="7" />
@@ -254,7 +254,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">fTsK</text>
+        <text encoding="base64">ICAgIHJldHVybiBvLmlkID09PSA7Cg==</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -266,31 +266,31 @@
         <text encoding="base64">V1NKUFJPX1MzX0JVQ0tFVD1kamNzLXByb2QK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fTsK</text>
+        <text encoding="base64">ICAgIHJldHVybiBvLmlkID09PSA7Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">fTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CmZ1bmN0aW9uIHJldmVyc2VDb250cm9sbGVyKHJlcSwgcmVzLCBvcHRpb25zKSB7CiAgbGV0IHIgPSBudWxsOwogIGlmICgvUE9TVHxQVVQvaS50ZXN0KHJlcS5tZXRob2QpKSB7IC8v5YGH5aaC5pivcG9zdO+8j3B1dOivt+axggogICAgciA9IHJlcXVlc3QucG9zdChPYmplY3QuYXNzaWduKG9wdGlvbnMsIHsganNvbjogcmVxLmJvZHkgfSkpCiAgICAgICAgLm9uKCdyZXNwb25zZScsIGZ1bmN0aW9uKHJlc3BvbnNlKSB7CiAgICAgICAgICAvLyDlk43lupTnm7jlupRwb3N0L3B1dOivt+axggogICAgICAgIH0pOwogICAgcmVxLnBpcGUocikucGlwZShyZXMpOwogIH0gZWxzZSB7CiAgICB2YXIgbWltZSA9ICcnOwogICAgdmFyIGlzR3ppcCA9IGZhbHNlOwogICAgciA9IHJlcXVlc3Qob3B0aW9ucykKICAgICAgICAub24oJ3Jlc3BvbnNlJywgZnVuY3Rpb24ocmVzcG9uc2UpIHsKICAgICAgICAgIG1pbWUgPSByZXNwb25zZS5oZWFkZXJzWydjb250ZW50LXR5cGUnXTsKICAgICAgICAgIGlmIChyZXNwb25zZS5oZWFkZXJzWydjb250ZW50LWVuY29kaW5nJ10gPT09ICdnemlwJykgewogICAgICAgICAgICBpc0d6aXAgPSB0cnVlOwogICAgICAgICAgfQogICAgICAgICAgcmVzLndyaXRlSGVhZChyZXNwb25zZS5zdGF0dXNDb2RlLCByZXNwb25zZS5oZWFkZXJzKTsKICAgICAgICB9KTsKICAgIC8vIHJlcSDlj6/or7vmtYEgPT3kvKDpgJJjaHVuaz09PiByIOWPr+WGmea1gSA9Pei/lOWbnuebruagh+a1geS8oOmAkmNodW5rPT0+IGNvbmNhdCDlj6/lhpnmtYEKICAgIHJlcS5waXBlKHIpLnBpcGUoY29uY2F0KGZ1bmN0aW9uKGJvZHkpIHsKICAgICAgcmVzLmVuZChib2R5KTsKICAgIH0pKTsKICB9Cn0K</text>
+        <text encoding="base64">fTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLy8g5oum5oiq5YaF5a6577yM5qC55o2ubWltZeWOu+WkhOeQhuS4jeWQjGJvZHkK</text>
+        <text encoding="base64">CmZ1bmN0aW9uIHJldmVyc2VDb250cm9sbGVyKHJlcSwgcmVzLCBvcHRpb25zKSB7CiAgbGV0IHIgPSBudWxsOwogIGlmICgvUE9TVHxQVVQvaS50ZXN0KHJlcS5tZXRob2QpKSB7IC8v5YGH5aaC5pivcG9zdO+8j3B1dOivt+axggogICAgciA9IHJlcXVlc3QucG9zdChPYmplY3QuYXNzaWduKG9wdGlvbnMsIHsganNvbjogcmVxLmJvZHkgfSkpCiAgICAgICAgLm9uKCdyZXNwb25zZScsIGZ1bmN0aW9uKHJlc3BvbnNlKSB7CiAgICAgICAgICAvLyDlk43lupTnm7jlupRwb3N0L3B1dOivt+axggogICAgICAgIH0pOwogICAgcmVxLnBpcGUocikucGlwZShyZXMpOwogIH0gZWxzZSB7CiAgICB2YXIgbWltZSA9ICcnOwogICAgdmFyIGlzR3ppcCA9IGZhbHNlOwogICAgciA9IHJlcXVlc3Qob3B0aW9ucykKICAgICAgICAub24oJ3Jlc3BvbnNlJywgZnVuY3Rpb24ocmVzcG9uc2UpIHsKICAgICAgICAgIG1pbWUgPSByZXNwb25zZS5oZWFkZXJzWydjb250ZW50LXR5cGUnXTsKICAgICAgICAgIGlmIChyZXNwb25zZS5oZWFkZXJzWydjb250ZW50LWVuY29kaW5nJ10gPT09ICdnemlwJykgewogICAgICAgICAgICBpc0d6aXAgPSB0cnVlOwogICAgICAgICAgfQogICAgICAgICAgcmVzLndyaXRlSGVhZChyZXNwb25zZS5zdGF0dXNDb2RlLCByZXNwb25zZS5oZWFkZXJzKTsKICAgICAgICB9KTsKICAgIC8vIHJlcSDlj6/or7vmtYEgPT3kvKDpgJJjaHVuaz09PiByIOWPr+WGmea1gSA9Pei/lOWbnuebruagh+a1geS8oOmAkmNodW5rPT0+IGNvbmNhdCDlj6/lhpnmtYEKICAgIHJlcS5waXBlKHIpLnBpcGUoY29uY2F0KGZ1bmN0aW9uKGJvZHkpIHsKICAgICAgcmVzLmVuZChib2R5KTsKICAgIH0pKTsKICB9Cn0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgaWYgKG1pbWUgJiYgbWltZS5pbmRleE9mKCJ0ZXh0L2h0bWw7IikgIT09IC0xKSAK</text>
+        <text encoding="base64">ICAgICAgLy8g5oum5oiq5YaF5a6577yM5qC55o2ubWltZeWOu+WkhOeQhuS4jeWQjGJvZHkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB2YXIgdXJsID0gQVBQX0NPTkYucmV2ZXJzZV91cmwgKyByZXEub3JpZ2luYWxVcmw7Cg==</text>
+        <text encoding="base64">ICAgICAgaWYgKG1pbWUgJiYgbWltZS5pbmRleE9mKCJ0ZXh0L2h0bWw7IikgIT09IC0xKSAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICB2YXIgdXJsID0gQVBQX0NPTkYucmV2ZXJzZV91cmwgKyByZXEub3JpZ2luYWxVcmw7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgLy9jb29raWU6IEFQUF9DT05GLmNvb2tpZQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>s/'/&quot;/g</text>

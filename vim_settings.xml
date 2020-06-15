@@ -85,14 +85,14 @@
         <mark key="^" line="45" column="119" />
         <mark key="." line="45" column="118" />
       </file>
-      <file name="/fragment.js" timestamp="1592150385487">
+      <file name="/fragment.js" timestamp="1592151028540">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/modules/consumer-proxy/lib/plugins/preProcess/puzzle/buildPuzzleURL.js" timestamp="1592150990493">
-        <mark key="[" line="6" column="8" />
-        <mark key="]" line="6" column="12" />
-        <mark key="^" line="6" column="12" />
-        <mark key="." line="6" column="11" />
+      <file name="$USER_HOME$/Desktop/wsj/modules/consumer-proxy/lib/plugins/preProcess/puzzle/buildPuzzleURL.js" timestamp="1592188527170">
+        <mark key="[" line="9" column="68" />
+        <mark key="]" line="9" column="67" />
+        <mark key="^" line="9" column="67" />
+        <mark key="." line="9" column="66" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/view/puzzle.mu" timestamp="1591869322702">
         <mark key="[" line="1" column="0" />
@@ -107,7 +107,7 @@
         <mark key="]" line="487" column="0" />
         <mark key="." line="487" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1592150994424">
+      <file name="/JavaScript Console" timestamp="1592188531825">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/resp.svc.article/lib/template_config.js" timestamp="1591872466404" />
@@ -253,11 +253,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBvLmlkID09PSA7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>matchingPath</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>matchingPath</text>
       </register>
       <register name="/" type="4">
         <text>search</text>

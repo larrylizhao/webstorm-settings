@@ -85,8 +85,8 @@
         <mark key="^" line="45" column="119" />
         <mark key="." line="45" column="118" />
       </file>
-      <file name="/fragment.js" timestamp="1592193252023">
-        <mark key="[" line="0" column="4" />
+      <file name="/fragment.js" timestamp="1592207762021">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
@@ -103,26 +103,30 @@
         <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/layout/wsj_resp_article_16u.mu" timestamp="1591873356303" />
-      <file name="$USER_HOME$/Desktop/wsj/modules/consumer-proxy/.env.example" timestamp="1591929198952" />
+      <file name="$USER_HOME$/Desktop/wsj/modules/consumer-proxy/.env.example" timestamp="1592207725131">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="85" />
+        <mark key="." line="28" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/wsj/modules/consumer-proxy/lib/proxy.js" timestamp="1592203706877">
         <mark key="[" line="46" column="0" />
         <mark key="]" line="47" column="0" />
         <mark key="." line="46" column="2" />
         <mark key="^" line="47" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1592203411277">
+      <file name="/JavaScript Console" timestamp="1592207732984">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/resp.svc.article/lib/template_config.js" timestamp="1591872466404" />
       <file name="$USER_HOME$/Desktop/wsj/modules/consumer-proxy/lib/plugins/preProcess/common/attachQueryParams.js" timestamp="1591955353990" />
-      <file name="$USER_HOME$/Desktop/wsj/modules/consumer-proxy/lib/index.js" timestamp="1592193330165">
+      <file name="$USER_HOME$/Desktop/wsj/modules/consumer-proxy/lib/index.js" timestamp="1592207766608">
         <mark key="[" line="59" column="0" />
         <mark key="]" line="59" column="0" />
         <mark key="^" line="58" column="11" />
         <mark key="." line="59" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/route/index.json" timestamp="1591873596382" />
-      <file name="$USER_HOME$/Desktop/wsj/modules/consumer-proxy/lib/config.json" timestamp="1592206614185">
+      <file name="$USER_HOME$/Desktop/wsj/modules/consumer-proxy/lib/config.json" timestamp="1592207685054">
         <mark key="[" line="277" column="0" />
         <mark key="]" line="277" column="0" />
         <mark key="." line="277" column="0" />
@@ -134,10 +138,10 @@
         <mark key="." line="109" column="14" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/layout/wsj_noted_magazine_article.mu" timestamp="1591872711808" />
-      <file name="$USER_HOME$/Desktop/wsj/modules/consumer-proxy/.env" timestamp="1591954549884">
+      <file name="$USER_HOME$/Desktop/wsj/modules/consumer-proxy/.env" timestamp="1592207721133">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="28" column="25" />
-        <mark key="]" line="29" column="7" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="85" />
         <mark key="." line="29" column="6" />
         <mark key="^" line="29" column="7" />
       </file>
@@ -256,7 +260,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">V1NKQkxPR19TM19FTkRQT0lOVD1odHRwczovL3MzLmFtYXpvbmF3cy5jb20vZGpjcy1wcm9kL3B1YmxpYy9ibG9ncy9wdXp6bGVzL2Nyb3Nzd29yZAo=</text>
       </register>
       <register name="-" type="4">
         <text>]</text>
@@ -265,7 +269,7 @@
         <text>search</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">V1NKUFJPX1MzX0JVQ0tFVD1kamNzLXByb2QK</text>
+        <text encoding="base64">V1NKQkxPR19TM19FTkRQT0lOVD1odHRwczovL3MzLmFtYXpvbmF3cy5jb20vZGpjcy1wcm9kL3B1YmxpYy9ibG9ncy9wdXp6bGVzL2Nyb3Nzd29yZAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>

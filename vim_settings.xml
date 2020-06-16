@@ -141,7 +141,7 @@
         <mark key="." line="29" column="6" />
         <mark key="^" line="29" column="7" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/resp.svc.article/lib/articles_resource.js" timestamp="1591872373688" />
+      <file name="$USER_HOME$/Desktop/wsj/modules/wsjlite/lib/handler.js" timestamp="1592301805342" />
       <file name="$USER_HOME$/Desktop/wsj/modules/wsjlite/lib/env.js" timestamp="1592294235007" />
       <file name="$USER_HOME$/Desktop/wsj/modules/consumer-proxy/lib/s3-stream.js" timestamp="1591953412823" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/page/wsj_noted_magazine_article.json" timestamp="1591872773445" />

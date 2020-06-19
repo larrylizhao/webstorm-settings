@@ -79,12 +79,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Desktop/wsj/modules/consumer-proxy/lib/pib-auth.js" timestamp="1591955806555">
-        <mark key="[" line="45" column="112" />
-        <mark key="]" line="45" column="119" />
-        <mark key="^" line="45" column="119" />
-        <mark key="." line="45" column="118" />
-      </file>
       <file name="/fragment.js" timestamp="1592558053771">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
@@ -110,7 +104,7 @@
         <mark key="." line="46" column="2" />
         <mark key="^" line="46" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1592558060466">
+      <file name="/JavaScript Console" timestamp="1592558138111">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/svc/getArticle.js" timestamp="1592556589416" />

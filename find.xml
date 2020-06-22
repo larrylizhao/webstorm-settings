@@ -16,8 +16,8 @@
     <mask>*.json</mask>
     <mask>*.</mask>
     <mask>spec.js</mask>
-    <mask>*.js</mask>
     <mask>*.css</mask>
     <mask>*.mu</mask>
+    <mask>*.js</mask>
   </component>
 </application>

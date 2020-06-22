@@ -79,62 +79,33 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Desktop/wsj/modules/consumer-proxy/lib/pib-auth.js" timestamp="1591955806555">
-        <mark key="[" line="45" column="112" />
-        <mark key="]" line="45" column="119" />
-        <mark key="^" line="45" column="119" />
-        <mark key="." line="45" column="118" />
-      </file>
       <file name="/fragment.js" timestamp="1592207762021">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/modules/consumer-proxy/lib/plugins/preProcess/puzzle/buildPuzzleURL.js" timestamp="1592203400994">
-        <mark key="[" line="5" column="32" />
-        <mark key="]" line="5" column="24" />
-        <mark key="." line="5" column="23" />
-        <mark key="^" line="5" column="24" />
-      </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routesInternational/routeConfig.json" timestamp="1592281360383" />
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routesInternational/index.js" timestamp="1592315685695" />
+      <file name="$USER_HOME$/Desktop/wsj/modules/wsjlite/lib/shared/aws-s3.js" timestamp="1592379159955" />
+      <file name="$USER_HOME$/Desktop/wsj/modules/wsjlite/lib/handler.js" timestamp="1592301805342" />
       <file name="$USER_HOME$/Desktop/wsj/modules/consumer-proxy/.env.example" timestamp="1592209616523">
         <mark key="[" line="38" column="17" />
         <mark key="]" line="39" column="20" />
         <mark key="^" line="39" column="20" />
         <mark key="." line="39" column="19" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/modules/consumer-proxy/lib/proxy.js" timestamp="1592203706877">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="2" />
-        <mark key="^" line="46" column="0" />
-      </file>
-      <file name="/JavaScript Console" timestamp="1592209422585">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/wsj/modules/consumer-proxy/lib/plugins/preProcess/common/attachQueryParams.js" timestamp="1591955353990" />
-      <file name="$USER_HOME$/Desktop/wsj/modules/consumer-proxy/lib/index.js" timestamp="1592279623602">
-        <mark key="[" line="1" column="14" />
-        <mark key="]" line="1" column="14" />
-        <mark key="^" line="57" column="11" />
-        <mark key="." line="1" column="14" />
-      </file>
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/route/index.json" timestamp="1591873596382" />
       <file name="$USER_HOME$/Desktop/wsj/modules/consumer-proxy/lib/config.json" timestamp="1592209769845">
         <mark key="[" line="11" column="15" />
         <mark key="]" line="11" column="22" />
         <mark key="." line="11" column="21" />
         <mark key="^" line="11" column="22" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/module/articleBody.js" timestamp="1591872782978">
-        <mark key="[" line="109" column="7" />
-        <mark key="]" line="109" column="15" />
-        <mark key="^" line="109" column="15" />
-        <mark key="." line="109" column="14" />
+      <file name="/JavaScript Console" timestamp="1592209422585">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routesInternational/docker.yml" timestamp="1592402840056">
-        <mark key="[" line="23" column="37" />
+      <file name="$USER_HOME$/Desktop/wsj/modules/consumer-proxy/lib/proxy.js" timestamp="1592203706877">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="2" />
+        <mark key="^" line="46" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/modules/consumer-proxy/.env" timestamp="1592209613403">
         <mark key="'" line="0" column="0" />
@@ -143,10 +114,29 @@
         <mark key="." line="29" column="6" />
         <mark key="^" line="29" column="7" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/modules/wsjlite/lib/handler.js" timestamp="1592301805342" />
-      <file name="$USER_HOME$/Desktop/wsj/modules/wsjlite/lib/env.js" timestamp="1592294235007" />
-      <file name="$USER_HOME$/Desktop/wsj/modules/consumer-proxy/lib/s3-stream.js" timestamp="1591953412823" />
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/page/wsj_noted_magazine_article.json" timestamp="1591872773445" />
+      <file name="$USER_HOME$/Desktop/wsj/modules/wsjlite/lib/service/articles.js" timestamp="1592383484510" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/shared/services/examineRedirect/redirectConfig.json" timestamp="1592792666341" />
+      <file name="$USER_HOME$/Desktop/wsj/modules/consumer-proxy/lib/index.js" timestamp="1592279623602">
+        <mark key="[" line="1" column="14" />
+        <mark key="]" line="1" column="14" />
+        <mark key="^" line="57" column="11" />
+        <mark key="." line="1" column="14" />
+      </file>
+      <file name="$USER_HOME$/Desktop/wsj/modules/consumer-proxy/lib/pib-auth.js" timestamp="1591955806555">
+        <mark key="[" line="45" column="112" />
+        <mark key="]" line="45" column="119" />
+        <mark key="^" line="45" column="119" />
+        <mark key="." line="45" column="118" />
+      </file>
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routesInternational/docker.yml" timestamp="1592402840056">
+        <mark key="[" line="23" column="37" />
+      </file>
+      <file name="$USER_HOME$/Desktop/wsj/modules/consumer-proxy/lib/plugins/preProcess/puzzle/buildPuzzleURL.js" timestamp="1592203400994">
+        <mark key="[" line="5" column="32" />
+        <mark key="]" line="5" column="24" />
+        <mark key="." line="5" column="23" />
+        <mark key="^" line="5" column="24" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="86" column="15" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/test/routesInternational-test.js" />

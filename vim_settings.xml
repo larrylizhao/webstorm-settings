@@ -96,10 +96,11 @@
       <file name="/JavaScript Console" timestamp="1592558138111">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/WSJBlog/Puzzle/content/index.js" timestamp="1592901100323">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/WSJBlog/Puzzle/content/index.js" timestamp="1592903235955">
+        <mark key="[" line="4" column="15" />
+        <mark key="]" line="30" column="23" />
+        <mark key="." line="30" column="22" />
+        <mark key="^" line="30" column="23" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/svc/getArticle.js" timestamp="1592556589416" />
       <file name="$USER_HOME$/Desktop/wsj/modules/consumer-proxy/lib/index.js" timestamp="1592279623602">

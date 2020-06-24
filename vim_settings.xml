@@ -84,12 +84,23 @@
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routesInternational/index.js" timestamp="1592315685695" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routesInternational/docker.yml" timestamp="1592402840056">
+        <mark key="[" line="23" column="37" />
+      </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/WSJBlog/Puzzle/pageData.json" timestamp="1592985684058">
         <mark key="[" line="21" column="75" />
         <mark key="]" line="22" column="60" />
         <mark key="." line="22" column="59" />
         <mark key="^" line="22" column="60" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1592558138111">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/wsj/akanode.app/conf/www.s.dev.wsj.com.json" timestamp="1592986989326">
+        <mark key="[" line="239" column="15" />
+        <mark key="]" line="239" column="21" />
+        <mark key="^" line="239" column="21" />
+        <mark key="." line="239" column="20" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/WSJBlog/Puzzle/content/index.js" timestamp="1592985651202">
         <mark key="[" line="4" column="15" />
@@ -97,20 +108,6 @@
         <mark key="." line="30" column="22" />
         <mark key="^" line="30" column="23" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routesInternational/docker.yml" timestamp="1592402840056">
-        <mark key="[" line="23" column="37" />
-      </file>
-      <file name="$USER_HOME$/Desktop/wsj/modules/wsjlite/lib/env.js" timestamp="1592294235007" />
-      <file name="$USER_HOME$/Desktop/wsj/akanode.app/conf/www.s.dev.wsj.com.json" timestamp="1592986407177" />
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routesInternational/routeConfig.json" timestamp="1592281360383" />
-      <file name="/JavaScript Console" timestamp="1592558138111">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/svc/getArticle.js" timestamp="1592556589416" />
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/resp.svc.article/lib/articles_dao_service.js" timestamp="1592908939060" />
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routes/routeConfig.json" timestamp="1592908783354" />
-      <file name="$USER_HOME$/Desktop/wsj/modules/wsjlite/lib/handler.js" timestamp="1592301805342" />
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/WSJBlog/Puzzle/presentation/8u/Articles/LeadBucketsRow.js" timestamp="1592986402803" />
     </filemarks>
     <jumps>
       <jump line="86" column="15" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/test/routesInternational-test.js" />
@@ -217,17 +214,17 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgImNhcHMiOiAiVVNfU2VjdGlvbl9Gcm9udF8xIiwK</text>
+      <register name="&quot;" type="4">
+        <text>-report</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>-report</text>
       </register>
       <register name="/" type="4">
         <text>search</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">V1NKQkxPR19TM19FTkRQT0lOVD1odHRwczovL3MzLmFtYXpvbmF3cy5jb20vZGpjcy1wcm9kL3B1YmxpYy9ibG9ncy9wdXp6bGVzL2Nyb3Nzd29yZAo=</text>
+        <text encoding="base64">ICAgICAgICAiL25ld3MvZXhwZXJpZW5jZS1yZXBvcnQiLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgImNhcHMiOiAiVVNfU2VjdGlvbl9Gcm9udF8xIiwK</text>

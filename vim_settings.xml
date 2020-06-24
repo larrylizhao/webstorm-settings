@@ -85,37 +85,32 @@
         <mark key="." line="0" column="4" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routesInternational/index.js" timestamp="1592315685695" />
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/WSJBlog/Puzzle/pageData.json" timestamp="1592900804329" />
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/WSJBlog/Puzzle/content/index.js" timestamp="1592903235955">
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/WSJBlog/Puzzle/pageData.json" timestamp="1592985684058">
+        <mark key="[" line="21" column="75" />
+        <mark key="]" line="22" column="60" />
+        <mark key="." line="22" column="59" />
+        <mark key="^" line="22" column="60" />
+      </file>
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/WSJBlog/Puzzle/content/index.js" timestamp="1592985651202">
         <mark key="[" line="4" column="15" />
         <mark key="]" line="30" column="23" />
         <mark key="." line="30" column="22" />
         <mark key="^" line="30" column="23" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/modules/consumer-proxy/lib/config.json" timestamp="1592209769845">
-        <mark key="[" line="11" column="15" />
-        <mark key="]" line="11" column="22" />
-        <mark key="." line="11" column="21" />
-        <mark key="^" line="11" column="22" />
-      </file>
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routesInternational/docker.yml" timestamp="1592402840056">
         <mark key="[" line="23" column="37" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/modules/wsjlite/lib/env.js" timestamp="1592294235007" />
+      <file name="$USER_HOME$/Desktop/wsj/akanode.app/conf/www.s.dev.wsj.com.json" timestamp="1592986407177" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routesInternational/routeConfig.json" timestamp="1592281360383" />
       <file name="/JavaScript Console" timestamp="1592558138111">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/svc/getArticle.js" timestamp="1592556589416" />
-      <file name="$USER_HOME$/Desktop/wsj/modules/consumer-proxy/lib/index.js" timestamp="1592279623602">
-        <mark key="[" line="1" column="14" />
-        <mark key="]" line="1" column="14" />
-        <mark key="^" line="57" column="11" />
-        <mark key="." line="1" column="14" />
-      </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/resp.svc.article/lib/articles_dao_service.js" timestamp="1592908939060" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routes/routeConfig.json" timestamp="1592908783354" />
       <file name="$USER_HOME$/Desktop/wsj/modules/wsjlite/lib/handler.js" timestamp="1592301805342" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/WSJBlog/Puzzle/presentation/8u/Articles/LeadBucketsRow.js" timestamp="1592986402803" />
     </filemarks>
     <jumps>
       <jump line="86" column="15" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/test/routesInternational-test.js" />
@@ -223,7 +218,7 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAvLyB9Cg==</text>
+        <text encoding="base64">ICAgICAgImNhcHMiOiAiVVNfU2VjdGlvbl9Gcm9udF8xIiwK</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
@@ -235,46 +230,31 @@
         <text encoding="base64">V1NKQkxPR19TM19FTkRQT0lOVD1odHRwczovL3MzLmFtYXpvbmF3cy5jb20vZGpjcy1wcm9kL3B1YmxpYy9ibG9ncy9wdXp6bGVzL2Nyb3Nzd29yZAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvLyB9Cg==</text>
+        <text encoding="base64">ICAgICAgImNhcHMiOiAiVVNfU2VjdGlvbl9Gcm9udF8xIiwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvLyBjb250ZW50X2V4cDogewogIC8vICAgdHlwZTogJ2NvbnN1bWVyX2NvcnBoYXQnLCAvL2NvcnJlc3BvbmRpbmcgdG8gZGF0YS1wcm92aWRlciB0eXBlCiAgLy8gICBpZDogJ2NvcnBoYXQnCg==</text>
+        <text encoding="base64">ICAgICAgImRuc2EiOiAiV1NKVVMiLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZG5zYTogeyAkY29udGV4dDogJyMvcGFnZUNvbmZpZy9kbnNhJyB9Cg==</text>
+        <text encoding="base64">ICAvLyB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgY2FwczogeyAkY29udGV4dDogJyMvcGFnZUNvbmZpZy9jYXBzJyB9LAo=</text>
+        <text encoding="base64">ICAvLyBjb250ZW50X2V4cDogewogIC8vICAgdHlwZTogJ2NvbnN1bWVyX2NvcnBoYXQnLCAvL2NvcnJlc3BvbmRpbmcgdG8gZGF0YS1wcm92aWRlciB0eXBlCiAgLy8gICBpZDogJ2NvcnBoYXQnCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBhbGxvd0VtcHR5VmFsdWVzOiB0cnVlCg==</text>
+        <text encoding="base64">ICAgICAgZG5zYTogeyAkY29udGV4dDogJyMvcGFnZUNvbmZpZy9kbnNhJyB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY2FwczogeyAkY29udGV4dDogJyMvcGFnZUNvbmZpZy9jYXBzJyB9LAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJwYXJhbXMiOiB7CiAgICAgICJkYXRlIjogIiRRVUVSWV9TVFJJTkc6ZGF0ZSIsCiAgICAgICJudW1iZXIiOiAiJFFVRVJZX1NUUklORzpudW1iZXIiCiAgICB9LA==</text>
+        <text encoding="base64">ICBhbGxvd0VtcHR5VmFsdWVzOiB0cnVlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>{
-    &quot;id&quot;: &quot;/puzzle/crossword/s3&quot;,
-    &quot;params&quot;: {
-      &quot;date&quot;: &quot;$QUERY_STRING:date&quot;,
-      &quot;number&quot;: &quot;$QUERY_STRING:number&quot;
-    },
-    &quot;type&quot;: &quot;s3-stream&quot;,
-    &quot;ttl&quot;: &quot;60&quot;,
-    &quot;accessKey&quot;: &quot;$ENV:WSJPRO_S3_KEY&quot;,
-    &quot;accessSecret&quot;: &quot;$ENV:WSJPRO_S3_SECRET&quot;,
-    &quot;bucket&quot;: &quot;$ENV:WSJBLOG_S3_BUCKET&quot;,
-    &quot;prefix&quot;: &quot;$ENV:WSJBLOG_PUZZLE_S3_PREFIX&quot;,
-    &quot;region&quot;: &quot;us-east-1&quot;,
-    &quot;access&quot;: &quot;public&quot;,
-    &quot;accessRoles&quot;: [&quot;WSJ-PRO-CYBER&quot;]
-  }</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICJwYXJhbXMiOiB7CiAgICAgICJkYXRlIjogIiRRVUVSWV9TVFJJTkc6ZGF0ZSIsCiAgICAgICJudW1iZXIiOiAiJFFVRVJZX1NUUklORzpudW1iZXIiCiAgICB9LA==</text>
       </register>
       <register name=":" type="4">
         <text>s/'/&quot;/g</text>

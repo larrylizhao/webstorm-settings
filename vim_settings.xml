@@ -80,11 +80,13 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/resp.svc.article/lib/redirect_config.js" timestamp="1593399233100">
-        <mark key="[" line="41" column="87" />
+        <mark key="[" line="40" column="87" />
         <mark key="]" line="42" column="94" />
         <mark key="^" line="42" column="94" />
         <mark key="." line="42" column="93" />
       </file>
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/resp.svc.article/lib/articles_service.js" timestamp="1593412797106" />
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/resp.svc.article/lib/articles_resource.js" timestamp="1593412804185" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routesInternational/index.js" timestamp="1593402545138" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routesInternational/docker.yml" timestamp="1592402840056">
         <mark key="[" line="23" column="37" />

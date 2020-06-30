@@ -118,11 +118,11 @@
         <mark key="." line="30" column="22" />
         <mark key="^" line="30" column="23" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/tf-cloudfront-www.wsj.com/base/minSetSize.js" timestamp="1593529840176">
-        <mark key="[" line="4" column="32" />
-        <mark key="]" line="19" column="2" />
-        <mark key="^" line="19" column="2" />
-        <mark key="." line="19" column="1" />
+      <file name="$USER_HOME$/Desktop/wsj/tf-cloudfront-www.wsj.com/base/minSetSize.js" timestamp="1593532263045">
+        <mark key="[" line="24" column="8" />
+        <mark key="]" line="10" column="15" />
+        <mark key="^" line="32" column="2" />
+        <mark key="." line="10" column="15" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/wsj/WSJFooter/index.js" timestamp="1593500297158" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/view/media-objects/dynamic-inset.mu" timestamp="1593233729188" />
@@ -233,10 +233,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>-report</text>
+        <text>rtn</text>
       </register>
       <register name="-" type="4">
-        <text>-report</text>
+        <text>rtn</text>
       </register>
       <register name="/" type="4">
         <text>search</text>

@@ -105,7 +105,7 @@
         <mark key="." line="40" column="0" />
         <mark key="^" line="40" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1593680573811">
+      <file name="/JavaScript Console" timestamp="1593682678105">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/akanode.app/conf/www.s.dev.wsj.com.json" timestamp="1592988165086">
@@ -131,6 +131,7 @@
       </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/svc/retrieveArticleBodyData.js" timestamp="1593681080507" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/resp.svc.article/lib/articles_service.js" timestamp="1593681423247" />
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/resp.svc.article/lib/articles_dao_service.js" timestamp="1593682730289" />
     </filemarks>
     <jumps>
       <jump line="186" column="5" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/test/routesInternational-test.js" />

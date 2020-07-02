@@ -87,15 +87,14 @@
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routes/routeConfig.json" timestamp="1593508996262" />
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routesInternational/routeConfig.json" timestamp="1593158030201" />
+      <file name="$USER_HOME$/Desktop/wsj/tf-lambda-edge-redirector/config/blogs/blogs-barrons.json" timestamp="1593676974325" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/page/wsj_resp_article_16u.json" timestamp="1593504301857">
         <mark key="[" line="509" column="7" />
         <mark key="]" line="509" column="7" />
         <mark key="^" line="509" column="7" />
         <mark key="." line="509" column="6" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routesInternational/index.js" timestamp="1593159587918" />
+      <file name="$USER_HOME$/Desktop/wsj/tf-lambda-edge-redirector/config/cn-wsj/cn-wsj-legacy.json" timestamp="1593676339839" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/WSJBlog/Puzzle/pageData.json" timestamp="1592985684058">
         <mark key="[" line="21" column="75" />
         <mark key="]" line="22" column="60" />
@@ -108,7 +107,7 @@
         <mark key="." line="40" column="0" />
         <mark key="^" line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/content/scripts/newsletter-signup-inview.js" timestamp="1593233613657" />
+      <file name="$USER_HOME$/Desktop/wsj/tf-lambda-edge-redirector/base/lambda.tf" timestamp="1593676920181" />
       <file name="/JavaScript Console" timestamp="1593591810832">
         <mark key="[" line="0" column="0" />
       </file>
@@ -130,8 +129,7 @@
         <mark key="^" line="32" column="2" />
         <mark key="." line="10" column="15" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/web-ui/lib/components/wsj/WSJFooter/index.js" timestamp="1593500297158" />
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/view/media-objects/dynamic-inset.mu" timestamp="1593233729188" />
+      <file name="$USER_HOME$/Desktop/wsj/tf-lambda-edge-redirector/config/jp-wsj/jp-wsj-vanities.json" timestamp="1593676404965" />
     </filemarks>
     <jumps>
       <jump line="86" column="15" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/test/routesInternational-test.js" />

@@ -79,45 +79,27 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1593655714235">
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routesInternational/routeConfig.json" timestamp="1593766477223" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routesInternational/index.js" timestamp="1593766493574" />
+      <file name="$USER_HOME$/Desktop/wsj/tf-cloudfront-cn.wsj.com/base/cn-cloudfront.tf" timestamp="1593766174913" />
+      <file name="/JavaScript Console" timestamp="1593750766259">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/assets/webpack-config/css-entries.js" timestamp="1593759747281" />
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/public/wsj_resp_article_16u.async.css" timestamp="1593759554745" />
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/svc/getArticle.js" timestamp="1593680710450">
+        <mark key="'" line="209" column="6" />
+      </file>
+      <file name="$USER_HOME$/Desktop/wsj/tf-cloudfront-jp.wsj.com/base/jp-cloudfront.tf" timestamp="1593766243651" />
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/svc/retrieveArticleBodyData.js" timestamp="1593681080507" />
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/resp.svc.article/lib/articles_dao_service.js" timestamp="1593694149877" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/page/wsj_resp_article_16u.json" timestamp="1593759711592">
         <mark key="[" line="509" column="7" />
         <mark key="]" line="509" column="7" />
         <mark key="^" line="509" column="7" />
         <mark key="." line="509" column="6" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/tf-cloudfront-www.wsj.com/base/test.js" timestamp="1593655653123">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
-        <mark key="^" line="40" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/wsj/tf-cloudfront-cn.wsj.com/base/cn-cloudfront.tf" timestamp="1593763346768" />
-      <file name="/JavaScript Console" timestamp="1593750766259">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/assets/webpack-config/css-entries.js" timestamp="1593759747281" />
-      <file name="$USER_HOME$/Desktop/wsj/akanode.app/conf/www.s.dev.wsj.com.json" timestamp="1592988165086">
-        <mark key="[" line="239" column="15" />
-        <mark key="]" line="239" column="21" />
-        <mark key="^" line="239" column="21" />
-        <mark key="." line="239" column="20" />
-      </file>
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/public/wsj_resp_article_16u.async.css" timestamp="1593759554745" />
-      <file name="$USER_HOME$/Desktop/wsj/tf-cloudfront-www.wsj.com/base/minSetSize.js" timestamp="1593661084268">
-        <mark key="[" line="28" column="18" />
-        <mark key="]" line="10" column="15" />
-        <mark key="^" line="32" column="2" />
-        <mark key="." line="10" column="15" />
-      </file>
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/svc/getArticle.js" timestamp="1593680710450">
-        <mark key="'" line="209" column="6" />
-      </file>
-      <file name="$USER_HOME$/Desktop/wsj/tf-cloudfront-jp.wsj.com/base/jp-cloudfront.tf" timestamp="1593763214360" />
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/svc/retrieveArticleBodyData.js" timestamp="1593681080507" />
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/resp.svc.article/lib/articles_dao_service.js" timestamp="1593694149877" />
+      <file name="$USER_HOME$/Desktop/wsj/modules/wsjlite/lib/env.js" timestamp="1593766947459" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/assets/webpack-config/entries.js" timestamp="1593759988129" />
     </filemarks>
     <jumps>

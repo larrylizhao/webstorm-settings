@@ -88,18 +88,13 @@
         <mark key="^" line="509" column="7" />
         <mark key="." line="509" column="6" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/WSJBlog/Puzzle/pageData.json" timestamp="1592985684058">
-        <mark key="[" line="21" column="75" />
-        <mark key="]" line="22" column="60" />
-        <mark key="." line="22" column="59" />
-        <mark key="^" line="22" column="60" />
-      </file>
       <file name="$USER_HOME$/Desktop/wsj/tf-cloudfront-www.wsj.com/base/test.js" timestamp="1593655653123">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
         <mark key="^" line="40" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/wsj/tf-cloudfront-cn.wsj.com/base/cn-cloudfront.tf" timestamp="1593763346768" />
       <file name="/JavaScript Console" timestamp="1593750766259">
         <mark key="[" line="0" column="0" />
       </file>
@@ -111,12 +106,6 @@
         <mark key="." line="239" column="20" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/public/wsj_resp_article_16u.async.css" timestamp="1593759554745" />
-      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/WSJBlog/Puzzle/content/index.js" timestamp="1592985651202">
-        <mark key="[" line="4" column="15" />
-        <mark key="]" line="30" column="23" />
-        <mark key="." line="30" column="22" />
-        <mark key="^" line="30" column="23" />
-      </file>
       <file name="$USER_HOME$/Desktop/wsj/tf-cloudfront-www.wsj.com/base/minSetSize.js" timestamp="1593661084268">
         <mark key="[" line="28" column="18" />
         <mark key="]" line="10" column="15" />
@@ -126,6 +115,7 @@
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/svc/getArticle.js" timestamp="1593680710450">
         <mark key="'" line="209" column="6" />
       </file>
+      <file name="$USER_HOME$/Desktop/wsj/tf-cloudfront-jp.wsj.com/base/jp-cloudfront.tf" timestamp="1593763214360" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/svc/retrieveArticleBodyData.js" timestamp="1593681080507" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/resp.svc.article/lib/articles_dao_service.js" timestamp="1593694149877" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/assets/webpack-config/entries.js" timestamp="1593759988129" />

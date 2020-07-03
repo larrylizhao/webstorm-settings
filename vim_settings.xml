@@ -82,12 +82,7 @@
       <file name="/Dummy.txt" timestamp="1593655714235">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.js" timestamp="1592558053771">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="4" />
-        <mark key="." line="0" column="4" />
-      </file>
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/page/wsj_resp_article_16u.json" timestamp="1593504301857">
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/page/wsj_resp_article_16u.json" timestamp="1593759711592">
         <mark key="[" line="509" column="7" />
         <mark key="]" line="509" column="7" />
         <mark key="^" line="509" column="7" />
@@ -108,12 +103,14 @@
       <file name="/JavaScript Console" timestamp="1593750766259">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/assets/webpack-config/css-entries.js" timestamp="1593759747281" />
       <file name="$USER_HOME$/Desktop/wsj/akanode.app/conf/www.s.dev.wsj.com.json" timestamp="1592988165086">
         <mark key="[" line="239" column="15" />
         <mark key="]" line="239" column="21" />
         <mark key="^" line="239" column="21" />
         <mark key="." line="239" column="20" />
       </file>
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/public/wsj_resp_article_16u.async.css" timestamp="1593759554745" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/WSJBlog/Puzzle/content/index.js" timestamp="1592985651202">
         <mark key="[" line="4" column="15" />
         <mark key="]" line="30" column="23" />
@@ -131,6 +128,7 @@
       </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/svc/retrieveArticleBodyData.js" timestamp="1593681080507" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/resp.svc.article/lib/articles_dao_service.js" timestamp="1593694149877" />
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/assets/webpack-config/entries.js" timestamp="1593759886894" />
     </filemarks>
     <jumps>
       <jump line="186" column="5" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/test/routesInternational-test.js" />

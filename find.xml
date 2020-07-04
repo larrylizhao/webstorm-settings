@@ -23,5 +23,6 @@
     <mask>*.mu</mask>
     <mask>*.js</mask>
     <mask>*.json</mask>
+    <mask>*css</mask>
   </component>
 </application>

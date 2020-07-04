@@ -79,10 +79,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/view/media-objects/video.mu" timestamp="1593868080795" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routesInternational/routeConfig.json" timestamp="1593766477223" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routesInternational/index.js" timestamp="1593766493574" />
       <file name="$USER_HOME$/Desktop/wsj/tf-cloudfront-cn.wsj.com/base/cn-cloudfront.tf" timestamp="1593856776317" />
-      <file name="/JavaScript Console" timestamp="1593750766259">
+      <file name="/JavaScript Console" timestamp="1593868318360">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/assets/webpack-config/css-entries.js" timestamp="1593866029484">
@@ -94,11 +95,7 @@
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/public/wsj_resp_article_16u.async.css" timestamp="1593759554745" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/module/wsj/breadcrumbs.js" timestamp="1593768030162" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/view/media-objects/podcast.mu" timestamp="1593857145794" />
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/svc/getArticle.js" timestamp="1593680710450">
-        <mark key="'" line="209" column="6" />
-      </file>
       <file name="$USER_HOME$/Desktop/wsj/tf-cloudfront-jp.wsj.com/base/jp-cloudfront.tf" timestamp="1593767962601" />
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/svc/retrieveArticleBodyData.js" timestamp="1593681080507" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/resp.svc.article/lib/articles_dao_service.js" timestamp="1593768315781">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
@@ -106,12 +103,13 @@
       </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/content/styles/media_object/media-podcast.css" timestamp="1593857129179" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/assets/webpack-config/webpack.dev.js" timestamp="1593862986536" />
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/page/wsj_resp_article_16u.json" timestamp="1593865946239">
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/page/wsj_resp_article_16u.json" timestamp="1593868298739">
         <mark key="[" line="509" column="7" />
         <mark key="]" line="509" column="7" />
         <mark key="^" line="509" column="7" />
         <mark key="." line="509" column="6" />
       </file>
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/view/media-objects.mu" timestamp="1593868025502" />
       <file name="$USER_HOME$/Desktop/wsj/modules/wsjlite/lib/env.js" timestamp="1593766947459" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/assets/webpack-config/entries.js" timestamp="1593866116385" />
     </filemarks>

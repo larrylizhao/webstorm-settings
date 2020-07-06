@@ -83,7 +83,7 @@
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/view/puzzle.mu" timestamp="1594006362406" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/layout/wsj_resp_article_16u.mu" timestamp="1594018618665" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/view/asset/styles.mu" timestamp="1594018682848" />
-      <file name="/JavaScript Console" timestamp="1594004844120">
+      <file name="/JavaScript Console" timestamp="1594020226472">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/assets/webpack-config/css-entries.js" timestamp="1594006804899">
@@ -93,11 +93,12 @@
       </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/public/wsj_resp_article_16u.async.css" timestamp="1594018399154" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/module/articleBody.js" timestamp="1594006331667" />
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/page/wsj_resp_article_16u.json" timestamp="1594019235954">
-        <mark key="[" line="214" column="27" />
-        <mark key="]" line="214" column="30" />
-        <mark key="^" line="214" column="30" />
-        <mark key="." line="214" column="29" />
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/dist/wsj_resp_article_16u.critical.css" timestamp="1594020257407" />
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/page/wsj_resp_article_16u.json" timestamp="1594019480421">
+        <mark key="[" line="103" column="40" />
+        <mark key="]" line="104" column="30" />
+        <mark key="^" line="104" column="30" />
+        <mark key="." line="104" column="29" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/resp.svc.article/lib/critical_styles_service.js" timestamp="1594019405711" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/content/styles/media_object/media-caption.css" timestamp="1594004161670" />
@@ -212,11 +213,11 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIENTU19QQVRIICsgJ2FydGljbGUvcHV6emxlLmNzcycsCg==</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Y29uc29sZS5sb2coJ3RvdGFsID0+JywgdG90YWwpOw==</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>search</text>
@@ -225,31 +226,31 @@
         <text encoding="base64">ICAgICAgICAiL25ld3MvZXhwZXJpZW5jZS1yZXBvcnQiLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIENTU19QQVRIICsgJ2FydGljbGUvcHV6emxlLmNzcycsCg==</text>
+        <text encoding="base64">ICAgICAgICAiLi9hcnRpY2xlL3B1enpsZS5jc3MiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBDU1NfUEFUSCArICdhcnRpY2xlL3B1enpsZS5jc3MnLAo=</text>
+        <text encoding="base64">ICAgIENTU19QQVRIICsgJ2FydGljbGUvcHV6emxlLmNzcycsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBDU1NfUEFUSCArICdhcnRpY2xlL3B1enpsZS5jc3MnLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgeyBDQVBJX1NPVVJDRSB9ID0gcHJvY2Vzcy5lbnY7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgImNhcHMiOiAiVVNfU2VjdGlvbl9Gcm9udF8xIiwK</text>
+        <text encoding="base64">Y29uc3QgeyBDQVBJX1NPVVJDRSB9ID0gcHJvY2Vzcy5lbnY7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgImRuc2EiOiAiV1NKVVMiLAo=</text>
+        <text encoding="base64">ICAgICAgImNhcHMiOiAiVVNfU2VjdGlvbl9Gcm9udF8xIiwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAvLyB9Cg==</text>
+        <text encoding="base64">ICAgICAgImRuc2EiOiAiV1NKVVMiLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAvLyBjb250ZW50X2V4cDogewogIC8vICAgdHlwZTogJ2NvbnN1bWVyX2NvcnBoYXQnLCAvL2NvcnJlc3BvbmRpbmcgdG8gZGF0YS1wcm92aWRlciB0eXBlCiAgLy8gICBpZDogJ2NvcnBoYXQnCg==</text>
+        <text encoding="base64">ICAvLyB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgZG5zYTogeyAkY29udGV4dDogJyMvcGFnZUNvbmZpZy9kbnNhJyB9Cg==</text>
+        <text encoding="base64">ICAvLyBjb250ZW50X2V4cDogewogIC8vICAgdHlwZTogJ2NvbnN1bWVyX2NvcnBoYXQnLCAvL2NvcnJlc3BvbmRpbmcgdG8gZGF0YS1wcm92aWRlciB0eXBlCiAgLy8gICBpZDogJ2NvcnBoYXQnCg==</text>
       </register>
       <register name=":" type="4">
         <text>s/'/&quot;/g</text>

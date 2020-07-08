@@ -80,7 +80,12 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/content/styles/wsj/modules/carousel-effects.css" timestamp="1594006606565" />
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/resp.svc.article/lib/redirect_config.js" timestamp="1594180307808" />
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/resp.svc.article/lib/redirect_config.js" timestamp="1594181726007">
+        <mark key="[" line="43" column="94" />
+        <mark key="]" line="44" column="58" />
+        <mark key="^" line="44" column="58" />
+        <mark key="." line="44" column="57" />
+      </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/view/puzzle.mu" timestamp="1594006362406" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/layout/wsj_resp_article_16u.mu" timestamp="1594018618665" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/view/asset/styles.mu" timestamp="1594018682848" />
@@ -97,10 +102,7 @@
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/module/articleBody.js" timestamp="1594006331667" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/dist/wsj_resp_article_16u.critical.css" timestamp="1594020257407" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/page/wsj_resp_article_16u.json" timestamp="1594027706747">
-        <mark key="[" line="105" column="40" />
-        <mark key="]" line="105" column="40" />
         <mark key="^" line="71" column="41" />
-        <mark key="." line="105" column="40" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/resp.svc.article/lib/critical_styles_service.js" timestamp="1594019405711" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/content/styles/media_object/media-puzzle.css" timestamp="1594125798970">

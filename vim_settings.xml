@@ -79,15 +79,17 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/content/styles/wsj/modules/carousel-effects.css" timestamp="1594006606565" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/resp.svc.article/lib/redirect_config.js" timestamp="1594199537619">
         <mark key="[" line="43" column="94" />
         <mark key="]" line="44" column="58" />
         <mark key="^" line="44" column="58" />
         <mark key="." line="44" column="57" />
       </file>
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/server.js" timestamp="1594275408807" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routesInternational/routeConfig.json" timestamp="1594275615579" />
       <file name="$USER_HOME$/Desktop/wsj/tf-lambda-edge-redirector/base/aws.tf" timestamp="1594260408315" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/layout/wsj_resp_article_16u.mu" timestamp="1594018618665" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routesInternational/articleType.js" timestamp="1594275571177" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/view/asset/styles.mu" timestamp="1594018682848" />
       <file name="/JavaScript Console" timestamp="1594266346584">
         <mark key="[" line="0" column="0" />
@@ -98,7 +100,7 @@
         <mark key="." line="86" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/assets/webpack-config/alias.js" timestamp="1594024988644" />
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/public/wsj_resp_article_16u.async.css" timestamp="1594018399154" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/server.js" timestamp="1594275508018" />
       <file name="$USER_HOME$/Desktop/wsj/tf-cloudfront-jp.wsj.com/base/jp-cloudfront.tf" timestamp="1594265563930" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/dist/wsj_resp_article_16u.critical.css" timestamp="1594020257407" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/page/wsj_resp_article_16u.json" timestamp="1594027706747">
@@ -114,8 +116,6 @@
       <file name="/" timestamp="1594260930338">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/content/styles/wsj/modules/coral.css" timestamp="1594006693935" />
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/content/styles/wsj/templates/wsj-standard.css" timestamp="1594006762527" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/content/styles/article/puzzle.css" timestamp="1594025733715" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/assets/webpack-config/entries.js" timestamp="1594026616165" />
     </filemarks>

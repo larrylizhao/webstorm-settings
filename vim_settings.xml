@@ -87,6 +87,7 @@
         <mark key="." line="44" column="57" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/view/puzzle.mu" timestamp="1594006362406" />
+      <file name="$USER_HOME$/Desktop/wsj/tf-lambda-edge-redirector/base/aws.tf" timestamp="1594260408315" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/layout/wsj_resp_article_16u.mu" timestamp="1594018618665" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/view/asset/styles.mu" timestamp="1594018682848" />
       <file name="/JavaScript Console" timestamp="1594027589958">
@@ -99,7 +100,6 @@
       </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/assets/webpack-config/alias.js" timestamp="1594024988644" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/public/wsj_resp_article_16u.async.css" timestamp="1594018399154" />
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/module/articleBody.js" timestamp="1594006331667" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/dist/wsj_resp_article_16u.critical.css" timestamp="1594020257407" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/page/wsj_resp_article_16u.json" timestamp="1594027706747">
         <mark key="^" line="71" column="41" />
@@ -111,7 +111,9 @@
         <mark key="^" line="0" column="6" />
         <mark key="." line="0" column="5" />
       </file>
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/content/styles/media_object/media-caption.css" timestamp="1594004161670" />
+      <file name="/" timestamp="1594260930338">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/content/styles/wsj/modules/coral.css" timestamp="1594006693935" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/content/styles/wsj/templates/wsj-standard.css" timestamp="1594006762527" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/content/styles/article/puzzle.css" timestamp="1594025733715" />

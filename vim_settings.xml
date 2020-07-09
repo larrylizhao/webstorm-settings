@@ -88,7 +88,7 @@
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/server.js" timestamp="1594275408807" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routesInternational/routeConfig.json" timestamp="1594275615579" />
       <file name="$USER_HOME$/Desktop/wsj/tf-lambda-edge-redirector/base/aws.tf" timestamp="1594260408315" />
-      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/layout/wsj_resp_article_16u.mu" timestamp="1594018618665" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routesInternational/index.js" timestamp="1594280632661" />
       <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routesInternational/articleType.js" timestamp="1594275571177" />
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/view/asset/styles.mu" timestamp="1594018682848" />
       <file name="/JavaScript Console" timestamp="1594266346584">
@@ -113,7 +113,7 @@
         <mark key="^" line="0" column="6" />
         <mark key="." line="0" column="5" />
       </file>
-      <file name="/" timestamp="1594260930338">
+      <file name="/" timestamp="1594280565270">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/content/styles/article/puzzle.css" timestamp="1594025733715" />

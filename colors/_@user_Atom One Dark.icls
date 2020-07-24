@@ -4,7 +4,7 @@
     <property name="created">2019-04-11T15:35:19</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2019.1.0.0</property>
-    <property name="modified">2020-04-14T15:31:51</property>
+    <property name="modified">2020-07-24T23:47:12</property>
     <property name="originalScheme">Atom One Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -525,7 +525,7 @@
     </option>
     <option name="DEFAULT_LINE_COMMENT">
       <value>
-        <option name="FOREGROUND" value="59626f" />
+        <option name="FOREGROUND" value="bfbfcc" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -1005,6 +1005,12 @@
     <option name="JS.DECORATOR">
       <value>
         <option name="FOREGROUND" value="61aeef" />
+      </value>
+    </option>
+    <option name="JS.DOC_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="bfbfcc" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="JS.INSTANCE_MEMBER_VARIABLE">

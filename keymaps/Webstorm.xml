@@ -2,13 +2,22 @@
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="meta back_slash" second-keystroke="meta w" />
   </action>
+  <action id="CommentByBlockComment">
+    <keyboard-shortcut first-keystroke="meta alt slash" />
+    <keyboard-shortcut first-keystroke="shift meta slash" />
+  </action>
   <action id="CompareClipboardWithSelection">
     <keyboard-shortcut first-keystroke="meta back_slash" second-keystroke="meta c" />
   </action>
+  <action id="Debug" />
   <action id="Javascript.Linters.EsLint.Fix">
     <keyboard-shortcut first-keystroke="shift ctrl e" />
   </action>
   <action id="OpenFile">
     <keyboard-shortcut first-keystroke="meta i" />
+  </action>
+  <action id="RestoreDefaultLayout" />
+  <action id="ShowContent">
+    <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
 </keymap>

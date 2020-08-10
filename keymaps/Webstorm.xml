@@ -1,23 +1,74 @@
 <keymap version="1" name="Webstorm " parent="Mac OS X 10.5+">
+  <action id="ActivateFavoritesToolWindow">
+    <keyboard-shortcut first-keystroke="meta 5" />
+  </action>
+  <action id="ActivateProblemsViewToolWindow" />
+  <action id="ActivatePullRequestsToolWindow">
+    <keyboard-shortcut first-keystroke="meta 3" />
+  </action>
+  <action id="ActivateServicesToolWindow" />
+  <action id="ActivateStructureToolWindow">
+    <keyboard-shortcut first-keystroke="meta 4" />
+  </action>
+  <action id="ActivateVersionControlToolWindow">
+    <keyboard-shortcut first-keystroke="meta 2" />
+  </action>
+  <action id="ChangesView.Move" />
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="meta back_slash" second-keystroke="meta w" />
   </action>
   <action id="CommentByBlockComment">
     <keyboard-shortcut first-keystroke="meta alt slash" />
-    <keyboard-shortcut first-keystroke="shift meta slash" />
   </action>
   <action id="CompareClipboardWithSelection">
     <keyboard-shortcut first-keystroke="meta back_slash" second-keystroke="meta c" />
   </action>
   <action id="Debug" />
+  <action id="Diff.ApplyLeftSide" />
+  <action id="Diff.ApplyRightSide" />
+  <action id="Diff.NextChange" />
+  <action id="Diff.PrevChange" />
+  <action id="DuplicatesForm.SendToRight" />
+  <action id="EditorLineStart">
+    <keyboard-shortcut first-keystroke="home" />
+    <keyboard-shortcut first-keystroke="meta left" />
+  </action>
+  <action id="EditorLookupDown" />
+  <action id="EditorLookupUp" />
+  <action id="FileChooser.GotoProject" />
+  <action id="GotoAction">
+    <keyboard-shortcut first-keystroke="ctrl a" />
+  </action>
   <action id="Javascript.Linters.EsLint.Fix">
     <keyboard-shortcut first-keystroke="shift ctrl e" />
   </action>
+  <action id="MethodDown">
+    <keyboard-shortcut first-keystroke="alt page_down" />
+  </action>
+  <action id="MethodUp">
+    <keyboard-shortcut first-keystroke="alt page_up" />
+  </action>
+  <action id="NextEditorTab">
+    <keyboard-shortcut first-keystroke="shift ctrl alt right" />
+  </action>
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="shift meta close_bracket" />
+  </action>
   <action id="OpenFile">
     <keyboard-shortcut first-keystroke="meta i" />
+  </action>
+  <action id="PreviousEditorTab">
+    <keyboard-shortcut first-keystroke="shift ctrl alt left" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="shift meta open_bracket" />
   </action>
   <action id="RestoreDefaultLayout" />
   <action id="ShowContent">
     <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
+  <action id="TogglePresentationMode">
+    <keyboard-shortcut first-keystroke="ctrl f12" />
+  </action>
+  <action id="Vcs.MoveChangedLinesToChangelist" />
 </keymap>

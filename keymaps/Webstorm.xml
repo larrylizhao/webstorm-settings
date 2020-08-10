@@ -13,6 +13,9 @@
   <action id="ActivateVersionControlToolWindow">
     <keyboard-shortcut first-keystroke="meta 2" />
   </action>
+  <action id="Annotate">
+    <keyboard-shortcut first-keystroke="shift alt a" />
+  </action>
   <action id="ChangesView.Move" />
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="meta back_slash" second-keystroke="meta w" />

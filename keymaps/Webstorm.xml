@@ -10,6 +10,9 @@
   <action id="ActivateStructureToolWindow">
     <keyboard-shortcut first-keystroke="meta 4" />
   </action>
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="meta back_quote" />
+  </action>
   <action id="ActivateVersionControlToolWindow">
     <keyboard-shortcut first-keystroke="meta 2" />
   </action>
@@ -61,6 +64,7 @@
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="shift meta close_bracket" />
   </action>
+  <action id="NextWindow" />
   <action id="OpenFile">
     <keyboard-shortcut first-keystroke="meta i" />
   </action>
@@ -73,6 +77,9 @@
   <action id="RestoreDefaultLayout" />
   <action id="ShowContent">
     <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
+  <action id="Terminal.OpenInTerminal">
+    <keyboard-shortcut first-keystroke="alt back_quote" />
   </action>
   <action id="TogglePresentationMode">
     <keyboard-shortcut first-keystroke="ctrl f12" />

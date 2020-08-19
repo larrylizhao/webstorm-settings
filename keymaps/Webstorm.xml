@@ -46,6 +46,9 @@
   <action id="EditorLookupDown" />
   <action id="EditorLookupUp" />
   <action id="FileChooser.GotoProject" />
+  <action id="Github.Create.Pull.Request">
+    <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="ctrl a" />
   </action>
@@ -75,9 +78,7 @@
     <keyboard-shortcut first-keystroke="shift meta open_bracket" />
   </action>
   <action id="RestoreDefaultLayout" />
-  <action id="ShowContent">
-    <keyboard-shortcut first-keystroke="shift meta p" />
-  </action>
+  <action id="ShowContent" />
   <action id="Terminal.OpenInTerminal">
     <keyboard-shortcut first-keystroke="alt back_quote" />
   </action>

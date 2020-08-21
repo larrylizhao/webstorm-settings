@@ -61,6 +61,15 @@
   <action id="MethodUp">
     <keyboard-shortcut first-keystroke="alt page_up" />
   </action>
+  <action id="NewDir">
+    <keyboard-shortcut first-keystroke="shift meta n" />
+  </action>
+  <action id="NewJavaScriptFile">
+    <keyboard-shortcut first-keystroke="shift meta j" />
+  </action>
+  <action id="NewScratchFile">
+    <keyboard-shortcut first-keystroke="shift meta semicolon" />
+  </action>
   <action id="NextEditorTab">
     <keyboard-shortcut first-keystroke="shift ctrl alt right" />
   </action>

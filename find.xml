@@ -17,11 +17,11 @@
     <mask>*.cjs</mask>
     <mask>*.</mask>
     <mask>spec.js</mask>
-    <mask>*.mu</mask>
     <mask>*.json</mask>
     <mask>*css</mask>
     <mask>dataStory.js</mask>
     <mask>*.js</mask>
     <mask>*.css</mask>
+    <mask>*.mu</mask>
   </component>
 </application>

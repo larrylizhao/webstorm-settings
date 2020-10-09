@@ -21,7 +21,7 @@
   </action>
   <action id="ChangesView.Move" />
   <action id="CloseAllEditors">
-    <keyboard-shortcut first-keystroke="meta back_slash" second-keystroke="meta w" />
+    <keyboard-shortcut first-keystroke="shift meta w" />
   </action>
   <action id="CommentByBlockComment">
     <keyboard-shortcut first-keystroke="meta alt slash" />

@@ -18,8 +18,10 @@
     <mask>*.json</mask>
     <mask>*css</mask>
     <mask>dataStory.js</mask>
-    <mask>*.js</mask>
+    <mask>WSJTheme.css</mask>
     <mask>*.mu</mask>
     <mask>*.css</mask>
+    <mask>*.js</mask>
+    <mask>*.spec.js</mask>
   </component>
 </application>

@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="subscribe.json" type="AUTO_DETECTED" />
       <mapping ext="mu" type="Handlebars/Mustache" />
       <mapping pattern="allesseh_json" type="JSON" />
       <mapping pattern="allesseh_json.json" type="PLAIN_TEXT" />

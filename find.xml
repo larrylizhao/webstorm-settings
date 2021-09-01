@@ -20,8 +20,8 @@
     <mask>dataStory.js</mask>
     <mask>WSJTheme.css</mask>
     <mask>*.mu</mask>
-    <mask>*.css</mask>
     <mask>*.spec.js</mask>
     <mask>*.js</mask>
+    <mask>*.css</mask>
   </component>
 </application>

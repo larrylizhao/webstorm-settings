@@ -4,8 +4,8 @@
       <mapping pattern="subscribe.json" type="AUTO_DETECTED" />
       <mapping ext="mu" type="Handlebars/Mustache" />
       <mapping pattern="allesseh_json" type="JSON" />
-      <mapping pattern="allesseh_json.json" type="PLAIN_TEXT" />
       <mapping pattern="Quotes.js" type="PLAIN_TEXT" />
+      <mapping pattern="allesseh_json.json" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="diff" approved="true" type="PATCH" />

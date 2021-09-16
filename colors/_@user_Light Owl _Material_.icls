@@ -4,7 +4,7 @@
     <property name="created">2020-09-11T14:25:36</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2020.2.0.0</property>
-    <property name="modified">2021-09-16T15:30:22</property>
+    <property name="modified">2021-09-14T17:28:12</property>
     <property name="originalScheme">Light Owl (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -38,27 +38,26 @@
     <option name="DOCUMENTATION_COLOR" value="fbfbfb" />
     <option name="DOC_COMMENT_GUIDE" value="90a7b2" />
     <option name="DOC_COMMENT_LINK" value="c96765" />
-    <option name="FILESTATUS_ADDED" value="c3e887" />
-    <option name="FILESTATUS_COPIED" value="629755" />
-    <option name="FILESTATUS_DELETED" value="f77669" />
-    <option name="FILESTATUS_HIJACKED" value="ffcb6b" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="6c6c6c" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="848504" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="d5756c" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="d5756c" />
-    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="d5756c" />
-    <option name="FILESTATUS_MERGED" value="9876aa" />
-    <option name="FILESTATUS_MODIFIED" value="80cbc4" />
-    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80cbc4" />
-    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80cbc4" />
-    <option name="FILESTATUS_OBSOLETE" value="ffcb6b" />
-    <option name="FILESTATUS_RENAMED" value="3a8484" />
-    <option name="FILESTATUS_SUPPRESSED" value="546e7a" />
-    <option name="FILESTATUS_SWITCHED" value="f77669" />
-    <option name="FILESTATUS_UNKNOWN" value="f77669" />
-    <option name="FILESTATUS_addedOutside" value="629755" />
-    <option name="FILESTATUS_changelistConflict" value="d5756c" />
-    <option name="FILESTATUS_modifiedOutside" value="6897bb" />
+    <option name="FILESTATUS_ADDED" value="49d0c5" />
+    <option name="FILESTATUS_COPIED" value="49d0c5" />
+    <option name="FILESTATUS_DELETED" value="de3d3b" />
+    <option name="FILESTATUS_HIJACKED" value="2aa298" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="de3d3b" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="93a1a1" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="d6438a" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="d6438a" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="d6438a" />
+    <option name="FILESTATUS_MERGED" value="e0af02" />
+    <option name="FILESTATUS_MODIFIED" value="6fbef6" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="57b6c2" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="57b6c2" />
+    <option name="FILESTATUS_RENAMED" value="2aa298" />
+    <option name="FILESTATUS_SUPPRESSED" value="403f53" />
+    <option name="FILESTATUS_SWITCHED" value="6fbef6" />
+    <option name="FILESTATUS_UNKNOWN" value="4876d6" />
+    <option name="FILESTATUS_addedOutside" value="4876d6" />
+    <option name="FILESTATUS_changelistConflict" value="d6438a" />
+    <option name="FILESTATUS_modifiedOutside" value="e0af02" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="93a1a1" />
     <option name="GUTTER_BACKGROUND" value="fbfbfb" />
     <option name="INDENT_GUIDE" value="d9d9d9" />

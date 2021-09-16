@@ -12,4 +12,15 @@
     <entry key="js.debugger.webconsole" value="false" />
     <entry key="debugger.watches.in.variables" value="false" />
   </component>
+  <component name="StatusBar">
+    <option name="widgets">
+      <map>
+        <entry key="InsertOverwrite" value="false" />
+        <entry key="LineSeparator" value="false" />
+        <entry key="Memory" value="true" />
+        <entry key="Notifications" value="false" />
+        <entry key="mtStatusBar" value="false" />
+      </map>
+    </option>
+  </component>
 </application>

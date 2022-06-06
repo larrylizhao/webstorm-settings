@@ -4,7 +4,7 @@
     <property name="created">2019-04-11T15:35:19</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2019.1.0.0</property>
-    <property name="modified">2022-02-22T10:26:50</property>
+    <property name="modified">2022-06-06T14:47:19</property>
     <property name="originalScheme">Atom One Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -944,22 +944,32 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="33352e" />
+        <option name="BACKGROUND" value="3b3f49" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="293533" />
+        <option name="BACKGROUND" value="394346" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="332c3c" />
+        <option name="BACKGROUND" value="3f4445" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="26343a" />
+        <option name="BACKGROUND" value="444143" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_5">
+      <value>
+        <option name="BACKGROUND" value="443c41" />
+      </value>
+    </option>
+    <option name="INDENT_RAINBOW_COLOR_6">
+      <value>
+        <option name="BACKGROUND" value="44373e" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR">
@@ -2779,7 +2789,7 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="YAML_ANCHOR" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="YAML_ANCHOR" baseAttributes="" />
     <option name="YAML_SCALAR_KEY">
       <value>
         <option name="FOREGROUND" value="f07178" />

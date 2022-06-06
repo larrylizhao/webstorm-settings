@@ -4,7 +4,7 @@
     <property name="created">2021-04-20T10:39:41</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2020.3.3.0.0</property>
-    <property name="modified">2022-06-06T14:47:19</property>
+    <property name="modified">2022-02-22T10:26:51</property>
     <property name="originalScheme">Moonlight (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -205,9 +205,9 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="BASH.HERE_DOC_END" baseAttributes="" />
-    <option name="BASH.HERE_DOC_START" baseAttributes="" />
-    <option name="BASH.SHEBANG" baseAttributes="" />
+    <option name="BASH.HERE_DOC_END" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="BASH.HERE_DOC_START" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="BASH.SHEBANG" baseAttributes="BASH.LINE_COMMENT" />
     <option name="BNF_KEYWORD">
       <value>
         <option name="FOREGROUND" value="baacff" />
@@ -1161,32 +1161,22 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="3b3d51" />
+        <option name="BACKGROUND" value="323337" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="38424e" />
+        <option name="BACKGROUND" value="29333b" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="3f424c" />
+        <option name="BACKGROUND" value="322a44" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="433f4b" />
-      </value>
-    </option>
-    <option name="INDENT_RAINBOW_COLOR_5">
-      <value>
-        <option name="BACKGROUND" value="433a48" />
-      </value>
-    </option>
-    <option name="INDENT_RAINBOW_COLOR_6">
-      <value>
-        <option name="BACKGROUND" value="433646" />
+        <option name="BACKGROUND" value="253243" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR">
@@ -3690,7 +3680,7 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="YAML_ANCHOR" baseAttributes="" />
+    <option name="YAML_ANCHOR" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="YAML_SCALAR_KEY">
       <value>
         <option name="FOREGROUND" value="ff6363" />

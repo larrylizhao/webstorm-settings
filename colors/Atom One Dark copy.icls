@@ -1,11 +1,11 @@
-<scheme name="_@user_Atom One Dark" version="142" parent_scheme="Darcula">
+<scheme name="Atom One Dark copy" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2019-04-11T15:35:19</property>
+    <property name="created">2022-04-11T11:05:48</property>
     <property name="ide">WebStorm</property>
-    <property name="ideVersion">2019.1.0.0</property>
-    <property name="modified">2022-06-06T14:50:13</property>
-    <property name="originalScheme">Atom One Dark</property>
+    <property name="ideVersion">2021.2.4.0.0</property>
+    <property name="modified">2022-06-06T15:19:58</property>
+    <property name="originalScheme">_@user_Atom One Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="20" />
@@ -944,37 +944,37 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1">
       <value>
-        <option name="BACKGROUND" value="3b3f49" />
+        <option name="BACKGROUND" value="313a41" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
       <value>
-        <option name="BACKGROUND" value="394346" />
+        <option name="BACKGROUND" value="2f3e3e" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
       <value>
-        <option name="BACKGROUND" value="3f4445" />
+        <option name="BACKGROUND" value="353f3c" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
       <value>
-        <option name="BACKGROUND" value="444143" />
+        <option name="BACKGROUND" value="3a3c3b" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_5">
       <value>
-        <option name="BACKGROUND" value="443c41" />
+        <option name="BACKGROUND" value="3a3738" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_6">
       <value>
-        <option name="BACKGROUND" value="44373e" />
+        <option name="BACKGROUND" value="3a3236" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR">
       <value>
-        <option name="BACKGROUND" value="3f2429" />
+        <option name="BACKGROUND" value="372022" />
       </value>
     </option>
     <option name="INFO_ATTRIBUTES">
@@ -2688,7 +2688,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="abb2bf" />
-        <option name="BACKGROUND" value="23262d" />
+        <option name="BACKGROUND" value="172023" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>

@@ -4,7 +4,7 @@
     <property name="created">2022-04-11T11:05:48</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2021.2.4.0.0</property>
-    <property name="modified">2022-06-06T15:32:36</property>
+    <property name="modified">2022-06-21T15:33:05</property>
     <property name="originalScheme">_@user_Atom One Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -2695,6 +2695,7 @@
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="314365" />
+        <option name="ERROR_STRIPE_COLOR" value="465f90" />
       </value>
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">

@@ -4,7 +4,7 @@
     <property name="created">2022-06-06T14:47:56</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2022.1.2.0.0</property>
-    <property name="modified">2022-06-06T14:50:13</property>
+    <property name="modified">2022-06-30T16:54:21</property>
     <property name="originalScheme">SynthWave '84 (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -80,6 +80,7 @@
     <option name="FILESTATUS_MODIFIED" value="f92aad" />
     <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="b893ce" />
     <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="b893ce" />
+    <option name="FILESTATUS_OBSOLETE" value="ffcb6b" />
     <option name="FILESTATUS_RENAMED" value="fede5d" />
     <option name="FILESTATUS_SUPPRESSED" value="848bbd" />
     <option name="FILESTATUS_SWITCHED" value="fede5d" />

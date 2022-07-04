@@ -4,7 +4,7 @@
     <property name="created">2022-06-06T14:47:56</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2022.1.2.0.0</property>
-    <property name="modified">2022-06-30T17:05:16</property>
+    <property name="modified">2022-07-04T10:21:02</property>
     <property name="originalScheme">Material Oceanic</property>
   </metaInfo>
   <console-font>
@@ -671,7 +671,7 @@
     </option>
     <option name="DEFAULT_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="f78c6c" />
+        <option name="FOREGROUND" value="6cf7f2" />
       </value>
     </option>
     <option name="DEFAULT_PARENTHS">
@@ -718,7 +718,7 @@
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="c3e88d" />
+        <option name="FOREGROUND" value="ffae9c" />
       </value>
     </option>
     <option name="DEFAULT_TAG">
@@ -1349,7 +1349,7 @@
     </option>
     <option name="JS.LOCAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="eeffe3" />
+        <option name="FOREGROUND" value="c2fcc4" />
       </value>
     </option>
     <option name="JS.MODULE_KEYWORD">

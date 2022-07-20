@@ -4,7 +4,7 @@
     <property name="created">2022-06-06T14:47:56</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2022.1.2.0.0</property>
-    <property name="modified">2022-07-04T16:44:13</property>
+    <property name="modified">2022-07-20T14:59:14</property>
     <property name="originalScheme">Material Oceanic</property>
   </metaInfo>
   <console-font>
@@ -3867,6 +3867,7 @@
       <value>
         <option name="FOREGROUND" value="32424a" />
         <option name="BACKGROUND" value="f8e71c" />
+        <option name="ERROR_STRIPE_COLOR" value="ffff28" />
       </value>
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">

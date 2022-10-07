@@ -17,6 +17,7 @@
   <component name="StatusBar">
     <option name="widgets">
       <map>
+        <entry key="CwmWireStatsWidgetFactory" value="false" />
         <entry key="InsertOverwrite" value="false" />
         <entry key="LineSeparator" value="false" />
         <entry key="Memory" value="true" />

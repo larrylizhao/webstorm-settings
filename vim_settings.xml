@@ -1,0 +1,304 @@
+<application>
+  <component name="VimEditorSettings">
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry>LoadMo</entry>
+        <entry>LoadM</entry>
+        <entry>Load</entry>
+        <entry>articleT</entry>
+        <entry>===</entry>
+        <entry encoding="base64">PDw8</entry>
+        <entry encoding="base64">Pj4+</entry>
+        <entry>moneybeat</entry>
+        <entry>====</entry>
+        <entry>rss</entry>
+        <entry>route-parse</entry>
+        <entry>title</entry>
+        <entry>twitter</entry>
+        <entry>twttier</entry>
+        <entry>SearchPage</entry>
+        <entry>react</entry>
+        <entry>about-us</entry>
+        <entry>collection</entry>
+        <entry>WSJTh</entry>
+        <entry>search</entry>
+      </history-search>
+      <history-cmd>
+        <entry>%s/MutualFundsAndEtfs/Treasury/g</entry>
+        <entry encoding="base64">JzwsJz4lcy9NdXR1YWxGdW5kc0FuZEV0ZnMvVHJlYXN1cnkvZ2k=</entry>
+        <entry encoding="base64">JzwsJz4lcy9NdXR1YWxGdW5kc0FuZEV0ZnMvVHJlYXN1cnkvZ2M=</entry>
+        <entry encoding="base64">JzwsJz4lcy9NdXR1YWxGdW5kc0FuZEV0ZnMvVHJlYXN1cnkvZw==</entry>
+        <entry encoding="base64">JzwsJz4lcy9FdGZNb3ZlcnNCcmVhZGNydW1ic01vYmlsZS9NdXR1YWxGdW5kc0FuZEVURnNCcmVhZGNydW1ic01vYmlsZS9n</entry>
+        <entry>/%s/MutualFundsAndETFsBreadcrumbsMobile/TreasuryBreadcrumbsMobile/g</entry>
+        <entry encoding="base64">JzwsJz4lcy9FVEYgTW92ZXJzL1RyZWFzdXJ5L2c=</entry>
+        <entry>%s/&quot;/'/g</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimKeySettings">
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text encoding="base64">Y3RybCBwcmVzc2VkIFE=</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text encoding="base64">Y3RybCBwcmVzc2VkIEI=</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text encoding="base64">Y3RybCBwcmVzc2VkIEQ=</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text encoding="base64">Y3RybCBwcmVzc2VkIEY=</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text encoding="base64">Y3RybCBwcmVzc2VkIE0=</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text encoding="base64">Y3RybCBwcmVzc2VkIEc=</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text encoding="base64">Y3RybCBwcmVzc2VkIFI=</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text encoding="base64">Y3RybCBwcmVzc2VkIEk=</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text encoding="base64">Y3RybCBwcmVzc2VkIE8=</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text encoding="base64">Y3RybCBwcmVzc2VkIFY=</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text encoding="base64">Y3RybCBwcmVzc2VkIEE=</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text encoding="base64">Y3RybCBwcmVzc2VkIFQ=</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text encoding="base64">c2hpZnQgY3RybCBwcmVzc2VkIDI=</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text encoding="base64">Y3RybCBwcmVzc2VkIDI=</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text encoding="base64">Y3RybCBwcmVzc2VkIEg=</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/resp.svc.article/lib/redirect_config.js" timestamp="1594199537619">
+        <mark key="[" line="43" column="94" />
+        <mark key="]" line="44" column="58" />
+        <mark key="^" line="44" column="58" />
+        <mark key="." line="44" column="57" />
+      </file>
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/server.js" timestamp="1594275408807" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routesInternational/routeConfig.json" timestamp="1594275615579" />
+      <file name="$USER_HOME$/Desktop/wsj/tf-lambda-edge-redirector/base/aws.tf" timestamp="1594260408315" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routesInternational/index.js" timestamp="1594280632661" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routesInternational/articleType.js" timestamp="1594275571177" />
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/view/asset/styles.mu" timestamp="1594018682848" />
+      <file name="/JavaScript Console" timestamp="1594266346584">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/assets/webpack-config/css-entries.js" timestamp="1594026590919">
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="0" />
+        <mark key="." line="86" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/assets/webpack-config/alias.js" timestamp="1594024988644" />
+      <file name="$USER_HOME$/Desktop/wsj/grand-canyon/lib/server.js" timestamp="1594275508018" />
+      <file name="$USER_HOME$/Desktop/wsj/tf-cloudfront-jp.wsj.com/base/jp-cloudfront.tf" timestamp="1594265563930" />
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/dist/wsj_resp_article_16u.critical.css" timestamp="1594020257407" />
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/page/wsj_resp_article_16u.json" timestamp="1594027706747">
+        <mark key="^" line="71" column="41" />
+      </file>
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/resp.svc.article/lib/critical_styles_service.js" timestamp="1594019405711" />
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/content/styles/media_object/media-puzzle.css" timestamp="1594125798970">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="6" />
+        <mark key="^" line="0" column="6" />
+        <mark key="." line="0" column="5" />
+      </file>
+      <file name="/" timestamp="1594280565270">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/content/styles/article/puzzle.css" timestamp="1594025733715" />
+      <file name="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/assets/webpack-config/entries.js" timestamp="1594026616165" />
+    </filemarks>
+    <jumps>
+      <jump line="186" column="5" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/test/routesInternational-test.js" />
+      <jump line="99" column="6" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/test/routesInternational-test.js" />
+      <jump line="88" column="22" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/test/routesInternational-test.js" />
+      <jump line="89" column="9" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/test/routesInternational-test.js" />
+      <jump line="187" column="25" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/test/routesInternational-test.js" />
+      <jump line="202" column="4" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/test/routesInternational-test.js" />
+      <jump line="34" column="32" filename="$USER_HOME$/Desktop/wsj/modules/data-provider/lib/dnsaSearch/dnsa_search.js" />
+      <jump line="203" column="10" filename="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/shared/LoadMore/index.js" />
+      <jump line="205" column="6" filename="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/shared/LoadMore/index.js" />
+      <jump line="206" column="6" filename="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/shared/LoadMore/index.js" />
+      <jump line="284" column="4" filename="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/shared/LoadMore/index.js" />
+      <jump line="285" column="4" filename="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/shared/LoadMore/index.js" />
+      <jump line="286" column="4" filename="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/shared/LoadMore/index.js" />
+      <jump line="111" column="0" filename="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/shared/LoadMoreAllesseh/index.js" />
+      <jump line="16" column="0" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/WSJBlog/AutomatedSubsectionFronts/_shared/_components/index.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/wsj/web-ui-2/package.json" />
+      <jump line="12" column="33" filename="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/shared/LoadMoreAllesseh/index.js" />
+      <jump line="38" column="39" filename="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/shared/LoadMoreAllesseh/index.js" />
+      <jump line="26" column="10" filename="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/shared/LoadMoreAllesseh/index.js" />
+      <jump line="27" column="6" filename="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/shared/LoadMoreAllesseh/index.js" />
+      <jump line="31" column="37" filename="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/shared/LoadMoreAllesseh/index.js" />
+      <jump line="26" column="11" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/WSJBlog/AutomatedSectionFronts/_components/index.js" />
+      <jump line="2" column="36" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/WSJBlog/AutomatedSectionFronts/_components/index.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/WSJBlog/AutomatedSubsectionFronts/_shared/_components/index.js" />
+      <jump line="26" column="54" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/WSJBlog/AutomatedSubsectionFronts/_shared/_components/index.js" />
+      <jump line="189" column="0" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/WSJBlog/AutomatedSubsectionFronts/_shared/_components/index.js" />
+      <jump line="7" column="17" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/WSJBlog/AutomatedSectionFronts/_presentation/shared/Latest.js" />
+      <jump line="134" column="2" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routesInternational/routeConfig.json" />
+      <jump line="137" column="34" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routesInternational/routeConfig.json" />
+      <jump line="13" column="30" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/server.js" />
+      <jump line="15" column="37" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/ArticleType/presentation/12u/content.js" />
+      <jump line="110" column="0" filename="$USER_HOME$/Desktop/wsj/grand-canyon/package.json" />
+      <jump line="15" column="3" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routes/routeConfig.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/wsj/grand-canyon/package.json" />
+      <jump line="6" column="40" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/test/routesInternational-test.js" />
+      <jump line="73" column="53" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/test/routesInternational-test.js" />
+      <jump line="74" column="36" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/test/routesInternational-test.js" />
+      <jump line="151" column="53" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/test/routesInternational-test.js" />
+      <jump line="152" column="36" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/test/routesInternational-test.js" />
+      <jump line="16" column="0" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/shared/services/examineRedirect/index.js" />
+      <jump line="114" column="30" filename="$USER_HOME$/Desktop/wsj/grand-canyon/package.json" />
+      <jump line="12" column="16" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJChina/zh-Hans/Home/pageData.json" />
+      <jump line="23" column="4" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routes/imageGrid.js" />
+      <jump line="77" column="22" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routesInternational/imageGrid.js" />
+      <jump line="158" column="9" filename="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/module/test/wsj-breadcrumbs-test.js" />
+      <jump line="45" column="6" filename="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/module/test/wsj-breadcrumbs-test.js" />
+      <jump line="145" column="33" filename="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/module/wsj/breadcrumbs.js" />
+      <jump line="182" column="28" filename="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/module/test/wsj-breadcrumbs-test.js" />
+      <jump line="156" column="0" filename="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/module/test/wsj-breadcrumbs-test.js" />
+      <jump line="240" column="0" filename="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/module/test/wsj-breadcrumbs-test.js" />
+      <jump line="141" column="6" filename="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/module/test/wsj-breadcrumbs-test.js" />
+      <jump line="153" column="4" filename="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/module/test/wsj-breadcrumbs-test.js" />
+      <jump line="136" column="53" filename="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/module/wsj/breadcrumbs.js" />
+      <jump line="36" column="21" filename="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/wsj/SearchResultPaginationHeader/index.js" />
+      <jump line="62" column="51" filename="$USER_HOME$/Desktop/wsj/grand-canyon/node_modules/package-engine/lib/engine/resolveCurrentState/propagateData.js" />
+      <jump line="143" column="37" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routesInternational/routeConfig.json" />
+      <jump line="280" column="37" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routesInternational/routeConfig.json" />
+      <jump line="127" column="22" filename="$USER_HOME$/Desktop/wsj/modules/cwsjconverter/lib/rssparser.js" />
+      <jump line="129" column="19" filename="$USER_HOME$/Desktop/wsj/modules/cwsjconverter/lib/rssparser.js" />
+      <jump line="276" column="22" filename="$USER_HOME$/Desktop/wsj/modules/cwsjconverter/lib/rssparser.js" />
+      <jump line="13" column="0" filename="$USER_HOME$/Desktop/wsj/modules/cwsjconverter/lib/htmlparser.js" />
+      <jump line="559" column="41" filename="$USER_HOME$/Desktop/wsj/modules/cwsjconverter/api_router.js" />
+      <jump line="18" column="4" filename="$USER_HOME$/Desktop/wsj/modules/cwsjconverter/converter.js" />
+      <jump line="476" column="27" filename="$USER_HOME$/Desktop/wsj/modules/cwsjconverter/api_router.js" />
+      <jump line="28" column="20" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/routing/services/queryParamsHandler.js" />
+      <jump line="126" column="54" filename="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/wsj/SearchResultPagination/index.js" />
+      <jump line="139" column="0" filename="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/wsj/SearchResultPagination/index.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/wsj/frontpage/web/package.json" />
+      <jump line="150" column="2" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routesInternational/routeConfig.json" />
+      <jump line="28" column="2" filename="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/wsj/SearchResultPagination/index.js" />
+      <jump line="35" column="29" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJJapan/Search/presentation/Contents_12u.js" />
+      <jump line="4" column="0" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJJapan/Search/presentation/Contents_12u.js" />
+      <jump line="17" column="0" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJJapan/Search/presentation/SearchBar.js" />
+      <jump line="101" column="0" filename="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/wsj/SearchBar/AdvancedSearch.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/wsj/web-ui-2/es5/components/wsj/QuoteSearch/index.js" />
+      <jump line="429" column="23" filename="$USER_HOME$/Desktop/wsj/web-ui-2/lib/components/shared-react-components/ArticleTools/index.js" />
+      <jump line="18" column="10" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/pro/routes/index.js" />
+      <jump line="929" column="35" filename="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/resp.svc.article/lib/articles_resource.js" />
+      <jump line="913" column="0" filename="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/resp.svc.article/lib/articles_resource.js" />
+      <jump line="1035" column="2" filename="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/resp.svc.article/lib/articles_resource.js" />
+      <jump line="193" column="0" filename="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/resp.svc.article/lib/articles_resource.js" />
+      <jump line="40" column="30" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routes/routeConfig.json" />
+      <jump line="88" column="0" filename="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/module/articleCarousel.js" />
+      <jump line="119" column="2" filename="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/module/articleCarousel.js" />
+      <jump line="81" column="32" filename="$USER_HOME$/Desktop/wsj/web-ui/lib/components/wsj/SearchResultPagination/index.js" />
+      <jump line="110" column="3" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/test/routesInternational-test.js" />
+      <jump line="289" column="4" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routesInternational/routeConfig.json" />
+      <jump line="406" column="14" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routesInternational/routeConfig.json" />
+      <jump line="343" column="1" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/wsj/routes/index.js" />
+      <jump line="247" column="0" filename="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/webui/modules/wsj/articleTools/generateOptions.js" />
+      <jump line="22" column="64" filename="$USER_HOME$/Desktop/wsj/grand-canyon/node_modules/package-engine/lib/engine/resourceLoader/index.js" />
+      <jump line="363" column="0" filename="$USER_HOME$/Desktop/wsj/grand-canyon/node_modules/package-engine/lib/engine/resourceLoader/index.js" />
+      <jump line="64" column="0" filename="$USER_HOME$/Desktop/wsj/grand-canyon/lib/packages/WSJ/Search/presentation/index.js" />
+      <jump line="338" column="2" filename="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/resp.svc.article/lib/articles_resource.js" />
+      <jump line="325" column="132" filename="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/resp.svc.article/lib/articles_resource.js" />
+      <jump line="387" column="0" filename="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/resp.svc.article/lib/articles_resource.js" />
+      <jump line="11" column="13" filename="$USER_HOME$/Desktop/wsj/web-ui/lib/components/wsj/SlimlineHeader/decorators/wsj-china-theme/style.css" />
+      <jump line="14" column="23" filename="$USER_HOME$/Desktop/wsj/modules/consumer-proxy/.env" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/wsj/modules/consumer-proxy/.env" />
+      <jump line="209" column="6" filename="$USER_HOME$/Desktop/wsj/Tesla/wsj_article.app/lib/article.app/lib/svc/getArticle.js" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="4">
+        <text>,</text>
+      </register>
+      <register name="-" type="4">
+        <text>,</text>
+      </register>
+      <register name="/" type="4">
+        <text>search</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAiL25ld3MvZXhwZXJpZW5jZS1yZXBvcnQiLAo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAiLi9tZWRpYV9vYmplY3QvbWVkaWEtcHV6emxlLmNzcyIK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAiLi9hcnRpY2xlL3B1enpsZS5jc3MiCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIENTU19QQVRIICsgJ2FydGljbGUvcHV6emxlLmNzcycsCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBDU1NfUEFUSCArICdhcnRpY2xlL3B1enpsZS5jc3MnLAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Y29uc3QgeyBDQVBJX1NPVVJDRSB9ID0gcHJvY2Vzcy5lbnY7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgImNhcHMiOiAiVVNfU2VjdGlvbl9Gcm9udF8xIiwK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgImRuc2EiOiAiV1NKVVMiLAo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAvLyB9Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>s/'/&quot;/g</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search>search</last-search>
+      <last-offset />
+      <last-pattern>search</last-pattern>
+      <last-replace>&quot;</last-replace>
+      <last-substitute>'</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+  </component>
+  <component name="VimSettings">
+    <state version="7" enabled="true" />
+    <notifications>
+      <idea-join enabled="true" />
+      <idea-put enabled="true" />
+    </notifications>
+  </component>
+</application>

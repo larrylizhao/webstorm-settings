@@ -1,4 +1,7 @@
 <keymap version="1" name="Webstorm " parent="Mac OS X 10.5+">
+  <action id="AceAction">
+    <keyboard-shortcut first-keystroke="semicolon" second-keystroke="l" />
+  </action>
   <action id="ActivateFavoritesToolWindow">
     <keyboard-shortcut first-keystroke="meta 6" />
   </action>

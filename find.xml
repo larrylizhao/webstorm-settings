@@ -23,5 +23,6 @@
     <mask>*.json</mask>
     <mask>*.js</mask>
     <mask>*.ts</mask>
+    <mask>*.scss</mask>
   </component>
 </application>

@@ -2,6 +2,9 @@
   <action id="AceAction">
     <keyboard-shortcut first-keystroke="shift j" />
   </action>
+  <action id="ActivateBookmarksToolWindow">
+    <keyboard-shortcut first-keystroke="shift meta 2" />
+  </action>
   <action id="ActivateFavoritesToolWindow">
     <keyboard-shortcut first-keystroke="meta 6" />
   </action>

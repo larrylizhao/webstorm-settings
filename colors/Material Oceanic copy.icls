@@ -4,8 +4,9 @@
     <property name="created">2022-07-04T10:21:18</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2022.1.2.0.0</property>
-    <property name="modified">2022-12-22T21:49:51</property>
+    <property name="modified">2023-01-03T11:30:20</property>
     <property name="originalScheme">_@user_Material Oceanic</property>
+    <property name="rainbow Default language">true</property>
   </metaInfo>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
@@ -3200,6 +3201,31 @@
     </option>
     <option name="QUTE_BACKGROUND">
       <value />
+    </option>
+    <option name="RAINBOW_COLOR0">
+      <value>
+        <option name="FOREGROUND" value="7fef7f" />
+      </value>
+    </option>
+    <option name="RAINBOW_COLOR1">
+      <value>
+        <option name="FOREGROUND" value="fc9898" />
+      </value>
+    </option>
+    <option name="RAINBOW_COLOR2">
+      <value>
+        <option name="FOREGROUND" value="6bcccc" />
+      </value>
+    </option>
+    <option name="RAINBOW_COLOR3">
+      <value>
+        <option name="FOREGROUND" value="fdcd96" />
+      </value>
+    </option>
+    <option name="RAINBOW_COLOR4">
+      <value>
+        <option name="FOREGROUND" value="f192cb" />
+      </value>
     </option>
     <option name="RDOC_DIRECTIVE">
       <value>

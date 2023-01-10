@@ -1,10 +1,34 @@
 <application>
   <component name="VSTSSettings">
     <option name="serverContexts">
-      <array />
+      <array>
+        <ServerContextState>
+          <option name="type" value="VSO" />
+          <option name="uri" value="https://technology-internal.visualstudio.com/Atlas-Payments/_git/Atlas-Payments-Frontend" />
+          <option name="serverUri" value="https://technology-internal.visualstudio.com" />
+          <option name="userId" value="fa1ec629-f954-6601-ac92-8ad92a9810d0" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;d10f727c-7a1c-4cb6-826f-ca5bae89f0b8&quot;,&quot;name&quot;:&quot;Technology-Internal&quot;,&quot;url&quot;:&quot;https://technology-internal.visualstudio.com/_apis/projectCollections/d10f727c-7a1c-4cb6-826f-ca5bae89f0b8&quot;}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;72748aee-c3d4-475f-9b4a-c3498cfc6907&quot;,&quot;name&quot;:&quot;Atlas-Payments&quot;,&quot;revision&quot;:134,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://technology-internal.visualstudio.com/_apis/projects/72748aee-c3d4-475f-9b4a-c3498cfc6907&quot;}" />
+          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;90942784-8b7c-47ba-b6cb-79374fc6dd1c&quot;,&quot;name&quot;:&quot;Atlas-Payments-Frontend&quot;,&quot;remoteUrl&quot;:&quot;https://technology-internal.visualstudio.com/Atlas-Payments/_git/Atlas-Payments-Frontend&quot;,&quot;url&quot;:&quot;https://technology-internal.visualstudio.com/_apis/git/repositories/90942784-8b7c-47ba-b6cb-79374fc6dd1c&quot;,&quot;_links&quot;:null,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;72748aee-c3d4-475f-9b4a-c3498cfc6907&quot;,&quot;name&quot;:&quot;Atlas-Payments&quot;,&quot;revision&quot;:134,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://technology-internal.visualstudio.com/_apis/projects/72748aee-c3d4-475f-9b4a-c3498cfc6907&quot;}}" />
+        </ServerContextState>
+        <ServerContextState>
+          <option name="type" value="VSO" />
+          <option name="uri" value="https://technology-internal.visualstudio.com/Atlas-Core/_git/Atlas-MicroFrontEnd" />
+          <option name="serverUri" value="https://technology-internal.visualstudio.com" />
+          <option name="userId" value="fa1ec629-f954-6601-ac92-8ad92a9810d0" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;d10f727c-7a1c-4cb6-826f-ca5bae89f0b8&quot;,&quot;name&quot;:&quot;Technology-Internal&quot;,&quot;url&quot;:&quot;https://technology-internal.visualstudio.com/_apis/projectCollections/d10f727c-7a1c-4cb6-826f-ca5bae89f0b8&quot;}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;56491de2-9237-48df-b067-288c121859a5&quot;,&quot;name&quot;:&quot;Atlas-Core&quot;,&quot;revision&quot;:133,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://technology-internal.visualstudio.com/_apis/projects/56491de2-9237-48df-b067-288c121859a5&quot;}" />
+          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;ee5635fa-ceb2-45f8-9ded-f9525b0f57c7&quot;,&quot;name&quot;:&quot;Atlas-MicroFrontEnd&quot;,&quot;remoteUrl&quot;:&quot;https://technology-internal.visualstudio.com/Atlas-Core/_git/Atlas-MicroFrontEnd&quot;,&quot;url&quot;:&quot;https://technology-internal.visualstudio.com/_apis/git/repositories/ee5635fa-ceb2-45f8-9ded-f9525b0f57c7&quot;,&quot;_links&quot;:null,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;56491de2-9237-48df-b067-288c121859a5&quot;,&quot;name&quot;:&quot;Atlas-Core&quot;,&quot;revision&quot;:133,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://technology-internal.visualstudio.com/_apis/projects/56491de2-9237-48df-b067-288c121859a5&quot;}}" />
+        </ServerContextState>
+      </array>
     </option>
     <option name="properties">
-      <array />
+      <array>
+        <PropertyState>
+          <option name="name" value="lastContextKey" />
+          <option name="value" value="//technology-internal.visualstudio.com/atlas-core/_git/atlas-microfrontend" />
+        </PropertyState>
+      </array>
     </option>
   </component>
 </application>

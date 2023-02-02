@@ -1,7 +1,8 @@
 <application>
   <component name="GeneralSettings">
     <option name="confirmExit" value="false" />
-    <option name="defaultProjectDirectory" value="$USER_HOME$/Desktop/wsj" />
+    <option name="confirmOpenNewProject2" value="0" />
+    <option name="defaultProjectDirectory" value="$USER_HOME$/Desktop/atlas" />
     <option name="processCloseConfirmation" value="TERMINATE" />
     <option name="showTipsOnStartup" value="false" />
     <option name="useSafeWrite" value="false" />
@@ -21,6 +22,7 @@
     <option name="widgets">
       <map>
         <entry key="CwmWireStatsWidgetFactory" value="false" />
+        <entry key="FlowJSInfo" value="false" />
         <entry key="InsertOverwrite" value="false" />
         <entry key="LineSeparator" value="false" />
         <entry key="Memory" value="true" />

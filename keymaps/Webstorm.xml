@@ -1,4 +1,10 @@
 <keymap version="1" name="Webstorm " parent="Mac OS X 10.5+">
+  <action id="AceAction">
+    <keyboard-shortcut first-keystroke="shift j" />
+  </action>
+  <action id="ActivateBookmarksToolWindow">
+    <keyboard-shortcut first-keystroke="shift meta 2" />
+  </action>
   <action id="ActivateFavoritesToolWindow">
     <keyboard-shortcut first-keystroke="meta 6" />
   </action>
@@ -7,9 +13,6 @@
     <keyboard-shortcut first-keystroke="meta 7" />
   </action>
   <action id="ActivateProblemsViewToolWindow" />
-  <action id="ActivatePullRequestsToolWindow">
-    <keyboard-shortcut first-keystroke="meta 3" />
-  </action>
   <action id="ActivateRunToolWindow" />
   <action id="ActivateServicesToolWindow" />
   <action id="ActivateStructureToolWindow">
@@ -92,6 +95,9 @@
     <keyboard-shortcut first-keystroke="shift meta open_bracket" />
   </action>
   <action id="RestoreDefaultLayout" />
+  <action id="ShowBookmarks">
+    <keyboard-shortcut first-keystroke="meta 3" />
+  </action>
   <action id="ShowContent" />
   <action id="Terminal.OpenInTerminal">
     <keyboard-shortcut first-keystroke="alt back_quote" />

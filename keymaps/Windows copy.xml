@@ -1,4 +1,7 @@
 <keymap version="1" name="Windows copy" parent="$default">
+  <action id="Annotate">
+    <keyboard-shortcut first-keystroke="shift ctrl alt b" />
+  </action>
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="ctrl alt w" />
   </action>
@@ -8,6 +11,7 @@
   <action id="FindWordAtCaret">
     <keyboard-shortcut first-keystroke="ctrl alt down" />
   </action>
+  <action id="Git.Add" />
   <action id="NextOccurence" />
   <action id="OpenFile">
     <keyboard-shortcut first-keystroke="shift ctrl q" />

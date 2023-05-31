@@ -6,6 +6,9 @@
     <local-interpreter path="/usr/local/Cellar/node/17.0.1/bin/node.exe">
       <version-cache last-modified="0" />
     </local-interpreter>
+    <local-interpreter path="C:/Program Files/nodejs/node.exe">
+      <version-cache version="16.16.0" last-modified="1685520565345" />
+    </local-interpreter>
     <local-interpreter path="$USER_HOME$/AppData/Roaming/nvm/v14.17.3/node.exe">
       <version-cache version="14.17.3" last-modified="1669863048808" />
     </local-interpreter>

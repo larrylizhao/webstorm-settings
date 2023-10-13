@@ -47,13 +47,22 @@
           <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;72748aee-c3d4-475f-9b4a-c3498cfc6907&quot;,&quot;name&quot;:&quot;Atlas-Payments&quot;,&quot;revision&quot;:134,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://dev.azure.com/Technology-Internal/_apis/projects/72748aee-c3d4-475f-9b4a-c3498cfc6907&quot;}" />
           <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;90942784-8b7c-47ba-b6cb-79374fc6dd1c&quot;,&quot;name&quot;:&quot;Atlas-Payments-Frontend&quot;,&quot;remoteUrl&quot;:&quot;https://Technology-Internal@dev.azure.com/Technology-Internal/Atlas-Payments/_git/Atlas-Payments-Frontend&quot;,&quot;url&quot;:&quot;https://dev.azure.com/Technology-Internal/_apis/git/repositories/90942784-8b7c-47ba-b6cb-79374fc6dd1c&quot;,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;72748aee-c3d4-475f-9b4a-c3498cfc6907&quot;,&quot;name&quot;:&quot;Atlas-Payments&quot;,&quot;revision&quot;:134,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://dev.azure.com/Technology-Internal/_apis/projects/72748aee-c3d4-475f-9b4a-c3498cfc6907&quot;},&quot;_links&quot;:null}" />
         </ServerContextState>
+        <ServerContextState>
+          <option name="type" value="VSO" />
+          <option name="uri" value="https://Technology-Internal@dev.azure.com/Technology-Internal/Atlas-Core/_git/Atlas-Uikit-2.0" />
+          <option name="serverUri" value="https://dev.azure.com/Technology-Internal" />
+          <option name="userId" value="fa1ec629-f954-6601-ac92-8ad92a9810d0" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;d10f727c-7a1c-4cb6-826f-ca5bae89f0b8&quot;,&quot;name&quot;:&quot;Technology-Internal&quot;,&quot;url&quot;:&quot;https://dev.azure.com/Technology-Internal/_apis/projectCollections/d10f727c-7a1c-4cb6-826f-ca5bae89f0b8&quot;}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;56491de2-9237-48df-b067-288c121859a5&quot;,&quot;name&quot;:&quot;Atlas-Core&quot;,&quot;revision&quot;:150,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://dev.azure.com/Technology-Internal/_apis/projects/56491de2-9237-48df-b067-288c121859a5&quot;}" />
+          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;8e4b1ea3-ab3b-4b77-8ca5-b4250ed18a54&quot;,&quot;name&quot;:&quot;Atlas-Uikit-2.0&quot;,&quot;remoteUrl&quot;:&quot;https://Technology-Internal@dev.azure.com/Technology-Internal/Atlas-Core/_git/Atlas-Uikit-2.0&quot;,&quot;url&quot;:&quot;https://dev.azure.com/Technology-Internal/_apis/git/repositories/8e4b1ea3-ab3b-4b77-8ca5-b4250ed18a54&quot;,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;56491de2-9237-48df-b067-288c121859a5&quot;,&quot;name&quot;:&quot;Atlas-Core&quot;,&quot;revision&quot;:150,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://dev.azure.com/Technology-Internal/_apis/projects/56491de2-9237-48df-b067-288c121859a5&quot;},&quot;_links&quot;:null}" />
+        </ServerContextState>
       </array>
     </option>
     <option name="properties">
       <array>
         <PropertyState>
           <option name="name" value="lastContextKey" />
-          <option name="value" value="//technology-internal@dev.azure.com/technology-internal/atlas-payments/_git/atlas-expense-ui" />
+          <option name="value" value="//technology-internal@dev.azure.com/technology-internal/atlas-core/_git/atlas-uikit-2.0" />
         </PropertyState>
       </array>
     </option>

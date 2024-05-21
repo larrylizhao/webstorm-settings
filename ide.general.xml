@@ -29,6 +29,8 @@
         <entry key="Notifications" value="false" />
         <entry key="ReadOnlyAttribute" value="false" />
         <entry key="TailwindFormatter" value="false" />
+        <entry key="com.tabnine.statusBar.StatusBarPromotionProvider" value="false" />
+        <entry key="com.tabnine.statusBar.StatusBarProvider" value="false" />
         <entry key="mtThemeFactory" value="false" />
         <entry key="webDeployment.default.server.widget" value="false" />
       </map>

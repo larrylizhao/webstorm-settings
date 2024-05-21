@@ -83,12 +83,27 @@
       <path value="Editor Popup Menu" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="space.actions.MainToolbarActionGroup" is_group="true" action_type="-1" position="9">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="NavbarPopupMenu" is_group="true" action_type="-1" position="8">
       <path value="root" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="SettingsEntryPoint" is_action="true" action_type="-1" position="8">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
     <group value="FavoritesViewPopupMenu" is_group="true" action_type="-1" position="7">
       <path value="root" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="SearchEverywhere" is_action="true" action_type="-1" position="7">
+      <path value="root" />
+      <path value="Navigation Bar Toolbar" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="ScopeViewPopupMenu" is_group="true" action_type="-1" position="6">
@@ -142,10 +157,9 @@
       <path value="root" />
       <option name="myInitialPosition" value="-1" />
     </group>
-    <group value="RunnerActions" is_group="true" action_type="-1" position="1">
+    <group value="ToolbarRunGroup" is_group="true" action_type="-1" position="1">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
-      <path value="Toolbar Run Actions" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group seperator="true" action_type="-1" position="1">
@@ -160,12 +174,6 @@
     <group value="CodeWithMeNavbarGroup" is_group="true" action_type="-1" position="0">
       <path value="root" />
       <path value="Navigation Bar Toolbar" />
-      <option name="myInitialPosition" value="-1" />
-    </group>
-    <group value="RunConfiguration" is_action="true" action_type="-1" position="0">
-      <path value="root" />
-      <path value="Navigation Bar Toolbar" />
-      <path value="Toolbar Run Actions" />
       <option name="myInitialPosition" value="-1" />
     </group>
     <group value="RenameElement" is_action="true" action_type="1" position="2">

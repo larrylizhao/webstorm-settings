@@ -21,12 +21,16 @@
   <component name="StatusBar">
     <option name="widgets">
       <map>
+        <entry key="CwmWireStatsWidgetFactory" value="false" />
         <entry key="FlowJSInfo" value="false" />
         <entry key="InsertOverwrite" value="false" />
         <entry key="LineSeparator" value="false" />
         <entry key="Memory" value="true" />
         <entry key="Notifications" value="false" />
-        <entry key="mtStatusBar" value="false" />
+        <entry key="ReadOnlyAttribute" value="false" />
+        <entry key="TailwindFormatter" value="false" />
+        <entry key="mtThemeFactory" value="false" />
+        <entry key="webDeployment.default.server.widget" value="false" />
       </map>
     </option>
   </component>

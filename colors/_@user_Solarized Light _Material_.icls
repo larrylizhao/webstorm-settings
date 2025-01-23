@@ -4,8 +4,9 @@
     <property name="created">2021-04-20T10:39:41</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2020.3.3.0.0</property>
-    <property name="modified">2025-01-20T10:34:07</property>
+    <property name="modified">2025-01-23T13:48:11</property>
     <property name="originalScheme">Solarized Light (Material)</property>
+    <property name="rainbow Default language">true</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
   <font>

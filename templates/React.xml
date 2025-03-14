@@ -1,0 +1,9 @@
+<templateSet group="React">
+  <template name="rfc" value="import React from 'react';&#10;&#10;const $COMPONENT_NAME$ = () =&gt; {&#10; return &lt;div&gt;&lt;/div&gt;;&#10;};&#10;&#10;export default $COMPONENT_NAME$;" description="Create functional component" toReformat="false" toShortenFQNames="true">
+    <variable name="COMPONENT_NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>

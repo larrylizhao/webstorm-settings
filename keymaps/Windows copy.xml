@@ -1,6 +1,15 @@
 <keymap version="1" name="Windows copy" parent="$default">
+  <action id="Annotate">
+    <keyboard-shortcut first-keystroke="shift ctrl alt b" />
+  </action>
   <action id="CloseAllEditors">
     <keyboard-shortcut first-keystroke="ctrl alt w" />
+  </action>
+  <action id="CloseAllUnmodifiedEditors">
+    <keyboard-shortcut first-keystroke="ctrl alt slash" />
+  </action>
+  <action id="FileChooser.NewFolder">
+    <keyboard-shortcut first-keystroke="alt insert" />
   </action>
   <action id="FindPrevWordAtCaret">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
@@ -8,6 +17,16 @@
   <action id="FindWordAtCaret">
     <keyboard-shortcut first-keystroke="ctrl alt down" />
   </action>
+  <action id="Git.Add" />
+  <action id="Git.Commit.And.Push.Executor" />
+  <action id="GotoClass" />
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="ctrl alt k" />
+  </action>
+  <action id="GotoSymbol">
+    <keyboard-shortcut first-keystroke="ctrl alt s" />
+  </action>
+  <action id="Hg.Commit.And.Push.Executor" />
   <action id="NextOccurence" />
   <action id="OpenFile">
     <keyboard-shortcut first-keystroke="shift ctrl q" />

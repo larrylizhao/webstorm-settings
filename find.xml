@@ -22,7 +22,10 @@
     <mask>*.css</mask>
     <mask>*.json</mask>
     <mask>*.js</mask>
+    <mask>*.test.js</mask>
+    <mask>*.tsx</mask>
     <mask>*.ts</mask>
+    <mask>*.test.*</mask>
     <mask>*.scss</mask>
   </component>
 </application>
